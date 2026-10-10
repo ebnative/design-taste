@@ -1,26 +1,25 @@
-# Postmodern tasarım
+# Postmodern design
 
-English: Postmodern design  
-ID: `postmodern-design`  
-Tür: `design_tradition`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `postmodern-design`\
+Type: `design_tradition`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-V&A, postmodern tasarımın çoğul referanslar, modernist varsayımları sorgulama ve farklı kültürel seviyeleri ilişkilendirme niteliğini işler.
+## Sourced context
+V&A discusses postmodern design through plural references, questioning modernist assumptions and connecting different cultural registers.
 
-## Görsel / üretim ilkeleri
-Katmanlı referans, tarihsel alıntıyla tartışma, ironi ve kontrollü görsel karşıtlık.
+## Visual and production principles
+Layered references, debate through historical quotation, irony and controlled visual contrast.
 
-## Tasarıma uyarlama önerimiz
-Dergi kapağında iki farklı görsel dili kasıtlı bir editoryal fikir için karşılaştır; hangisinin neden baskın olduğunu açıkla.
+## Our contemporary design proposal
+Juxtapose two visual languages on a magazine cover for a deliberate editorial idea; explain why one dominates.
 
-## Önerilen alıştırma
-Aynı başlığı iki üslup çatışmasıyla yorumla; çatışmanın metnin anlamına katkısını yaz.
+## Suggested exercise
+Interpret one headline through two stylistic conflicts and explain how the conflict contributes to its meaning.
 
-## Sınırlar ve yanlış eşleştirmeler
-“Her şey karışabilir” sonucuna atlama; okunurluk ve bağlam hâlâ tasarım kararıdır.
+## Limits and common misinterpretations
+Do not conclude that anything can be mixed freely; legibility and context remain design decisions.
 
-## Kaynaklar
+## Sources
 [S38: V&A Postmodernism](https://www.vam.ac.uk/collections/postmodernism)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

@@ -1,10 +1,10 @@
-# Adobe kullanım becerileri
+# Adobe production skills
 
-Kullanıcının işaret ettiği Adobe araştırma sohbeti ve mevcut yerel beceri dosyaları karşılaştırıldı.
-Photoshop masaüstü yöntemi, komut/katman/maske/metin ve sürüm rehberleri korundu.
-Illustrator COM/ExtendScript çalıştırıcısı, belge inceleme betiği ve üretim yöntemi korundu.
-Ortak tasarım kaynağı atlas olarak güncellendi. Özel tarz dosyaları dağıtılabilir repoya alınmadı.
-Önceki Illustrator testi önceki sohbetten gelen kanıttır; bu oturumda tekrar çalıştırılmadı.
-After Effects, InDesign ve Premiere modülleri yeni üretim yönergeleridir; bağlantı kurulmadı veya test edilmedi.
-Mevcut kurulu Photoshop ve Illustrator değiştirilmeden tutulur. Yeni üretim paketleri geçiş adaylarıdır.
-Kurulum paketi, canlı Adobe uygulamasında tüm araçlara erişim sağlandığı anlamına gelmez.
+The referenced Adobe research conversation was compared with existing local skill files.
+The Photoshop desktop method and command/layer/mask/text/version guides were preserved.
+The Illustrator COM/ExtendScript runner, document-inspection script and production method were preserved.
+Shared design guidance now uses the atlas. Private style files were excluded from the shareable repository.
+Prior Illustrator test results are evidence imported from an earlier conversation; they were not rerun during import.
+After Effects, InDesign and Premiere Pro modules are new production instructions; their connections were not established or tested.
+Existing Photoshop and Illustrator installations remain unchanged. New packages are migration candidates.
+A skill package does not establish access to every tool in a live Adobe application.

@@ -1,2 +1,2 @@
-# Sosyal seri
-Ortak görsel dil ile değişen içerik uzunluklarını birlikte çöz. Her farklı düzeni gerçek ölçüde incele. Platform ölçülerini görev tarihinde doğrula.
+# Social series
+Resolve a common visual language alongside changing content lengths. Inspect each distinct layout at actual size. Verify platform dimensions on the task date.

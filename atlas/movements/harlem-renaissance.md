@@ -1,26 +1,25 @@
-# Harlem Rönesansı
+# Harlem Renaissance
 
-English: Harlem Renaissance  
-ID: `harlem-renaissance`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `harlem-renaissance`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Met, hareketi Siyah modern yaşamı, göç, kültürel ifade ve uluslararası bağlantılarla ilişkilendirir; tek bir biçim dili olmadığını vurgular.
+## Sourced context
+The Met connects the movement with modern Black life, migration, cultural expression and international relationships, emphasizing that it has no single formal language.
 
-## Görsel / üretim ilkeleri
-Gündelik yaşam, portre ve farklı görsel mecralar üzerinden çoğul anlatılar.
+## Visual and production principles
+Plural narratives through everyday life, portraiture and different visual media.
 
-## Tasarıma uyarlama önerimiz
-Bir mahallenin yaratıcı hayatını ilgili kişilerin sözleri ve izinli görselleriyle anlatan yayın dizisi geliştir.
+## Our contemporary design proposal
+Develop a publication series about a neighborhood creative life using participant accounts and permitted images.
 
-## Önerilen alıştırma
-Altı sahneden oluşan özgün bir mahalle anlatısı kur; her sahnenin bakış açısını açıkla.
+## Suggested exercise
+Build an original neighborhood narrative with six scenes and explain the viewpoint of each.
 
-## Sınırlar ve yanlış eşleştirmeler
-Hareketi yalnız gece hayatına, tek palete veya tek bir sanatçının biçimine indirgeyen reçete yazma.
+## Limits and common misinterpretations
+Do not reduce the movement to nightlife, one palette or the forms of one artist.
 
-## Kaynaklar
+## Sources
 [S45: Met Harlem Renaissance and Transatlantic Modernism](https://www.metmuseum.org/exhibitions/the-harlem-renaissance-and-transatlantic-modernism)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

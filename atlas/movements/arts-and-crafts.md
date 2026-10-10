@@ -1,26 +1,25 @@
 # Arts and Crafts
 
-English: Arts and Crafts  
-ID: `arts-and-crafts`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `arts-and-crafts`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-V&A, hareketi endüstriyel üretim, zanaatın statüsü ve gündelik nesnelerin niteliği üzerine bir tartışma içinde ele alır. Tek bir süsleme repertuvarı değildir.
+## Sourced context
+V&A discusses the movement through industrial production, the status of craft and the quality of everyday objects. It is not a single decorative repertoire.
 
-## Görsel / üretim ilkeleri
-Malzeme, yapım süreci ve kullanımın ilişkisi; zanaat ile tasarımın yakınlığı.
+## Visual and production principles
+Relationships between materials, making and use; the close connection between craft and design.
 
-## Tasarıma uyarlama önerimiz
-Bir yayın veya ürün kimliğinde malzeme ve üretim yöntemini görsel kararın gerekçesi yap; doku yalnız dekor olmasın.
+## Our contemporary design proposal
+Make materials and production methods the rationale for visual decisions in a publication or product identity; texture should serve more than decoration.
 
-## Önerilen alıştırma
-Aynı etkinlik için elde çizilmiş motifli ve yalnız tipografik iki kapak üret; hangi malzeme kararının iletişime katkı verdiğini yaz.
+## Suggested exercise
+Create two covers for the same event: one with hand-drawn motifs and one using typography alone. Explain which material decisions support communication.
 
-## Sınırlar ve yanlış eşleştirmeler
-Botanik desen görünüşünü tüm hareketle özdeşleştirme; geleneksel üreticiyi ve kaynakları görünür kıl.
+## Limits and common misinterpretations
+Do not equate botanical patterns with the entire movement; acknowledge makers and sources.
 
-## Kaynaklar
+## Sources
 [S24: V&A Arts and Crafts introduction](https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

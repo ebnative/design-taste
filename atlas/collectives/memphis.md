@@ -1,26 +1,25 @@
 # Memphis
 
-English: Memphis  
-ID: `memphis`  
-Tür: `collective`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `memphis`\
+Type: `collective`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Cooper Hewitt, Ettore Sottsass’ın kurduğu Memphis grubunu postmodern tasarım tartışmaları ve işlev/dekor ilişkisini sorgulayan nesnelerle açıklar.
+## Sourced context
+Cooper Hewitt explains the Memphis group founded by Ettore Sottsass through postmodern design debates and objects questioning function and decoration.
 
-## Görsel / üretim ilkeleri
-Oyunlu ölçek, beklenmedik renk/biçim ilişkisi, bezeme ve modernist beklentilerle tartışma.
+## Visual and production principles
+Playful scale, unexpected color/form relationships, ornament and debate with modernist expectations.
 
-## Tasarıma uyarlama önerimiz
-Özgün şekillerle enerjik etkinlik kimliği üret; tarih ve yer gibi zorunlu bilgileri sakin bir hiyerarşide tut.
+## Our contemporary design proposal
+Create an energetic event identity with original shapes; keep essential information such as date and place in a calm hierarchy.
 
-## Önerilen alıştırma
-Bir nesnenin işlevsel şeması ile ifade odaklı afiş yorumunu karşılaştır.
+## Suggested exercise
+Compare an object’s functional diagram with an expressive poster interpretation.
 
-## Sınırlar ve yanlış eşleştirmeler
-Memphis bir tasarım grubudur; tüm postmodernizmin veya her renkli geometrik desenin adı değildir.
+## Limits and common misinterpretations
+Memphis is a design group, not a name for all postmodernism or every colorful geometric pattern.
 
-## Kaynaklar
+## Sources
 [S39: Cooper Hewitt: A Serious Case of PoMo](https://www.cooperhewitt.org/2020/01/29/a-serious-case-of-pomo/)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

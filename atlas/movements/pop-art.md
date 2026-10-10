@@ -1,26 +1,25 @@
 # Pop Art
 
-English: Pop Art  
-ID: `pop-art`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `pop-art`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Tate, Pop Art’ı 1950–1960’larda popüler ve ticari kültürle ilişki kuran Britanya ve ABD merkezli gelişmelerle açıklar.
+## Sourced context
+Tate explains Pop Art through developments centered in Britain and the United States in the 1950s and 1960s that engaged with popular and commercial culture.
 
-## Görsel / üretim ilkeleri
-Gündelik nesne, reklam ve ambalaj dili, belirgin biçimler ve farklı tonlarda kitle kültürü yaklaşımı.
+## Visual and production principles
+Everyday objects, advertising and packaging language, distinct forms and varied approaches to mass culture.
 
-## Tasarıma uyarlama önerimiz
-Telifli karakter veya marka paketini kopyalamadan, sıradan bir nesneyi dikkat odağına alan sosyal seri tasarla.
+## Our contemporary design proposal
+Design a social series that centers an ordinary object without copying copyrighted characters or branded packaging.
 
-## Önerilen alıştırma
-Bir nesneyi üç farklı anlatımla göster; tekrarın anlamı mı yoksa yalnız renk değişimi mi ürettiğini yaz.
+## Suggested exercise
+Show one object through three narratives; explain whether repetition creates meaning or merely changes color.
 
-## Sınırlar ve yanlış eşleştirmeler
-Pop Art’ı tek bir sanatçının tekrar düzenine veya çizgi roman noktasına indirgeme.
+## Limits and common misinterpretations
+Do not reduce Pop Art to one artist repetition scheme or comic-book dots.
 
-## Kaynaklar
+## Sources
 [S35: Tate Pop Art](https://www.tate.org.uk/art/art-terms/p/pop-art)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

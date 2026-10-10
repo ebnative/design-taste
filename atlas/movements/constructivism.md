@@ -1,26 +1,25 @@
-# Konstrüktivizm
+# Constructivism
 
-English: Constructivism  
-ID: `constructivism`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `constructivism`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-MoMA, Rus avangardındaki Konstrüktivizmi toplumsal işlev, üretim ve sanatçı-mühendis düşüncesiyle ilişkilendirir.
+## Sourced context
+MoMA connects Constructivism in the Russian avant-garde with social function, production and the idea of the artist-engineer.
 
-## Görsel / üretim ilkeleri
-Soyut yapı, düzenleme ve üretimle ilişki; görsel biçimin iletişim ve toplumsal amaçla bağlanması.
+## Visual and production principles
+Abstract structure, organization and production; linking visual form with communication and social purpose.
 
-## Tasarıma uyarlama önerimiz
-Bilgi blokları, yön ve ölçek ilişkileriyle bir duyurunun önceliklerini kur; motion sürümünde blokların oluşumunu anlatıya bağla.
+## Our contemporary design proposal
+Organize announcement priorities through information blocks, direction and scale; connect the formation of blocks to the narrative in a motion version.
 
-## Önerilen alıştırma
-Bir kamu yararı mesajı için üç farklı hiyerarşi öner; her biçimin iletişim işlevini açıkla.
+## Suggested exercise
+Propose three hierarchies for a public-interest message and explain the communication function of each form.
 
-## Sınırlar ve yanlış eşleştirmeler
-Kırmızı-siyah ve diyagonal kullanmayı tarihsel Konstrüktivizm kanıtı sayma. Politik bağlamı görünmezleştirme.
+## Limits and common misinterpretations
+Red, black and diagonals alone do not establish historical Constructivism. Keep its political context visible.
 
-## Kaynaklar
+## Sources
 [S29: MoMA Constructivism](https://www.moma.org/collection/terms/constructivism)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

@@ -1,26 +1,25 @@
 # Bauhaus
 
-English: Bauhaus  
-ID: `bauhaus`  
-Tür: `school`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `bauhaus`\
+Type: `school`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-MoMA, Bauhaus’u 1919’da kurulan ve 1933’te kapatılan, malzeme ve işlev odaklı deneysel öğretimiyle etkili bir sanat ve tasarım okulu olarak tanımlar.
+## Sourced context
+MoMA defines the Bauhaus as an influential art and design school founded in 1919 and closed in 1933, with experimental teaching focused on materials and function.
 
-## Görsel / üretim ilkeleri
-Malzeme deneyi, farklı sanat ve tasarım alanlarını ilişkilendirme, işlev ve üretim koşulları.
+## Visual and production principles
+Material experiments, connections across art and design disciplines, function and production conditions.
 
-## Tasarıma uyarlama önerimiz
-Bir markanın afişini, yayın kapağını ve hareketli başlığını aynı modüler kurallardan türet; kuralları gerçek kullanımda test et.
+## Our contemporary design proposal
+Derive a brand poster, publication cover and animated title from the same modular rules; test those rules in actual use.
 
-## Önerilen alıştırma
-Kâğıt, fotoğraf ve tipografiyle üç ayrı keşif yap; birini tek üretim sistemi içinde birleştir.
+## Suggested exercise
+Explore paper, photography and typography separately, then integrate one exploration into a single production system.
 
-## Sınırlar ve yanlış eşleştirmeler
-Bauhaus yalnız üç ana renk ve geometrik şekillerden oluşan sabit bir stil değildir.
+## Limits and common misinterpretations
+The Bauhaus is not a fixed style consisting only of three primary colors and geometric shapes.
 
-## Kaynaklar
+## Sources
 [S27: MoMA Bauhaus](https://www.moma.org/collection/terms/bauhaus)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

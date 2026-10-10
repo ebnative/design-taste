@@ -1,26 +1,25 @@
-# İslam sanatlarında hat gelenekleri
+# Calligraphy in Islamic art
 
-English: Calligraphy in Islamic art  
-ID: `calligraphy-in-islamic-art`  
-Tür: `art_tradition`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `calligraphy-in-islamic-art`\
+Type: `art_tradition`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Met, hattın görsel düzenin yanı sıra metin iletme işlevini vurgular; bölgeye ve döneme göre kullanımı değişir.
+## Sourced context
+The Met emphasizes calligraphy as a means of communicating text as well as organizing visual form; its uses vary by region and period.
 
-## Görsel / üretim ilkeleri
-Yazının çizgisel ritmi, metnin okunması, zemin ve bezemeyle ilişki.
+## Visual and production principles
+Linear rhythm in writing, reading the text and relationships with ground and ornament.
 
-## Tasarıma uyarlama önerimiz
-Anlamı doğrulanmış sıradan bir ifadeyle özgün yazı kompozisyonu; dil bilen uzmanla okunurluk kontrolü.
+## Our contemporary design proposal
+Create an original lettering composition with an ordinary phrase whose meaning is verified; check readability with a language specialist.
 
-## Önerilen alıştırma
-Bir ifadenin doğrusal ve dairesel iki düzenini karşılaştır; anlam ve okuma sırasını kaydet.
+## Suggested exercise
+Compare linear and circular arrangements of one phrase; record meaning and reading order.
 
-## Sınırlar ve yanlış eşleştirmeler
-Kutsal yazıyı anlamsız doku olarak kullanma. Türkçe, Arapça ve Farsça yazı geleneklerini özdeşleştirme.
+## Limits and common misinterpretations
+Do not use sacred writing as meaningless texture or equate Turkish, Arabic and Persian writing traditions.
 
-## Kaynaklar
+## Sources
 [S43: Met Calligraphy in Islamic Art](https://www.metmuseum.org/essays/calligraphy-in-islamic-art)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

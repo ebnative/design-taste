@@ -1,2 +1,2 @@
-# Afiş ve flyer
-Kesin mesaj, başlık, tarih/yer ve izleyiciyi belirle. Okuma sırasını kompozisyonla kur. Mesafeden, küçük önizlemede ve baskı şartlarına göre kontrol et.
+# Posters and flyers
+Establish the final message, headline, date/place and audience. Build reading order through composition. Check at a distance, in a small preview and against print requirements.

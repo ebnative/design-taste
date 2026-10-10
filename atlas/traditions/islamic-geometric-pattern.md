@@ -1,26 +1,25 @@
-# İslam sanatlarında geometrik örüntüler
+# Geometric patterns in Islamic art
 
-English: Geometric patterns in Islamic art  
-ID: `islamic-geometric-pattern`  
-Tür: `art_tradition`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `islamic-geometric-pattern`\
+Type: `art_tradition`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Met, geometrik bezemeyi İslam sanatlarındaki farklı bezeme türlerinden biri olarak ele alır; tarihsel ve bölgesel çeşitlilik vardır.
+## Sourced context
+The Met treats geometric ornament as one of several decorative forms in Islamic art, with historical and regional diversity.
 
-## Görsel / üretim ilkeleri
-Daire, kare, yıldız ve çokgenlerden kurulan tekrar, iç içe geçme ve büyüyebilen düzen.
+## Visual and production principles
+Repetition, interlacing and expandable arrangements built from circles, squares, stars and polygons.
 
-## Tasarıma uyarlama önerimiz
-Özgün bir geometri sistemini grid veya kenarlık olarak kullan; bütün bir kültürü tek sembole indirgeme.
+## Our contemporary design proposal
+Use an original geometric system as a grid or border without reducing an entire culture to one symbol.
 
-## Önerilen alıştırma
-Bir başlangıç birimi kur; ölçek, tekrar ve boşluk için üç kontrollü varyasyon üret.
+## Suggested exercise
+Construct a starting unit and make three controlled variations in scale, repetition and spacing.
 
-## Sınırlar ve yanlış eşleştirmeler
-Tarihsel bir nesnenin desenini aynen alma. Geometriyi her bölgede aynı anlama geliyormuş gibi sunma.
+## Limits and common misinterpretations
+Do not copy a historical object pattern exactly or imply geometry has the same meaning in every region.
 
-## Kaynaklar
+## Sources
 [S42: Met Geometric Patterns in Islamic Art](https://www.metmuseum.org/essays/geometric-patterns-in-islamic-art)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

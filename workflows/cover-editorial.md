@@ -1,10 +1,10 @@
-# Kişisel kapak ve editoryal yön
-Kullanıcının kendini hangi yönleriyle anlatmak istediğini keşfet; bunu yalnız hazır akım adına indirgeme.
-Bir somut soru ile başla: İzleyicide ne his veya düşünce kalmalı? Mevcut cevapları tekrar sorma.
-Anlatılacak fikir → görsel metafor → kompozisyon → renk ilişkisi → tipografi → üretim yöntemi.
-Kimlik/metafor önerilerini varsayım olarak belirt; psikolojik profil çıkarma.
-İlgili 2–4 atlas kaydını getir. Kaynaklı tarih ile bugünkü tasarım önerisini ayrı açıkla.
-Brief yeterliyse birkaç anlamlı yön öner; her yönde ana fikir, görsel düzen, gerekçe ve risk belirt.
-Kullanıcı seçimini DESIGN.md'ye; reddedilen yön ve gerekçesini PROCESS.md'ye kaydet.
-Ölçü, mecrası, kesin metin, kaynaklar ve teslim koşulları netleşince ilgili üretim becerisine aktar.
-Tek kapak tercihini kişinin tüm işlerinde geçerli genel zevke dönüştürme.
+# Personal covers and editorial direction
+Explore which aspects of themselves the user wants to express, beyond a ready-made movement label.
+Start with one concrete question: what feeling or thought should stay with the viewer? Do not repeat existing answers.
+Intended idea → visual metaphor → composition → color relationships → typography → production method.
+Present identity/metaphor proposals as assumptions; do not infer a psychological profile.
+Retrieve 2–4 relevant atlas records. Explain sourced history separately from today's design proposal.
+If the brief is sufficient, propose meaningful directions with a central idea, visual arrangement, rationale and risk for each.
+Record the selected direction in DESIGN.md and rejected directions with reasons in PROCESS.md.
+Once dimensions, medium, final text, assets and delivery conditions are clear, hand off to the production skill.
+Do not generalize a preference for one cover to all of the person's work.

@@ -5,7 +5,7 @@ description: Create and refine editable designs inside Adobe Illustrator from a 
 
 # Illustrator Designer
 
-Turn the user's command into actual editable Illustrator artwork, inspect the result visually, and refine it. Deliver the native AI file and requested exports. Communicate in the user's language, currently Turkish. Do not substitute a raster mockup for a requested vector design.
+Turn the user's command into actual editable Illustrator artwork, inspect the result visually, and refine it. Deliver the native AI file and requested exports. Communicate in the user's preferred language. Do not substitute a raster mockup for a requested vector design.
 
 ## Start with context
 
@@ -45,5 +45,5 @@ After explicit feedback or approval, update the style files following [reference
 
 Learn at two levels: maintain aesthetic preferences in `../../workflows/private-memory.md`; maintain reproducible Illustrator execution lessons in `references/verified-recipes.md`. Edit this entrypoint only for a demonstrated workflow improvement, keeping its purpose and permissions intact. Persist changes in the installed skill when writable; if persistence is blocked, preserve the proposed update in the workspace and report the limitation. Never claim autonomous background learning: updates happen during work where this skill is loaded.
 
-## Paket içindeki ortak yollar
-Repo sürümünde ../../workflows ve ../../curriculum kullanılır. Kurulumda bu yollar bundle/workflows ve bundle/curriculum olur; [ortak rehber](references/shared-design.md) üzerinden çöz.
+## Shared paths in the package
+The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).

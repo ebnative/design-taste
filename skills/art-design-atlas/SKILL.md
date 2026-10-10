@@ -4,15 +4,15 @@ description: "Teach and research visual art foundations, color, design history, 
 ---
 
 # Art & Design Atlas
-Kullanıcının düzeyine ve sorusuna göre öğrenme veya araştırma yap.
-[Ortak rehber](references/shared-design.md) üzerinden yalnız ilgili kayıtları getir.
-Akım, okul, kolektif, teknik, gelenek ve vaka türlerini ayır; Bauhaus bir okul, Memphis bir kolektif,
-fotomontaj bir tekniktir. Arama benzerliği bunları aynı tarihsel kategori yapmaz.
-Belirsiz tarih/coğrafyayı uydurma. Kaynaklar başlangıç raporundan aktarılmışsa bağımsız doğrulanmış sayma.
-Detaylı tarihsel iddia için bağlantıdaki gerçek kaynak sayfasını aç ve kanıt kaydet.
-[Öğrenme yolu](../../curriculum/learning-paths/foundations-to-portfolio.md) özgün bir öneridir, diploma eşdeğeri değildir.
-Bir kavramı anlaması için gerektiğinde tek kontrollü alıştırma ve değerlendirme ölçütü öner.
-Eksik konuyu araştırma kuyruğuna ekle; sonuç yokken kayıt icat etme.
+Teach or research according to the user's level and question.
+Retrieve only relevant records through the [shared guide](references/shared-design.md).
+Distinguish movements, schools, collectives, techniques, traditions and case studies: Bauhaus is a school,
+Memphis a collective and photomontage a technique. Search similarity does not make them one historical category.
+Do not invent uncertain dates/geographies or treat imported source claims as independently verified.
+For detailed historical claims, open the actual linked source and record evidence.
+The [learning path](../../curriculum/learning-paths/foundations-to-portfolio.md) is an original proposal, not a degree equivalent.
+Offer a controlled exercise and assessment criterion when helpful for understanding a concept.
+Add missing topics to the research queue; do not invent records when nothing matches.
 
-## Paket içindeki ortak yollar
-Repo sürümünde ../../workflows ve ../../curriculum kullanılır. Kurulumda bu yollar bundle/workflows ve bundle/curriculum olur; [ortak rehber](references/shared-design.md) üzerinden çöz.
+## Shared paths in the package
+The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).

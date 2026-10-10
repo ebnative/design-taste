@@ -1,26 +1,25 @@
-# Fotomontaj
+# Photomontage
 
-English: Photomontage  
-ID: `photomontage`  
-Tür: `technique`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `photomontage`\
+Type: `technique`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-MoMA’nın Dada materyali, basılı kitle iletişiminden alınan fotoğraf parçalarının yeniden birleşmesini anlatır. Teknik, tek bir hareketle sınırlı değildir.
+## Sourced context
+MoMA materials on Dada describe recombining photographic fragments from printed mass media. The technique is not limited to one movement.
 
-## Görsel / üretim ilkeleri
-Kesme, üst üste bindirme, ölçek ve bağlam değiştirme; görseller arasında yeni anlam oluşturma.
+## Visual and production principles
+Cutting, overlapping and changing scale and context to create new meaning between images.
 
-## Tasarıma uyarlama önerimiz
-Photoshop’ta maskeli ve düzenlenebilir bir kapak kompozisyonu kur; ışık ve kenar tutarlılığını görsel hedefe göre değerlendir.
+## Our contemporary design proposal
+Build a masked, editable cover in Photoshop; evaluate lighting and edge consistency against the visual goal.
 
-## Önerilen alıştırma
-Yalnız kendi veya lisansı uygun üç fotoğrafla iki farklı anlatı üret.
+## Suggested exercise
+Create two narratives using only three photographs you own or have suitable licenses to use.
 
-## Sınırlar ve yanlış eşleştirmeler
-Kaynak haklarını kaydet; eleştirel kolaj ile fotogerçekçi birleştirme için farklı kalite ölçütleri kullan.
+## Limits and common misinterpretations
+Record source rights; use different quality criteria for critical collage and photorealistic compositing.
 
-## Kaynaklar
+## Sources
 [S31: MoMA Dada: chance, collage, photomontage and assemblage](https://www.moma.org/collection/terms/dada/chance-creations-collage-photomontage-and-assemblage)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

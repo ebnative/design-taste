@@ -5,41 +5,44 @@ description: Work in local Windows Photoshop on PSD layers, masks, text, mockups
 
 # Photoshop Designer
 
-Kullanıcının bilgisayarındaki Photoshop ile çalış. Bu beceri özgün proje talimatıdır; bir Photoshop MCP sunucusu kurmaz. İşe uygun olduğunda otomatik seçilir.
+Work in Photoshop on the user's computer. This original project skill does not install a Photoshop MCP server. Select it when appropriate to the task.
 
-## Göreve göre rehber seçimi
+## Choose guidance for the task
 
-- Yeni görsel yön, stil, renk veya tipografi seçimi için [ortak tasarım rehberini](references/pro-max-design.md) oku. Design Taste atlasından ilgili kayıtları getir; tarihsel kaynakla çağdaş uyarlamayı ayır. Tasarım kararlarını mevcut masaüstü çalışma yöntemiyle uygula.
-- Başlangıçta [tarz profilini](../../workflows/private-memory.md) oku. Kullanıcının geri bildirimi veya onayı sonrası [öğrenme kurallarına](references/style-learning.md) göre dar kapsamlı profil güncellemesi yap. Açık proje talimatı genel tarzdan, kullanıcının doğrulanmış tarzı veritabanı önerisinden önce gelir.
+- For visual direction, style, color or typography, read the [shared design guide](references/pro-max-design.md). Retrieve relevant Design Taste records and separate historical sources from contemporary adaptations. Apply decisions through the existing desktop method.
+- Read the [private profile workflow](../../workflows/private-memory.md) at the start. After user feedback/approval, make scoped updates under the [learning rules](references/style-learning.md). Explicit project instructions outrank general style; evidenced user style outranks catalog suggestions.
+- For commands, shortcuts, layers, selections, text or exports, read the relevant [command reference](references/command-reference.md) section. Windows defaults may be customized; verify menus instead of repeating an incorrect shortcut.
+- For layered compositions, typography, cutouts, placement or mockups, read [design workflows](references/design-workflows.md) and select only relevant complementary skills.
+- For new or AI features, read the [version guide](references/version-and-new-features.md); verify the installed build through Help > About Photoshop and the actual command in the application. [Source records](references/adobe-sources.md) contain official help links.
+- The guides were researched on October 10, 2026. Documentation does not replace application testing. Recheck official help when a new feature is required; load only relevant sections.
 
-- Komut, kısayol, katman, seçim, metin veya dışa aktarma işi için [komut rehberinin](references/komut-rehberi.md) ilgili bölümünü oku. Windows varsayılanları kullanıcı tarafından değiştirilebilir; yanlış kısayolu tekrarlamak yerine menüden doğrula.
-- Katmanlı kompozisyon, tipografi, dekupe, görsel yerleşimi veya mockup için [tasarım iş akışlarını](references/tasarim-is-akislari.md) oku; oradaki göreve uygun tasarım becerilerini birlikte seç.
-- Yeni veya AI özelliği gerekiyorsa [sürüm ve yenilik rehberini](references/surum-ve-yenilikler.md) oku; kurulu build'i Help > About Photoshop üzerinden ve gereken komutu uygulamada doğrula. [Kaynak kayıtları](references/adobe-kaynaklari.md) resmî yardım bağlantılarını içerir.
-- Belgeler 10 Ekim 2026 tarihinde araştırıldı. Rehber, uygulama testinin yerine geçmez; yeni bir özellik gerektiğinde ilgili resmî sayfayı yeniden kontrol et. Talep tüm kılavuzu yüklemeyi gerektirmiyorsa yalnız ilgili bölümü kullan.
+## Access and target
 
-## Erişim ve hedef
+- Before Windows control, read the available `computer-use:computer-use` skill and its required guidance, API and confirmation documents. Use its documented `node_repl` and `@oai/sky` route for local operations. If local control is unavailable, state the limit and prepare a concrete production plan.
+- Select Photoshop from the returned application/window inventory; do not hard-code versions, window IDs or coordinates from earlier sessions. Bring the target forward and verify the actual Photoshop screen.
+- After each observation, perform one input operation and refresh state. Accessibility labels may point to incorrect menu positions: check the visible heading and use coordinates from a fresh screenshot when necessary. Move off-screen windows into view first.
+- Verify field focus before entering a path in an open/save dialog. Do not replace this route with terminal, COM, custom helpers or ExtendScript injection.
 
-- Windows kontrolünden önce mevcut `computer-use:computer-use` becerisini ve onun gerekli guidance, API ve confirmations belgelerini oku. Yerel uygulama işlemlerini bu becerinin `node_repl` ve `@oai/sky` API'siyle yap. Bu oturumda yerel kontrol mevcut değilse erişimi çalışıyor sayma; erişim sınırını belirt ve uygulanabilir üretim planını hazırla.
-- Photoshop'u dönen uygulama/pencere listesinden seç; sürüm, pencere kimliği ve koordinatları önceki oturumdan sabitleme. Hedef pencereyi öne getir ve gerçek Photoshop ekranını doğrula.
-- Her gözlemden sonra tek girdi işlemi yapıp durumu yenile. Photoshop menülerinin erişilebilirlik etiketleri yanlış konuma işaret edebilir; görünen menü başlığını kontrol et, uyuşmazlık varsa yeni ekran görüntüsündeki koordinatları kullan. Ekran dışındaki pencere için önce görünür konumu düzelt.
-- Dosya açma/kaydetme diyaloğunda alanın odağını doğrulamadan yol yazma. Terminal, COM, özel yardımcı program veya ExtendScript enjeksiyonuyla bu kontrol yolunu değiştirme.
+## Files and editing
 
-## Dosyalar ve düzenleme
+- Preserve `<user-source-assets>`. Create working copies in the workspace; use `work/` for experiments and `outputs/` for deliverables.
+- If the user refers to an open document, inspect its name and unsaved changes. Do not close or overwrite user work. Identify an uncertain target before editing.
+- Inspect the document, active layer, selection, dimensions and visible composition first. Report only observations; do not infer layer content from filenames.
+- Correct text in live type layers; do not repaint logos or lettering as imitations. Use adjustment layers, masks and smart objects for editability. Do not silently substitute missing fonts.
+- Place the actual design in mockups and check perspective, proportion and cropping. Do not infer permission to alter the design itself with AI.
+- Save the layered working copy as PSD and publishable derivatives separately. For web output, choose dimensions, sRGB, transparency and format appropriately; preserve the source print profile. Use `ebru-portfolio-web-assets` when available for batch portfolio assets.
 
-- `<user-source-assets>` kaynaklarını değiştirme. Düzenleme için çalışma alanında kopya oluştur; denemeleri `work/`, teslimleri `outputs/` altında tut.
-- Kullanıcı açık belgeden söz ediyorsa önce belge adını ve mevcut kaydedilmemiş değişiklikleri incele. Kullanıcının işini kapatma veya üzerine kaydetme. Hedef belirsizse ilgili dosyayı belirlemeden düzenleme yapma.
-- Başlamadan hedef belge, aktif katman, seçim, boyut ve görünür kompozisyonu incele. Yalnız gözlenen bilgileri raporla; katman içeriğini dosya adından çıkarma.
-- Metin düzeltmesini metin katmanında yap; logo ve yazıları yeniden boyayarak taklit etme. Düzenlenebilir yapıyı korumak için uygun olduğunda ayar katmanı, maske ve smart object kullan. Kaynak font eksikse sessizce font değiştirme.
-- Mockup yerleşiminde gerçek tasarımı kullan; perspektif, oran ve kırpmayı kontrol et. AI ile tasarımın kendisini değiştirmeyi kullanıcı talebinden çıkarma.
-- Katmanlı çalışma kopyasını PSD olarak, istenen yayın türevini ayrı dosya olarak kaydet. Web çıktısında uygun boyut, sRGB, şeffaflık ve formatı seç; baskı profilini kaynakta koru. Toplu portfolyo varlığı hazırlığında `ebru-portfolio-web-assets` becerisini birlikte kullan.
+## Verification and reporting
 
-## Doğrulama ve sonuç
+After significant edits, inspect the canvas, intended layer and text. After saving, verify the real output file and, where possible, its reopened appearance.
+Report changes, delivery paths and the limits of tested access. Window-control success does not verify every Photoshop feature or batch automation.
+If access is lost, follow the base skill's bounded recovery procedure; never invent success.
 
-Önemli değişiklikten sonra görünür tuvali, doğru katmanı ve metinleri kontrol et. Kaydetme sonrası gerçek çıktı dosyasının varlığını ve mümkünse yeniden açılmış görünümünü doğrula. Raporunda yapılan değişikliği, teslim yollarını ve sınanmış erişimin sınırını belirt. Pencere kontrolü başarılı olsa bile tüm Photoshop özelliklerini veya toplu otomasyonu sınanmış sayma. Erişim kaybolursa temel becerinin sınırlı kurtarma akışını uygula; başarı uydurma.
+## Learning from work
 
-## Çalışmalardan öğrenme
+The user authorized learning from explicit feedback and approved work. Update private style memory within that scope; do not independently change source works or unrelated skills.
+Record a newly executed and verified operation in `references/verified-recipes.md` with method, version, evidence, date and limits.
+Untested proposals are not successful recipes. Learning happens during active work, not autonomously in the background.
 
-Kullanıcı bu sohbette tasarım becerilerinin açık geri bildirimlerden ve onaylanan çalışmalardan gelişmesini istedi. Bu kapsamda stil belleğini güncelle; kaynak eserleri veya başka becerileri kendiliğinden değiştirme. Yeni bir işlem gerçekten uygulanıp doğrulanmışsa yöntem/sürüm/kanıt/sınırıyla `references/dogrulanmis-tarifler.md` dosyasına kaydet. Henüz denenmemiş öneriyi başarılı yöntem diye kaydetme. Öğrenme etkin çalışma sırasında gerçekleşir, arka planda kendiliğinden işlemez.
-
-## Paket içindeki ortak yollar
-Repo sürümünde ../../workflows ve ../../curriculum kullanılır. Kurulumda bu yollar bundle/workflows ve bundle/curriculum olur; [ortak rehber](references/shared-design.md) üzerinden çöz.
+## Shared paths in the package
+The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).

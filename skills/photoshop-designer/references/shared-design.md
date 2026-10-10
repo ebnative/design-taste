@@ -1,10 +1,11 @@
-# Ortak bilgiye erişim
-Repo sürümünde bu dosyadan ../../../knowledge/records.json, ../../../search/query.py ve ../../../workflows/ yollarını kullan.
-Kurulu pakette skill kökünün bundle/ klasörü aynı ortak veriyi içerir; önce onun varlığını kontrol et.
-Python 3 ile: <repo-or-bundle>/search/query.py "sorgu" --type movement --asset cover --json
-Tek konulu TR/EN sorgu kullan. Filtreler çağdaş önerilen kullanımları belirtir; tarihsel kapsam değildir.
-Sonuçtaki path atlas kaydına gider. Kaynak id'lerini knowledge/sources.json içinde çöz.
-Önce brief ve varsa BRAND.md/DESIGN.md; sonra yalnız ilgili kayıt, workflow ve uygulama tarifi.
-Arama skoru metinsel ilgililiktir, kalite veya kullanıcı beğenisi değildir.
-Sonuç yoksa bir kez terimi daralt/değiştir; yine yoksa bilgi tabanında eşleşme olmadığını söyle.
-Tarih, hak ve uygulama desteği gibi eksik alanları uydurma. Özel hafıza repo dışında tutulur.
+# Accessing shared knowledge
+
+In the repository, use ../../../knowledge/records.json, ../../../search/query.py and ../../../workflows/ relative to this file.
+In an installed package, the skill root's bundle/ directory contains the same shared data; check that it exists first.
+With Python 3: <repo-or-bundle>/search/query.py "surrealism" --type movement --asset cover --json
+Use a focused English query. Filters describe suggested contemporary uses, not historical scope.
+Each result's path identifies the atlas record. Resolve source IDs in knowledge/sources.json.
+Read the brief and any BRAND.md/DESIGN.md first, then only relevant records, workflows and application recipes.
+Search scores measure textual relevance, not quality or user preference.
+If nothing matches, narrow or change the term once; if still unmatched, state that the knowledge base has no match.
+Do not invent missing dates, rights or application support. Keep private memory outside the repository.

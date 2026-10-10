@@ -1,26 +1,25 @@
 # Op Art
 
-English: Op Art  
-ID: `op-art`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `op-art`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Tate, Op Art’ı algı ve renk ilişkileriyle bağlantılı geometrik görsel etkiler üzerinden ele alır.
+## Sourced context
+Tate discusses Op Art through geometric visual effects connected with perception and color relationships.
 
-## Görsel / üretim ilkeleri
-Tekrar, aralık, ölçek, kontrast ve algısal değişim.
+## Visual and production principles
+Repetition, spacing, scale, contrast and perceptual change.
 
-## Tasarıma uyarlama önerimiz
-Ana bilgiden ayrılan özgün bir optik alan üret; motion sürümünde etkilerin kontrolünü ve sabit alternatifini planla.
+## Our contemporary design proposal
+Create an original optical field separate from the primary information; plan effect controls and a static alternative for motion.
 
-## Önerilen alıştırma
-Aynı geometrik alanın yalnız bir değişkenini değiştirerek altı karşılaştırma yap.
+## Suggested exercise
+Make six comparisons by changing just one variable in the same geometric field.
 
-## Sınırlar ve yanlış eşleştirmeler
-Hızlı yanıp sönme ve rahatsızlık üretme riskini kontrol et; okunabilir metni optik gerilimin dışında tut.
+## Limits and common misinterpretations
+Check the risk of rapid flashing and discomfort; keep readable text outside optical tension.
 
-## Kaynaklar
+## Sources
 [S36: Tate Op Art](https://www.tate.org.uk/art/art-terms/o/op-art)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

@@ -15,7 +15,7 @@ Resolve the private root using [private memory](../../../workflows/private-memor
 
 ## Improve execution separately
 
-After an observed failure and successful repair, add a concise, reproducible entry to `references/dogrulanmis-tarifler.md`: task, Photoshop version, method, actual verification, limitation and date. A script that has merely been written is not a verified recipe. Generalize only the demonstrated invariant; keep an isolated project's choices out of universal rules.
+After an observed failure and successful repair, add a concise, reproducible entry to `references/verified-recipes.md`: task, Photoshop version, method, actual verification, limitation and date. A script that has merely been written is not a verified recipe. Generalize only the demonstrated invariant; keep an isolated project's choices out of universal rules.
 
 Update SKILL.md or helpers only when evidence warrants a workflow/code correction. Validate modified helpers and the skill manifest. Do not expand app permissions, install plugins, or change unrelated skills/configuration as part of learning.
 

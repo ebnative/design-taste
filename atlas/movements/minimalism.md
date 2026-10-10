@@ -1,26 +1,25 @@
-# Minimalizm
+# Minimalism
 
-English: Minimalism  
-ID: `minimalism`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `minimalism`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Tate, Minimalizm sanatını 1960’lar ABD bağlamında yalın geometrik biçimler, malzeme ve nesnenin varlığıyla ilişkilendirir.
+## Sourced context
+Tate connects Minimalism in art with the United States in the 1960s, simple geometric forms, materials and the presence of the object.
 
-## Görsel / üretim ilkeleri
-Biçim, malzeme, tekrar, düzen ve mekânsal ilişki.
+## Visual and production principles
+Form, material, repetition, organization and spatial relationships.
 
-## Tasarıma uyarlama önerimiz
-Bir kapağın zorunlu öğelerini azaltırken anlamı, bilgi hiyerarşisini ve üretim yüzeyini koru.
+## Our contemporary design proposal
+Reduce a cover to essential elements while preserving meaning, information hierarchy and the production surface.
 
-## Önerilen alıştırma
-Bir tasarımı üç azaltma aşamasından geçir; hangi aşamada anlam kaybolduğunu kaydet.
+## Suggested exercise
+Take a design through three stages of reduction and record when meaning is lost.
 
-## Sınırlar ve yanlış eşleştirmeler
-Sanat tarihindeki Minimalizm ile pazarlama dilindeki “minimal tasarım” aynı kavram değildir.
+## Limits and common misinterpretations
+Historical Minimalism in art and minimal design in marketing language are different concepts.
 
-## Kaynaklar
+## Sources
 [S37: Tate Minimalism](https://www.tate.org.uk/art/art-terms/m/minimalism)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

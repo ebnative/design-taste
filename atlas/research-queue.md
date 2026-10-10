@@ -1,36 +1,28 @@
-# Araştırma kuyruğu
+# Research queue
 
+The topics below are not deeply researched records in this package. Source review will clarify their classification as
+historical periods, movements, schools or traditions. This is not a definitive or complete taxonomy of world art.
 
-Aşağıdaki başlıklar bu pakette ayrıntılı araştırılmış kayıtlar değildir. Tarihsel dönem, hareket, okul ve gelenek olarak türleri kaynak incelemesinde netleştirilecektir. Bu liste dünya sanatının kesin veya eksiksiz taksonomisi değildir.
+## Historical periods
+Ancient Egypt; Ancient Greece and Rome; Byzantine; Romanesque; Gothic; Renaissance; Mannerism; Baroque; Rococo.
 
-## historical_periods
+## Nineteenth century
+Neoclassicism; Romanticism; Realism; Impressionism; Post-Impressionism; Symbolism.
 
-Antik Mısır; Antik Yunan ve Roma; Bizans; Romanesk; Gotik; Rönesans; Maniyerizm; Barok; Rokoko.
+## Modern and contemporary
+Fauvism; Cubism; Futurism; Expressionism; Abstract Expressionism; Arte Povera; Fluxus; Conceptual Art; feminist art movements; Photorealism; Net art; Glitch art.
 
-## nineteenth_century
+## Graphic design histories
+Vienna Secession; Ulm School of Design; New Wave typography; Polish Poster School; modernist typography traditions beyond Switzerland; punk and zine graphics; deconstruction in design.
 
-Neoklasisizm; Romantizm; Realizm; İzlenimcilik; Post-Empresyonizm; Sembolizm.
+## Turkey and the region
+Ottoman book arts: distinguish subtraditions; early Republican graphic design: focus on makers and works; İhap Hulusi Görey: case study; Mengü Ertel: case study; Bülent Erkmen: case study; Hurufiyya: verify with institutional sources.
 
-## modern_and_contemporary
+## Asia
+Chinese literati painting: distinguish periods and schools; Nihonga; Sōsaku-hanga; Mingei; Gutai; Mono-ha; Dansaekhwa; Bengal School; Bombay Progressive Artists Group.
 
-Fovizm; Kübizm; Fütürizm; Ekspresyonizm; Soyut Dışavurumculuk; Arte Povera; Fluxus; Kavramsal Sanat; Feminist sanat hareketleri; Foto-gerçekçilik; Net art; Glitch art.
+## Africa and diaspora
+Relationships between Négritude and visual arts; Nsukka / Uli: specific makers and contexts; Khartoum School; South African poster/resistance archives.
 
-## graphic_design_histories
-
-Viyana Secession; Ulm Tasarım Okulu; Yeni Dalga tipografi; Polonya Afiş Okulu; İsviçre dışındaki modernist tipografi gelenekleri; Punk ve zine grafikleri; Tasarımda dekonstrüksiyon.
-
-## turkey_and_region
-
-Osmanlı kitap sanatları: alt gelenekler ayrıştırılacak; Erken Cumhuriyet grafik tasarımı: üretici/iş odaklı; İhap Hulusi Görey: vaka araştırması; Mengü Ertel: vaka araştırması; Bülent Erkmen: vaka araştırması; Hurufiyya: kurumsal kaynakla doğrulanacak.
-
-## asia
-
-Çin literati resmi: dönem/okul ayrıştırılacak; Nihonga; Sōsaku-hanga; Mingei; Gutai; Mono-ha; Dansaekhwa; Bengal School; Bombay Progressive Artists Group.
-
-## africa_and_diaspora
-
-Négritude ile görsel sanat ilişkileri; Nsukka / Uli: özgül üreticiler ve bağlamlar; Khartoum School; Güney Afrika afiş/direniş arşivleri.
-
-## latin_america_and_indigenous_contexts
-
-Brezilya Concrete art; Neo-concrete art; Meksika muralizmi; Taller de Gráfica Popular; And gelenekleri: topluluk ve dönem bazlı kaynaklandırma; Avustralya Yerli sanatları: topluluk, hak ve bağlam bazlı araştırma.
+## Latin America and Indigenous contexts
+Brazilian Concrete art; Neo-concrete art; Mexican muralism; Taller de Gráfica Popular; Andean traditions: sources by community and period; Australian Indigenous arts: research by community, rights and context.

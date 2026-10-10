@@ -1,16 +1,16 @@
-# 0001 — Ortak proje standardını benimse
+# 0001 — Adopt the common project standard
 
-Tarih: 2026-10-10  
-Durum: kullanıcının bu sohbetindeki açık talebiyle kabul edildi  
-Sürüm: `1.0.0`
+Date: 2026-10-10\
+Status: accepted by the user's explicit request in this conversation\
+Version: `1.0.0`
 
-Kaynak: kullanıcı tarafından sağlanan `standard_project_structure.json`.
-Belgedeki `proposed` durumu aktarım zamanına aittir; mevcut kullanıcı mesajı uygulama yetkisidir.
-Örnek proje adı, ürün hattı, kişi adı ve teknoloji tercihleri gerçek proje kararları olarak alınmadı.
+Source: the user-supplied `standard_project_structure.json`.
+Its proposed status describes the time of import; the user's subsequent request authorizes adoption.
+Illustrative project names, product lines, personal identities and technologies were not adopted as actual project decisions.
 
-README, proje kimliği, gerçek komutlar, AGENTS, anlamlı testler, bağımlılık ve yapılandırma bilgisi,
-ihtiyaç kadar mimari/işletim belgesi ve GitHub CI ortak çekirdektir.
-Bu projede domain dizinleri korunur; gereksiz web/src/server iskeleti eklenmez.
-Özel repo başlangıcı, kaynak hakları netleşmeden kamuya dağıtımı önler.
-Yeni projeler aynı çalışma sözleşmesini, kendi teknolojilerinin doğal yapısında kullanır.
-Mevcut projeler yeniden çalışılırken küçük ve doğrulanmış adımlarla uyarlanır.
+The common core includes README, project identity, real commands, AGENTS, meaningful tests, dependency/configuration information,
+appropriate architecture/operations documentation and GitHub CI.
+This project retains domain directories without adding an unnecessary web/src/server scaffold.
+The repository was initially private; the user subsequently explicitly requested public visibility.
+New projects use the same working agreement within their technology's natural structure.
+Existing projects are adapted in small, verified steps when work resumes on them.

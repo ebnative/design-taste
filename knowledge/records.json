@@ -1,7 +1,6 @@
 [
   {
     "id": "arts-and-crafts",
-    "title_tr": "Arts and Crafts",
     "title_en": "Arts and Crafts",
     "record_type": "movement",
     "aliases": [
@@ -22,11 +21,11 @@
     "source_ids": [
       "S24"
     ],
-    "historical_context": "V&A, hareketi endüstriyel üretim, zanaatın statüsü ve gündelik nesnelerin niteliği üzerine bir tartışma içinde ele alır. Tek bir süsleme repertuvarı değildir.",
-    "visual_principles": "Malzeme, yapım süreci ve kullanımın ilişkisi; zanaat ile tasarımın yakınlığı.",
-    "contemporary_application": "Bir yayın veya ürün kimliğinde malzeme ve üretim yöntemini görsel kararın gerekçesi yap; doku yalnız dekor olmasın.",
-    "exercise": "Aynı etkinlik için elde çizilmiş motifli ve yalnız tipografik iki kapak üret; hangi malzeme kararının iletişime katkı verdiğini yaz.",
-    "limits": "Botanik desen görünüşünü tüm hareketle özdeşleştirme; geleneksel üreticiyi ve kaynakları görünür kıl.",
+    "historical_context": "V&A discusses the movement through industrial production, the status of craft and the quality of everyday objects. It is not a single decorative repertoire.",
+    "visual_principles": "Relationships between materials, making and use; the close connection between craft and design.",
+    "contemporary_application": "Make materials and production methods the rationale for visual decisions in a publication or product identity; texture should serve more than decoration.",
+    "exercise": "Create two covers for the same event: one with hand-drawn motifs and one using typography alone. Explain which material decisions support communication.",
+    "limits": "Do not equate botanical patterns with the entire movement; acknowledge makers and sources.",
     "assets": [
       "publication"
     ],
@@ -38,7 +37,6 @@
   },
   {
     "id": "art-nouveau",
-    "title_tr": "Art Nouveau",
     "title_en": "Art Nouveau",
     "record_type": "movement",
     "aliases": [
@@ -59,11 +57,11 @@
     "source_ids": [
       "S25"
     ],
-    "historical_context": "V&A, Art Nouveau’yu ülkeler arasında farklılaşan, tarihsel üsluplarla ilişki kuran uluslararası bir hareket olarak açıklar.",
-    "visual_principles": "Doğal biçimlerden türetilen akıcı çizgi, yüzeysel kompozisyon ve yapıyla bezemenin birlikteliği; geometrik örnekler de vardır.",
-    "contemporary_application": "Başlık ile ana imgeyi ortak bir çizgi mantığında birleştiren özgün afiş; küçük kullanım için sade bir işaret varyantı.",
-    "exercise": "Yerel bir bitkiyi gözlemle; fotoğrafını kopyalamadan üç soyutlama ve bir afiş geliştir.",
-    "limits": "Her örneği çiçek, kıvrım veya tek bir sanatçının görünüşüne indirgeme.",
+    "historical_context": "V&A describes Art Nouveau as an international movement that varied across countries and engaged with historical styles.",
+    "visual_principles": "Flowing lines derived from natural forms, surface composition and the integration of structure and ornament; geometric examples also exist.",
+    "contemporary_application": "Create an original poster that unites the headline and main image through a shared line system, with a simpler mark for small uses.",
+    "exercise": "Observe a local plant and develop three abstractions and a poster without copying its photograph.",
+    "limits": "Do not reduce every example to flowers, curves or the appearance of one artist.",
     "assets": [
       "poster"
     ],
@@ -75,7 +73,6 @@
   },
   {
     "id": "art-deco",
-    "title_tr": "Art Deco",
     "title_en": "Art Deco",
     "record_type": "movement",
     "aliases": [
@@ -96,11 +93,11 @@
     "source_ids": [
       "S26"
     ],
-    "historical_context": "V&A, Art Deco’nun tek kaynağa indirgenemeyen, tarihsel ve modern unsurları birleştiren niteliğini vurgular.",
-    "visual_principles": "Geometrik stilizasyon, çizgisel ritim, süsleme ve farklı malzeme etkileri.",
-    "contemporary_application": "Bir kapak veya etkinlik kimliğinde kademeli biçimler ve ritmik harf aralıkları dene; tek renkte de çalışan çözüm seç.",
-    "exercise": "Aynı kapağın siyah-beyaz ve iki farklı renk ailesindeki üç sürümünü üret.",
-    "limits": "Altın ve siyahı zorunlu sanma. Tarihsel sömürgeci “egzotik” motifleri bağlamsız dekor olarak kullanma.",
+    "historical_context": "V&A emphasizes that Art Deco combines historical and modern elements and cannot be reduced to a single origin.",
+    "visual_principles": "Geometric stylization, linear rhythm, ornament and varied material effects.",
+    "contemporary_application": "Try stepped forms and rhythmic letter spacing in a cover or event identity; choose a solution that also works in one color.",
+    "exercise": "Create three versions of the same cover: black and white, and two different color families.",
+    "limits": "Gold and black are not mandatory. Do not use historical colonial notions of exotic motifs as decoration without context.",
     "assets": [
       "cover"
     ],
@@ -112,7 +109,6 @@
   },
   {
     "id": "bauhaus",
-    "title_tr": "Bauhaus",
     "title_en": "Bauhaus",
     "record_type": "school",
     "aliases": [
@@ -133,11 +129,11 @@
     "source_ids": [
       "S27"
     ],
-    "historical_context": "MoMA, Bauhaus’u 1919’da kurulan ve 1933’te kapatılan, malzeme ve işlev odaklı deneysel öğretimiyle etkili bir sanat ve tasarım okulu olarak tanımlar.",
-    "visual_principles": "Malzeme deneyi, farklı sanat ve tasarım alanlarını ilişkilendirme, işlev ve üretim koşulları.",
-    "contemporary_application": "Bir markanın afişini, yayın kapağını ve hareketli başlığını aynı modüler kurallardan türet; kuralları gerçek kullanımda test et.",
-    "exercise": "Kâğıt, fotoğraf ve tipografiyle üç ayrı keşif yap; birini tek üretim sistemi içinde birleştir.",
-    "limits": "Bauhaus yalnız üç ana renk ve geometrik şekillerden oluşan sabit bir stil değildir.",
+    "historical_context": "MoMA defines the Bauhaus as an influential art and design school founded in 1919 and closed in 1933, with experimental teaching focused on materials and function.",
+    "visual_principles": "Material experiments, connections across art and design disciplines, function and production conditions.",
+    "contemporary_application": "Derive a brand poster, publication cover and animated title from the same modular rules; test those rules in actual use.",
+    "exercise": "Explore paper, photography and typography separately, then integrate one exploration into a single production system.",
+    "limits": "The Bauhaus is not a fixed style consisting only of three primary colors and geometric shapes.",
     "assets": [
       "poster",
       "identity",
@@ -153,7 +149,6 @@
   },
   {
     "id": "de-stijl",
-    "title_tr": "De Stijl",
     "title_en": "De Stijl",
     "record_type": "movement",
     "aliases": [
@@ -174,11 +169,11 @@
     "source_ids": [
       "S28"
     ],
-    "historical_context": "MoMA, De Stijl’i 1917’deki yayın ve sanat/tasarım ortamıyla ilişkilendirir; resim dışındaki tasarım alanlarına da uzanan bir yaklaşımdır.",
-    "visual_principles": "Düzlemsel ilişkiler, yatay-dikey düzen, asimetrik denge ve sınırlı renk aileleri.",
-    "contemporary_application": "Değişen başlık uzunluklarına uyum sağlayan dikdörtgen modüllü kapak ve carousel sistemi tasarla.",
-    "exercise": "Aynı mesajı altı asimetrik düzende çöz; renkler kaldırıldığında hiyerarşinin sürüp sürmediğini kontrol et.",
-    "limits": "Tanıdık bir eserin kompozisyonunu kopyalama; renk reçetesini hareketin bütün düşüncesi sanma.",
+    "historical_context": "MoMA connects De Stijl with the publication and art/design milieu of 1917; its approach extends beyond painting into other design disciplines.",
+    "visual_principles": "Planar relationships, horizontal and vertical organization, asymmetrical balance and limited color families.",
+    "contemporary_application": "Design a cover and carousel system with rectangular modules that accommodate changing headline lengths.",
+    "exercise": "Solve the same message in six asymmetrical layouts; check whether hierarchy survives when colors are removed.",
+    "limits": "Do not copy the composition of a familiar work or mistake a color recipe for the movement as a whole.",
     "assets": [
       "cover",
       "social-series"
@@ -191,14 +186,10 @@
   },
   {
     "id": "constructivism",
-    "title_tr": "Konstrüktivizm",
     "title_en": "Constructivism",
     "record_type": "movement",
     "aliases": [
-      "Konstrüktivizm",
-      "Constructivism",
-      "konstrüktivizm",
-      "yapımcılık"
+      "Constructivism"
     ],
     "status": "imported-seed",
     "review_status": "needs-source-review",
@@ -215,11 +206,11 @@
     "source_ids": [
       "S29"
     ],
-    "historical_context": "MoMA, Rus avangardındaki Konstrüktivizmi toplumsal işlev, üretim ve sanatçı-mühendis düşüncesiyle ilişkilendirir.",
-    "visual_principles": "Soyut yapı, düzenleme ve üretimle ilişki; görsel biçimin iletişim ve toplumsal amaçla bağlanması.",
-    "contemporary_application": "Bilgi blokları, yön ve ölçek ilişkileriyle bir duyurunun önceliklerini kur; motion sürümünde blokların oluşumunu anlatıya bağla.",
-    "exercise": "Bir kamu yararı mesajı için üç farklı hiyerarşi öner; her biçimin iletişim işlevini açıkla.",
-    "limits": "Kırmızı-siyah ve diyagonal kullanmayı tarihsel Konstrüktivizm kanıtı sayma. Politik bağlamı görünmezleştirme.",
+    "historical_context": "MoMA connects Constructivism in the Russian avant-garde with social function, production and the idea of the artist-engineer.",
+    "visual_principles": "Abstract structure, organization and production; linking visual form with communication and social purpose.",
+    "contemporary_application": "Organize announcement priorities through information blocks, direction and scale; connect the formation of blocks to the narrative in a motion version.",
+    "exercise": "Propose three hierarchies for a public-interest message and explain the communication function of each form.",
+    "limits": "Red, black and diagonals alone do not establish historical Constructivism. Keep its political context visible.",
     "assets": [
       "motion"
     ],
@@ -231,11 +222,9 @@
   },
   {
     "id": "suprematism",
-    "title_tr": "Süprematizm",
     "title_en": "Suprematism",
     "record_type": "movement",
     "aliases": [
-      "Süprematizm",
       "Suprematism"
     ],
     "status": "imported-seed",
@@ -253,11 +242,11 @@
     "source_ids": [
       "S30"
     ],
-    "historical_context": "MoMA, Süprematizmi Malevich ve 1915 bağlamında, temsilden uzak geometrik soyutlama ile ilişkilendirir.",
-    "visual_principles": "Basit geometrik biçimler, boşlukta ilişkiler, temsil yerine biçimsel gerilim.",
-    "contemporary_application": "Dengesi küçük değişimlerle dönüşen özgün bir kapak veya motion styleframe çalış.",
-    "exercise": "Üç geometrik biçimin konumunu değiştirerek altı farklı gerilim ve denge üret.",
-    "limits": "Konstrüktivizmle aynı tarihsel amaçlara sahipmiş gibi birleştirme.",
+    "historical_context": "MoMA connects Suprematism with Malevich and the context of 1915, emphasizing geometric abstraction away from representation.",
+    "visual_principles": "Simple geometric forms, relationships in space and formal tension rather than representation.",
+    "contemporary_application": "Develop an original cover or motion styleframe whose balance changes through small adjustments.",
+    "exercise": "Move three geometric forms to create six different states of tension and balance.",
+    "limits": "Do not merge it with Constructivism as though they had identical historical aims.",
     "assets": [
       "cover",
       "motion"
@@ -271,7 +260,6 @@
   },
   {
     "id": "dada",
-    "title_tr": "Dada",
     "title_en": "Dada",
     "record_type": "movement",
     "aliases": [
@@ -292,11 +280,11 @@
     "source_ids": [
       "S31"
     ],
-    "historical_context": "MoMA, Dada’nın savaş ve toplumsal düzen eleştirisini rastlantı, doğaçlama ve farklı medya kullanımıyla birlikte anlatır.",
-    "visual_principles": "Beklenmedik karşılaşma, anlamı bozan birleşim, yerleşik görsel otoriteyi sorgulama.",
-    "contemporary_application": "Bir kapakta mevcut haber dilini sorgulayan, kendi ürettiğin parçalarla eleştirel bir kompozisyon kur.",
-    "exercise": "Planlı ve rastlantı kuralıyla üretilen iki kompozisyonu karşılaştır; rastlantının anlamı nasıl değiştirdiğini yaz.",
-    "limits": "Rastgeleliği otomatik olarak Dada sayma; kültürel ve politik soruyu belirt.",
+    "historical_context": "MoMA presents Dada through its critique of war and social order alongside chance, improvisation and varied media.",
+    "visual_principles": "Unexpected encounters, combinations that disrupt meaning and questioning established visual authority.",
+    "contemporary_application": "Build a critical cover composition from your own elements that questions the language of current news.",
+    "exercise": "Compare a planned composition with one produced through a chance rule; explain how chance changes meaning.",
+    "limits": "Randomness does not automatically constitute Dada; identify the cultural and political question.",
     "assets": [
       "cover"
     ],
@@ -308,13 +296,10 @@
   },
   {
     "id": "photomontage",
-    "title_tr": "Fotomontaj",
     "title_en": "Photomontage",
     "record_type": "technique",
     "aliases": [
-      "Fotomontaj",
       "Photomontage",
-      "fotomontaj",
       "photo montage"
     ],
     "status": "imported-seed",
@@ -332,11 +317,11 @@
     "source_ids": [
       "S31"
     ],
-    "historical_context": "MoMA’nın Dada materyali, basılı kitle iletişiminden alınan fotoğraf parçalarının yeniden birleşmesini anlatır. Teknik, tek bir hareketle sınırlı değildir.",
-    "visual_principles": "Kesme, üst üste bindirme, ölçek ve bağlam değiştirme; görseller arasında yeni anlam oluşturma.",
-    "contemporary_application": "Photoshop’ta maskeli ve düzenlenebilir bir kapak kompozisyonu kur; ışık ve kenar tutarlılığını görsel hedefe göre değerlendir.",
-    "exercise": "Yalnız kendi veya lisansı uygun üç fotoğrafla iki farklı anlatı üret.",
-    "limits": "Kaynak haklarını kaydet; eleştirel kolaj ile fotogerçekçi birleştirme için farklı kalite ölçütleri kullan.",
+    "historical_context": "MoMA materials on Dada describe recombining photographic fragments from printed mass media. The technique is not limited to one movement.",
+    "visual_principles": "Cutting, overlapping and changing scale and context to create new meaning between images.",
+    "contemporary_application": "Build a masked, editable cover in Photoshop; evaluate lighting and edge consistency against the visual goal.",
+    "exercise": "Create two narratives using only three photographs you own or have suitable licenses to use.",
+    "limits": "Record source rights; use different quality criteria for critical collage and photorealistic compositing.",
     "assets": [
       "cover"
     ],
@@ -348,15 +333,10 @@
   },
   {
     "id": "surrealism",
-    "title_tr": "Sürrealizm",
     "title_en": "Surrealism",
     "record_type": "movement",
     "aliases": [
-      "Sürrealizm",
-      "Surrealism",
-      "sürrealizm",
-      "gerçeküstücülük",
-      "surrealism"
+      "Surrealism"
     ],
     "status": "imported-seed",
     "review_status": "needs-source-review",
@@ -373,11 +353,11 @@
     "source_ids": [
       "S32"
     ],
-    "historical_context": "Tate, Sürrealizmi rasyonel deneyim, bilinçdışı, rüya ve özgürleşme arayışı bağlamında açıklar; uluslararası ve çoğul bir harekettir.",
-    "visual_principles": "Beklenmedik ilişki, tekinsizlik, otomatik çizim/yazı gibi farklı üretim yöntemleri.",
-    "contemporary_application": "Bir ana fikir etrafında özgün nesne ilişkileri kuran kapak; motion’da aynı kavramsal ilişkinin dönüşümü.",
-    "exercise": "Beş dakikalık serbest yazıdan bir karşılaşma seç; onu anlaşılır başlık hiyerarşisiyle afişe dönüştür.",
-    "limits": "Sürrealizm sadece uçan nesneler değildir. Her eserin aynı yöntemle üretildiğini varsayma.",
+    "historical_context": "Tate explains Surrealism through rational experience, the unconscious, dreams and the pursuit of liberation; it is an international, plural movement.",
+    "visual_principles": "Unexpected relationships, the uncanny and varied methods such as automatic drawing and writing.",
+    "contemporary_application": "Create a cover with original object relationships around one central idea; transform the same conceptual relationship in motion.",
+    "exercise": "Choose an encounter from five minutes of free writing and turn it into a poster with a clear headline hierarchy.",
+    "limits": "Surrealism is more than flying objects. Do not assume every work uses the same method.",
     "assets": [
       "cover",
       "motion"
@@ -391,11 +371,9 @@
   },
   {
     "id": "new-typography",
-    "title_tr": "Yeni Tipografi",
     "title_en": "New Typography",
     "record_type": "movement",
     "aliases": [
-      "Yeni Tipografi",
       "New Typography"
     ],
     "status": "imported-seed",
@@ -413,11 +391,11 @@
     "source_ids": [
       "S33"
     ],
-    "historical_context": "MoMA’nın sergisi, 1920–1930’larda grafik ve bilgi tasarımının avangard içindeki önemini açıklar.",
-    "visual_principles": "Açık alan olarak sayfa; asimetrik tipografi-imge ilişkisi; anlamı açıklığa kavuşturan düzen.",
-    "contemporary_application": "İçeriği önceleyen afiş ve yayın sistemi; hareketli sürümde bilgi sırası korunarak bloklar arası geçiş.",
-    "exercise": "Aynı duyuruyu simetrik ve asimetrik iki biçimde tasarla; başlık, yer ve tarihin bulunma kolaylığını karşılaştır.",
-    "limits": "Asimetriyi okunamazlık gerekçesi yapma. Modern bir uyarlamayı tarihsel örnek diye sunma.",
+    "historical_context": "MoMA exhibition materials explain the importance of graphic and information design within the avant-garde of the 1920s and 1930s.",
+    "visual_principles": "The page as an open field, asymmetrical relationships between typography and images, and layouts that clarify meaning.",
+    "contemporary_application": "Create a content-led poster and publication system; preserve information order during transitions between blocks in motion.",
+    "exercise": "Design the same announcement symmetrically and asymmetrically; compare how easily readers find its headline, place and date.",
+    "limits": "Asymmetry does not justify illegibility. Do not present a contemporary adaptation as a historical example.",
     "assets": [
       "poster",
       "publication",
@@ -432,13 +410,10 @@
   },
   {
     "id": "swiss-style",
-    "title_tr": "İsviçre Tipografik Geleneği",
     "title_en": "Swiss / International Typographic Style",
     "record_type": "design_tradition",
     "aliases": [
-      "İsviçre Tipografik Geleneği",
       "Swiss / International Typographic Style",
-      "İsviçre stili",
       "Swiss Style",
       "International Typographic Style"
     ],
@@ -457,11 +432,11 @@
     "source_ids": [
       "S34"
     ],
-    "historical_context": "İsviçre’nin resmî yayını, müze küratörünün anlatımıyla bu grafik tasarım geleneğinin eğitim, tipografi ve iletişim sistemleriyle ilişkisini ele alır.",
-    "visual_principles": "Grid, tutarlı hiyerarşi, tipografik sistem ve imgeyle düzenli ilişki.",
-    "contemporary_application": "Bir ana tasarım kararı belgesinden afiş, sekiz sayfalık yayın ve carousel düzeni üret.",
-    "exercise": "Aynı içeriği gridli ve serbest düzenlerde karşılaştır; özellikle uzun Türkçe başlıkla test et.",
-    "limits": "Helvetica’yı veya kültürel tarafsızlık iddiasını zorunlu sayma; font, dil ve bağlama göre seçim yap.",
+    "historical_context": "An official Swiss publication, through a museum curator account, discusses the relationship of this graphic design tradition to education, typography and communication systems.",
+    "visual_principles": "Grids, consistent hierarchy, typographic systems and organized relationships with images.",
+    "contemporary_application": "Produce a poster, an eight-page publication and a carousel layout from one master design specification.",
+    "exercise": "Compare the same content in gridded and free layouts; test especially with a long headline.",
+    "limits": "Helvetica and claims of cultural neutrality are not mandatory; choose according to font, language and context.",
     "assets": [
       "poster",
       "publication",
@@ -475,7 +450,6 @@
   },
   {
     "id": "pop-art",
-    "title_tr": "Pop Art",
     "title_en": "Pop Art",
     "record_type": "movement",
     "aliases": [
@@ -496,11 +470,11 @@
     "source_ids": [
       "S35"
     ],
-    "historical_context": "Tate, Pop Art’ı 1950–1960’larda popüler ve ticari kültürle ilişki kuran Britanya ve ABD merkezli gelişmelerle açıklar.",
-    "visual_principles": "Gündelik nesne, reklam ve ambalaj dili, belirgin biçimler ve farklı tonlarda kitle kültürü yaklaşımı.",
-    "contemporary_application": "Telifli karakter veya marka paketini kopyalamadan, sıradan bir nesneyi dikkat odağına alan sosyal seri tasarla.",
-    "exercise": "Bir nesneyi üç farklı anlatımla göster; tekrarın anlamı mı yoksa yalnız renk değişimi mi ürettiğini yaz.",
-    "limits": "Pop Art’ı tek bir sanatçının tekrar düzenine veya çizgi roman noktasına indirgeme.",
+    "historical_context": "Tate explains Pop Art through developments centered in Britain and the United States in the 1950s and 1960s that engaged with popular and commercial culture.",
+    "visual_principles": "Everyday objects, advertising and packaging language, distinct forms and varied approaches to mass culture.",
+    "contemporary_application": "Design a social series that centers an ordinary object without copying copyrighted characters or branded packaging.",
+    "exercise": "Show one object through three narratives; explain whether repetition creates meaning or merely changes color.",
+    "limits": "Do not reduce Pop Art to one artist repetition scheme or comic-book dots.",
     "assets": [
       "identity",
       "social-series"
@@ -513,7 +487,6 @@
   },
   {
     "id": "op-art",
-    "title_tr": "Op Art",
     "title_en": "Op Art",
     "record_type": "movement",
     "aliases": [
@@ -534,11 +507,11 @@
     "source_ids": [
       "S36"
     ],
-    "historical_context": "Tate, Op Art’ı algı ve renk ilişkileriyle bağlantılı geometrik görsel etkiler üzerinden ele alır.",
-    "visual_principles": "Tekrar, aralık, ölçek, kontrast ve algısal değişim.",
-    "contemporary_application": "Ana bilgiden ayrılan özgün bir optik alan üret; motion sürümünde etkilerin kontrolünü ve sabit alternatifini planla.",
-    "exercise": "Aynı geometrik alanın yalnız bir değişkenini değiştirerek altı karşılaştırma yap.",
-    "limits": "Hızlı yanıp sönme ve rahatsızlık üretme riskini kontrol et; okunabilir metni optik gerilimin dışında tut.",
+    "historical_context": "Tate discusses Op Art through geometric visual effects connected with perception and color relationships.",
+    "visual_principles": "Repetition, spacing, scale, contrast and perceptual change.",
+    "contemporary_application": "Create an original optical field separate from the primary information; plan effect controls and a static alternative for motion.",
+    "exercise": "Make six comparisons by changing just one variable in the same geometric field.",
+    "limits": "Check the risk of rapid flashing and discomfort; keep readable text outside optical tension.",
     "assets": [
       "motion"
     ],
@@ -550,11 +523,9 @@
   },
   {
     "id": "minimalism",
-    "title_tr": "Minimalizm",
     "title_en": "Minimalism",
     "record_type": "movement",
     "aliases": [
-      "Minimalizm",
       "Minimalism"
     ],
     "status": "imported-seed",
@@ -572,11 +543,11 @@
     "source_ids": [
       "S37"
     ],
-    "historical_context": "Tate, Minimalizm sanatını 1960’lar ABD bağlamında yalın geometrik biçimler, malzeme ve nesnenin varlığıyla ilişkilendirir.",
-    "visual_principles": "Biçim, malzeme, tekrar, düzen ve mekânsal ilişki.",
-    "contemporary_application": "Bir kapağın zorunlu öğelerini azaltırken anlamı, bilgi hiyerarşisini ve üretim yüzeyini koru.",
-    "exercise": "Bir tasarımı üç azaltma aşamasından geçir; hangi aşamada anlam kaybolduğunu kaydet.",
-    "limits": "Sanat tarihindeki Minimalizm ile pazarlama dilindeki “minimal tasarım” aynı kavram değildir.",
+    "historical_context": "Tate connects Minimalism in art with the United States in the 1960s, simple geometric forms, materials and the presence of the object.",
+    "visual_principles": "Form, material, repetition, organization and spatial relationships.",
+    "contemporary_application": "Reduce a cover to essential elements while preserving meaning, information hierarchy and the production surface.",
+    "exercise": "Take a design through three stages of reduction and record when meaning is lost.",
+    "limits": "Historical Minimalism in art and minimal design in marketing language are different concepts.",
     "assets": [],
     "medium": [
       "study"
@@ -586,11 +557,9 @@
   },
   {
     "id": "postmodern-design",
-    "title_tr": "Postmodern tasarım",
     "title_en": "Postmodern design",
     "record_type": "design_tradition",
     "aliases": [
-      "Postmodern tasarım",
       "Postmodern design"
     ],
     "status": "imported-seed",
@@ -608,11 +577,11 @@
     "source_ids": [
       "S38"
     ],
-    "historical_context": "V&A, postmodern tasarımın çoğul referanslar, modernist varsayımları sorgulama ve farklı kültürel seviyeleri ilişkilendirme niteliğini işler.",
-    "visual_principles": "Katmanlı referans, tarihsel alıntıyla tartışma, ironi ve kontrollü görsel karşıtlık.",
-    "contemporary_application": "Dergi kapağında iki farklı görsel dili kasıtlı bir editoryal fikir için karşılaştır; hangisinin neden baskın olduğunu açıkla.",
-    "exercise": "Aynı başlığı iki üslup çatışmasıyla yorumla; çatışmanın metnin anlamına katkısını yaz.",
-    "limits": "“Her şey karışabilir” sonucuna atlama; okunurluk ve bağlam hâlâ tasarım kararıdır.",
+    "historical_context": "V&A discusses postmodern design through plural references, questioning modernist assumptions and connecting different cultural registers.",
+    "visual_principles": "Layered references, debate through historical quotation, irony and controlled visual contrast.",
+    "contemporary_application": "Juxtapose two visual languages on a magazine cover for a deliberate editorial idea; explain why one dominates.",
+    "exercise": "Interpret one headline through two stylistic conflicts and explain how the conflict contributes to its meaning.",
+    "limits": "Do not conclude that anything can be mixed freely; legibility and context remain design decisions.",
     "assets": [
       "publication"
     ],
@@ -624,7 +593,6 @@
   },
   {
     "id": "memphis",
-    "title_tr": "Memphis",
     "title_en": "Memphis",
     "record_type": "collective",
     "aliases": [
@@ -645,11 +613,11 @@
     "source_ids": [
       "S39"
     ],
-    "historical_context": "Cooper Hewitt, Ettore Sottsass’ın kurduğu Memphis grubunu postmodern tasarım tartışmaları ve işlev/dekor ilişkisini sorgulayan nesnelerle açıklar.",
-    "visual_principles": "Oyunlu ölçek, beklenmedik renk/biçim ilişkisi, bezeme ve modernist beklentilerle tartışma.",
-    "contemporary_application": "Özgün şekillerle enerjik etkinlik kimliği üret; tarih ve yer gibi zorunlu bilgileri sakin bir hiyerarşide tut.",
-    "exercise": "Bir nesnenin işlevsel şeması ile ifade odaklı afiş yorumunu karşılaştır.",
-    "limits": "Memphis bir tasarım grubudur; tüm postmodernizmin veya her renkli geometrik desenin adı değildir.",
+    "historical_context": "Cooper Hewitt explains the Memphis group founded by Ettore Sottsass through postmodern design debates and objects questioning function and decoration.",
+    "visual_principles": "Playful scale, unexpected color/form relationships, ornament and debate with modernist expectations.",
+    "contemporary_application": "Create an energetic event identity with original shapes; keep essential information such as date and place in a calm hierarchy.",
+    "exercise": "Compare an object’s functional diagram with an expressive poster interpretation.",
+    "limits": "Memphis is a design group, not a name for all postmodernism or every colorful geometric pattern.",
     "assets": [],
     "medium": [
       "study"
@@ -659,11 +627,9 @@
   },
   {
     "id": "psychedelic-posters",
-    "title_tr": "Psychedelic afiş geleneği",
     "title_en": "Psychedelic posters",
     "record_type": "design_tradition",
     "aliases": [
-      "Psychedelic afiş geleneği",
       "Psychedelic posters"
     ],
     "status": "imported-seed",
@@ -681,11 +647,11 @@
     "source_ids": [
       "S40"
     ],
-    "historical_context": "Cooper Hewitt’in How Posters Work sergisi, 1960’ların psychedelic afişlerini yoğun görsel deneyim örnekleri arasında ele alır.",
-    "visual_principles": "Yoğun desen, dolaşan çizgi, yarışan renk ve metnin imgeleşmesi.",
-    "contemporary_application": "Müzik etkinliği için ritmik özgün harf/biçim çalışması; temel etkinlik bilgilerini ayrıca okunur tut.",
-    "exercise": "Yoğun ve sakin iki afiş yap; izleyicinin mesajı bulma sürecini karşılaştır.",
-    "limits": "Duyusal yük ile iletişim hedefi aynı değildir. Motion’da flaş/strobe kullanma; eserleri izleyerek yeniden çizme.",
+    "historical_context": "Cooper Hewitt How Posters Work exhibition discusses psychedelic posters of the 1960s among examples of intense visual experience.",
+    "visual_principles": "Dense patterns, wandering lines, competing colors and text treated as imagery.",
+    "contemporary_application": "Develop original rhythmic lettering and forms for a music event; keep essential event information independently readable.",
+    "exercise": "Make one dense and one calm poster; compare how viewers find the message.",
+    "limits": "Sensory overload and communication goals differ. Avoid flash/strobe in motion and do not trace existing works.",
     "assets": [],
     "medium": [
       "study"
@@ -695,7 +661,6 @@
   },
   {
     "id": "ukiyo-e",
-    "title_tr": "Ukiyo-e",
     "title_en": "Ukiyo-e",
     "record_type": "art_tradition",
     "aliases": [
@@ -716,11 +681,11 @@
     "source_ids": [
       "S41"
     ],
-    "historical_context": "Met, Edo dönemi ahşap baskılarında konu, seri üretim ve tasarımcı-oymacı-baskıcı-yayıncı işbirliğini anlatır.",
-    "visual_principles": "Ayrı renk bloklarının kayıtla birleşmesi, sınır/katman ilişkisi ve seri üretim mantığı.",
-    "contemporary_application": "Özgün kapakta kontur ve renk katmanlarını ayrıştır; motion’da baskı katmanlarının oluşumunu güncel bir yorum olarak kullan.",
-    "exercise": "İki renkli bir kompozisyona üçüncü bir katman ekle; hizalama ve bilinçli kaydırma sonuçlarını karşılaştır.",
-    "limits": "“Japon minimalist stili” diye genelleme; dijital katman yapısının tarihsel zanaatla aynı olduğunu iddia etme.",
+    "historical_context": "The Met discusses subject matter, serial production and collaboration among designers, carvers, printers and publishers in Edo-period woodblock prints.",
+    "visual_principles": "Registered color blocks, relationships between outlines and layers, and serial production.",
+    "contemporary_application": "Separate outlines and color layers in an original cover; interpret the formation of print layers in motion as a contemporary proposal.",
+    "exercise": "Add a third layer to a two-color composition; compare alignment with deliberate displacement.",
+    "limits": "Do not generalize this as Japanese minimalist style or equate digital layers with historical craft.",
     "assets": [
       "cover",
       "motion"
@@ -734,13 +699,10 @@
   },
   {
     "id": "islamic-geometric-pattern",
-    "title_tr": "İslam sanatlarında geometrik örüntüler",
     "title_en": "Geometric patterns in Islamic art",
     "record_type": "art_tradition",
     "aliases": [
-      "İslam sanatlarında geometrik örüntüler",
       "Geometric patterns in Islamic art",
-      "İslami desen",
       "Islamic geometric pattern"
     ],
     "status": "imported-seed",
@@ -758,11 +720,11 @@
     "source_ids": [
       "S42"
     ],
-    "historical_context": "Met, geometrik bezemeyi İslam sanatlarındaki farklı bezeme türlerinden biri olarak ele alır; tarihsel ve bölgesel çeşitlilik vardır.",
-    "visual_principles": "Daire, kare, yıldız ve çokgenlerden kurulan tekrar, iç içe geçme ve büyüyebilen düzen.",
-    "contemporary_application": "Özgün bir geometri sistemini grid veya kenarlık olarak kullan; bütün bir kültürü tek sembole indirgeme.",
-    "exercise": "Bir başlangıç birimi kur; ölçek, tekrar ve boşluk için üç kontrollü varyasyon üret.",
-    "limits": "Tarihsel bir nesnenin desenini aynen alma. Geometriyi her bölgede aynı anlama geliyormuş gibi sunma.",
+    "historical_context": "The Met treats geometric ornament as one of several decorative forms in Islamic art, with historical and regional diversity.",
+    "visual_principles": "Repetition, interlacing and expandable arrangements built from circles, squares, stars and polygons.",
+    "contemporary_application": "Use an original geometric system as a grid or border without reducing an entire culture to one symbol.",
+    "exercise": "Construct a starting unit and make three controlled variations in scale, repetition and spacing.",
+    "limits": "Do not copy a historical object pattern exactly or imply geometry has the same meaning in every region.",
     "assets": [],
     "medium": [
       "study"
@@ -772,11 +734,9 @@
   },
   {
     "id": "calligraphy-in-islamic-art",
-    "title_tr": "İslam sanatlarında hat gelenekleri",
     "title_en": "Calligraphy in Islamic art",
     "record_type": "art_tradition",
     "aliases": [
-      "İslam sanatlarında hat gelenekleri",
       "Calligraphy in Islamic art"
     ],
     "status": "imported-seed",
@@ -794,11 +754,11 @@
     "source_ids": [
       "S43"
     ],
-    "historical_context": "Met, hattın görsel düzenin yanı sıra metin iletme işlevini vurgular; bölgeye ve döneme göre kullanımı değişir.",
-    "visual_principles": "Yazının çizgisel ritmi, metnin okunması, zemin ve bezemeyle ilişki.",
-    "contemporary_application": "Anlamı doğrulanmış sıradan bir ifadeyle özgün yazı kompozisyonu; dil bilen uzmanla okunurluk kontrolü.",
-    "exercise": "Bir ifadenin doğrusal ve dairesel iki düzenini karşılaştır; anlam ve okuma sırasını kaydet.",
-    "limits": "Kutsal yazıyı anlamsız doku olarak kullanma. Türkçe, Arapça ve Farsça yazı geleneklerini özdeşleştirme.",
+    "historical_context": "The Met emphasizes calligraphy as a means of communicating text as well as organizing visual form; its uses vary by region and period.",
+    "visual_principles": "Linear rhythm in writing, reading the text and relationships with ground and ornament.",
+    "contemporary_application": "Create an original lettering composition with an ordinary phrase whose meaning is verified; check readability with a language specialist.",
+    "exercise": "Compare linear and circular arrangements of one phrase; record meaning and reading order.",
+    "limits": "Do not use sacred writing as meaningless texture or equate Turkish, Arabic and Persian writing traditions.",
     "assets": [],
     "medium": [
       "study"
@@ -808,7 +768,6 @@
   },
   {
     "id": "africobra",
-    "title_tr": "AfriCOBRA",
     "title_en": "AfriCOBRA",
     "record_type": "collective",
     "aliases": [
@@ -829,11 +788,11 @@
     "source_ids": [
       "S44"
     ],
-    "historical_context": "Smithsonian kaydı, AfriCOBRA’yı Siyah kültürel/politik özneleşme ve topluluk bağlamıyla ilişkilendirir.",
-    "visual_principles": "İmge içinde söz, enerjik renk ve ritmik örüntü; kaynak eserin toplumsal mesajıyla bağlantı.",
-    "contemporary_application": "Bir topluluk projesinde mesajı ilgili insanlarla birlikte belirle; özgün sözcük/renk ritmi kur.",
-    "exercise": "Kendi yazdığın kısa bir topluluk mesajı için üç görsel hiyerarşi üret.",
-    "limits": "Özel sembolleri “Afrika deseni” diye genelleme. Grubun adını yanlış bir sözlük çevirisiyle değiştirme.",
+    "historical_context": "The Smithsonian record connects AfriCOBRA with Black cultural and political agency and community contexts.",
+    "visual_principles": "Words within images, energetic color and rhythmic patterns connected with the social message of the source work.",
+    "contemporary_application": "Determine a community project message with the people involved and create an original rhythm of words and colors.",
+    "exercise": "Create three visual hierarchies for a short community message you wrote.",
+    "limits": "Do not generalize specific symbols as African patterns or rename the group through an inaccurate dictionary translation.",
     "assets": [],
     "medium": [
       "study"
@@ -843,11 +802,9 @@
   },
   {
     "id": "harlem-renaissance",
-    "title_tr": "Harlem Rönesansı",
     "title_en": "Harlem Renaissance",
     "record_type": "movement",
     "aliases": [
-      "Harlem Rönesansı",
       "Harlem Renaissance"
     ],
     "status": "imported-seed",
@@ -865,11 +822,11 @@
     "source_ids": [
       "S45"
     ],
-    "historical_context": "Met, hareketi Siyah modern yaşamı, göç, kültürel ifade ve uluslararası bağlantılarla ilişkilendirir; tek bir biçim dili olmadığını vurgular.",
-    "visual_principles": "Gündelik yaşam, portre ve farklı görsel mecralar üzerinden çoğul anlatılar.",
-    "contemporary_application": "Bir mahallenin yaratıcı hayatını ilgili kişilerin sözleri ve izinli görselleriyle anlatan yayın dizisi geliştir.",
-    "exercise": "Altı sahneden oluşan özgün bir mahalle anlatısı kur; her sahnenin bakış açısını açıkla.",
-    "limits": "Hareketi yalnız gece hayatına, tek palete veya tek bir sanatçının biçimine indirgeyen reçete yazma.",
+    "historical_context": "The Met connects the movement with modern Black life, migration, cultural expression and international relationships, emphasizing that it has no single formal language.",
+    "visual_principles": "Plural narratives through everyday life, portraiture and different visual media.",
+    "contemporary_application": "Develop a publication series about a neighborhood creative life using participant accounts and permitted images.",
+    "exercise": "Build an original neighborhood narrative with six scenes and explain the viewpoint of each.",
+    "limits": "Do not reduce the movement to nightlife, one palette or the forms of one artist.",
     "assets": [
       "publication"
     ],
@@ -881,11 +838,9 @@
   },
   {
     "id": "calligraphic-school",
-    "title_tr": "Kaligrafik Sanat Okulu: kaynakta kullanılan ad",
     "title_en": "Calligraphic School of Art",
     "record_type": "school",
     "aliases": [
-      "Kaligrafik Sanat Okulu: kaynakta kullanılan ad",
       "Calligraphic School of Art"
     ],
     "status": "imported-seed",
@@ -903,11 +858,11 @@
     "source_ids": [
       "S46"
     ],
-    "historical_context": "Met’in Mısır modern sanatı yazısı, belirli tarihsel bağlamlarda hat ve geometrinin modern sanat içindeki kullanımını bu adla ele alır.",
-    "visual_principles": "Yazı, soyutlama ve tarihsel/kültürel konum arasındaki ilişki.",
-    "contemporary_application": "Yazının yalnız şekline değil anlamına ve güncel bağlama dayalı kapak araştırması yap.",
-    "exercise": "Bir kelimenin anlamını koruyarak üç soyutlama düzeyi geliştir; her birini okunurluk açısından açıkla.",
-    "limits": "Bu kaynakta geçen ad, ayrıca doğrulanmadan Hurufiyya ile eşanlamlı yapılmamalı.",
+    "historical_context": "The Met essay on Egyptian modern art uses this name to discuss calligraphy and geometry within modern art in specific historical contexts.",
+    "visual_principles": "Relationships between writing, abstraction and historical/cultural positioning.",
+    "contemporary_application": "Research a cover through the meaning of writing and its current context, beyond its shape.",
+    "exercise": "Develop three levels of abstraction for a word while preserving its meaning; explain each in terms of readability.",
+    "limits": "Do not treat this source-specific name as synonymous with Hurufiyya without separate verification.",
     "assets": [
       "cover"
     ],
@@ -919,11 +874,9 @@
   },
   {
     "id": "sabiha-rustu-bozcali",
-    "title_tr": "Sabiha Rüştü Bozcalı: yayın ve reklam pratiği",
     "title_en": "Sabiha Rüştü Bozcalı: publishing and advertising",
     "record_type": "case_study",
     "aliases": [
-      "Sabiha Rüştü Bozcalı: yayın ve reklam pratiği",
       "Sabiha Rüştü Bozcalı: publishing and advertising"
     ],
     "status": "imported-seed",
@@ -943,11 +896,11 @@
       "S48",
       "S49"
     ],
-    "historical_context": "SALT, Bozcalı’nın illüstrasyon, yayın ve reklam alanlarındaki üretimini arşiv ve sergi üzerinden görünür kılar.",
-    "visual_principles": "Görsel anlatı, çizim ve basılı iletişimin ilişkisi; arşiv nesnesi üzerinden bağlamlı inceleme.",
-    "contemporary_application": "Türkiye tasarım bölümünü tek bir “Türk stili” yerine adlandırılmış üreticiler, yayınlar ve işler üzerinden kur.",
-    "exercise": "SALT’ta bir kayıt seç; görseli yeniden dağıtmadan kompozisyon, mesaj ve üretim bağlamını çözümle; aynı probleme özgün kapak öner.",
-    "limits": "Bu kişi/üretim incelemesi bir sanat akımı değildir. Eser, görüntü ve arşiv metninin haklarını ayrı kaydet.",
+    "historical_context": "SALT makes Bozcalı’s illustration, publishing and advertising practice visible through archives and exhibitions.",
+    "visual_principles": "Relationships between visual narrative, drawing and printed communication; contextual study through archival objects.",
+    "contemporary_application": "Build the Turkey design section around named makers, publications and works rather than a single Turkish style.",
+    "exercise": "Select a SALT record; analyze composition, message and production context without redistributing the image, then propose an original cover for the same problem.",
+    "limits": "This study of a practitioner is not an art movement. Record rights for the work, image and archival text separately.",
     "assets": [
       "publication"
     ],
@@ -959,14 +912,11 @@
   },
   {
     "id": "formal-analysis",
-    "title_tr": "Biçimsel analiz",
     "title_en": "Formal analysis",
     "record_type": "foundation",
     "aliases": [
-      "Biçimsel analiz",
       "Formal analysis",
-      "tasarım temelleri",
-      "formal analysis"
+      "design foundations"
     ],
     "status": "imported-seed",
     "review_status": "needs-source-review",
@@ -983,11 +933,11 @@
     "source_ids": [
       "S21"
     ],
-    "historical_context": "Getty öğretmen kaynakları sanatın görsel elemanları ve tasarım ilkeleri üzerinden eser inceleme etkinlikleri sunar.",
-    "visual_principles": "Çizgi, biçim, değer, doku, mekân; denge, vurgu, ritim ve görsel ilişkileri kanıtla açıklama.",
-    "contemporary_application": "Design Critic önce gözlenebilir düzeni tarif etsin, sonra yorum ve değişiklik önerisini ayırsın.",
-    "exercise": "Bir afişte gözlenen beş özelliği işaretle; “güzel” demeden etkilerini açıkla.",
-    "limits": "Eleştiri, kişisel beğeniyi nesnel hata diye sunmamalı; niyet ve izleyici dikkate alınmalı.",
+    "historical_context": "Getty teacher resources offer activities for examining works through visual elements and design principles.",
+    "visual_principles": "Line, shape, value, texture and space; explaining balance, emphasis, rhythm and visual relationships with evidence.",
+    "contemporary_application": "Design Critic should first describe observable organization, then separate interpretation from proposed changes.",
+    "exercise": "Identify five observed features of a poster and explain their effects without simply calling it beautiful.",
+    "limits": "Critique must not present personal taste as objective error; consider intention and audience.",
     "assets": [],
     "medium": [
       "study"
@@ -997,16 +947,13 @@
   },
   {
     "id": "color-in-context",
-    "title_tr": "Bağlam içinde renk",
     "title_en": "Color in context",
     "record_type": "foundation",
     "aliases": [
-      "Bağlam içinde renk",
       "Color in context",
-      "renk",
       "color",
       "colour",
-      "renk bilgisi"
+      "color theory"
     ],
     "status": "imported-seed",
     "review_status": "needs-source-review",
@@ -1024,11 +971,11 @@
       "S22",
       "S23"
     ],
-    "historical_context": "Albers Foundation, rengi ilişkiler ve deney yoluyla inceleyen öğretim yaklaşımını belgeler.",
-    "visual_principles": "Aynı rengin farklı komşuluklarda farklı algılanması; karşılaştırmalı deney.",
-    "contemporary_application": "Marka rengi seçimini tek HEX değeriyle bitirme; açık/koyu zemin ve fotoğraf üzerinde karşılaştır.",
-    "exercise": "Aynı iç rengi iki farklı çevre içinde kullan; ölçüm aynı kalırken algının nasıl değiştiğini not et.",
-    "limits": "Bu algısal egzersizi dosya renk profili hatasıyla karıştırma; her renk anlamını evrensel psikoloji kuralı sayma.",
+    "historical_context": "The Albers Foundation documents a teaching approach that examines color through relationships and experimentation.",
+    "visual_principles": "The same color can appear different in different surroundings; use comparative experiments.",
+    "contemporary_application": "Do not finish brand color selection with one HEX value; compare it on light and dark backgrounds and photographs.",
+    "exercise": "Place the same inner color in two different surroundings; note how perception changes while its measured value stays constant.",
+    "limits": "Do not confuse this perceptual exercise with a file color-profile error or treat every color meaning as a universal rule of psychology.",
     "assets": [
       "identity"
     ],

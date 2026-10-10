@@ -1,86 +1,86 @@
-# Temellerden portfolyoya
-Bu, okulların birebir syllabus kopyası veya diploma eşdeğeri değildir. Araştırmadan türetilmiş özgün bir çalışma planıdır. Modül numarası hafta veya zorunlu süre değildir; mevcut düzeye göre atlanabilir/derinleştirilebilir.
+# From foundations to portfolio
+This is an original research-derived study plan, not a copied syllabus or degree equivalent. Module numbers do not prescribe weeks or durations; adapt depth to the learner’s current level.
 
-## 01. Görsel algı ve biçim
-Negatif alan, değer, vurgu, ritim, denge; gözlem ile yorumu ayır.
+## 01. Visual perception and form
+Negative space, value, emphasis, rhythm and balance; separate observation from interpretation.
 
-**Önerilen teslim:** Bir afişin biçimsel çözümlemesi ve üç küçük kompozisyon.
+**Suggested deliverable:** A formal analysis of one poster and three small compositions.
 
-**Dayanak:** [S21: Getty formal analysis learning resources](https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html); [S01: RISD Graphic Design BFA](https://www.risd.edu/academics/graphic-design/bachelors-program)
+**Sources:** [S21: Getty formal analysis learning resources](https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html); [S01: RISD Graphic Design BFA](https://www.risd.edu/academics/graphic-design/bachelors-program)
 
-## 02. Bağlam içinde renk
-Renk ilişkisini deneyle incele; algı ve dosya profili sorunlarını ayır.
+## 02. Color in context
+Explore color relationships experimentally; distinguish perception from file-profile problems.
 
-**Önerilen teslim:** Aynı renklerle altı zemin denemesi ve üretim profil notu.
+**Suggested deliverable:** Six background experiments using the same colors and a production-profile note.
 
-**Dayanak:** [S22: Albers Foundation Interaction of Color](https://www.albersfoundation.org/alberses/teaching/interaction-of-color); [S23: Albers Foundation One Color Becomes Two](https://www.albersfoundation.org/learning/workshops/one-color-becomes-two)
+**Sources:** [S22: Albers Foundation Interaction of Color](https://www.albersfoundation.org/alberses/teaching/interaction-of-color); [S23: Albers Foundation One Color Becomes Two](https://www.albersfoundation.org/learning/workshops/one-color-becomes-two)
 
-## 03. Tipografi
-Harf, boşluk, hiyerarşi ve uzun/kısa metin; Türkçe karakterlerle test.
+## 03. Typography
+Letterforms, spacing, hierarchy and long/short text; test the characters required by the intended language.
 
-**Önerilen teslim:** Yalnız tipografiyle üç afiş; süreç günlüğü.
+**Suggested deliverable:** Three typography-only posters and a process journal.
 
-**Dayanak:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S16: CMU Typography One: Type as Image syllabus](https://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)
+**Sources:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S16: CMU Typography One: Type as Image syllabus](https://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)
 
-## 04. Sanat ve tasarım tarihiyle okuma
-Akım/okul/gelenek ayrımı; kaynaklı bağlam ve çağdaş öneri.
+## 04. Reading through art and design history
+Distinguish movements, schools and traditions; separate sourced context from contemporary proposals.
 
-**Önerilen teslim:** İki yaklaşımı karşılaştıran araştırma kartı.
+**Suggested deliverable:** A research card comparing two approaches.
 
-**Dayanak:** [S27: MoMA Bauhaus](https://www.moma.org/collection/terms/bauhaus); [S33: MoMA The New Typography](https://www.moma.org/calendar/exhibitions/1013); [S47: SALT Ressam Sabiha Rüştü Bozcalı](https://saltonline.org/tr/ressam-sabiha-rustu-bozcali-1256)
+**Sources:** [S27: MoMA Bauhaus](https://www.moma.org/collection/terms/bauhaus); [S33: MoMA The New Typography](https://www.moma.org/calendar/exhibitions/1013); [S47: SALT Painter Sabiha Rüştü Bozcalı](https://saltonline.org/tr/ressam-sabiha-rustu-bozcali-1256)
 
-## 05. İmge üretimi ve fotomontaj
-Anlam, malzeme, fotoğraf, illüstrasyon, maske ve kaynak hakları.
+## 05. Image-making and photomontage
+Meaning, material, photography, illustration, masks and source rights.
 
-**Önerilen teslim:** Düzenlenebilir bir kapak kompozisyonu ve kaynak listesi.
+**Suggested deliverable:** An editable cover composition and source list.
 
-**Dayanak:** [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S31: MoMA Dada: chance, collage, photomontage and assemblage](https://www.moma.org/collection/terms/dada/chance-creations-collage-photomontage-and-assemblage)
+**Sources:** [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S31: MoMA Dada: chance, collage, photomontage and assemblage](https://www.moma.org/collection/terms/dada/chance-creations-collage-photomontage-and-assemblage)
 
-## 06. Logo ve görsel kimlik
-Markayı tek işaretten ibaret görme; değişmezler ve varyantlar belirle.
+## 06. Logos and visual identity
+Treat a brand as more than a single mark; define constants and variants.
 
-**Önerilen teslim:** Logo ailesi, tek renk testleri ve kısa kimlik rehberi.
+**Suggested deliverable:** A logo family, one-color tests and a short identity guide.
 
-**Dayanak:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design)
+**Sources:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design)
 
-## 07. Afiş / flyer / sosyal seri
-Bir mesajı farklı ölçü ve içerik uzunluklarında koru.
+## 07. Posters, flyers and social series
+Preserve one message across different sizes and content lengths.
 
-**Önerilen teslim:** Afiş, flyer ve dört parçalı sosyal seri.
+**Suggested deliverable:** A poster, flyer and four-part social series.
 
-**Dayanak:** [S07: UAL LCC Graphic and Media Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-and-media-design-lcc); [S40: Cooper Hewitt: How Posters Work](https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/)
+**Sources:** [S07: UAL LCC Graphic and Media Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-and-media-design-lcc); [S40: Cooper Hewitt: How Posters Work](https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/)
 
-## 08. Editoryal tasarım ve kapak
-Grid, okuma sırası, sayfa stilleri, içerik-malzeme ilişkisi.
+## 08. Editorial design and covers
+Grids, reading order, page styles and relationships between content and material.
 
-**Önerilen teslim:** Sekiz sayfalık yayın, kapak ve üretim kontrolü.
+**Suggested deliverable:** An eight-page publication, cover and production check.
 
-**Dayanak:** [S11: ECAL Graphic Design Bachelor](https://ecal.ch/en/courses-and-research/bachelor/bachelor-graphic-design/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)
+**Sources:** [S11: ECAL Graphic Design Bachelor](https://ecal.ch/en/courses-and-research/bachelor/bachelor-graphic-design/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)
 
-## 09. Motion ön üretimi
-Hareketin amacını belirle; storyboard, styleframe ve animatic.
+## 09. Motion preproduction
+Define the purpose of movement; develop storyboards, styleframes and animatics.
 
-**Önerilen teslim:** Altı kare storyboard ve kısa animatic.
+**Suggested deliverable:** A six-frame storyboard and short animatic.
 
-**Dayanak:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)
+**Sources:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)
 
-## 10. Motion kimliği
-Tipografi, geçiş, ritim, duruş ve görsel sistemin zamana taşınması.
+## 10. Motion identity
+Typography, transitions, rhythm, holds and translating a visual system into time.
 
-**Önerilen teslim:** Aynı marka için yaklaşık 10 saniyelik motion denemesi.
+**Suggested deliverable:** An approximately 10-second motion experiment for the same brand.
 
-**Dayanak:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)
+**Sources:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)
 
-## 11. Kurgu / ses / altyazı
-Klip seçimi, anlatı, ses ilişkileri ve okunabilir altyazı.
+## 11. Editing, sound and captions
+Clip selection, narrative, audio relationships and readable captions.
 
-**Önerilen teslim:** Yaklaşık 30 saniyelik kurgu; proje ve çıktı kontrolleri.
+**Suggested deliverable:** An approximately 30-second edit with project and output checks.
 
-**Dayanak:** [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)
+**Sources:** [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)
 
-## 12. Portfolyo ve eleştiri
-Araştırma sorusu, alternatif, tercih gerekçesi, revizyon ve öz değerlendirme.
+## 12. Portfolio and critique
+Research question, alternatives, choice rationale, revision and self-assessment.
 
-**Önerilen teslim:** Bir tam vaka anlatımı; önce-sonra ve üretim kanıtları.
+**Suggested deliverable:** One complete case study with before/after comparisons and production evidence.
 
-**Dayanak:** [S04: Yale Graphic Design MFA](https://art.yale.edu/program/graphic-design); [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S10: KABK Graphic Design programme description](https://www.kabk.nl/en/programmes/bachelor/graphic-design/programme-description)
+**Sources:** [S04: Yale Graphic Design MFA](https://art.yale.edu/program/graphic-design); [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S10: KABK Graphic Design programme description](https://www.kabk.nl/en/programmes/bachelor/graphic-design/programme-description)

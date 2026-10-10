@@ -1,36 +1,35 @@
-# Proje kimliği ve kapsam
+# Project identity and scope
 
-Project ID: `design-taste`  
-Ürün: Design Taste  
-Sorumlu hesap: `ebnative`  
-Durum: çalışan başlangıç sürümü, `0.1.0`  
-Yapı profili: Python betikleri + beceri paketleri + kaynaklı bilgi tabanı  
-Proje standardı: kullanıcı tarafından 10 Ekim 2026'da kabul edilen `1.0.0`
+Project ID: `design-taste`\
+Product: Design Taste\
+Maintainer: `ebnative`\
+Status: working initial release, `0.1.0`\
+Profile: Python scripts + skill packages + sourced knowledge base\
+Project standard: `1.0.0`, adopted by the user on October 10, 2026
 
-## Problem ve kullanıcı işi
+## Problem and user task
 
-Sanat ve tasarım bilgisini kişisel portfolyo ve sonraki üretim işleri için aranabilir,
-öğrenilebilir ve uygulanabilir hale getirmek. İlk örnek: kişiyi anlatan portfolyo kapağı
-için anlam, metafor, kompozisyon, renk ve tipografi kararlarını geliştirmek.
+Make art and design knowledge searchable, teachable and applicable to personal portfolio work and later production.
+The first example develops meaning, metaphor, composition, color and typography for a portfolio cover expressing its creator.
 
-## Mevcut kapsam
+## Current scope
 
-27 kaynak raporundan aktarılmış başlangıç kaydı, 60 kaynak künyesi, 12 öğrenme modülü,
-TR/EN arama ve sekiz beceri. Python standart kütüphanesi yeterlidir.
-Photoshop ve Illustrator'ın mevcut yöntemleri korunur. Diğer üç Adobe uygulamasında
-bağlantı ve canlı üretim doğrulaması henüz yapılmadı.
+27 seed records imported from a source report, 60 source entries, 12 learning modules,
+English search and eight skills. Python's standard library is sufficient.
+Existing Photoshop and Illustrator methods are preserved. Connections and live production verification
+have not yet been performed for the other three Adobe applications.
 
-## Kabul ölçütleri
+## Acceptance criteria
 
-- TR/EN arama bilinen aynı kavrama ulaşır; tür ve mecra filtreleri korunur.
-- Sonuç yokken kayıt üretilmez. Arama puanı estetik kalite değildir.
-- Bağımsız taşınan beceri paketinin kaynak bağlantıları ve araması çalışır.
-- Güncelleme mevcut tercihleri korur ve yedek bütünlüğünü doğrular.
-- Kaynaklı tarih, çağdaş öneri ve kişisel tercih ayrı tutulur.
-- `python scripts/check.py` geçer. Canlı üretim kanıtı ayrıca kaydedilir.
+- English names and aliases retrieve the same known concept; type and medium filters remain available.
+- No records are invented when nothing matches. Search scores do not measure aesthetic quality.
+- Source links and search work in relocated standalone skill packages.
+- Updates preserve existing preferences and verify backup integrity.
+- Sourced history, contemporary proposals and personal preferences remain distinct.
+- `python scripts/check.py` passes. Live production evidence is recorded separately.
 
-## Sonraki kapsam
+## Future scope
 
-Kaynakları yeniden inceleme, tarih/coğrafya/eser verisini zenginleştirme ve kontrollü Adobe
-üretim testleri. Tüm dünya sanatının tamamlandığı iddia edilmez.
-Görevler tek kaynak olarak [GitHub Issues](https://github.com/ebnative/design-taste/issues) üzerinden yönetilir.
+Source re-review, richer dates/geographies/works and controlled Adobe production tests.
+No claim of complete global art coverage is made.
+Tasks are managed through [GitHub Issues](https://github.com/ebnative/design-taste/issues) as the single source.

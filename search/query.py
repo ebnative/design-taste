@@ -1,4 +1,4 @@
-"""Local TR/EN lexical retrieval; relevance scores are not aesthetic ratings."""
+"""Local English lexical retrieval; relevance scores are not aesthetic ratings."""
 import argparse
 from collections import Counter
 import json
@@ -38,7 +38,7 @@ def search(query, record_type=None, asset=None, medium=None, limit=5, root=ROOT)
         raise ValueError('Unknown medium: ' + medium)
     documents = []
     for rec in records:
-        prominent = ' '.join([rec['id'], rec['title_tr'], rec['title_en']] + rec['aliases'])
+        prominent = ' '.join([rec['id'], rec['title_en']] + rec['aliases'])
         content = ' '.join(rec.get(key, '') for key in ('historical_context', 'visual_principles', 'contemporary_application', 'exercise'))
         documents.append(tokens((prominent + ' ') * 3 + content))
     terms = set(tokens(query))
@@ -62,7 +62,7 @@ def search(query, record_type=None, asset=None, medium=None, limit=5, root=ROOT)
             continue
         if normalize(query.strip()) in [normalize(a) for a in rec['aliases'] + [rec['id']]]:
             score += 10
-        results.append(dict(id=rec['id'], title=rec['title_tr'], record_type=rec['record_type'],
+        results.append(dict(id=rec['id'], title=rec['title_en'], record_type=rec['record_type'],
                             score=round(score, 5), matched_terms=matched, path=rec['path'],
                             source_ids=rec['source_ids'], review_status=rec['review_status'],
                             production_test_status=rec['production_test_status'],
@@ -93,13 +93,13 @@ def main():
     if args.json:
         print(json.dumps(result, ensure_ascii=False, indent=2))
     elif not result['results']:
-        print('Bilgi tabanında eşleşme yok; sonuç veya varsayılan stil üretilmedi.')
+        print('No match in the knowledge base; no result or default style was generated.')
     else:
         print(result['note'])
         for row in result['results']:
             print('\n' + row['title'] + ' [' + row['record_type'] + ']\n' + row['path'])
-            print('Öneri: ' + row['application'])
-            print('Sınır: ' + row['limits'])
+            print('Proposal: ' + row['application'])
+            print('Limit: ' + row['limits'])
 
 if __name__ == '__main__':
     main()

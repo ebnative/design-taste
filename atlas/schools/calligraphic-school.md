@@ -1,26 +1,25 @@
-# Kaligrafik Sanat Okulu: kaynakta kullanılan ad
+# Calligraphic School of Art
 
-English: Calligraphic School of Art  
-ID: `calligraphic-school`  
-Tür: `school`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `calligraphic-school`\
+Type: `school`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Met’in Mısır modern sanatı yazısı, belirli tarihsel bağlamlarda hat ve geometrinin modern sanat içindeki kullanımını bu adla ele alır.
+## Sourced context
+The Met essay on Egyptian modern art uses this name to discuss calligraphy and geometry within modern art in specific historical contexts.
 
-## Görsel / üretim ilkeleri
-Yazı, soyutlama ve tarihsel/kültürel konum arasındaki ilişki.
+## Visual and production principles
+Relationships between writing, abstraction and historical/cultural positioning.
 
-## Tasarıma uyarlama önerimiz
-Yazının yalnız şekline değil anlamına ve güncel bağlama dayalı kapak araştırması yap.
+## Our contemporary design proposal
+Research a cover through the meaning of writing and its current context, beyond its shape.
 
-## Önerilen alıştırma
-Bir kelimenin anlamını koruyarak üç soyutlama düzeyi geliştir; her birini okunurluk açısından açıkla.
+## Suggested exercise
+Develop three levels of abstraction for a word while preserving its meaning; explain each in terms of readability.
 
-## Sınırlar ve yanlış eşleştirmeler
-Bu kaynakta geçen ad, ayrıca doğrulanmadan Hurufiyya ile eşanlamlı yapılmamalı.
+## Limits and common misinterpretations
+Do not treat this source-specific name as synonymous with Hurufiyya without separate verification.
 
-## Kaynaklar
+## Sources
 [S46: Met Egyptian Modern Art](https://www.metmuseum.org/essays/egyptian-modern-art)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

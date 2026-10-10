@@ -1,26 +1,25 @@
-# Psychedelic afiş geleneği
+# Psychedelic posters
 
-English: Psychedelic posters  
-ID: `psychedelic-posters`  
-Tür: `design_tradition`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `psychedelic-posters`\
+Type: `design_tradition`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Cooper Hewitt’in How Posters Work sergisi, 1960’ların psychedelic afişlerini yoğun görsel deneyim örnekleri arasında ele alır.
+## Sourced context
+Cooper Hewitt How Posters Work exhibition discusses psychedelic posters of the 1960s among examples of intense visual experience.
 
-## Görsel / üretim ilkeleri
-Yoğun desen, dolaşan çizgi, yarışan renk ve metnin imgeleşmesi.
+## Visual and production principles
+Dense patterns, wandering lines, competing colors and text treated as imagery.
 
-## Tasarıma uyarlama önerimiz
-Müzik etkinliği için ritmik özgün harf/biçim çalışması; temel etkinlik bilgilerini ayrıca okunur tut.
+## Our contemporary design proposal
+Develop original rhythmic lettering and forms for a music event; keep essential event information independently readable.
 
-## Önerilen alıştırma
-Yoğun ve sakin iki afiş yap; izleyicinin mesajı bulma sürecini karşılaştır.
+## Suggested exercise
+Make one dense and one calm poster; compare how viewers find the message.
 
-## Sınırlar ve yanlış eşleştirmeler
-Duyusal yük ile iletişim hedefi aynı değildir. Motion’da flaş/strobe kullanma; eserleri izleyerek yeniden çizme.
+## Limits and common misinterpretations
+Sensory overload and communication goals differ. Avoid flash/strobe in motion and do not trace existing works.
 
-## Kaynaklar
+## Sources
 [S40: Cooper Hewitt: How Posters Work](https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

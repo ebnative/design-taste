@@ -1,6 +1,6 @@
-# Önceki uygulama testleri
+# Prior application tests
 
-Önceki sohbette raporlanan testlerdir; bu importta tekrar çalıştırılmadı.
+These tests were reported in an earlier conversation and were not rerun during import.
 # Verified Illustrator recipes
 
 Record only methods executed and checked in Illustrator. No design/style preferences belong here.

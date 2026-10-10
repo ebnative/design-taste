@@ -1,5 +1,6 @@
-# Ortak tasarım bilgisi
-Önce [ortak rehberi](shared-design.md) oku. Atlas kaydını tarihsel bağlamı ve sınırlarıyla getir.
-Onaylı brief ve özel kullanıcı geri bildirimi atlas önerisinden önce gelir.
-UI UX Pro Max yalnız gerçek UI/web görevi veya açık istek için isteğe bağlı yardımcıdır.
-CSS, hover, web CTA ve responsive kurallarını statik tasarıma aynen taşıma.
+# Shared design knowledge
+
+Read the [shared guide](shared-design.md) first. Retrieve atlas records with their historical contexts and limits.
+The approved brief and explicit private user feedback take priority over atlas suggestions.
+UI UX Pro Max is an optional aid for actual UI/web tasks or explicit requests.
+Do not directly transfer CSS, hover, web CTA or responsive rules into static design.

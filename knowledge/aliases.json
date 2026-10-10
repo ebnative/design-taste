@@ -16,39 +16,26 @@
       "De Stijl"
     ],
     "constructivism": [
-      "Konstrüktivizm",
-      "Constructivism",
-      "konstrüktivizm",
-      "yapımcılık"
+      "Constructivism"
     ],
     "suprematism": [
-      "Süprematizm",
       "Suprematism"
     ],
     "dada": [
       "Dada"
     ],
     "photomontage": [
-      "Fotomontaj",
       "Photomontage",
-      "fotomontaj",
       "photo montage"
     ],
     "surrealism": [
-      "Sürrealizm",
-      "Surrealism",
-      "sürrealizm",
-      "gerçeküstücülük",
-      "surrealism"
+      "Surrealism"
     ],
     "new-typography": [
-      "Yeni Tipografi",
       "New Typography"
     ],
     "swiss-style": [
-      "İsviçre Tipografik Geleneği",
       "Swiss / International Typographic Style",
-      "İsviçre stili",
       "Swiss Style",
       "International Typographic Style"
     ],
@@ -59,94 +46,76 @@
       "Op Art"
     ],
     "minimalism": [
-      "Minimalizm",
       "Minimalism"
     ],
     "postmodern-design": [
-      "Postmodern tasarım",
       "Postmodern design"
     ],
     "memphis": [
       "Memphis"
     ],
     "psychedelic-posters": [
-      "Psychedelic afiş geleneği",
       "Psychedelic posters"
     ],
     "ukiyo-e": [
       "Ukiyo-e"
     ],
     "islamic-geometric-pattern": [
-      "İslam sanatlarında geometrik örüntüler",
       "Geometric patterns in Islamic art",
-      "İslami desen",
       "Islamic geometric pattern"
     ],
     "calligraphy-in-islamic-art": [
-      "İslam sanatlarında hat gelenekleri",
       "Calligraphy in Islamic art"
     ],
     "africobra": [
       "AfriCOBRA"
     ],
     "harlem-renaissance": [
-      "Harlem Rönesansı",
       "Harlem Renaissance"
     ],
     "calligraphic-school": [
-      "Kaligrafik Sanat Okulu: kaynakta kullanılan ad",
       "Calligraphic School of Art"
     ],
     "sabiha-rustu-bozcali": [
-      "Sabiha Rüştü Bozcalı: yayın ve reklam pratiği",
       "Sabiha Rüştü Bozcalı: publishing and advertising"
     ],
     "formal-analysis": [
-      "Biçimsel analiz",
       "Formal analysis",
-      "tasarım temelleri",
-      "formal analysis"
+      "design foundations"
     ],
     "color-in-context": [
-      "Bağlam içinde renk",
       "Color in context",
-      "renk",
       "color",
       "colour",
-      "renk bilgisi"
+      "color theory"
     ]
   },
   "asset_aliases": {
     "cover": [
-      "kapak",
       "cover"
     ],
     "poster": [
-      "afiş",
-      "afis",
       "poster",
       "flyer"
     ],
     "identity": [
       "logo",
-      "kimlik",
-      "marka",
+      "identity",
       "brand"
     ],
     "publication": [
-      "yayın",
-      "dergi",
-      "kitap",
+      "publication",
+      "magazine",
+      "book",
       "editorial"
     ],
     "social-series": [
-      "sosyal",
+      "social",
       "carousel"
     ],
     "motion": [
       "motion",
-      "hareketli",
-      "animasyon"
+      "animation"
     ]
   }
 }

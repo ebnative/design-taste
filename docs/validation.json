@@ -13,5 +13,13 @@
   "existing_adobe_skill_hashes": "unchanged",
   "live_adobe_test": "not_run",
   "source_reverification": "pending",
-  "scope": "Local initial-release checks; remote CI result is separate."
+  "scope": "Local initial-release checks; remote CI result is separate.",
+  "english_migration": {
+    "functional_tests_passed": 9,
+    "portable_packages_checked": 8,
+    "portable_local_links_checked": 36,
+    "record_text_consistency": "27 records passed",
+    "source_ids_urls_verification": "preserved",
+    "live_adobe_test": "not_run"
+  }
 }

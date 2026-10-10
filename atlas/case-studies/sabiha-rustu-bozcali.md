@@ -1,26 +1,25 @@
-# Sabiha Rüştü Bozcalı: yayın ve reklam pratiği
+# Sabiha Rüştü Bozcalı: publishing and advertising
 
-English: Sabiha Rüştü Bozcalı: publishing and advertising  
-ID: `sabiha-rustu-bozcali`  
-Tür: `case_study`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `sabiha-rustu-bozcali`\
+Type: `case_study`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-SALT, Bozcalı’nın illüstrasyon, yayın ve reklam alanlarındaki üretimini arşiv ve sergi üzerinden görünür kılar.
+## Sourced context
+SALT makes Bozcalı’s illustration, publishing and advertising practice visible through archives and exhibitions.
 
-## Görsel / üretim ilkeleri
-Görsel anlatı, çizim ve basılı iletişimin ilişkisi; arşiv nesnesi üzerinden bağlamlı inceleme.
+## Visual and production principles
+Relationships between visual narrative, drawing and printed communication; contextual study through archival objects.
 
-## Tasarıma uyarlama önerimiz
-Türkiye tasarım bölümünü tek bir “Türk stili” yerine adlandırılmış üreticiler, yayınlar ve işler üzerinden kur.
+## Our contemporary design proposal
+Build the Turkey design section around named makers, publications and works rather than a single Turkish style.
 
-## Önerilen alıştırma
-SALT’ta bir kayıt seç; görseli yeniden dağıtmadan kompozisyon, mesaj ve üretim bağlamını çözümle; aynı probleme özgün kapak öner.
+## Suggested exercise
+Select a SALT record; analyze composition, message and production context without redistributing the image, then propose an original cover for the same problem.
 
-## Sınırlar ve yanlış eşleştirmeler
-Bu kişi/üretim incelemesi bir sanat akımı değildir. Eser, görüntü ve arşiv metninin haklarını ayrı kaydet.
+## Limits and common misinterpretations
+This study of a practitioner is not an art movement. Record rights for the work, image and archival text separately.
 
-## Kaynaklar
-[S47: SALT Ressam Sabiha Rüştü Bozcalı](https://saltonline.org/tr/ressam-sabiha-rustu-bozcali-1256); [S48: SALT Bir Kapak Tasarlamak](https://saltonline.org/tr/1305/atolye-bir-kapak-tasarlamak); [S49: SALT Müziği Çizmek](https://saltonline.org/tr/1309/atolye-muzigi-cizmek)
+## Sources
+[S47: SALT Painter Sabiha Rüştü Bozcalı](https://saltonline.org/tr/ressam-sabiha-rustu-bozcali-1256); [S48: SALT Designing a Cover](https://saltonline.org/tr/1305/atolye-bir-kapak-tasarlamak); [S49: SALT Drawing Music](https://saltonline.org/tr/1309/atolye-muzigi-cizmek)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

@@ -1,26 +1,25 @@
-# Biçimsel analiz
+# Formal analysis
 
-English: Formal analysis  
-ID: `formal-analysis`  
-Tür: `foundation`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `formal-analysis`\
+Type: `foundation`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Getty öğretmen kaynakları sanatın görsel elemanları ve tasarım ilkeleri üzerinden eser inceleme etkinlikleri sunar.
+## Sourced context
+Getty teacher resources offer activities for examining works through visual elements and design principles.
 
-## Görsel / üretim ilkeleri
-Çizgi, biçim, değer, doku, mekân; denge, vurgu, ritim ve görsel ilişkileri kanıtla açıklama.
+## Visual and production principles
+Line, shape, value, texture and space; explaining balance, emphasis, rhythm and visual relationships with evidence.
 
-## Tasarıma uyarlama önerimiz
-Design Critic önce gözlenebilir düzeni tarif etsin, sonra yorum ve değişiklik önerisini ayırsın.
+## Our contemporary design proposal
+Design Critic should first describe observable organization, then separate interpretation from proposed changes.
 
-## Önerilen alıştırma
-Bir afişte gözlenen beş özelliği işaretle; “güzel” demeden etkilerini açıkla.
+## Suggested exercise
+Identify five observed features of a poster and explain their effects without simply calling it beautiful.
 
-## Sınırlar ve yanlış eşleştirmeler
-Eleştiri, kişisel beğeniyi nesnel hata diye sunmamalı; niyet ve izleyici dikkate alınmalı.
+## Limits and common misinterpretations
+Critique must not present personal taste as objective error; consider intention and audience.
 
-## Kaynaklar
+## Sources
 [S21: Getty formal analysis learning resources](https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

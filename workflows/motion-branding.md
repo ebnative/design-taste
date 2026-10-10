@@ -1,2 +1,2 @@
-# Motion kimliği
-Onaylı görsel kimliği zaman boyutuna taşı. Storyboard/styleframe → animatic → hareket. MOTION.md içinde süre, fps, ritim, duruş ve ses kararlarını belirt. Tek kareyle hareket doğrulama.
+# Motion identity
+Translate the approved visual identity into time. Storyboard/styleframes → animatic → motion. Record duration, frame rate, rhythm, holds and sound decisions in MOTION.md. A single frame cannot verify motion.

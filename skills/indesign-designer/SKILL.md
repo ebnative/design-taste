@@ -17,5 +17,5 @@ Do not label scripts, manifests or previews as a saved native project. Mark reci
 Keep private preference learning in the [private memory workflow](../../workflows/private-memory.md).
 Official entrypoint: https://developer.adobe.com/indesign/uxp/scripts/
 
-## Paket içindeki ortak yollar
-Repo sürümünde ../../workflows ve ../../curriculum kullanılır. Kurulumda bu yollar bundle/workflows ve bundle/curriculum olur; [ortak rehber](references/shared-design.md) üzerinden çöz.
+## Shared paths in the package
+The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).

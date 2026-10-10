@@ -1,22 +1,22 @@
-# Mimari
+# Architecture
 
-`atlas/`: okunabilir konu kayıtları ve araştırma kuyruğu.  
-`knowledge/`: kaynak künyeleri, aliases, ilişkiler ve arama indeksi.  
-`curriculum/`: öğrenme yolu, alıştırmalar ve eleştiri ölçütleri.  
-`skills/`: üç bilgi becerisi ve beş uygulama üretim becerisi.  
-`adapters/`: gerçek uygulama erişiminin test durumu ve yöntem sınırları.  
-`search/query.py`: standard-library lexical/BM25 araması.  
-`scripts/`: doğrulama ve taşınabilir beceri kurulum/paketleme.  
-`tests/`: retrieval ve kurulum davranışı.  
-`workflows/`: çıktı türüne göre üretim rehberleri.  
-`.github/workflows/ci.yml`: Linux/Windows üzerinde Python kontrolleri.
+- `atlas/`: readable topic records and research queue.
+- `knowledge/`: source entries, aliases, relationships and search index.
+- `curriculum/`: learning path, exercises and critique criteria.
+- `skills/`: three knowledge skills and five application production skills.
+- `adapters/`: application access evidence and method limitations.
+- `search/query.py`: standard-library lexical/BM25 search.
+- `scripts/`: validation and portable skill installation/packaging.
+- `tests/`: retrieval and installation behavior.
+- `workflows/`: production guidance by output type.
+- `.github/workflows/ci.yml`: Python checks on Linux and Windows.
 
-Brief → ilgili kayıt → çağdaş tasarım kararı → uygun üretim becerisi → native çıktı → gerçek önizleme.
-Arama yalnız ilgili veriyi getirir; uygulamayı kontrol etmez.
-Repo kaynak otoritesidir. Her kurulum ortak dosyaları bir skill'in `bundle/` alanına türetir;
-bağımsız paket repo dışında taşındığında aynı bilgiye erişir.
-Kişisel tercihler, müşteriler ve kaynak Adobe dosyaları repo dışında kalır.
+Brief → relevant record → contemporary design decision → production skill → native output → actual preview.
+Search retrieves relevant information; it does not control applications.
+The repository is the source of truth. Each installation derives shared files into a skill's `bundle/` directory,
+so a standalone package retains access to the same knowledge after relocation.
+Personal preferences, client data and source Adobe files remain outside the repository.
 
-Bu proje dağıtılabilir bir Python kütüphanesi veya web uygulaması değildir. Mevcut betikleri
-`src/` altına taşımak çalıştırma/kurulum yollarını bozacağı için amaç odaklı dizinleri korur.
-Bu istisna ortak standarttaki teknolojiye uygun düzen ilkesiyle uyumludur.
+This project is neither a distributable Python library nor a web application. Moving its scripts into `src/`
+would break execution and installation paths, so purpose-specific directories are retained.
+This follows the common standard's technology-appropriate layout principle.

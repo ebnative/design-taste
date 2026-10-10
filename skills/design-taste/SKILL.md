@@ -4,14 +4,13 @@ description: "Develop personal visual concepts and art direction for covers, ide
 ---
 
 # Design Taste
-Bir brief'i gerekçeli görsel kararlara dönüştür. Kullanıcının anlatmak istediği anlamı,
-mecrayı, referansları ve mevcut kararlarını çıkar. Aynı cevapları tekrar sorma.
-Kişisel kapak için [kapak iş akışını](../../workflows/cover-editorial.md) oku.
-Yalnız ilgili atlas kayıtlarını [ortak bilgi rehberiyle](references/shared-design.md) getir.
-Tarihsel kaynak, gözlenebilir ilke ve çağdaş öneriyi ayrı sun.
-Akım etiketini insanın kimliğine otomatik atama; önerinin neden bu işe uyduğunu açıkla.
-Seçilen görsel yönü DESIGN.md içinde koru. Gerçek Adobe üretimi için uygun Designer skill'e geç.
-Bu beceri uygulama bağlantısı sağlamaz. Öğrenme için Art & Design Atlas, mevcut iş eleştirisi için Design Critic uygundur.
+Turn a brief into reasoned visual decisions. Identify intended meaning, medium, references and existing choices without repeating answered questions.
+Read the [cover workflow](../../workflows/cover-editorial.md) for personal covers.
+Retrieve only relevant atlas records through the [shared guide](references/shared-design.md).
+Present historical sources, observable principles and contemporary proposals separately.
+Do not automatically assign a movement label to a person's identity; explain why a proposal fits this task.
+Preserve the chosen visual direction in DESIGN.md. Use the appropriate Designer skill for actual Adobe production.
+This skill provides no application connection. Use Art & Design Atlas for learning and Design Critic for existing-work critique.
 
-## Paket içindeki ortak yollar
-Repo sürümünde ../../workflows ve ../../curriculum kullanılır. Kurulumda bu yollar bundle/workflows ve bundle/curriculum olur; [ortak rehber](references/shared-design.md) üzerinden çöz.
+## Shared paths in the package
+The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).

@@ -1,26 +1,25 @@
 # Art Nouveau
 
-English: Art Nouveau  
-ID: `art-nouveau`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `art-nouveau`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-V&A, Art Nouveau’yu ülkeler arasında farklılaşan, tarihsel üsluplarla ilişki kuran uluslararası bir hareket olarak açıklar.
+## Sourced context
+V&A describes Art Nouveau as an international movement that varied across countries and engaged with historical styles.
 
-## Görsel / üretim ilkeleri
-Doğal biçimlerden türetilen akıcı çizgi, yüzeysel kompozisyon ve yapıyla bezemenin birlikteliği; geometrik örnekler de vardır.
+## Visual and production principles
+Flowing lines derived from natural forms, surface composition and the integration of structure and ornament; geometric examples also exist.
 
-## Tasarıma uyarlama önerimiz
-Başlık ile ana imgeyi ortak bir çizgi mantığında birleştiren özgün afiş; küçük kullanım için sade bir işaret varyantı.
+## Our contemporary design proposal
+Create an original poster that unites the headline and main image through a shared line system, with a simpler mark for small uses.
 
-## Önerilen alıştırma
-Yerel bir bitkiyi gözlemle; fotoğrafını kopyalamadan üç soyutlama ve bir afiş geliştir.
+## Suggested exercise
+Observe a local plant and develop three abstractions and a poster without copying its photograph.
 
-## Sınırlar ve yanlış eşleştirmeler
-Her örneği çiçek, kıvrım veya tek bir sanatçının görünüşüne indirgeme.
+## Limits and common misinterpretations
+Do not reduce every example to flowers, curves or the appearance of one artist.
 
-## Kaynaklar
+## Sources
 [S25: V&A Art Nouveau international style](https://www.vam.ac.uk/articles/art-nouveau-an-international-style)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

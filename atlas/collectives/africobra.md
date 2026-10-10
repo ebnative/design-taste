@@ -1,26 +1,25 @@
 # AfriCOBRA
 
-English: AfriCOBRA  
-ID: `africobra`  
-Tür: `collective`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `africobra`\
+Type: `collective`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Smithsonian kaydı, AfriCOBRA’yı Siyah kültürel/politik özneleşme ve topluluk bağlamıyla ilişkilendirir.
+## Sourced context
+The Smithsonian record connects AfriCOBRA with Black cultural and political agency and community contexts.
 
-## Görsel / üretim ilkeleri
-İmge içinde söz, enerjik renk ve ritmik örüntü; kaynak eserin toplumsal mesajıyla bağlantı.
+## Visual and production principles
+Words within images, energetic color and rhythmic patterns connected with the social message of the source work.
 
-## Tasarıma uyarlama önerimiz
-Bir topluluk projesinde mesajı ilgili insanlarla birlikte belirle; özgün sözcük/renk ritmi kur.
+## Our contemporary design proposal
+Determine a community project message with the people involved and create an original rhythm of words and colors.
 
-## Önerilen alıştırma
-Kendi yazdığın kısa bir topluluk mesajı için üç görsel hiyerarşi üret.
+## Suggested exercise
+Create three visual hierarchies for a short community message you wrote.
 
-## Sınırlar ve yanlış eşleştirmeler
-Özel sembolleri “Afrika deseni” diye genelleme. Grubun adını yanlış bir sözlük çevirisiyle değiştirme.
+## Limits and common misinterpretations
+Do not generalize specific symbols as African patterns or rename the group through an inaccurate dictionary translation.
 
-## Kaynaklar
+## Sources
 [S44: Smithsonian AfriCOBRA / Carolyn Mims Lawrence object](https://nmaahc.si.edu/object/nmaahc_2014.130.4)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

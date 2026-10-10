@@ -1,26 +1,25 @@
 # Ukiyo-e
 
-English: Ukiyo-e  
-ID: `ukiyo-e`  
-Tür: `art_tradition`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `ukiyo-e`\
+Type: `art_tradition`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-Met, Edo dönemi ahşap baskılarında konu, seri üretim ve tasarımcı-oymacı-baskıcı-yayıncı işbirliğini anlatır.
+## Sourced context
+The Met discusses subject matter, serial production and collaboration among designers, carvers, printers and publishers in Edo-period woodblock prints.
 
-## Görsel / üretim ilkeleri
-Ayrı renk bloklarının kayıtla birleşmesi, sınır/katman ilişkisi ve seri üretim mantığı.
+## Visual and production principles
+Registered color blocks, relationships between outlines and layers, and serial production.
 
-## Tasarıma uyarlama önerimiz
-Özgün kapakta kontur ve renk katmanlarını ayrıştır; motion’da baskı katmanlarının oluşumunu güncel bir yorum olarak kullan.
+## Our contemporary design proposal
+Separate outlines and color layers in an original cover; interpret the formation of print layers in motion as a contemporary proposal.
 
-## Önerilen alıştırma
-İki renkli bir kompozisyona üçüncü bir katman ekle; hizalama ve bilinçli kaydırma sonuçlarını karşılaştır.
+## Suggested exercise
+Add a third layer to a two-color composition; compare alignment with deliberate displacement.
 
-## Sınırlar ve yanlış eşleştirmeler
-“Japon minimalist stili” diye genelleme; dijital katman yapısının tarihsel zanaatla aynı olduğunu iddia etme.
+## Limits and common misinterpretations
+Do not generalize this as Japanese minimalist style or equate digital layers with historical craft.
 
-## Kaynaklar
+## Sources
 [S41: Met Ukiyo-e woodblock printing](https://www.metmuseum.org/essays/woodblock-prints-in-the-ukiyo-e-style)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

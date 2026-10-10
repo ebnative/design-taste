@@ -1,26 +1,25 @@
 # Art Deco
 
-English: Art Deco  
-ID: `art-deco`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `art-deco`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-V&A, Art Deco’nun tek kaynağa indirgenemeyen, tarihsel ve modern unsurları birleştiren niteliğini vurgular.
+## Sourced context
+V&A emphasizes that Art Deco combines historical and modern elements and cannot be reduced to a single origin.
 
-## Görsel / üretim ilkeleri
-Geometrik stilizasyon, çizgisel ritim, süsleme ve farklı malzeme etkileri.
+## Visual and production principles
+Geometric stylization, linear rhythm, ornament and varied material effects.
 
-## Tasarıma uyarlama önerimiz
-Bir kapak veya etkinlik kimliğinde kademeli biçimler ve ritmik harf aralıkları dene; tek renkte de çalışan çözüm seç.
+## Our contemporary design proposal
+Try stepped forms and rhythmic letter spacing in a cover or event identity; choose a solution that also works in one color.
 
-## Önerilen alıştırma
-Aynı kapağın siyah-beyaz ve iki farklı renk ailesindeki üç sürümünü üret.
+## Suggested exercise
+Create three versions of the same cover: black and white, and two different color families.
 
-## Sınırlar ve yanlış eşleştirmeler
-Altın ve siyahı zorunlu sanma. Tarihsel sömürgeci “egzotik” motifleri bağlamsız dekor olarak kullanma.
+## Limits and common misinterpretations
+Gold and black are not mandatory. Do not use historical colonial notions of exotic motifs as decoration without context.
 
-## Kaynaklar
+## Sources
 [S26: V&A Introduction to Art Deco](https://www.vam.ac.uk/articles/an-introduction-to-art-deco)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

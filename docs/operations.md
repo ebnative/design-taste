@@ -1,32 +1,32 @@
-# Çalıştırma, yayın ve geri dönüş
+# Running, publishing and rollback
 
-## Yerel kullanım
+## Local use
 
-Python 3.10+ ve Git. Ek Python bağımlılığı yok; pip kurulumu gerekmez.
-`python search/query.py 'fotomontaj' --type technique` arama çalıştırır.
-`python scripts/check.py` syntax, kayıt/link ve davranış testlerini çalıştırır.
+Python 3.10+ and Git. No third-party Python dependencies or pip installation required.
+`python search/query.py 'photomontage' --type technique` runs a search.
+`python scripts/check.py` runs syntax, record/link and behavior checks.
 
-## Yapılandırma
+## Configuration
 
-`DESIGN_TASTE_PRIVATE_ROOT`: kullanıcı tercihleri için isteğe bağlı repo dışı özel konum.
-`.env.example` yalnız örnektir ve otomatik yüklenmez. Anahtar/token gerekmeyen yerel arama.
-GitHub kimlik bilgileri Git Credential Manager'da tutulur; repo ve commit'e yazılmaz.
+`DESIGN_TASTE_PRIVATE_ROOT`: optional private location outside the repository for user preferences.
+`.env.example` is an example and is not automatically loaded. Local search requires no key or token.
+GitHub credentials belong in Git Credential Manager, never in repository files or commits.
 
-## Paketleme
+## Packaging
 
-`python scripts/install.py --dest '<new-package-directory>'` sekiz taşınabilir paket üretir.
-Mevcut bir beceriyi güncellemek için hedef/skill belirtilerek `--update` kullanılır;
-hash doğrulamalı yedek oluşturulur ve style/memory korunur.
-Paketleme testleri yalnız dosya/arama davranışını doğrular; Adobe canlı test değildir.
+`python scripts/install.py --dest '<new-package-directory>'` produces eight portable packages.
+Use `--update` with the intended destination/skill to update an existing installation;
+the installer creates a hash-verified backup and preserves style/memory.
+Packaging tests verify file and retrieval behavior, not live Adobe production.
 
 ## GitHub
 
-`main` varsayılan dal. Push ve pull request'lerde CI çalışır.
-Normal değişiklik: kontrol → commit → push. Hassas/özel içerik commit'e alınmaz.
-GitHub yayını native Adobe bağlantısı kurulmuş olduğu anlamına gelmez.
+The repository is public. `main` is the default branch. CI runs on pushes and pull requests.
+Normal changes: check → commit → push. Do not commit sensitive or private content.
+Publication does not establish a native Adobe connection.
 
-## Geri dönüş
+## Rollback
 
-Hatalı kod değişikliğini yeni bir `git revert <commit>` ile geri al; paylaşılmış geçmişi force push ile silme.
-Beceri güncellemesinde yedek dosya hashlerini kontrol ederek ilgili paketi geri yükle.
-Kullanıcı tercihlerini ve mevcut uygulama dosyalarını koru.
+Undo faulty code with a new `git revert <commit>`; do not erase shared history with force push.
+Restore a skill package after checking backup file hashes.
+Preserve user preferences and existing application files.

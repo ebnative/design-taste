@@ -1,26 +1,25 @@
-# Yeni Tipografi
+# New Typography
 
-English: New Typography  
-ID: `new-typography`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `new-typography`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-MoMA’nın sergisi, 1920–1930’larda grafik ve bilgi tasarımının avangard içindeki önemini açıklar.
+## Sourced context
+MoMA exhibition materials explain the importance of graphic and information design within the avant-garde of the 1920s and 1930s.
 
-## Görsel / üretim ilkeleri
-Açık alan olarak sayfa; asimetrik tipografi-imge ilişkisi; anlamı açıklığa kavuşturan düzen.
+## Visual and production principles
+The page as an open field, asymmetrical relationships between typography and images, and layouts that clarify meaning.
 
-## Tasarıma uyarlama önerimiz
-İçeriği önceleyen afiş ve yayın sistemi; hareketli sürümde bilgi sırası korunarak bloklar arası geçiş.
+## Our contemporary design proposal
+Create a content-led poster and publication system; preserve information order during transitions between blocks in motion.
 
-## Önerilen alıştırma
-Aynı duyuruyu simetrik ve asimetrik iki biçimde tasarla; başlık, yer ve tarihin bulunma kolaylığını karşılaştır.
+## Suggested exercise
+Design the same announcement symmetrically and asymmetrically; compare how easily readers find its headline, place and date.
 
-## Sınırlar ve yanlış eşleştirmeler
-Asimetriyi okunamazlık gerekçesi yapma. Modern bir uyarlamayı tarihsel örnek diye sunma.
+## Limits and common misinterpretations
+Asymmetry does not justify illegibility. Do not present a contemporary adaptation as a historical example.
 
-## Kaynaklar
+## Sources
 [S33: MoMA The New Typography](https://www.moma.org/calendar/exhibitions/1013)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

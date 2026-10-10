@@ -1,26 +1,25 @@
-# Süprematizm
+# Suprematism
 
-English: Suprematism  
-ID: `suprematism`  
-Tür: `movement`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `suprematism`\
+Type: `movement`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-MoMA, Süprematizmi Malevich ve 1915 bağlamında, temsilden uzak geometrik soyutlama ile ilişkilendirir.
+## Sourced context
+MoMA connects Suprematism with Malevich and the context of 1915, emphasizing geometric abstraction away from representation.
 
-## Görsel / üretim ilkeleri
-Basit geometrik biçimler, boşlukta ilişkiler, temsil yerine biçimsel gerilim.
+## Visual and production principles
+Simple geometric forms, relationships in space and formal tension rather than representation.
 
-## Tasarıma uyarlama önerimiz
-Dengesi küçük değişimlerle dönüşen özgün bir kapak veya motion styleframe çalış.
+## Our contemporary design proposal
+Develop an original cover or motion styleframe whose balance changes through small adjustments.
 
-## Önerilen alıştırma
-Üç geometrik biçimin konumunu değiştirerek altı farklı gerilim ve denge üret.
+## Suggested exercise
+Move three geometric forms to create six different states of tension and balance.
 
-## Sınırlar ve yanlış eşleştirmeler
-Konstrüktivizmle aynı tarihsel amaçlara sahipmiş gibi birleştirme.
+## Limits and common misinterpretations
+Do not merge it with Constructivism as though they had identical historical aims.
 
-## Kaynaklar
+## Sources
 [S30: MoMA Suprematism](https://www.moma.org/collection/terms/suprematism)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.

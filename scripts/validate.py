@@ -14,7 +14,7 @@ def validate(root=ROOT):
     ids = [r['id'] for r in records]
     if len(ids) != len(set(ids)):
         errors.append('Duplicate record IDs')
-    required = ('id', 'title_tr', 'title_en', 'record_type', 'aliases', 'historical_context',
+    required = ('id', 'title_en', 'record_type', 'aliases', 'historical_context',
                 'visual_principles', 'contemporary_application', 'exercise', 'limits', 'source_ids',
                 'rights', 'review_status', 'production_test_status', 'path')
     for record in records:

@@ -1,26 +1,25 @@
-# İsviçre Tipografik Geleneği
+# Swiss / International Typographic Style
 
-English: Swiss / International Typographic Style  
-ID: `swiss-style`  
-Tür: `design_tradition`  
-Durum: kaynaklı başlangıç kaydı; Adobe üretim testi yapılmadı.
+ID: `swiss-style`\
+Type: `design_tradition`\
+Status: imported source-based seed; source re-review pending; Adobe production not tested.
 
-## Kaynaklı bağlam
-İsviçre’nin resmî yayını, müze küratörünün anlatımıyla bu grafik tasarım geleneğinin eğitim, tipografi ve iletişim sistemleriyle ilişkisini ele alır.
+## Sourced context
+An official Swiss publication, through a museum curator account, discusses the relationship of this graphic design tradition to education, typography and communication systems.
 
-## Görsel / üretim ilkeleri
-Grid, tutarlı hiyerarşi, tipografik sistem ve imgeyle düzenli ilişki.
+## Visual and production principles
+Grids, consistent hierarchy, typographic systems and organized relationships with images.
 
-## Tasarıma uyarlama önerimiz
-Bir ana tasarım kararı belgesinden afiş, sekiz sayfalık yayın ve carousel düzeni üret.
+## Our contemporary design proposal
+Produce a poster, an eight-page publication and a carousel layout from one master design specification.
 
-## Önerilen alıştırma
-Aynı içeriği gridli ve serbest düzenlerde karşılaştır; özellikle uzun Türkçe başlıkla test et.
+## Suggested exercise
+Compare the same content in gridded and free layouts; test especially with a long headline.
 
-## Sınırlar ve yanlış eşleştirmeler
-Helvetica’yı veya kültürel tarafsızlık iddiasını zorunlu sayma; font, dil ve bağlama göre seçim yap.
+## Limits and common misinterpretations
+Helvetica and claims of cultural neutrality are not mandatory; choose according to font, language and context.
 
-## Kaynaklar
+## Sources
 [S34: Swiss Style: museum curator historical account](https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition)
 
 Import status: supplied-report seed; source re-review pending. No Adobe production test.
