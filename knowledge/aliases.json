@@ -1,0 +1,152 @@
+{
+  "record_aliases": {
+    "arts-and-crafts": [
+      "Arts and Crafts"
+    ],
+    "art-nouveau": [
+      "Art Nouveau"
+    ],
+    "art-deco": [
+      "Art Deco"
+    ],
+    "bauhaus": [
+      "Bauhaus"
+    ],
+    "de-stijl": [
+      "De Stijl"
+    ],
+    "constructivism": [
+      "Konstrüktivizm",
+      "Constructivism",
+      "konstrüktivizm",
+      "yapımcılık"
+    ],
+    "suprematism": [
+      "Süprematizm",
+      "Suprematism"
+    ],
+    "dada": [
+      "Dada"
+    ],
+    "photomontage": [
+      "Fotomontaj",
+      "Photomontage",
+      "fotomontaj",
+      "photo montage"
+    ],
+    "surrealism": [
+      "Sürrealizm",
+      "Surrealism",
+      "sürrealizm",
+      "gerçeküstücülük",
+      "surrealism"
+    ],
+    "new-typography": [
+      "Yeni Tipografi",
+      "New Typography"
+    ],
+    "swiss-style": [
+      "İsviçre Tipografik Geleneği",
+      "Swiss / International Typographic Style",
+      "İsviçre stili",
+      "Swiss Style",
+      "International Typographic Style"
+    ],
+    "pop-art": [
+      "Pop Art"
+    ],
+    "op-art": [
+      "Op Art"
+    ],
+    "minimalism": [
+      "Minimalizm",
+      "Minimalism"
+    ],
+    "postmodern-design": [
+      "Postmodern tasarım",
+      "Postmodern design"
+    ],
+    "memphis": [
+      "Memphis"
+    ],
+    "psychedelic-posters": [
+      "Psychedelic afiş geleneği",
+      "Psychedelic posters"
+    ],
+    "ukiyo-e": [
+      "Ukiyo-e"
+    ],
+    "islamic-geometric-pattern": [
+      "İslam sanatlarında geometrik örüntüler",
+      "Geometric patterns in Islamic art",
+      "İslami desen",
+      "Islamic geometric pattern"
+    ],
+    "calligraphy-in-islamic-art": [
+      "İslam sanatlarında hat gelenekleri",
+      "Calligraphy in Islamic art"
+    ],
+    "africobra": [
+      "AfriCOBRA"
+    ],
+    "harlem-renaissance": [
+      "Harlem Rönesansı",
+      "Harlem Renaissance"
+    ],
+    "calligraphic-school": [
+      "Kaligrafik Sanat Okulu: kaynakta kullanılan ad",
+      "Calligraphic School of Art"
+    ],
+    "sabiha-rustu-bozcali": [
+      "Sabiha Rüştü Bozcalı: yayın ve reklam pratiği",
+      "Sabiha Rüştü Bozcalı: publishing and advertising"
+    ],
+    "formal-analysis": [
+      "Biçimsel analiz",
+      "Formal analysis",
+      "tasarım temelleri",
+      "formal analysis"
+    ],
+    "color-in-context": [
+      "Bağlam içinde renk",
+      "Color in context",
+      "renk",
+      "color",
+      "colour",
+      "renk bilgisi"
+    ]
+  },
+  "asset_aliases": {
+    "cover": [
+      "kapak",
+      "cover"
+    ],
+    "poster": [
+      "afiş",
+      "afis",
+      "poster",
+      "flyer"
+    ],
+    "identity": [
+      "logo",
+      "kimlik",
+      "marka",
+      "brand"
+    ],
+    "publication": [
+      "yayın",
+      "dergi",
+      "kitap",
+      "editorial"
+    ],
+    "social-series": [
+      "sosyal",
+      "carousel"
+    ],
+    "motion": [
+      "motion",
+      "hareketli",
+      "animasyon"
+    ]
+  }
+}

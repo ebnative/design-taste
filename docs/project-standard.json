@@ -1,0 +1,393 @@
+{
+  "name": "Standard Project Structure",
+  "version": "1.0.0",
+  "approved_on": "2026-10-10",
+  "authorization": "User explicitly requested adoption in this chat on 2026-10-10.",
+  "source_sha256": "18db4deceab6c1614e97dc49923b7ac7cadc7b430c4b724113bdf8995893b6a5",
+  "principles": {
+    "core": {
+      "principle": "Bazı dosyalar ortak, bazı teknik karşılıklar kullanılan teknolojiye göre değişir.",
+      "items": [
+        {
+          "id": "readme",
+          "path": "README.md",
+          "purpose": "Projenin amacı, kısa kapsamı, kurulum, çalıştırma ve doğrulama bilgileri.",
+          "applicability": "Bakımı yapılacak her projede.",
+          "source_ids": [
+            "S03"
+          ]
+        },
+        {
+          "id": "gitignore",
+          "path": ".gitignore",
+          "purpose": "Git'e alınmayacak yerel, üretilmiş veya hassas dosyaların kuralları.",
+          "applicability": "Git kullanılan her projede, teknolojiye uygun biçimde.",
+          "source_ids": [
+            "S04"
+          ]
+        },
+        {
+          "id": "source_code",
+          "path": null,
+          "example_paths": [
+            "src/",
+            "AppName/"
+          ],
+          "purpose": "Uygulamanın çalışan kodu.",
+          "applicability": "Her projede; konumu teknolojiye göre belirlenir."
+        },
+        {
+          "id": "dependencies_and_build",
+          "path": null,
+          "purpose": "Kullanılan kütüphaneler, araçlar ve derleme ayarları.",
+          "applicability": "Teknolojinin gerektirdiği biçimde."
+        },
+        {
+          "id": "verification",
+          "path": null,
+          "purpose": "Testler ve temel işin nasıl kontrol edileceği.",
+          "applicability": "Her projede, riskine ve büyüklüğüne uygun düzeyde."
+        },
+        {
+          "id": "agent_instructions",
+          "path": "AGENTS.md",
+          "purpose": "Kodlama ajanlarının çalışma kuralları ve gerçek proje komutları.",
+          "applicability": "Ajanlarla geliştirilen projelerde önerilir.",
+          "source_ids": [
+            "S07"
+          ]
+        },
+        {
+          "id": "example_environment",
+          "path": ".env.example",
+          "purpose": "Gerekli ortam değişkenlerinin adları ve güvenli örnekleri.",
+          "applicability": "Ortam değişkenleriyle yapılandırılan projelerde."
+        },
+        {
+          "id": "automated_checks",
+          "path": null,
+          "example_paths": [
+            ".github/workflows/ci.yml"
+          ],
+          "purpose": "Kod değişince çalışacak kontroller.",
+          "applicability": "Düzenli geliştirme ve bakım yapılan projelerde önerilir."
+        }
+      ],
+      "dependency_management": {
+        "goal": "Bir proje başka bilgisayarda açıldığında hangi kütüphanelerle çalıştığı anlaşılabilmelidir.",
+        "npm_application_example": [
+          {
+            "path": "package.json",
+            "purpose": "Bağımlılıkları ve proje komutlarını tanımlar."
+          },
+          {
+            "path": "package-lock.json",
+            "purpose": "Çözümlenmiş bağımlılık ağacını kaydeder.",
+            "version_control_policy": "npm'in resmî rehberi kilit dosyasının kaynak depoda tutulmasını öngörür.",
+            "source_ids": [
+              "S05"
+            ]
+          }
+        ],
+        "other_ecosystems": "İlgili paket yöneticisinin uygulama veya kütüphane projesine uygun yaklaşımı izlenmelidir.",
+        "standardization_rule": "Hangi bağımlılıklarla çalıştığı belli olmalı; dosyanın adı teknolojiye göre değişebilir."
+      }
+    },
+    "structure_goals": {
+      "essential_questions": [
+        "Bu proje kimin hangi problemini çözüyor?",
+        "Nasıl kurulur ve çalıştırılır?",
+        "Değiştirmek istediğim özellik hangi dosyalarda?",
+        "Çalıştığını ve bir şeyi bozmadığımı nasıl kontrol ederim?",
+        "Ayarlar, erişim yetkileri ve veriler nasıl yönetiliyor?",
+        "Nasıl yayınlanır, sorun olursa nasıl geri dönülür?"
+      ],
+      "dimensions": [
+        {
+          "name": "Ürün bilgisi",
+          "covers": [
+            "Kullanıcı",
+            "Problem",
+            "Kapsam",
+            "Başarı ölçüsü"
+          ],
+          "benefit": "Geliştirme sırasında amaçtan uzaklaşmayı azaltır."
+        },
+        {
+          "name": "Kod organizasyonu",
+          "covers": [
+            "Özelliklerin yerleri",
+            "Teknik bileşenlerin yerleri"
+          ],
+          "benefit": "Bir değişikliğin nerede yapılacağını bulmayı kolaylaştırır."
+        },
+        {
+          "name": "Çalışma düzeni",
+          "covers": [
+            "Kurulum",
+            "Görevler",
+            "Ajan talimatları",
+            "Değişiklik geçmişi"
+          ],
+          "benefit": "Projeye yeniden başlamayı ve işi devretmeyi kolaylaştırır."
+        },
+        {
+          "name": "Doğrulama ve işletim",
+          "covers": [
+            "Testler",
+            "Yapılandırma",
+            "Yayın",
+            "Hata takibi"
+          ],
+          "benefit": "Çalışan ürünü korumaya yardımcı olur."
+        }
+      ],
+      "design_rule": "Klasör sayısını artırmak tek başına fayda sağlamaz. Her bölümün gerçek bir sorumluluğu olmalıdır."
+    },
+    "documentation_sections": [
+      {
+        "heading": "Project overview",
+        "question": "Bu uygulama ne yapıyor?"
+      },
+      {
+        "heading": "Project identity",
+        "question": "Kimliği, ürün hattı ve sahibi kim?"
+      },
+      {
+        "heading": "Scope",
+        "question": "Şimdi hangi iş tamamlanıyor; sonraya bırakılanlar neler?"
+      },
+      {
+        "heading": "Requirements",
+        "question": "Hangi araç ve sürümler gerekli?"
+      },
+      {
+        "heading": "Setup and run",
+        "question": "Nasıl kurulur ve çalıştırılır?"
+      },
+      {
+        "heading": "Configuration",
+        "question": "Hangi ayarlar gerekli, nereden sağlanıyor?"
+      },
+      {
+        "heading": "Verification",
+        "question": "Test ve diğer kontroller nasıl çalıştırılır?"
+      },
+      {
+        "heading": "Project links",
+        "question": "Görevlerin, tasarımın ve ayrıntılı belgelerin asıl adresleri nerede?"
+      }
+    ],
+    "technology_profiles": {
+      "principle": "Bütün projelerde aynı sorumluluklar aranabilir; teknik adresleri farklı olabilir.",
+      "profiles": [
+        {
+          "id": "web",
+          "name": "Web uygulaması",
+          "source_and_project_layout": "Framework'ün sayfa, kaynak ve statik dosya düzeni.",
+          "example_paths": [
+            "src/app/",
+            "public/"
+          ],
+          "common_elements": [
+            "README",
+            "Sahiplik",
+            "Kapsam",
+            "Doğrulama",
+            "Ajan kuralları"
+          ],
+          "source_ids": [
+            "S01"
+          ]
+        },
+        {
+          "id": "native_ios",
+          "name": "Native iOS uygulaması",
+          "source_and_project_layout": "Xcode'un oluşturduğu proje, uygulama ve test hedefleri.",
+          "example_paths": [
+            "AppName/",
+            "AppNameTests/"
+          ],
+          "common_elements": [
+            "Çalışma bilgileri",
+            "Kalite beklentisi"
+          ],
+          "note": "Apple'ın proje oluşturma akışı seçilen uygulama türüne uygun yapılandırma ve kaynak dosyalarını oluşturur. Başlangıç noktası olarak doğal düzen korunur.",
+          "source_ids": [
+            "S06"
+          ]
+        },
+        {
+          "id": "python",
+          "name": "Python uygulaması veya paketlenen otomasyon",
+          "source_and_project_layout": "Paketleme ve bağımlılık aracına uygun düzen.",
+          "example_paths": [
+            "pyproject.toml",
+            "src/package_name/",
+            "tests/"
+          ],
+          "common_elements": [
+            "Kurulum",
+            "Bağımlılıklar",
+            "Yapılandırma",
+            "Doğrulama"
+          ],
+          "note": "src düzeni yararlı olabilir; geliştirme sırasında kurulum adımı gibi sonuçları vardır. Küçük bir script ile dağıtılacak Python paketinin aynı yapıyı taşıması gerekmez.",
+          "source_ids": [
+            "S02"
+          ]
+        },
+        {
+          "id": "small_script",
+          "name": "Çok küçük script",
+          "source_and_project_layout": "Bir giriş dosyası ve gerektiği kadar yardımcı dosya.",
+          "example_paths": [],
+          "common_elements": [
+            "Kısa kullanım açıklaması",
+            "Gerekli bağımlılıklar",
+            "Sonucu kontrol etme yöntemi"
+          ]
+        }
+      ]
+    },
+    "verification": {
+      "reproducibility": {
+        "goal": "Projeyi açan kişinin kurulum ve doğrulama için tahmin yürütmek zorunda kalmaması.",
+        "operations": [
+          {
+            "name": "Kurulum",
+            "expected_result": "Gerekli bağımlılıkların ve araçların hazırlanması."
+          },
+          {
+            "name": "Çalıştırma",
+            "expected_result": "Geliştirme ortamında uygulamanın açılması."
+          },
+          {
+            "name": "Kod kontrolü",
+            "expected_result": "İlgili biçim, statik analiz ve tür kontrollerinin çalışması."
+          },
+          {
+            "name": "Test",
+            "expected_result": "Ürün için anlamlı davranış kontrollerinin çalışması."
+          },
+          {
+            "name": "Paketleme veya derleme",
+            "expected_result": "Uygulamanın hedef ortam için hazırlanması."
+          }
+        ],
+        "command_rule": "Komutların isimleri teknolojiler arasında değişebilir. README gerçek proje komutlarını içermelidir.",
+        "github_actions_example": {
+          "applicability": "GitHub kullanılıyorsa.",
+          "purpose": "Kontrolleri otomatik çalıştırmak.",
+          "required_workflow_directory": ".github/workflows/",
+          "example_file": ".github/workflows/ci.yml",
+          "source_ids": [
+            "S08"
+          ]
+        }
+      },
+      "configuration_and_data": {
+        "recommendations": [
+          ".env.example içinde değişken adları, açıklamalar ve güvenli örnek değerler bulunsun.",
+          "Gerçek gizli değerler uygun sunucu veya dağıtım ortamından sağlansın.",
+          "Test verileri sentetik ya da kullanımı uygun biçimde anonimleştirilmiş olsun.",
+          "Müşteri belgeleri, üretim veri tabanı kopyaları ve çalışma günlükleri kaynak kod deposunda birikmesin.",
+          "Geliştirme ve test işlemlerinin hangi veri ortamına bağlandığı açık olsun."
+        ],
+        "supporting_principles": [
+          {
+            "statement": "Yapılandırmayı koddan ayırmak Twelve-Factor yaklaşımının temel ilkelerinden biridir.",
+            "source_ids": [
+              "S09"
+            ]
+          },
+          {
+            "statement": "Gizli değerlerin yaşam döngüsü ve erişim kontrolü ayrıca yönetilmelidir.",
+            "source_ids": [
+              "S10"
+            ]
+          }
+        ],
+        "nextjs_public_environment_caveat": {
+          "statement": "Bir değeri .env içine yazmak tek başına gizli kalacağını garanti etmez. Next.js'te NEXT_PUBLIC_ ile işaretlenen değerler tarayıcıya gönderilen JavaScript'e yerleştirilebilir.",
+          "source_ids": [
+            "S11"
+          ]
+        }
+      },
+      "definition_of_done": {
+        "recommended_checks": [
+          {
+            "order": 1,
+            "question": "İstenen kullanıcı işi çalışıyor mu?"
+          },
+          {
+            "order": 2,
+            "question": "Değişiklikten etkilenen hata durumları kontrol edildi mi?"
+          },
+          {
+            "order": 3,
+            "question": "İlgili otomatik kontroller geçti mi?"
+          },
+          {
+            "order": 4,
+            "question": "Kurulum veya kullanım değiştiyse belgeler güncellendi mi?"
+          },
+          {
+            "order": 5,
+            "question": "Bilinen eksikler ve çalıştırılamayan kontroller açıkça yazıldı mı?"
+          }
+        ],
+        "distinction": "Bir tests/ klasörünün bulunması ile anlamlı testlerin çalışıp geçmiş olması ayrı şeylerdir.",
+        "execution_status": "Önerilen kontrol sorularıdır; bu aktarım kapsamında bir yazılım projesi üzerinde çalıştırılmamıştır."
+      }
+    },
+    "repository_strategy": "Depo sınırı ayrı bir karardır. Ortak standart kullanmak için bütün projeleri aynı depoya toplamak gerekmez.",
+    "migration": {
+      "starting_principle": "Çalışan projelerde önce mevcut düzenin eksiklerini görünür hâle getir.",
+      "steps": [
+        {
+          "order": 1,
+          "title": "Tek bir proje üzerinde dene",
+          "action": "Geliştirme için seçilen veya aktif olarak bakımı yapılan bir projeyi kullan.",
+          "constraint": "Standardizasyonu başlı başına büyük bir paralel projeye dönüştürme."
+        },
+        {
+          "order": 2,
+          "title": "Mevcut durumu kaydet",
+          "action": "Projenin nasıl çalıştığını, temel giriş noktalarını, mevcut kontrolleri ve yayın yöntemini doğrula."
+        },
+        {
+          "order": 3,
+          "title": "Eksik çalışma bilgilerini tamamla",
+          "action": "README, gerekli örnek yapılandırma ve ajan talimatlarını mevcut gerçeğe göre düzenle."
+        },
+        {
+          "order": 4,
+          "title": "Somut bir yapısal sorun seç",
+          "action": "Değişikliğin amacını açıkça belirle.",
+          "examples": [
+            "Görevlerle ilgili kodu bulmak zor.",
+            "Kurulum bir başka bilgisayarda tekrar edilemiyor."
+          ]
+        },
+        {
+          "order": 5,
+          "title": "Gerekli taşımaları küçük parçalara böl",
+          "action": "Bir modülü taşıdıktan sonra içe aktarma yollarını, testleri, derlemeyi ve etkilenen kullanıcı akışını kontrol et.",
+          "constraint": "Klasör değişikliğiyle birlikte büyük bağımlılık güncellemeleri veya yeni özellikler eklemek incelemeyi zorlaştırır."
+        },
+        {
+          "order": 6,
+          "title": "İşe yarayan kuralları diğer projelere taşı",
+          "action": "İlk projede fayda sağlamayan bir kuralı bütün portföye yayma. Teknolojiye uygun istisnaları kısa biçimde kaydet."
+        }
+      ]
+    }
+  },
+  "profile_used": "python-skills-and-knowledge",
+  "exceptions": [
+    "Domain folders retained; no web framework or artificial src layout introduced."
+  ],
+  "illustrative_identity_values_adopted": false
+}

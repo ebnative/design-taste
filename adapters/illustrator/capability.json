@@ -1,0 +1,15 @@
+{
+  "host_app": "Illustrator",
+  "host_version": null,
+  "os": "Windows",
+  "integration_route": "preserved-COM-ExtendScript",
+  "prerequisites": [
+    "existing-app",
+    "available-authorized-control"
+  ],
+  "source_url": null,
+  "tested_on": null,
+  "test_status": "imported-prior-evidence-not-retested",
+  "destructive_actions": "protect unsaved documents",
+  "rollback": "original skill retained"
+}

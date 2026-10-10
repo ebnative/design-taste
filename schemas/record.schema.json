@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Design Taste atlas record",
+  "type": "object",
+  "required": ["id", "title_tr", "title_en", "record_type", "aliases", "historical_context", "visual_principles", "contemporary_application", "exercise", "limits", "source_ids", "rights", "review_status", "production_test_status", "path"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "record_type": {"enum": ["foundation", "movement", "school", "collective", "design_tradition", "art_tradition", "technique", "case_study"]},
+    "aliases": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "source_ids": {"type": "array", "items": {"type": "string", "pattern": "^S[0-9]+$"}, "minItems": 1},
+    "review_status": {"enum": ["needs-source-review", "source-reviewed", "expert-reviewed"]},
+    "production_test_status": {"enum": ["not_run", "pass", "fail", "blocked"]},
+    "rights": {"type": "object", "required": ["text", "images"]},
+    "chronology": {"type": "object"}
+  }
+}

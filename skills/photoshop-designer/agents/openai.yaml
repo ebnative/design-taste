@@ -1,0 +1,6 @@
+interface:
+  display_name: "Photoshop Designer"
+  short_description: "Sourced design guidance and editable creative work"
+  default_prompt: "Use $photoshop-designer for my art and design task."
+policy:
+  allow_implicit_invocation: true

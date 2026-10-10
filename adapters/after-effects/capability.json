@@ -1,0 +1,15 @@
+{
+  "host_app": "After Effects",
+  "host_version": null,
+  "os": null,
+  "integration_route": "discover-at-task-time",
+  "prerequisites": [
+    "installed-app",
+    "available-authorized-bridge"
+  ],
+  "source_url": "https://helpx.adobe.com/ca/after-effects/desktop/automate-in-after-effects/automate-animation/scripts.html",
+  "tested_on": null,
+  "test_status": "not_run",
+  "destructive_actions": "task-dependent; protect original project",
+  "rollback": "preserve source and editable working copy"
+}

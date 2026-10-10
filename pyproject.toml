@@ -1,0 +1,10 @@
+[tool.design-taste]
+project_id = "design-taste"
+version = "0.1.0"
+structure_profile = "python-skills-and-knowledge"
+project_standard_version = "1.0.0"
+minimum_python = "3.10"
+runtime_dependencies = []
+distribution = "portable-skill-bundles"
+
+# Run scripts directly with Python. This repository is not a pip package.

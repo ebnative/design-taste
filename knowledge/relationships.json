@@ -1,0 +1,22 @@
+[
+  {
+    "from": "dada",
+    "to": "photomontage",
+    "relation": "source-discusses-technique",
+    "source_ids": [
+      "S31"
+    ]
+  },
+  {
+    "from": "color-in-context",
+    "to": "formal-analysis",
+    "relation": "curriculum-cross-reference",
+    "status": "authored-proposal"
+  },
+  {
+    "from": "memphis",
+    "to": "postmodern-design",
+    "relation": "research-cross-reference",
+    "status": "inherited-report"
+  }
+]

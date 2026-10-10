@@ -1,0 +1,6 @@
+interface:
+  display_name: "After Effects Designer"
+  short_description: "Sourced design guidance and editable creative work"
+  default_prompt: "Use $after-effects-designer for my art and design task."
+policy:
+  allow_implicit_invocation: true

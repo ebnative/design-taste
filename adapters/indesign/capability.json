@@ -1,0 +1,15 @@
+{
+  "host_app": "InDesign",
+  "host_version": null,
+  "os": null,
+  "integration_route": "discover-at-task-time",
+  "prerequisites": [
+    "installed-app",
+    "available-authorized-bridge"
+  ],
+  "source_url": "https://developer.adobe.com/indesign/uxp/scripts/",
+  "tested_on": null,
+  "test_status": "not_run",
+  "destructive_actions": "task-dependent; protect original project",
+  "rollback": "preserve source and editable working copy"
+}

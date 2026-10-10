@@ -1,0 +1,6 @@
+interface:
+  display_name: "Premiere Pro Designer"
+  short_description: "Sourced design guidance and editable creative work"
+  default_prompt: "Use $premiere-pro-designer for my art and design task."
+policy:
+  allow_implicit_invocation: true
