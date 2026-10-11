@@ -21,6 +21,17 @@ This release does not cover all art movements. No third-party artwork images, fo
 The [original learning-guide cover](examples/learning-guide-cover/README.md) includes three SVG concepts, a selected editable SVG, eight flat PNG previews and a weaker educational comparison. AI pixel review is not expert review or human acceptance; Adobe-native delivery remains unverified.
 Identity operations and curriculum are authored guidance, not an executed logo pilot or assessed learner outcomes.
 
+## Local educational website
+
+[Academy, Atlas and Lab run guide](web/README.md) · [Website design contract](web/DESIGN.md)
+
+```sh
+python3 scripts/build_web.py
+python3 -m http.server 8765 --bind 127.0.0.1
+```
+
+Open `http://127.0.0.1:8765/web/`. The static site uses no added dependencies, accounts or image-upload service. Stop the manual server with Ctrl+C. All 12 canonical lesson contracts now have original teaching/practice consumers, and all13 canonical movements have distinct original visual-first instruction and linked editable constructions. Six pixel operations and five legacy raster studies remain separate. This is a candidate, not twelve completed/assessed modules: recorded speech alignment for11, completed-production evidence for12, independent host/browser acceptance, native proof and human acceptance remain explicit gates. Serving requires only Python; the new deterministic JavaScript developer checks additionally use installed Node. Browser verification and human acceptance are separate from software test results.
+
 ## Skills
 
 - Design Taste: personal expression and visual direction.
