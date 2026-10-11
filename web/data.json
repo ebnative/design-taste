@@ -1,0 +1,3043 @@
+{
+  "assessment": "# Design critique\n\nRead the brief, audience and desired feeling first. Inspect the result and actual preview.\nObservation → communication effect → importance → proposed change → recheck.\nAssess brief/meaning, visual organization, historical/cultural context, editable production and process separately.\nPersonal taste is not objective error. Do not produce findings about an image you have not seen.\nA score or search ranking does not prove design quality. Technical checks do not replace aesthetic judgment.\n\n## Evidence-required findings\n\nEach finding records artifact/revision, inspected flat view and pixel/use size, exact region/text, literal observation, applicable brief criterion, likely communication effect, severity, proposed correction, actual comparison/recheck and uncertainty. Classify as demonstrated failure, risk/uncertainty, interpretation or preference. Audience effect without real testing is a hypothesis. Never claim expert, reader or community endorsement from AI inspection.\n\nSeparate brief/content, hierarchy/typography, composition/color, contextual history, rights/safety, editability/production and human acceptance. A blocking right, save failure, required-use defect or safety failure cannot be averaged away. If no demonstrated defect exists, state that instead of manufacturing one. Search scores describe lexical relevance only.\n\n## Required views and typography\n\nInspect flat artwork at final and smallest brief-required sizes; mockups are supplementary. Compare exact copy and punctuation, glyph coverage, kerning, leading, margins, optical alignment and actual contrast. Record requested/actual fonts and substitutions; size values in a source are not measured readability. Screen contrast evidence does not automatically certify print or raster-cover WCAG conformity. Native inspection is required only when native editability is claimed; SVG is not PSD proof.\n\n## Comparison, revision and advancement\n\nUse the same brief/views for [original A/control examples](../../examples/learning-guide-cover/CRITIQUE.md). The control is not client work; multiple variables changed, so no single-variable causal proof. Require a retained before, actual revised source/export, specific change and same-condition recheck. A proposal alone does not advance a learner. Review each observable module criterion against submitted evidence; missing mandatory artifacts lead to revise/blocked/not-assessed, not a taste score or degree-equivalence outcome. No learner submissions have been assessed by authoring this curriculum.\n\n## Context and abstention\n\nName tradition/place/period/language/audience only when supported. Explain source context before adaptation; avoid culture-as-decoration and universal European-modernist standards. Unfamiliar scripts, sacred/restricted symbols and identity-sensitive uses require qualified contextual review; do not invent community authority.\n\nUnseen image: provide a checklist, no pixel findings. Missing source: critique visible output only, editability unverified. Unsupported historical claim: qualify/remove it. Unavailable native route: blocked, not simulated. Missing approval: human pending. Unknown rights: affected asset redistribution unresolved; original replacements permitted without clearance claims.\n\n## Recovery\n\nKeep original/rejected routes and failure receipts. Use new task-owned versions, protect unsaved documents, never overwrite another person's files, silently replace fonts or close unrelated documents. Save/reopen/export failures stay separate from aesthetic evaluation. This wave's Photoshop native gate is blocked by user decision; do not execute scripts to bypass it.\n",
+  "canonical_sha256": "b1e9e757b6a2651563464c50ec5732efe53597376827d299e2546b4ecd52146b",
+  "learning_path": "# From foundations to portfolio\nThis is an original research-derived study plan, not a copied syllabus or degree equivalent. Module numbers do not prescribe weeks or durations; adapt depth to the learner’s current level.\n\n## Competency advancement\nAuthored curriculum only; no learner outcomes assessed. Complete the linked module's concrete artifacts, observable criteria and actual before/after critique/recheck before advancing. Prerequisites are evidence dependencies, not time served. A blocked tool/native output remains blocked, not passed by reading. Rights, safety, production and human acceptance are separate from aesthetic judgment. See [assessment](../assessment/critique.md).\n\nCanonical exercise contracts: [01 form](../exercises/01.md), [02 color](../exercises/02.md), [03 typography](../exercises/03.md), [04 context](../exercises/04.md), [05 image-making](../exercises/05.md), [06 identity](../exercises/06.md), [07 series](../exercises/07.md), [08 editorial](../exercises/08.md), [09 preproduction](../exercises/09.md), [10 motion identity](../exercises/10.md), [11 editing](../exercises/11.md), [12 case study](../exercises/12.md). Each specifies prerequisites, objectives, deliverables, observable criteria, critique/revision and retained evidence. The summaries below are orientation, not completion receipts. Source references retain their individual imported/reviewed status; no university affiliation or copied syllabus implied.\n\n## 01. Visual perception and form\nNegative space, value, emphasis, rhythm and balance; separate observation from interpretation.\n\n**Suggested deliverable:** A formal analysis of one poster and three small compositions.\n\n**Sources:** [S21: Getty formal analysis learning resources](https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html); [S01: RISD Graphic Design BFA](https://www.risd.edu/academics/graphic-design/bachelors-program)\n\n## 02. Color in context\nExplore color relationships experimentally; distinguish perception from file-profile problems.\n\n**Suggested deliverable:** Six background experiments using the same colors and a production-profile note.\n\n**Sources:** [S22: Albers Foundation Interaction of Color](https://www.albersfoundation.org/alberses/teaching/interaction-of-color); [S23: Albers Foundation One Color Becomes Two](https://www.albersfoundation.org/learning/workshops/one-color-becomes-two)\n\n## 03. Typography\nLetterforms, spacing, hierarchy and long/short text; test the characters required by the intended language.\n\n**Suggested deliverable:** Three typography-only posters and a process journal.\n\n**Sources:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S16: CMU Typography One: Type as Image syllabus](https://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)\n\n## 04. Reading through art and design history\nDistinguish movements, schools and traditions; separate sourced context from contemporary proposals.\n\n**Suggested deliverable:** A research card comparing two approaches.\n\n**Sources:** [S27: MoMA Bauhaus](https://www.moma.org/collection/terms/bauhaus); [S33: MoMA The New Typography](https://www.moma.org/calendar/exhibitions/1013); [S47: SALT Painter Sabiha Rüştü Bozcalı](https://saltonline.org/tr/ressam-sabiha-rustu-bozcali-1256)\n\n## 05. Image-making and photomontage\nMeaning, material, photography, illustration, masks and source rights.\n\n**Suggested deliverable:** An editable cover composition and source list.\n\n**Sources:** [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S31: MoMA Dada: chance, collage, photomontage and assemblage](https://www.moma.org/collection/terms/dada/chance-creations-collage-photomontage-and-assemblage)\n\n## 06. Logos and visual identity\nTreat a brand as more than a single mark; define constants and variants.\n\n**Suggested deliverable:** A logo family, one-color tests and a short identity guide.\n\n**Sources:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design)\n\n## 07. Posters, flyers and social series\nPreserve one message across different sizes and content lengths.\n\n**Suggested deliverable:** A poster, flyer and four-part social series.\n\n**Sources:** [S07: UAL LCC Graphic and Media Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-and-media-design-lcc); [S40: Cooper Hewitt: How Posters Work](https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/)\n\n## 08. Editorial design and covers\nGrids, reading order, page styles and relationships between content and material.\n\n**Suggested deliverable:** An eight-page publication, cover and production check.\n\n**Sources:** [S11: ECAL Graphic Design Bachelor](https://ecal.ch/en/courses-and-research/bachelor/bachelor-graphic-design/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)\n\n## 09. Motion preproduction\nDefine the purpose of movement; develop storyboards, styleframes and animatics.\n\n**Suggested deliverable:** A six-frame storyboard and short animatic.\n\n**Sources:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)\n\n## 10. Motion identity\nTypography, transitions, rhythm, holds and translating a visual system into time.\n\n**Suggested deliverable:** An approximately 10-second motion experiment for the same brand.\n\n**Sources:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)\n\n## 11. Editing, sound and captions\nClip selection, narrative, audio relationships and readable captions.\n\n**Suggested deliverable:** An approximately 30-second edit with project and output checks.\n\n**Sources:** [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)\n\n## 12. Portfolio and critique\nResearch question, alternatives, choice rationale, revision and self-assessment.\n\n**Suggested deliverable:** One complete case study with before/after comparisons and production evidence.\n\n**Sources:** [S04: Yale Graphic Design MFA](https://art.yale.edu/program/graphic-design); [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S10: KABK Graphic Design programme description](https://www.kabk.nl/en/programmes/bachelor/graphic-design/programme-description)\n",
+  "lessons": [
+    {
+      "id": "01",
+      "level": "Foundations",
+      "markdown": "## 01. Visual perception and form\nNegative space, value, emphasis, rhythm and balance; separate observation from interpretation.\n\n### Prerequisites\nNone. Use original shapes or a lawfully viewable image; do not redistribute third-party images.\n### Objective\nDescribe five visible relationships without substituting preference for evidence.\n### Deliverable\nOne annotated analysis card and three original 600x600 SVG compositions with PNG views.\n### Observable criteria\nIdentify line/shape/value/space and emphasis by region; label observation versus interpretation; retain the same elements across compositions so hierarchy changes are visible.\n### Critique and revision\nCompare two flat views, name one hierarchy risk and one preference, revise one spacing/scale variable and recheck at 150x150.\n### Retained evidence\nBrief, original/revised SVG and full/reduced views, region-specific critique, actual changes and unresolved uncertainty. Use [assessment](../assessment/critique.md); no learner outcome is implied by authorship.\n\n**Suggested deliverable:** A formal analysis of one poster and three small compositions.\n\n**Sources:** [S21: Getty formal analysis learning resources](https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html); [S01: RISD Graphic Design BFA](https://www.risd.edu/academics/graphic-design/bachelors-program)\n",
+      "source_ids": [
+        "S01",
+        "S21"
+      ],
+      "title": "01. Visual perception and form"
+    },
+    {
+      "id": "02",
+      "level": "Foundations",
+      "markdown": "## 02. Color in context\nExplore color relationships experimentally; distinguish perception from file-profile problems.\n\n### Prerequisites\n[01](01.md): demonstrate observation versus interpretation.\n### Objective\nCompare contextual color appearance while preserving the inner color's numerical value.\n### Deliverable\nSix 600x600 original SVG/PNG background experiments and a color-profile note.\n### Observable criteria\nRecord exact inner/background values; same inner value across variants; identify observed appearance separately from file/profile facts and unsupported universal emotion claims.\n### Critique and revision\nCompare a selected pair at the same size, change only one background, re-export and describe the observed difference or no difference without inventing a viewer sample.\n### Retained evidence\nBefore/after sources/views, values, renderer/profile limitations and [criterion-separated critique](../assessment/critique.md).\n\n**Suggested deliverable:** Six background experiments using the same colors and a production-profile note.\n\n**Sources:** [S22: Albers Foundation Interaction of Color](https://www.albersfoundation.org/alberses/teaching/interaction-of-color); [S23: Albers Foundation One Color Becomes Two](https://www.albersfoundation.org/learning/workshops/one-color-becomes-two)\n",
+      "source_ids": [
+        "S22",
+        "S23"
+      ],
+      "title": "02. Color in context"
+    },
+    {
+      "id": "03",
+      "level": "Foundations",
+      "markdown": "## 03. Typography\nLetterforms, spacing, hierarchy and long/short text; test the characters required by the intended language.\n\n### Prerequisites\n[01](01.md): evidence-based hierarchy description.\n### Objective\nPreserve exact copy and glyph coverage while testing typographic reading order and optical spacing.\n### Deliverable\nThree original typography-only 1200x1600 posters in editable SVG plus 300x400 views; font/fallback journal.\n### Observable criteria\nTitle/supporting copy transcribed exactly; no clipping/collision at either size; observed kerning/leading/margins recorded; font substitution and script uncertainty explicit. Required unfamiliar scripts need qualified review.\n### Critique and revision\nHold content/layout fixed, revise one spacing or scale variable; compare before/after at both sizes using [assessment](../assessment/critique.md). Reader comprehension is untested unless actual responses retained.\n### Retained evidence\nCopy brief, font inventory without binaries, original/revised sources and exports, glyph/optical findings and recheck. See [typography record](../../atlas/foundations/typography-hierarchy.md).\n\n**Suggested deliverable:** Three typography-only posters and a process journal.\n\n**Sources:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S16: CMU Typography One: Type as Image syllabus](https://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)\n",
+      "source_ids": [
+        "S02",
+        "S16"
+      ],
+      "title": "03. Typography"
+    },
+    {
+      "id": "04",
+      "level": "Foundations",
+      "markdown": "## 04. Reading through art and design history\nDistinguish movements, schools and traditions; separate sourced context from contemporary proposals.\n\n### Prerequisites\n[01](01.md): separating description from interpretation.\n### Objective\nResolve two historical claims to actual source passages without conflating a school, movement, technique or tradition.\n### Deliverable\nTwo Markdown research cards, each with exact source ID/page/locator/access date/limits and an original contemporary proposal.\n### Observable criteria\nCorrect record categories; quoted/paraphrased claim supported by actual inspected passage; imported versus independent review and text/image/font rights separate. Unsupported period/place or inaccessible source stays unverified.\n### Critique and revision\nCompare categories/context, identify one overgeneralization, revise claim scope and check source again. Do not promote an entire corpus or universal style ranking.\n### Retained evidence\nBefore/after cards, short support passages, failure/uncertainty log and [critique](../assessment/critique.md); no third-party images copied.\n\n**Suggested deliverable:** A research card comparing two approaches.\n\n**Sources:** [S27: MoMA Bauhaus](https://www.moma.org/collection/terms/bauhaus); [S33: MoMA The New Typography](https://www.moma.org/calendar/exhibitions/1013); [S47: SALT Painter Sabiha Rüştü Bozcalı](https://saltonline.org/tr/ressam-sabiha-rustu-bozcali-1256)\n",
+      "source_ids": [
+        "S27",
+        "S33",
+        "S47"
+      ],
+      "title": "04. Reading through art and design history"
+    },
+    {
+      "id": "05",
+      "level": "Applied Practice",
+      "markdown": "## 05. Image-making and photomontage\nMeaning, material, photography, illustration, masks and source rights.\n\n### Prerequisites\n[01](01.md), [03](03.md): hierarchy and exact typography.\n### Objective\nConstruct an editable original image relationship with a traceable asset inventory.\n### Deliverable\n1200x1600 cover master and full/300x400 views plus asset-rights list. Original vector shapes are allowed when photo rights are unknown; native layered file only if actually authorized/available.\n### Observable criteria\nElements remain independently editable; exact copy and required-size hierarchy intact; edges/lighting assessed relative to declared collage or realism goal; asset ownership/rights separate from source citation. SVG does not prove native PSD layers.\n### Critique and revision\nCompare before/after of one mask/edge/scale change and inspect full/reduced outputs; classify defect versus expressive preference using [assessment](../assessment/critique.md).\n### Retained evidence\nOriginal/revised masters/views, asset inventory, editability method, actual checks and blocked native state. Current-wave Photoshop is blocked by user decision; no script workaround.\n\n**Suggested deliverable:** An editable cover composition and source list.\n\n**Sources:** [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S31: MoMA Dada: chance, collage, photomontage and assemblage](https://www.moma.org/collection/terms/dada/chance-creations-collage-photomontage-and-assemblage)\n",
+      "source_ids": [
+        "S05",
+        "S31"
+      ],
+      "title": "05. Image-making and photomontage"
+    },
+    {
+      "id": "06",
+      "level": "Applied Practice",
+      "markdown": "## 06. Logos and visual identity\nTreat a brand as more than a single mark; define constants and variants.\n\n### Prerequisites\n[02](02.md), [03](03.md), [04](04.md): color, typography and claim scope.\n### Objective\nBuild an identity system that meets declared use conditions, not just a geometric mark.\n### Deliverable\nThree original concepts, selected provisional editable mark/wordmark, BRAND.md and exact-size flat specimens. Declare smallest use, one-color/reverse/background and long-content cases before testing; e.g. 32px and 256px screens when relevant.\n### Observable criteria\nDistinct concepts/rejections retained; optical kerning/counters documented; required specimens legible/not clipped; cultural/script and asset/font rights uncertainty explicit. Trademark screening is not legal clearance; human/native gates separate.\n### Critique and revision\nFollow [identity operations](../../workflows/identity.md); retain before/after optical correction and same-size rechecks. Do not invent an accepted identity outcome.\n### Retained evidence\nBrief, concepts, refinement views, rights inventory, use manifest, [critique](../assessment/critique.md), native blocked/unrun receipt and explicit human decision or pending.\n\n**Suggested deliverable:** A logo family, one-color tests and a short identity guide.\n\n**Sources:** [S02: RISD Graphic Design course catalogue](https://www.risd.edu/academics/graphic-design/courses); [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design)\n",
+      "source_ids": [
+        "S02",
+        "S18"
+      ],
+      "title": "06. Logos and visual identity"
+    },
+    {
+      "id": "07",
+      "level": "Applied Practice",
+      "markdown": "## 07. Posters, flyers and social series\nPreserve one message across different sizes and content lengths.\n\n### Prerequisites\n[03](03.md), [06](06.md): typographic/system constraints.\n### Objective\nAdapt hierarchy across formats without stretching or losing essential information.\n### Deliverable\nOriginal 1200x1600 poster, 600x800 flyer and four 1080x1080 social cards with editable sources and flat previews; include shortest/longest headline specimens.\n### Observable criteria\nExact event/title/date/place copy; no collision/clipping; constants/variants named; essential text inspectable at declared display sizes, not just a mockup. Label situated communication choices rather than universal style superiority.\n### Critique and revision\nCompare long/short variants, revise one overflow/hierarchy risk and recheck all affected formats with [assessment](../assessment/critique.md).\n### Retained evidence\nContent fixture, before/after sources/previews, size manifest, actual rechecks and rights/font limitations.\n\n**Suggested deliverable:** A poster, flyer and four-part social series.\n\n**Sources:** [S07: UAL LCC Graphic and Media Design](https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-and-media-design-lcc); [S40: Cooper Hewitt: How Posters Work](https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/)\n",
+      "source_ids": [
+        "S07",
+        "S40"
+      ],
+      "title": "07. Posters, flyers and social series"
+    },
+    {
+      "id": "08",
+      "level": "Applied Practice",
+      "markdown": "## 08. Editorial design and covers\nGrids, reading order, page styles and relationships between content and material.\n\n### Prerequisites\n[03](03.md), [04](04.md), [07](07.md): type, source scope and adaptable layouts.\n### Objective\nCarry editorial content through brief, distinct concepts, provisional choice and checked publication layouts.\n### Deliverable\nEight-page digital publication with declared page dimensions, three cover directions, selected editable cover and full/reduced exports; use [original cover example](../../examples/learning-guide-cover/README.md), not a copied design.\n### Observable criteria\nReading order/page styles consistent; exact copy present; required-size cover check; rejection rationale and rights inventory retained; no press-ready claim without actual bleed/profile/print tests.\n### Critique and revision\nFollow [cover workflow](../../workflows/cover-editorial.md), identify one page/cover risk, revise and compare before/after under the same conditions using [assessment](../assessment/critique.md).\n### Retained evidence\nBrief, concepts, publication/source files, exports and revision log; native proof/human acceptance unrun or pending unless actually demonstrated.\n\n**Suggested deliverable:** An eight-page publication, cover and production check.\n\n**Sources:** [S11: ECAL Graphic Design Bachelor](https://ecal.ch/en/courses-and-research/bachelor/bachelor-graphic-design/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)\n",
+      "source_ids": [
+        "S11",
+        "S14"
+      ],
+      "title": "08. Editorial design and covers"
+    },
+    {
+      "id": "09",
+      "level": "Synthesis",
+      "markdown": "## 09. Motion preproduction\nDefine the purpose of movement; develop storyboards, styleframes and animatics.\n\n### Prerequisites\n[01](01.md), [07](07.md): visible hierarchy and format adaptation.\n### Objective\nExplain why movement/holds convey a message and retain a static alternative.\n### Deliverable\nSix 1920x1080 original storyboard/styleframes plus 6-10 second animatic with declared frame rate, or an explicitly blocked animatic and editable timing sheet when tools unavailable.\n### Observable criteria\nEach shot has purpose/time; exact text and adequate declared holds; motion avoids flashing/discomfort risks; static sequence communicates core content. Tool absence does not become completed video.\n### Critique and revision\nReview actual frames/timing, change one hold/transition, compare before/after; if playback unavailable, abstain on temporal perception using [assessment](../assessment/critique.md).\n### Retained evidence\nSources, frames, timing sheet, actual playback/export receipt or blocked state, revisions and rights list.\n\n**Suggested deliverable:** A six-frame storyboard and short animatic.\n\n**Sources:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)\n",
+      "source_ids": [
+        "S18",
+        "S20"
+      ],
+      "title": "09. Motion preproduction"
+    },
+    {
+      "id": "10",
+      "level": "Synthesis",
+      "markdown": "## 10. Motion identity\nTypography, transitions, rhythm, holds and translating a visual system into time.\n\n### Prerequisites\n[06](06.md), [09](09.md): identity uses and motion preproduction.\n### Objective\nTranslate declared identity constants into time without losing identification or required text.\n### Deliverable\nApproximately 10-second 1920x1080 motion source/export at declared frame rate, static alternative and first/mid/final frames. Native operation only with an authorized live route.\n### Observable criteria\nConstants/variants identifiable; glyphs/copy preserved; holds/transitions checked in actual playback; no flash-based essential message; export duration/dimensions verified. Static source alone is not motion proof.\n### Critique and revision\nCompare one timing/transition change in actual before/after playback, document tradeoff and recheck; unavailable playback/native tools remain blocked, per [assessment](../assessment/critique.md).\n### Retained evidence\nBrand rules, sources, frames, timing/export receipts, revision comparison and untested native/audience states.\n\n**Suggested deliverable:** An approximately 10-second motion experiment for the same brand.\n\n**Sources:** [S18: Ringling Motion Design course catalogue](https://catalog.ringling.edu/motion-design); [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/)\n",
+      "source_ids": [
+        "S18",
+        "S20"
+      ],
+      "title": "10. Motion identity"
+    },
+    {
+      "id": "11",
+      "level": "Synthesis",
+      "markdown": "## 11. Editing, sound and captions\nClip selection, narrative, audio relationships and readable captions.\n\n### Prerequisites\n[03](03.md), [09](09.md): typography and timing.\n### Objective\nAssemble a narrative with synchronized readable captions and controlled audio relationships.\n### Deliverable\nApproximately 30-second 1920x1080 edit with declared frame rate, editable project, video export, UTF-8 SRT captions and original/authorized media inventory. Missing tools mean blocked output, not synthesized execution evidence.\n### Observable criteria\nCaption text/time matches actual speech; no clipping in declared safe regions; overlaps/gaps and audio peaks reviewed during actual playback; every clip/sound right recorded. Proper names/diacritics preserved; unfamiliar language requires qualified review.\n### Critique and revision\nCompare before/after of one cut/caption/audio issue, playback same segment, retain actual recheck and [criterion classification](../assessment/critique.md).\n### Retained evidence\nProject/media provenance, exports/captions, timing/audio findings, revised segment and blocked/unverified production states.\n\n**Suggested deliverable:** An approximately 30-second edit with project and output checks.\n\n**Sources:** [S20: SCAD Motion Media Design BFA catalogue](https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/); [S14: Bilkent Graphic Design central catalogue](https://catalog.bilkent.edu.tr/dep/dc72.html)\n",
+      "source_ids": [
+        "S14",
+        "S20"
+      ],
+      "title": "11. Editing, sound and captions"
+    },
+    {
+      "id": "12",
+      "level": "Synthesis",
+      "markdown": "## 12. Portfolio and critique\nResearch question, alternatives, choice rationale, revision and self-assessment.\n\n### Prerequisites\n[04](04.md) and at least one completed production module [05](05.md), [06](06.md), [08](08.md), [10](10.md) or [11](11.md), with actual submitted evidence. Blocked native gates stay labeled.\n### Objective\nPresent a traceable case study that distinguishes authored work, observed results and acceptance.\n### Deliverable\nMarkdown case study, source/support ledger, three retained routes when brief requires, selected editable source, actual flat required-size outputs and at least one before/after revision.\n### Observable criteria\nEach decision resolves to an artifact/criterion; actual revision and recheck present; source/rights, software/artifact/native/human gates separate. No fabricated audience response, degree equivalent or mastery from authorship.\n### Critique and revision\nRun [assessment](../assessment/critique.md), identify one weak evidence claim or design risk, amend case study or artifact and recheck. Explicit reviewer/human response only if actually supplied.\n### Retained evidence\nOriginal/revised files, failures/partial outputs, raw responses privately if authorized, sanitized manifest, known limitations and exact next acceptance gate.\n\n**Suggested deliverable:** One complete case study with before/after comparisons and production evidence.\n\n**Sources:** [S04: Yale Graphic Design MFA](https://art.yale.edu/program/graphic-design); [S05: CalArts Graphic Design BFA](https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design); [S10: KABK Graphic Design programme description](https://www.kabk.nl/en/programmes/bachelor/graphic-design/programme-description)\n",
+      "source_ids": [
+        "S04",
+        "S05",
+        "S10"
+      ],
+      "title": "12. Portfolio and critique"
+    }
+  ],
+  "practice": {
+    "lessons": [
+      {
+        "concept": "Separate visible line, shape, value, space and emphasis from interpretation.",
+        "engine": "pilot-composition",
+        "formats": "Unchanged-reference analysis SVG; three 600x600 SVG/PNG compositions; 150x150 SVG/PNG inspections; portable evidence JSON.",
+        "id": "01",
+        "limitations": "Evidence presence is not mastery or audience response.",
+        "task": "Annotate the unchanged original in five regions. Predict attention, retain three same-element layouts, revise spacing or scale and inspect 600 and 150 views.",
+        "title": "Observe relationships"
+      },
+      {
+        "concept": "A contextual appearance is not a changed numerical RGB value.",
+        "engine": "pilot-color",
+        "formats": "Six 600x600 SVG/PNG pairs; before/revised values and profile note in JSON.",
+        "id": "02",
+        "limitations": "Uncalibrated browser RGB is not print-profile proof.",
+        "task": "Predict, compare six equal-size surrounds around invariant RGB 128,128,128, revise one background and report difference or no difference.",
+        "title": "Color lives in context"
+      },
+      {
+        "concept": "Nominal type size does not establish glyph coverage or optical spacing.",
+        "engine": "typography",
+        "formats": "Three editable 1200x1600 SVG posters and full/300x400 PNG/SVG views; font inventory and process Markdown; JSON.",
+        "id": "03",
+        "limitations": "Only system fonts; no bundled font binaries. Unfamiliar scripts require qualified review; rendering is not reader testing.",
+        "task": "Edit exact title and supporting text on three typography-only posters. Predict reading order, compare at 1200x1600 and 300x400, change tracking or leading only, retain glyph/fallback journal.",
+        "title": "Type carries exact content"
+      },
+      {
+        "concept": "A school, movement, tradition and technique are different categories. Citation is not rights clearance.",
+        "engine": "research",
+        "formats": "Two editable research cards and before/after Markdown; portable JSON.",
+        "id": "04",
+        "limitations": "Learner cards remain learner-unreviewed. Imported source status is unchanged; inaccessible passages stay unverified.",
+        "task": "Inspect two outbound sources, fill source ID/page/passage locator/access date/limits, compare context and revise an overgeneralized claim. Propose original contemporary work, not a historical replica.",
+        "title": "Claims have locators"
+      },
+      {
+        "concept": "Collage and photorealism have different edge/lighting criteria.",
+        "engine": "collage",
+        "formats": "1200x1600 editable layered SVG; full/300x400 SVG/PNG before/revised; asset inventory and JSON.",
+        "id": "05",
+        "limitations": "Original vectors only; no photo imports. SVG layers are not PSD proof. Native Photoshop blocked by owner decision.",
+        "task": "Edit original vector layers on a cover; predict a mask or scale change, compare before and revised, inspect full and 300x400 views and explain edge intent.",
+        "title": "Edges make relationships"
+      },
+      {
+        "concept": "Constants and controlled variants must survive declared use conditions.",
+        "engine": "identity",
+        "formats": "Three editable concept SVGs; selected mark/wordmark; 32/256 SVG/PNG specimens; BRAND.md; JSON.",
+        "id": "06",
+        "limitations": "32px is a mark-only use, not a promise that full wordmark reads at 32px. Trademark/cultural/legal clearance and human selection remain pending.",
+        "task": "Compare three distinct original constructions, make a provisional selection, edit mark/wordmark spacing, test actual 32 and 256 mark uses and one-color/reverse, retain optical revision and rejection rationale.",
+        "title": "A system, not just a mark"
+      },
+      {
+        "concept": "Adapt hierarchy rather than stretching artwork.",
+        "engine": "series",
+        "formats": "1200x1600 poster, 600x800 flyer, four 1080x1080 editable SVG/PNG cards; stress fixtures; JSON.",
+        "id": "07",
+        "limitations": "Original fictional event; no attendee, client or reader response inferred.",
+        "task": "Edit exact event/title/date/place across a poster, flyer and four social cards. Compare shortest/longest fixtures, revise title spacing and recheck all affected formats at the same size.",
+        "title": "One message, six formats"
+      },
+      {
+        "concept": "Page styles can be constants while cover metaphors differ.",
+        "engine": "publication",
+        "formats": "Eight 1200x1600 page SVGs and full/300x400 PNG/SVG; three cover SVGs; printable inert publication HTML; JSON.",
+        "id": "08",
+        "limitations": "Digital publication only; no press-ready, bleed/profile, native InDesign or human approval claim.",
+        "task": "Compare three cover directions, choose provisionally, edit eight original pages, inspect full and reduced outputs, revise a page/cover and explain reading order and rejected alternatives.",
+        "title": "Reading order has continuity"
+      },
+      {
+        "concept": "Movement must explain something the static sequence cannot.",
+        "engine": "storyboard",
+        "formats": "Six SVG/PNG frames; browser playback; editable project JSON; timing JSON/CSV and static HTML.",
+        "id": "09",
+        "limitations": "Browser animatic and source/frame artifacts are not an encoded MP4. Export capability must be reported separately.",
+        "task": "Edit six 1920x1080 storyboards and shot purpose/copy/holds. Predict pacing, play/pause/scrub an eight-second 24fps browser animatic, revise one hold and compare before/after timing. Keep static sequence.",
+        "title": "A hold has a purpose"
+      },
+      {
+        "concept": "Position, scale and type can vary without losing declared constants.",
+        "engine": "motion-identity",
+        "formats": "Browser motion playback; editable JSON; first/mid/final SVG/PNG; timing and brand Markdown; static HTML.",
+        "id": "10",
+        "limitations": "Native operation is blocked/unrun. Source/frames do not certify encoded video or audience identification.",
+        "task": "Edit original mark/wordmark keyframes, holds and timing. Play/pause/scrub a ten-second 1920x1080 24fps identity source; compare one timing revision in before/revised playback and retain first/mid/final frames.",
+        "title": "Identity over time"
+      },
+      {
+        "concept": "Caption timing, safe regions and audio relationships need actual playback, not a recipe claim.",
+        "engine": "narrative-edit",
+        "formats": "1920x1080 24fps browser edit; JSON; frames; UTF-8 SRT; original PCM WAV; timing/peaks JSON; static HTML.",
+        "id": "11",
+        "limitations": "Canonical caption-to-actual-speech alignment is blocked: no recorded speech. Encoded video is not produced unless actual capability succeeds. These exact gates remain failed, not 11 complete.",
+        "task": "Edit six original five-second narrative shots, captions/SRT times, sound frequencies/gain and cut holds. Play/pause/scrub thirty seconds, compare a cut/caption/audio revision and inspect peaks and timing. Original synthesized tones are not speech.",
+        "title": "Cuts, sound, captions"
+      },
+      {
+        "concept": "Authorship, actual revisions, source support and acceptance are distinct.",
+        "engine": "case-study",
+        "formats": "Markdown case study and support ledger; selected editable SVG/JSON; inherited required-size flat views and before/after; gate JSON.",
+        "id": "12",
+        "limitations": "No self-awarded independent PASS, learner mastery or aesthetic acceptance. Missing production/native/video/human gates stay explicit.",
+        "task": "Import a validated original production project from 05/06/08/10/11; retain its alternatives/before/after and required-size exports. Link each case-study decision to artifact/criterion, revise an unsupported claim and export separate gates.",
+        "title": "A claim resolves to evidence"
+      }
+    ],
+    "movements": [
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "repeat",
+            "label": "Hand-like units / count",
+            "max": 8,
+            "min": 2,
+            "step": 1,
+            "type": "number",
+            "value": 4
+          },
+          {
+            "key": "stroke",
+            "label": "Unit stroke / pixels",
+            "max": 10,
+            "min": 2,
+            "step": 1,
+            "type": "number",
+            "value": 4
+          },
+          {
+            "key": "motif",
+            "label": "Show material units (compare typography only)",
+            "type": "boolean",
+            "value": true
+          }
+        ],
+        "engine": "material-repeat",
+        "id": "arts-and-crafts",
+        "limits": "Digital strokes do not model hand craft, labor, industrial production or object use. This is original interpretation, not a Morris reproduction. S24 retains its canonical unreviewed status.",
+        "regions": [
+          {
+            "explanation": "Unequal paired strokes form a self-authored leaf. Count controls repetitions, not a historical motif.",
+            "id": "structure",
+            "label": "Repeated handmade unit"
+          },
+          {
+            "explanation": "Calm original type stays independent of ornament; compare the typography-only state.",
+            "id": "message",
+            "label": "Workshop message"
+          },
+          {
+            "explanation": "The white interval separates the making rhythm from information. Repetition is a material proposal, not source history.",
+            "id": "relationship",
+            "label": "Unit/field interval"
+          }
+        ],
+        "teaching": "Compare an original hand-like repeated leaf unit with a typography-only communication field. Change repeat spacing and stroke weight: does material rhythm help this fictional workshop message? Make the process visible rather than treating a botanical motif as the whole movement.",
+        "title": "Material and making"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "bow",
+            "label": "Stem bow / pixels",
+            "max": 180,
+            "min": 30,
+            "step": 10,
+            "type": "number",
+            "value": 90
+          },
+          {
+            "key": "stroke",
+            "label": "Contour weight / pixels",
+            "max": 12,
+            "min": 2,
+            "step": 1,
+            "type": "number",
+            "value": 5
+          },
+          {
+            "key": "headline",
+            "label": "Exact poster phrase",
+            "type": "text",
+            "value": "GROW / NOTICE"
+          }
+        ],
+        "engine": "contour-line",
+        "id": "art-nouveau",
+        "limits": "A curve is not the whole international movement; geometric examples and varied regional contexts are not modeled. No named artist replica. See unreviewed S25.",
+        "regions": [
+          {
+            "explanation": "A cubic stem bends by the declared bow value; changing it alters negative space, not just color.",
+            "id": "structure",
+            "label": "Continuous contour"
+          },
+          {
+            "explanation": "The exact phrase is actual system-font text, not an imported lettering specimen.",
+            "id": "message",
+            "label": "Headline field"
+          },
+          {
+            "explanation": "Original leaf ellipses share the stem rhythm but do not identify every Art Nouveau work.",
+            "id": "relationship",
+            "label": "Contour enclosure"
+          }
+        ],
+        "teaching": "Vary the bow of a self-authored stem and the contour width. Compare how an image contour and a headline field share a surface; retain three contour abstractions without tracing a plant photograph.",
+        "title": "A shared line system"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "steps",
+            "label": "Stepped tiers / count",
+            "max": 7,
+            "min": 3,
+            "step": 1,
+            "type": "number",
+            "value": 5
+          },
+          {
+            "key": "stepWidth",
+            "label": "Tier width increment / pixels",
+            "max": 50,
+            "min": 20,
+            "step": 5,
+            "type": "number",
+            "value": 35
+          },
+          {
+            "key": "monochrome",
+            "label": "One-color construction",
+            "type": "boolean",
+            "value": false
+          }
+        ],
+        "engine": "stepped-symmetry",
+        "id": "art-deco",
+        "limits": "Materials, historical-modern combinations and colonial context exceed this digital diagram. No exotic borrowed motifs or named-work copy. S26 remains unreviewed.",
+        "regions": [
+          {
+            "explanation": "Centered tiers contract upward; two independent dimensions govern rhythm.",
+            "id": "structure",
+            "label": "Stepped silhouette"
+          },
+          {
+            "explanation": "The original announcement remains outside the stepped silhouette.",
+            "id": "message",
+            "label": "Information base"
+          },
+          {
+            "explanation": "An explicit centerline lets you test symmetry without claiming it is universal.",
+            "id": "relationship",
+            "label": "Symmetry axis"
+          }
+        ],
+        "teaching": "Edit step count and width in an original stepped construction. Compare monochrome versus color while keeping form; test symmetry, linear rhythm and a calm information base. Gold and black are not requirements.",
+        "title": "Stepped rhythm"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "split",
+            "label": "Vertical partition / pixels",
+            "max": 370,
+            "min": 170,
+            "step": 10,
+            "type": "number",
+            "value": 240
+          },
+          {
+            "key": "weight",
+            "label": "Boundary weight / pixels",
+            "max": 20,
+            "min": 4,
+            "step": 2,
+            "type": "number",
+            "value": 8
+          },
+          {
+            "key": "monochrome",
+            "label": "Remove color to compare hierarchy",
+            "type": "boolean",
+            "value": false
+          }
+        ],
+        "engine": "orthogonal-fields",
+        "id": "de-stijl",
+        "limits": "Publication, architecture and social aims are not modeled; color recipe is not the whole movement. Actual S28 status is unchanged.",
+        "regions": [
+          {
+            "explanation": "A variable vertical partition changes the two areas and their boundary.",
+            "id": "structure",
+            "label": "Unequal color fields"
+          },
+          {
+            "explanation": "The small original label anchors this diagram to our teaching project, not a historical painting.",
+            "id": "message",
+            "label": "Retained original identity"
+          },
+          {
+            "explanation": "Horizontal and vertical strokes cross without decorative diagonals; test interval relationships.",
+            "id": "relationship",
+            "label": "Orthogonal crossing"
+          }
+        ],
+        "teaching": "Change the partition and boundary weight of an original orthogonal color-field proposal. Compare unequal areas and remove color to test hierarchy. This complements the preserved pilot plane reconstruction, not a familiar painting copy.",
+        "title": "Asymmetrical plane intervals"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "angle",
+            "label": "Direction / degrees",
+            "max": 40,
+            "min": -40,
+            "step": 5,
+            "type": "number",
+            "value": -20
+          },
+          {
+            "key": "scale",
+            "label": "Message scale / multiplier",
+            "max": 1.3,
+            "min": 0.7,
+            "step": 0.1,
+            "type": "number",
+            "value": 1
+          },
+          {
+            "key": "headline",
+            "label": "Public-interest message",
+            "type": "text",
+            "value": "SHARE THE WORK"
+          }
+        ],
+        "engine": "direction-purpose",
+        "id": "constructivism",
+        "limits": "Political context, production and social function remain larger than this display. Contemporary proposal only; S29 is unreviewed, no invented political endorsement.",
+        "regions": [
+          {
+            "explanation": "The band rotates around its center, suggesting a proposed reading direction.",
+            "id": "structure",
+            "label": "Directional band"
+          },
+          {
+            "explanation": "Actual exact copy stays level rather than becoming unreadable decoration.",
+            "id": "message",
+            "label": "Primary message block"
+          },
+          {
+            "explanation": "A secondary block asks who the message serves; direction is not a social-purpose proof.",
+            "id": "relationship",
+            "label": "Production note"
+          }
+        ],
+        "teaching": "Change the direction band and information-block scale for an original public-interest message. Explain the communication purpose of each hierarchy; a red diagonal alone is not historical Constructivism.",
+        "title": "Direction for a public message"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "offset",
+            "label": "Geometric interval / pixels",
+            "max": 80,
+            "min": -80,
+            "step": 10,
+            "type": "number",
+            "value": 20
+          },
+          {
+            "key": "rotation",
+            "label": "Square rotation / degrees",
+            "max": 60,
+            "min": 0,
+            "step": 5,
+            "type": "number",
+            "value": 15
+          },
+          {
+            "key": "radius",
+            "label": "Circle radius / pixels",
+            "max": 80,
+            "min": 30,
+            "step": 5,
+            "type": "number",
+            "value": 50
+          }
+        ],
+        "engine": "geometric-tension",
+        "id": "suprematism",
+        "limits": "Not a Malevich reconstruction or a universal formula; original formal study only. Historical aims and S30 review are separate from Constructivism.",
+        "regions": [
+          {
+            "explanation": "The square has no depicted object; rotation changes its tension with the field.",
+            "id": "structure",
+            "label": "Rotated plane"
+          },
+          {
+            "explanation": "The circle radius is independently controlled. Formal contrast is not a historical aim by itself.",
+            "id": "message",
+            "label": "Circular counterweight"
+          },
+          {
+            "explanation": "A third bar makes the empty gap measurable rather than filling every region.",
+            "id": "relationship",
+            "label": "Bar interval"
+          }
+        ],
+        "teaching": "Move and rotate three original geometric forms. Predict the weight of their intervals, retain six balance states and explain why this nonrepresentational study is different from a communication-engineering proposal.",
+        "title": "Tension without representation"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "seed",
+            "label": "Recorded chance seed",
+            "max": 9999,
+            "min": 1,
+            "step": 1,
+            "type": "number",
+            "value": 41
+          },
+          {
+            "key": "scatter",
+            "label": "Scatter radius / pixels",
+            "max": 130,
+            "min": 20,
+            "step": 10,
+            "type": "number",
+            "value": 80
+          },
+          {
+            "key": "chance",
+            "label": "Chance placement (off = planned)",
+            "type": "boolean",
+            "value": true
+          },
+          {
+            "key": "headline",
+            "label": "Original critical phrase",
+            "type": "text",
+            "value": "WHO CALLS THIS NEWS?"
+          }
+        ],
+        "engine": "seeded-juxtaposition",
+        "id": "dada",
+        "limits": "Original fragments only; no newspaper scans, historical slogans or copied art. Antiwar/social critique belongs in sourced context, not a randomness success claim. S31 remains unreviewed.",
+        "regions": [
+          {
+            "explanation": "An integer seed reproduces original rectangles and a cut form; no external asset enters the collage.",
+            "id": "structure",
+            "label": "Chance fragments"
+          },
+          {
+            "explanation": "Exact editable words supply a question; the chance rule cannot supply its meaning.",
+            "id": "message",
+            "label": "Critical phrase"
+          },
+          {
+            "explanation": "Switch off chance and compare the same fragments before making a claim about disruption.",
+            "id": "relationship",
+            "label": "Planned/chance baseline"
+          }
+        ],
+        "teaching": "Record a deterministic seed and compare planned versus chance placement of original fragments. Edit the critical phrase and explain the cultural question; randomness alone does not establish Dada.",
+        "title": "Chance against a claim"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "vesselScale",
+            "label": "Vessel scale / multiplier",
+            "max": 2,
+            "min": 0.5,
+            "step": 0.1,
+            "type": "number",
+            "value": 1.5
+          },
+          {
+            "key": "lift",
+            "label": "Vessel lift / pixels",
+            "max": 160,
+            "min": 0,
+            "step": 10,
+            "type": "number",
+            "value": 80
+          },
+          {
+            "key": "headline",
+            "label": "Original encounter phrase",
+            "type": "text",
+            "value": "A ROOM IN A CUP"
+          }
+        ],
+        "engine": "unexpected-scale",
+        "id": "surrealism",
+        "limits": "No named artwork replica, dream diagnosis or universal method. Unconscious/liberation context remains sourced and unreviewed at S32.",
+        "regions": [
+          {
+            "explanation": "The original cup changes relative size, creating a proposed conceptual encounter.",
+            "id": "structure",
+            "label": "Altered vessel scale"
+          },
+          {
+            "explanation": "The words make your premise inspectable; interpretation is not a diagnosis.",
+            "id": "message",
+            "label": "Encounter phrase"
+          },
+          {
+            "explanation": "A stable original arch acts as the comparison anchor for scale and lift.",
+            "id": "relationship",
+            "label": "Arch relationship"
+          }
+        ],
+        "teaching": "Write a short encounter, then change an original vessel's relative scale and lift beside an arch. Explain the uncanny relationship while retaining an independent headline. Flying objects alone are not the movement.",
+        "title": "An unexpected relationship"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "size",
+            "label": "Title size / pixels",
+            "max": 48,
+            "min": 24,
+            "step": 2,
+            "type": "number",
+            "value": 36
+          },
+          {
+            "key": "leading",
+            "label": "Line interval / pixels",
+            "max": 70,
+            "min": 38,
+            "step": 2,
+            "type": "number",
+            "value": 52
+          },
+          {
+            "key": "centered",
+            "label": "Centered comparison (off = asymmetrical)",
+            "type": "boolean",
+            "value": false
+          },
+          {
+            "key": "headline",
+            "label": "Exact title and glyphs",
+            "type": "text",
+            "value": "NOTICE\nMAKE\nREVISE"
+          }
+        ],
+        "engine": "content-hierarchy",
+        "id": "new-typography",
+        "limits": "Contemporary original system-font proposal, not a historical poster. Actual readership and S33 passage review remain separate.",
+        "regions": [
+          {
+            "explanation": "A visible rule gives the text blocks a spatial anchor; alignment is a controlled decision.",
+            "id": "structure",
+            "label": "Alignment rule"
+          },
+          {
+            "explanation": "Title lines are editable text, not an image or language-neutral pattern.",
+            "id": "message",
+            "label": "Actual title glyphs"
+          },
+          {
+            "explanation": "Supporting facts stay readable in their own block; compare retrieval rather than assuming a neutral style.",
+            "id": "relationship",
+            "label": "Date/place hierarchy"
+          }
+        ],
+        "teaching": "Transcribe the exact announcement and glyphs. Compare centered and asymmetrical information order by changing alignment, title size and leading. No imported font; asymmetry never excuses clipping or illegibility.",
+        "title": "The page is an open field"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "panels",
+            "label": "Narrative panels / count",
+            "max": 4,
+            "min": 2,
+            "step": 1,
+            "type": "number",
+            "value": 4
+          },
+          {
+            "key": "cupScale",
+            "label": "Object scale / multiplier",
+            "max": 1.2,
+            "min": 0.5,
+            "step": 0.1,
+            "type": "number",
+            "value": 0.8
+          },
+          {
+            "key": "headline",
+            "label": "Original object narrative",
+            "type": "text",
+            "value": "USE / KEEP / REPAIR / SHARE"
+          }
+        ],
+        "engine": "ordinary-panels",
+        "id": "pop-art",
+        "limits": "No branded packaging, characters or named artist replication. Popular/commercial culture context at S35 is unreviewed; no universal Pop recipe.",
+        "regions": [
+          {
+            "explanation": "The repeated unit is our original object, not a commercial package.",
+            "id": "structure",
+            "label": "Repeated ordinary cup"
+          },
+          {
+            "explanation": "Editable words change the interpretation; palette alone cannot establish critique.",
+            "id": "message",
+            "label": "Narrative labels"
+          },
+          {
+            "explanation": "Distinct framed intervals let you compare count and order without flashing.",
+            "id": "relationship",
+            "label": "Panel sequence"
+          }
+        ],
+        "teaching": "Repeat a self-authored cup across original panels. Change panel count and narrative label; compare repetition with one object, and explain whether the sequence means more than a palette change.",
+        "title": "An ordinary object, several narratives"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "pitch",
+            "label": "Static stripe pitch / pixels",
+            "max": 60,
+            "min": 20,
+            "step": 5,
+            "type": "number",
+            "value": 40
+          },
+          {
+            "key": "width",
+            "label": "Stripe width / pixels",
+            "max": 16,
+            "min": 4,
+            "step": 2,
+            "type": "number",
+            "value": 8
+          },
+          {
+            "key": "quiet",
+            "label": "Quiet static alternative",
+            "type": "boolean",
+            "value": false
+          }
+        ],
+        "engine": "static-rhythm",
+        "id": "op-art",
+        "limits": "No measured perceptual response, animation or historical replica. Static patterns can still cause discomfort; quiet alternative is always available. S36 remains unreviewed.",
+        "regions": [
+          {
+            "explanation": "Separated lines repeat without temporal modulation; no flashing is generated.",
+            "id": "structure",
+            "label": "Static stripe field"
+          },
+          {
+            "explanation": "The instruction remains outside optical tension and warns about discomfort.",
+            "id": "message",
+            "label": "Independent information"
+          },
+          {
+            "explanation": "The field is spatially bounded; compare pitch while holding width constant.",
+            "id": "relationship",
+            "label": "Spacing boundary"
+          }
+        ],
+        "teaching": "Discomfort warning: stop viewing if uncomfortable. Vary static stripe pitch and width, one variable at a time; retain six comparisons. Readable information stays outside the optical field. Nothing autoplays or flashes.",
+        "title": "Static spacing, not flashing"
+      },
+      {
+        "contextEvidence": null,
+        "controls": [
+          {
+            "key": "count",
+            "label": "Retained objects / count",
+            "max": 4,
+            "min": 1,
+            "step": 1,
+            "type": "number",
+            "value": 3
+          },
+          {
+            "key": "interval",
+            "label": "Object interval / pixels",
+            "max": 110,
+            "min": 50,
+            "step": 10,
+            "type": "number",
+            "value": 80
+          },
+          {
+            "key": "stage",
+            "label": "Reduction stage",
+            "max": 3,
+            "min": 1,
+            "step": 1,
+            "type": "number",
+            "value": 1
+          }
+        ],
+        "engine": "spatial-reduction",
+        "id": "minimalism",
+        "limits": "Historical Minimalism in art is not minimal marketing design. No material, spatial-installation or named-work reproduction claim. S37 remains unreviewed.",
+        "regions": [
+          {
+            "explanation": "Count removes whole units; a staged reduction changes shape detail instead of recoloring it.",
+            "id": "structure",
+            "label": "Retained objects"
+          },
+          {
+            "explanation": "The small original label is not a claim that less is universally better.",
+            "id": "message",
+            "label": "Declared meaning"
+          },
+          {
+            "explanation": "Blank field is a real spatial relationship, but not physical material presence.",
+            "id": "relationship",
+            "label": "Empty interval"
+          }
+        ],
+        "teaching": "Reduce an original object arrangement through three stages, then change interval and object count. Record when identification or meaning is lost. This screen study cannot demonstrate material or physical presence.",
+        "title": "Reduction and object presence"
+      },
+      {
+        "contextEvidence": {
+          "accessed": "2026-10-11",
+          "limits": "Named source body and transcript only; no artwork copied, rights clearance or canonical status promotion.",
+          "locator": "Overview paragraphs 1–2; Audio Guide 681, Show Transcript, Denise Murrell paragraph",
+          "maker": "Winold Reiss",
+          "medium": "Painting and drawing, as described by curator Denise Murrell for Alain Leroy Locke (1925)",
+          "page": "https://www.metmuseum.org/exhibitions/the-harlem-renaissance-and-transatlantic-modernism",
+          "source": "S45",
+          "status": "writer-inspected-named-passage-not-canonical-review"
+        },
+        "controls": [
+          {
+            "key": "scene",
+            "label": "Original neighborhood scene / 1–6",
+            "max": 6,
+            "min": 1,
+            "step": 1,
+            "type": "number",
+            "value": 1
+          },
+          {
+            "key": "viewpoint",
+            "label": "Viewpoint distance / pixels",
+            "max": 120,
+            "min": 30,
+            "step": 10,
+            "type": "number",
+            "value": 70
+          },
+          {
+            "key": "headline",
+            "label": "Fictional narrative voice / exact copy",
+            "type": "text",
+            "value": "A MAKER OPENS THE DOOR"
+          }
+        ],
+        "engine": "context-narrative",
+        "id": "harlem-renaissance",
+        "limits": "Our fictional everyday-life sequence is not a named historical replica, participant testimony, community approval or one formal language for Black art. Named passage evidence is narrow; canonical S45/record statuses are not promoted. Original vector medium differs from the cited painting/drawing.",
+        "regions": [
+          {
+            "explanation": "A door, desk and window locate a fictional narrative; they do not represent a racial style.",
+            "id": "structure",
+            "label": "Original fictional setting"
+          },
+          {
+            "explanation": "Words identify an authored viewpoint rather than fabricating participant testimony.",
+            "id": "message",
+            "label": "Declared narrative voice"
+          },
+          {
+            "explanation": "A separate source note connects Winold Reiss, painting/drawing and The New Negro; the new vector scene is not that work.",
+            "id": "relationship",
+            "label": "Maker/medium/source boundary"
+          }
+        ],
+        "teaching": "Read the Met S45 overview and curator Denise Murrell's audio-guide 681 transcript: Winold Reiss's Alain Leroy Locke (1925) is described as painting and drawing; Reiss illustrated Alain Locke's The New Negro. The overview relates modern Black life to Great Migration and multiple media. Now edit six wholly original neighborhood scenes and their point of view, not a racialized palette filter or a portrait replica.",
+        "title": "Maker, medium, point of view"
+      }
+    ],
+    "ownership": "Original Design Taste teaching and geometric artwork. Contemporary interpretations, not named historical replicas; cited institutional pages are outbound context only.",
+    "reference": "original-still-life",
+    "version": 2
+  },
+  "records": [
+    {
+      "aliases": [
+        "Arts and Crafts"
+      ],
+      "assets": [
+        "publication"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Make materials and production methods the rationale for visual decisions in a publication or product identity; texture should serve more than decoration.",
+      "exercise": "Create two covers for the same event: one with hand-drawn motifs and one using typography alone. Explain which material decisions support communication.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "V&A discusses the movement through industrial production, the status of craft and the quality of everyday objects. It is not a single decorative repertoire.",
+      "id": "arts-and-crafts",
+      "limits": "Do not equate botanical patterns with the entire movement; acknowledge makers and sources.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/movements/arts-and-crafts.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S24"
+      ],
+      "status": "imported-seed",
+      "title_en": "Arts and Crafts",
+      "visual_principles": "Relationships between materials, making and use; the close connection between craft and design."
+    },
+    {
+      "aliases": [
+        "Art Nouveau"
+      ],
+      "assets": [
+        "poster"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Create an original poster that unites the headline and main image through a shared line system, with a simpler mark for small uses.",
+      "exercise": "Observe a local plant and develop three abstractions and a poster without copying its photograph.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "V&A describes Art Nouveau as an international movement that varied across countries and engaged with historical styles.",
+      "id": "art-nouveau",
+      "limits": "Do not reduce every example to flowers, curves or the appearance of one artist.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/movements/art-nouveau.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S25"
+      ],
+      "status": "imported-seed",
+      "title_en": "Art Nouveau",
+      "visual_principles": "Flowing lines derived from natural forms, surface composition and the integration of structure and ornament; geometric examples also exist."
+    },
+    {
+      "aliases": [
+        "Art Deco"
+      ],
+      "assets": [
+        "cover"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Try stepped forms and rhythmic letter spacing in a cover or event identity; choose a solution that also works in one color.",
+      "exercise": "Create three versions of the same cover: black and white, and two different color families.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "V&A emphasizes that Art Deco combines historical and modern elements and cannot be reduced to a single origin.",
+      "id": "art-deco",
+      "limits": "Gold and black are not mandatory. Do not use historical colonial notions of exotic motifs as decoration without context.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/movements/art-deco.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S26"
+      ],
+      "status": "imported-seed",
+      "title_en": "Art Deco",
+      "visual_principles": "Geometric stylization, linear rhythm, ornament and varied material effects."
+    },
+    {
+      "aliases": [
+        "Bauhaus"
+      ],
+      "assets": [
+        "poster",
+        "identity",
+        "publication",
+        "motion"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Derive a brand poster, publication cover and animated title from the same modular rules; test those rules in actual use.",
+      "exercise": "Explore paper, photography and typography separately, then integrate one exploration into a single production system.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "MoMA defines the Bauhaus as an influential art and design school founded in 1919 and closed in 1933, with experimental teaching focused on materials and function.",
+      "id": "bauhaus",
+      "limits": "The Bauhaus is not a fixed style consisting only of three primary colors and geometric shapes.",
+      "medium": [
+        "static",
+        "temporal"
+      ],
+      "path": "atlas/schools/bauhaus.md",
+      "production_test_status": "not_run",
+      "record_type": "school",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S27"
+      ],
+      "status": "imported-seed",
+      "title_en": "Bauhaus",
+      "visual_principles": "Material experiments, connections across art and design disciplines, function and production conditions."
+    },
+    {
+      "aliases": [
+        "De Stijl"
+      ],
+      "assets": [
+        "cover",
+        "social-series"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Design a cover and carousel system with rectangular modules that accommodate changing headline lengths.",
+      "exercise": "Solve the same message in six asymmetrical layouts; check whether hierarchy survives when colors are removed.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "MoMA connects De Stijl with the publication and art/design milieu of 1917; its approach extends beyond painting into other design disciplines.",
+      "id": "de-stijl",
+      "limits": "Do not copy the composition of a familiar work or mistake a color recipe for the movement as a whole.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/movements/de-stijl.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S28"
+      ],
+      "status": "imported-seed",
+      "title_en": "De Stijl",
+      "visual_principles": "Planar relationships, horizontal and vertical organization, asymmetrical balance and limited color families."
+    },
+    {
+      "aliases": [
+        "Constructivism"
+      ],
+      "assets": [
+        "motion"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Organize announcement priorities through information blocks, direction and scale; connect the formation of blocks to the narrative in a motion version.",
+      "exercise": "Propose three hierarchies for a public-interest message and explain the communication function of each form.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "MoMA connects Constructivism in the Russian avant-garde with social function, production and the idea of the artist-engineer.",
+      "id": "constructivism",
+      "limits": "Red, black and diagonals alone do not establish historical Constructivism. Keep its political context visible.",
+      "medium": [
+        "temporal"
+      ],
+      "path": "atlas/movements/constructivism.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S29"
+      ],
+      "status": "imported-seed",
+      "title_en": "Constructivism",
+      "visual_principles": "Abstract structure, organization and production; linking visual form with communication and social purpose."
+    },
+    {
+      "aliases": [
+        "Suprematism"
+      ],
+      "assets": [
+        "cover",
+        "motion"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Develop an original cover or motion styleframe whose balance changes through small adjustments.",
+      "exercise": "Move three geometric forms to create six different states of tension and balance.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "MoMA connects Suprematism with Malevich and the context of 1915, emphasizing geometric abstraction away from representation.",
+      "id": "suprematism",
+      "limits": "Do not merge it with Constructivism as though they had identical historical aims.",
+      "medium": [
+        "static",
+        "temporal"
+      ],
+      "path": "atlas/movements/suprematism.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S30"
+      ],
+      "status": "imported-seed",
+      "title_en": "Suprematism",
+      "visual_principles": "Simple geometric forms, relationships in space and formal tension rather than representation."
+    },
+    {
+      "aliases": [
+        "Dada"
+      ],
+      "assets": [
+        "cover"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Build a critical cover composition from your own elements that questions the language of current news.",
+      "exercise": "Compare a planned composition with one produced through a chance rule; explain how chance changes meaning.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "MoMA presents Dada through its critique of war and social order alongside chance, improvisation and varied media.",
+      "id": "dada",
+      "limits": "Randomness does not automatically constitute Dada; identify the cultural and political question.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/movements/dada.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S31"
+      ],
+      "status": "imported-seed",
+      "title_en": "Dada",
+      "visual_principles": "Unexpected encounters, combinations that disrupt meaning and questioning established visual authority."
+    },
+    {
+      "aliases": [
+        "Photomontage",
+        "photo montage"
+      ],
+      "assets": [
+        "cover"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Build a masked, editable cover in Photoshop; evaluate lighting and edge consistency against the visual goal.",
+      "exercise": "Create two narratives using only three photographs you own or have suitable licenses to use.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "MoMA materials on Dada describe recombining photographic fragments from printed mass media. The technique is not limited to one movement.",
+      "id": "photomontage",
+      "limits": "Record source rights; use different quality criteria for critical collage and photorealistic compositing.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/techniques/photomontage.md",
+      "production_test_status": "not_run",
+      "record_type": "technique",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S31"
+      ],
+      "status": "imported-seed",
+      "title_en": "Photomontage",
+      "visual_principles": "Cutting, overlapping and changing scale and context to create new meaning between images."
+    },
+    {
+      "aliases": [
+        "Surrealism"
+      ],
+      "assets": [
+        "cover",
+        "motion"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Create a cover with original object relationships around one central idea; transform the same conceptual relationship in motion.",
+      "exercise": "Choose an encounter from five minutes of free writing and turn it into a poster with a clear headline hierarchy.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "Tate explains Surrealism through rational experience, the unconscious, dreams and the pursuit of liberation; it is an international, plural movement.",
+      "id": "surrealism",
+      "limits": "Surrealism is more than flying objects. Do not assume every work uses the same method.",
+      "medium": [
+        "static",
+        "temporal"
+      ],
+      "path": "atlas/movements/surrealism.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S32"
+      ],
+      "status": "imported-seed",
+      "title_en": "Surrealism",
+      "visual_principles": "Unexpected relationships, the uncanny and varied methods such as automatic drawing and writing."
+    },
+    {
+      "aliases": [
+        "New Typography"
+      ],
+      "assets": [
+        "poster",
+        "publication",
+        "motion"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Create a content-led poster and publication system; preserve information order during transitions between blocks in motion.",
+      "exercise": "Design the same announcement symmetrically and asymmetrically; compare how easily readers find its headline, place and date.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "MoMA exhibition materials explain the importance of graphic and information design within the avant-garde of the 1920s and 1930s.",
+      "id": "new-typography",
+      "limits": "Asymmetry does not justify illegibility. Do not present a contemporary adaptation as a historical example.",
+      "medium": [
+        "static",
+        "temporal"
+      ],
+      "path": "atlas/movements/new-typography.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S33"
+      ],
+      "status": "imported-seed",
+      "title_en": "New Typography",
+      "visual_principles": "The page as an open field, asymmetrical relationships between typography and images, and layouts that clarify meaning."
+    },
+    {
+      "aliases": [
+        "Swiss / International Typographic Style",
+        "Swiss Style",
+        "International Typographic Style"
+      ],
+      "assets": [
+        "poster",
+        "publication",
+        "social-series"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Produce a poster, an eight-page publication and a carousel layout from one master design specification.",
+      "exercise": "Compare the same content in gridded and free layouts; test especially with a long headline.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "An official Swiss publication, through a museum curator account, discusses the relationship of this graphic design tradition to education, typography and communication systems.",
+      "id": "swiss-style",
+      "limits": "Helvetica and claims of cultural neutrality are not mandatory; choose according to font, language and context.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/traditions/swiss-style.md",
+      "production_test_status": "not_run",
+      "record_type": "design_tradition",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S34"
+      ],
+      "status": "imported-seed",
+      "title_en": "Swiss / International Typographic Style",
+      "visual_principles": "Grids, consistent hierarchy, typographic systems and organized relationships with images."
+    },
+    {
+      "aliases": [
+        "Pop Art"
+      ],
+      "assets": [
+        "identity",
+        "social-series"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Design a social series that centers an ordinary object without copying copyrighted characters or branded packaging.",
+      "exercise": "Show one object through three narratives; explain whether repetition creates meaning or merely changes color.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "Tate explains Pop Art through developments centered in Britain and the United States in the 1950s and 1960s that engaged with popular and commercial culture.",
+      "id": "pop-art",
+      "limits": "Do not reduce Pop Art to one artist repetition scheme or comic-book dots.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/movements/pop-art.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S35"
+      ],
+      "status": "imported-seed",
+      "title_en": "Pop Art",
+      "visual_principles": "Everyday objects, advertising and packaging language, distinct forms and varied approaches to mass culture."
+    },
+    {
+      "aliases": [
+        "Op Art"
+      ],
+      "assets": [
+        "motion"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Create an original optical field separate from the primary information; plan effect controls and a static alternative for motion.",
+      "exercise": "Make six comparisons by changing just one variable in the same geometric field.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "Tate discusses Op Art through geometric visual effects connected with perception and color relationships.",
+      "id": "op-art",
+      "limits": "Check the risk of rapid flashing and discomfort; keep readable text outside optical tension.",
+      "medium": [
+        "temporal"
+      ],
+      "path": "atlas/movements/op-art.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S36"
+      ],
+      "status": "imported-seed",
+      "title_en": "Op Art",
+      "visual_principles": "Repetition, spacing, scale, contrast and perceptual change."
+    },
+    {
+      "aliases": [
+        "Minimalism"
+      ],
+      "assets": [],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Reduce a cover to essential elements while preserving meaning, information hierarchy and the production surface.",
+      "exercise": "Take a design through three stages of reduction and record when meaning is lost.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "Tate connects Minimalism in art with the United States in the 1960s, simple geometric forms, materials and the presence of the object.",
+      "id": "minimalism",
+      "limits": "Historical Minimalism in art and minimal design in marketing language are different concepts.",
+      "medium": [
+        "study"
+      ],
+      "path": "atlas/movements/minimalism.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S37"
+      ],
+      "status": "imported-seed",
+      "title_en": "Minimalism",
+      "visual_principles": "Form, material, repetition, organization and spatial relationships."
+    },
+    {
+      "aliases": [
+        "Postmodern design"
+      ],
+      "assets": [
+        "publication"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Juxtapose two visual languages on a magazine cover for a deliberate editorial idea; explain why one dominates.",
+      "exercise": "Interpret one headline through two stylistic conflicts and explain how the conflict contributes to its meaning.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "V&A discusses postmodern design through plural references, questioning modernist assumptions and connecting different cultural registers.",
+      "id": "postmodern-design",
+      "limits": "Do not conclude that anything can be mixed freely; legibility and context remain design decisions.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/traditions/postmodern-design.md",
+      "production_test_status": "not_run",
+      "record_type": "design_tradition",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S38"
+      ],
+      "status": "imported-seed",
+      "title_en": "Postmodern design",
+      "visual_principles": "Layered references, debate through historical quotation, irony and controlled visual contrast."
+    },
+    {
+      "aliases": [
+        "Memphis"
+      ],
+      "assets": [],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Create an energetic event identity with original shapes; keep essential information such as date and place in a calm hierarchy.",
+      "exercise": "Compare an object’s functional diagram with an expressive poster interpretation.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "Cooper Hewitt explains the Memphis group founded by Ettore Sottsass through postmodern design debates and objects questioning function and decoration.",
+      "id": "memphis",
+      "limits": "Memphis is a design group, not a name for all postmodernism or every colorful geometric pattern.",
+      "medium": [
+        "study"
+      ],
+      "path": "atlas/collectives/memphis.md",
+      "production_test_status": "not_run",
+      "record_type": "collective",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S39"
+      ],
+      "status": "imported-seed",
+      "title_en": "Memphis",
+      "visual_principles": "Playful scale, unexpected color/form relationships, ornament and debate with modernist expectations."
+    },
+    {
+      "aliases": [
+        "Psychedelic posters"
+      ],
+      "assets": [],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Develop original rhythmic lettering and forms for a music event; keep essential event information independently readable.",
+      "exercise": "Make one dense and one calm poster; compare how viewers find the message.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "Cooper Hewitt How Posters Work exhibition discusses psychedelic posters of the 1960s among examples of intense visual experience.",
+      "id": "psychedelic-posters",
+      "limits": "Sensory overload and communication goals differ. Avoid flash/strobe in motion and do not trace existing works.",
+      "medium": [
+        "study"
+      ],
+      "path": "atlas/traditions/psychedelic-posters.md",
+      "production_test_status": "not_run",
+      "record_type": "design_tradition",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S40"
+      ],
+      "status": "imported-seed",
+      "title_en": "Psychedelic posters",
+      "visual_principles": "Dense patterns, wandering lines, competing colors and text treated as imagery."
+    },
+    {
+      "aliases": [
+        "Ukiyo-e"
+      ],
+      "assets": [
+        "cover",
+        "motion"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Separate outlines and color layers in an original cover; interpret the formation of print layers in motion as a contemporary proposal.",
+      "exercise": "Add a third layer to a two-color composition; compare alignment with deliberate displacement.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "The Met discusses subject matter, serial production and collaboration among designers, carvers, printers and publishers in Edo-period woodblock prints.",
+      "id": "ukiyo-e",
+      "limits": "Do not generalize this as Japanese minimalist style or equate digital layers with historical craft.",
+      "medium": [
+        "static",
+        "temporal"
+      ],
+      "path": "atlas/traditions/ukiyo-e.md",
+      "production_test_status": "not_run",
+      "record_type": "art_tradition",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S41"
+      ],
+      "status": "imported-seed",
+      "title_en": "Ukiyo-e",
+      "visual_principles": "Registered color blocks, relationships between outlines and layers, and serial production."
+    },
+    {
+      "aliases": [
+        "Geometric patterns in Islamic art",
+        "Islamic geometric pattern"
+      ],
+      "assets": [],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Use an original geometric system as a grid or border without reducing an entire culture to one symbol.",
+      "exercise": "Construct a starting unit and make three controlled variations in scale, repetition and spacing.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "The Met treats geometric ornament as one of several decorative forms in Islamic art, with historical and regional diversity.",
+      "id": "islamic-geometric-pattern",
+      "limits": "Do not copy a historical object pattern exactly or imply geometry has the same meaning in every region.",
+      "medium": [
+        "study"
+      ],
+      "path": "atlas/traditions/islamic-geometric-pattern.md",
+      "production_test_status": "not_run",
+      "record_type": "art_tradition",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S42"
+      ],
+      "status": "imported-seed",
+      "title_en": "Geometric patterns in Islamic art",
+      "visual_principles": "Repetition, interlacing and expandable arrangements built from circles, squares, stars and polygons."
+    },
+    {
+      "aliases": [
+        "Calligraphy in Islamic art"
+      ],
+      "assets": [],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Create an original lettering composition with an ordinary phrase whose meaning is verified; check readability with a language specialist.",
+      "exercise": "Compare linear and circular arrangements of one phrase; record meaning and reading order.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "The Met emphasizes calligraphy as a means of communicating text as well as organizing visual form; its uses vary by region and period.",
+      "id": "calligraphy-in-islamic-art",
+      "limits": "Do not use sacred writing as meaningless texture or equate Turkish, Arabic and Persian writing traditions.",
+      "medium": [
+        "study"
+      ],
+      "path": "atlas/traditions/calligraphy-in-islamic-art.md",
+      "production_test_status": "not_run",
+      "record_type": "art_tradition",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S43"
+      ],
+      "status": "imported-seed",
+      "title_en": "Calligraphy in Islamic art",
+      "visual_principles": "Linear rhythm in writing, reading the text and relationships with ground and ornament."
+    },
+    {
+      "aliases": [
+        "AfriCOBRA"
+      ],
+      "assets": [],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Determine a community project message with the people involved and create an original rhythm of words and colors.",
+      "exercise": "Create three visual hierarchies for a short community message you wrote.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "The Smithsonian record connects AfriCOBRA with Black cultural and political agency and community contexts.",
+      "id": "africobra",
+      "limits": "Do not generalize specific symbols as African patterns or rename the group through an inaccurate dictionary translation.",
+      "medium": [
+        "study"
+      ],
+      "path": "atlas/collectives/africobra.md",
+      "production_test_status": "not_run",
+      "record_type": "collective",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S44"
+      ],
+      "status": "imported-seed",
+      "title_en": "AfriCOBRA",
+      "visual_principles": "Words within images, energetic color and rhythmic patterns connected with the social message of the source work."
+    },
+    {
+      "aliases": [
+        "Harlem Renaissance"
+      ],
+      "assets": [
+        "publication"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Develop a publication series about a neighborhood creative life using participant accounts and permitted images.",
+      "exercise": "Build an original neighborhood narrative with six scenes and explain the viewpoint of each.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "The Met connects the movement with modern Black life, migration, cultural expression and international relationships, emphasizing that it has no single formal language.",
+      "id": "harlem-renaissance",
+      "limits": "Do not reduce the movement to nightlife, one palette or the forms of one artist.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/movements/harlem-renaissance.md",
+      "production_test_status": "not_run",
+      "record_type": "movement",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S45"
+      ],
+      "status": "imported-seed",
+      "title_en": "Harlem Renaissance",
+      "visual_principles": "Plural narratives through everyday life, portraiture and different visual media."
+    },
+    {
+      "aliases": [
+        "Calligraphic School of Art"
+      ],
+      "assets": [
+        "cover"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Research a cover through the meaning of writing and its current context, beyond its shape.",
+      "exercise": "Develop three levels of abstraction for a word while preserving its meaning; explain each in terms of readability.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "The Met essay on Egyptian modern art uses this name to discuss calligraphy and geometry within modern art in specific historical contexts.",
+      "id": "calligraphic-school",
+      "limits": "Do not treat this source-specific name as synonymous with Hurufiyya without separate verification.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/schools/calligraphic-school.md",
+      "production_test_status": "not_run",
+      "record_type": "school",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S46"
+      ],
+      "status": "imported-seed",
+      "title_en": "Calligraphic School of Art",
+      "visual_principles": "Relationships between writing, abstraction and historical/cultural positioning."
+    },
+    {
+      "aliases": [
+        "Sabiha Rüştü Bozcalı: publishing and advertising"
+      ],
+      "assets": [
+        "publication"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Build the Turkey design section around named makers, publications and works rather than a single Turkish style.",
+      "exercise": "Select a SALT record; analyze composition, message and production context without redistributing the image, then propose an original cover for the same problem.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "SALT makes Bozcalı’s illustration, publishing and advertising practice visible through archives and exhibitions.",
+      "id": "sabiha-rustu-bozcali",
+      "limits": "This study of a practitioner is not an art movement. Record rights for the work, image and archival text separately.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/case-studies/sabiha-rustu-bozcali.md",
+      "production_test_status": "not_run",
+      "record_type": "case_study",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S47",
+        "S48",
+        "S49"
+      ],
+      "status": "imported-seed",
+      "title_en": "Sabiha Rüştü Bozcalı: publishing and advertising",
+      "visual_principles": "Relationships between visual narrative, drawing and printed communication; contextual study through archival objects."
+    },
+    {
+      "aliases": [
+        "Formal analysis",
+        "design foundations"
+      ],
+      "assets": [],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Design Critic should first describe observable organization, then separate interpretation from proposed changes.",
+      "exercise": "Identify five observed features of a poster and explain their effects without simply calling it beautiful.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "Getty teacher resources offer activities for examining works through visual elements and design principles.",
+      "id": "formal-analysis",
+      "limits": "Critique must not present personal taste as objective error; consider intention and audience.",
+      "medium": [
+        "study"
+      ],
+      "path": "atlas/foundations/formal-analysis.md",
+      "production_test_status": "not_run",
+      "record_type": "foundation",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S21"
+      ],
+      "status": "imported-seed",
+      "title_en": "Formal analysis",
+      "visual_principles": "Line, shape, value, texture and space; explaining balance, emphasis, rhythm and visual relationships with evidence."
+    },
+    {
+      "aliases": [
+        "Color in context",
+        "color",
+        "colour",
+        "color theory"
+      ],
+      "assets": [
+        "identity"
+      ],
+      "chronology": {
+        "date_range": null,
+        "geography": [],
+        "status": "not-extracted"
+      },
+      "contemporary_application": "Do not finish brand color selection with one HEX value; compare it on light and dark backgrounds and photographs.",
+      "exercise": "Place the same inner color in two different surroundings; note how perception changes while its measured value stays constant.",
+      "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
+      "historical_context": "The Albers Foundation documents a teaching approach that examines color through relationships and experimentation.",
+      "id": "color-in-context",
+      "limits": "Do not confuse this perceptual exercise with a file color-profile error or treat every color meaning as a universal rule of psychology.",
+      "medium": [
+        "static"
+      ],
+      "path": "atlas/foundations/color-in-context.md",
+      "production_test_status": "not_run",
+      "record_type": "foundation",
+      "review_status": "needs-source-review",
+      "rights": {
+        "images": "none-included",
+        "text": "imported-summary-rights-unconfirmed"
+      },
+      "source_ids": [
+        "S22",
+        "S23"
+      ],
+      "status": "imported-seed",
+      "title_en": "Color in context",
+      "visual_principles": "The same color can appear different in different surroundings; use comparative experiments."
+    },
+    {
+      "aliases": [
+        "typography hierarchy",
+        "readable cover title",
+        "title subtitle spacing"
+      ],
+      "assets": [
+        "cover",
+        "poster",
+        "publication",
+        "identity"
+      ],
+      "chronology": {
+        "status": "not-applicable-practical-method"
+      },
+      "claim_review_ids": [
+        "S01-C1",
+        "S21-C1",
+        "S40-C1"
+      ],
+      "contemporary_application": "Compare cover title/subtitle hierarchy at actual required sizes. Check glyph coverage, optical margins and fallback; readability is a brief condition to test, not a universal style law.",
+      "exercise": "Create two typography-only covers with fixed copy, render full/reduced views, transcribe copy and revise observed clipping or hierarchy risks.",
+      "filter_note": "Task/asset/medium labels are authored contemporary proposals, not source claims or evaluated constraints.",
+      "historical_context": "RISD relates typography, image and content to context and audience. Getty teaches analysis of compositional roles. Cooper Hewitt documents varied poster operations, including text as image.",
+      "id": "typography-hierarchy",
+      "limits": "No font pairing guarantees quality. AI pixel inspection is not reader testing; unfamiliar language/script needs qualified review. Source review is not expert review or Adobe competence.",
+      "medium": [
+        "static",
+        "study"
+      ],
+      "path": "atlas/foundations/typography-hierarchy.md",
+      "production_test_status": "not_run",
+      "record_type": "foundation",
+      "review_status": "source-reviewed",
+      "rights": {
+        "images": "none-included",
+        "text": "original-authored-summary; source rights separate"
+      },
+      "source_ids": [
+        "S01",
+        "S21",
+        "S40"
+      ],
+      "status": "authored-source-grounded",
+      "task_terms": [
+        "readable cover title",
+        "typography hierarchy",
+        "title subtitle spacing",
+        "required reduced size",
+        "font glyph coverage"
+      ],
+      "title_en": "Typography and hierarchy",
+      "visual_principles": "Observe size, spacing, line breaks and reading order; distinguish nominal dimensions from actual rendered glyph bounds."
+    },
+    {
+      "aliases": [
+        "editorial cover brief",
+        "book cover concept",
+        "thumbnail cover readability"
+      ],
+      "assets": [
+        "cover",
+        "publication"
+      ],
+      "chronology": {
+        "status": "not-applicable-practical-method"
+      },
+      "claim_review_ids": [
+        "S61-C1",
+        "S01-C1"
+      ],
+      "contemporary_application": "Propose distinct cover concepts, retain provisional choice/rejection reasons and test actual 300px readability when the brief requires it.",
+      "exercise": "Produce three original concepts, one selected editable SVG, full/reduced flat exports and a criterion-specific revision log.",
+      "filter_note": "Task/asset/medium labels are authored contemporary proposals, not source claims or evaluated constraints.",
+      "historical_context": "Penguin describes brief/content research, audience/retailers/competition, sketches, multiple directions, review meetings and physical production. RISD relates design choices to context and audience.",
+      "id": "editorial-cover",
+      "limits": "Publisher practice is a reference, not our decision authority. No universal thumbnail rule, human approval or native Adobe proof follows from this record.",
+      "medium": [
+        "static",
+        "study"
+      ],
+      "path": "atlas/foundations/editorial-cover.md",
+      "production_test_status": "not_run",
+      "record_type": "foundation",
+      "review_status": "source-reviewed",
+      "rights": {
+        "images": "none-included",
+        "text": "original-authored-summary; source rights separate"
+      },
+      "source_ids": [
+        "S61",
+        "S01"
+      ],
+      "status": "authored-source-grounded",
+      "task_terms": [
+        "editorial cover brief",
+        "book cover concept",
+        "thumbnail cover readability",
+        "three distinct concepts",
+        "cover rejection rationale"
+      ],
+      "title_en": "Editorial cover decisions",
+      "visual_principles": "Separate content fidelity, metaphor, type-image relationship, hierarchy and final-medium behavior."
+    },
+    {
+      "aliases": [
+        "small size logo",
+        "one color logo",
+        "identity use conditions"
+      ],
+      "assets": [
+        "identity"
+      ],
+      "chronology": {
+        "status": "not-applicable-practical-method"
+      },
+      "claim_review_ids": [
+        "S01-C1",
+        "S62-C1"
+      ],
+      "contemporary_application": "Define actual small-size and one-color uses before evaluating marks. Compare optical spacing and reverse specimens; these are authored workflow proposals, not universal logo rules.",
+      "exercise": "Create distinct concepts, refine one optically and retain required size/background/one-color specimens, editable source and separate rights-screening state.",
+      "filter_note": "Task/asset/medium labels are authored contemporary proposals, not source claims or evaluated constraints.",
+      "historical_context": "RISD describes visual systems across media and context/audience-shaped typography and imagery. WIPO notes global database coverage limits and possible register searches and counsel.",
+      "id": "identity-use-conditions",
+      "limits": "A symbol or monochrome variant is not mandatory for every brief. Screening is not legal clearance. No identity pilot, expert approval or Adobe production has been performed by this record.",
+      "medium": [
+        "static",
+        "study"
+      ],
+      "path": "atlas/foundations/identity-use-conditions.md",
+      "production_test_status": "not_run",
+      "record_type": "foundation",
+      "review_status": "source-reviewed",
+      "rights": {
+        "images": "none-included",
+        "text": "original-authored-summary; source rights separate"
+      },
+      "source_ids": [
+        "S01",
+        "S62"
+      ],
+      "status": "authored-source-grounded",
+      "task_terms": [
+        "small size logo",
+        "one color logo",
+        "identity use conditions",
+        "reverse background",
+        "optical spacing"
+      ],
+      "title_en": "Visual identity use conditions",
+      "visual_principles": "Assess identification, typography, spacing, background/scale variants and rights separately; no aesthetic average cancels a failed required use."
+    }
+  ],
+  "sources": [
+    {
+      "claim_reviews": [
+        {
+          "claim": "Typography, image and content respond to context, audience and communication objectives; visual systems span media.",
+          "id": "S01-C1",
+          "limits": "Named passage only, not whole-site review or empirical learner/audience outcomes. Sixth bullet describes visual systems across diverse media.",
+          "locator": "Learning outcomes, first and sixth bullets",
+          "outcome": "supported-named-passage",
+          "page_url": "https://www.risd.edu/academics/graphic-design/bachelors-program",
+          "reviewed_on": "2026-10-11",
+          "reviewer_role": "Independent host source reviewer, separate from source-report import and design author",
+          "rights": {
+            "commercial_use": "not-determined",
+            "data": "not-determined",
+            "fonts": "not-determined",
+            "images": "not-determined",
+            "text": "not-determined"
+          },
+          "source_id": "S01",
+          "support_excerpt": "shape typography, image, and content in response to context, audience, and communication objectives."
+        }
+      ],
+      "id": "S01",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "RISD Graphic Design BFA",
+      "url": "https://www.risd.edu/academics/graphic-design/bachelors-program",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S02",
+      "image_rights": "not-determined",
+      "import_note": "· `course_catalogue` · Fall 2026 · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "RISD Graphic Design course catalogue",
+      "url": "https://www.risd.edu/academics/graphic-design/courses",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S03",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Parsons Communication Design BFA",
+      "url": "https://www.newschool.edu/parsons/bfa-communication-design/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S04",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Yale Graphic Design MFA",
+      "url": "https://art.yale.edu/program/graphic-design",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S05",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "CalArts Graphic Design BFA",
+      "url": "https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S06",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "UAL CSM Graphic Communication Design",
+      "url": "https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-communication-design-csm",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S07",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Page advertises 2027 entry · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "UAL LCC Graphic and Media Design",
+      "url": "https://www.arts.ac.uk/subjects/communication-and-graphic-design/undergraduate/ba-hons-graphic-and-media-design-lcc",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S08",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "RCA Visual Communication MA",
+      "url": "https://www.rca.ac.uk/study/programme-finder/visual-communication-ma/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S09",
+      "image_rights": "not-determined",
+      "import_note": "· `programme_specification_pdf` · 2026–2027 · access: `text_and_pages_1_4_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "RCA Visual Communication programme specification",
+      "url": "https://www.rca.ac.uk/documents2/1480/2026-27-rca-ma-visual-communication-programme-specification.pdf",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S10",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · 2026–2027 references · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "KABK Graphic Design programme description",
+      "url": "https://www.kabk.nl/en/programmes/bachelor/graphic-design/programme-description",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S11",
+      "image_rights": "not-determined",
+      "import_note": "· `programme_outcomes_and_module_table` · Year unspecified · access: `page_or_search_extract_reviewed`. Year-specific outcomes and modules, not a complete weekly syllabus.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "ECAL Graphic Design Bachelor",
+      "url": "https://ecal.ch/en/courses-and-research/bachelor/bachelor-graphic-design/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S12",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "HfG Schwäbisch Gmünd Communication Design",
+      "url": "https://www.hfg-gmuend.de/en/studium/communication-design",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S13",
+      "image_rights": "not-determined",
+      "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "NID Graphic Design BDes",
+      "url": "https://www.nid.edu/academics/programmes/bachelor-of-design-bdes/graphic-design-bdes.html",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S14",
+      "image_rights": "not-determined",
+      "import_note": "· `course_catalogue` · Year unspecified · access: `page_or_search_extract_reviewed`. Prefer central catalogue for current codes; department page can differ.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Bilkent Graphic Design central catalogue",
+      "url": "https://catalog.bilkent.edu.tr/dep/dc72.html",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S15",
+      "image_rights": "not-determined",
+      "import_note": "· `department_course_descriptions` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Bilkent Graphic Design department",
+      "url": "https://www.gra.bilkent.edu.tr/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S16",
+      "image_rights": "not-determined",
+      "import_note": "· `archival_course_syllabus` · Fall 2002 · access: `page_images_1_to_5_reviewed`. Historical syllabus. Not a current CMU curriculum; later pages not fully reviewed.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "CMU Typography One: Type as Image syllabus",
+      "url": "https://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S17",
+      "image_rights": "not-determined",
+      "import_note": "· `syllabus_index` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "CMU Eberly Center syllabus examples",
+      "url": "https://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/index.html",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S18",
+      "image_rights": "not-determined",
+      "import_note": "· `course_catalogue` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Ringling Motion Design course catalogue",
+      "url": "https://catalog.ringling.edu/motion-design",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S19",
+      "image_rights": "not-determined",
+      "import_note": "· `programme_outcomes` · 2026–2027 curriculum-map reference · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Ringling Motion Design BFA learning outcomes",
+      "url": "https://catalog.ringling.edu/motion-design/motion-design-bfa",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S20",
+      "image_rights": "not-determined",
+      "import_note": "· `degree_course_list` · 2026–2027 · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "SCAD Motion Media Design BFA catalogue",
+      "url": "https://catalog.scad.edu/school-animation-motion/motion-media-design/motion-media-design-bfa/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "claim_reviews": [
+        {
+          "claim": "Formal analysis identifies elements/principles and their roles in composition.",
+          "id": "S21-C1",
+          "limits": "Named passage only, not whole-site verification or a guarantee of design quality.",
+          "locator": "Introductory paragraph",
+          "outcome": "supported-named-passage",
+          "page_url": "https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html",
+          "reviewed_on": "2026-10-11",
+          "reviewer_role": "Independent host source reviewer, separate from import and design author",
+          "rights": {
+            "commercial_use": "not-determined",
+            "data": "not-determined",
+            "fonts": "not-determined",
+            "images": "not-determined",
+            "text": "not-determined"
+          },
+          "source_id": "S21",
+          "support_excerpt": "Students discover how to identify the elements and principles, and evaluate their role in the composition of a work of art."
+        }
+      ],
+      "id": "S21",
+      "image_rights": "not-determined",
+      "import_note": "· `teaching_resource` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Getty formal analysis learning resources",
+      "url": "https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "claim_reviews": [
+        {
+          "claim": "Albers teaching emphasizes observation and experimental study of color in context.",
+          "id": "S22-C1",
+          "limits": "Named passage only. Rejection of universal emotion prescriptions is our methodological caution, not an empirical claim from this passage.",
+          "locator": "Teaching discussion, paragraph beginning In place of systems",
+          "outcome": "supported-named-passage",
+          "page_url": "https://www.albersfoundation.org/alberses/teaching/interaction-of-color",
+          "reviewed_on": "2026-10-11",
+          "reviewer_role": "Independent host source reviewer, separate from import and design author",
+          "rights": {
+            "commercial_use": "not-determined",
+            "data": "not-determined",
+            "fonts": "not-determined",
+            "images": "not-determined",
+            "text": "not-determined"
+          },
+          "source_id": "S22",
+          "support_excerpt": "experimental way of studying color and teaching color"
+        }
+      ],
+      "id": "S22",
+      "image_rights": "not-determined",
+      "import_note": "· `foundation_teaching_resource` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Albers Foundation Interaction of Color",
+      "url": "https://www.albersfoundation.org/alberses/teaching/interaction-of-color",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "claim_reviews": [
+        {
+          "claim": "The tutorial demonstrates one color appearing as two.",
+          "id": "S23-C1",
+          "limits": "Description only. Tutorial images not imported or reviewed for reuse rights.",
+          "locator": "Opening description",
+          "outcome": "supported-named-passage",
+          "page_url": "https://www.albersfoundation.org/learning/workshops/one-color-becomes-two",
+          "reviewed_on": "2026-10-11",
+          "reviewer_role": "Independent host source reviewer, separate from import and design author",
+          "rights": {
+            "commercial_use": "not-determined",
+            "data": "not-determined",
+            "fonts": "not-determined",
+            "images": "not-determined",
+            "text": "not-determined"
+          },
+          "source_id": "S23",
+          "support_excerpt": "This hands on tutorial demonstrates how one color can appear as two"
+        }
+      ],
+      "id": "S23",
+      "image_rights": "not-determined",
+      "import_note": "· `exercise` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Albers Foundation One Color Becomes Two",
+      "url": "https://www.albersfoundation.org/learning/workshops/one-color-becomes-two",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S24",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "V&A Arts and Crafts introduction",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S25",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "V&A Art Nouveau international style",
+      "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S26",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "V&A Introduction to Art Deco",
+      "url": "https://www.vam.ac.uk/articles/an-introduction-to-art-deco",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S27",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "MoMA Bauhaus",
+      "url": "https://www.moma.org/collection/terms/bauhaus",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S28",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "MoMA De Stijl",
+      "url": "https://www.moma.org/collection/terms/de-stijl",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S29",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "MoMA Constructivism",
+      "url": "https://www.moma.org/collection/terms/constructivism",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S30",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "MoMA Suprematism",
+      "url": "https://www.moma.org/collection/terms/suprematism",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S31",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_educational` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "MoMA Dada: chance, collage, photomontage and assemblage",
+      "url": "https://www.moma.org/collection/terms/dada/chance-creations-collage-photomontage-and-assemblage",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S32",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Tate Surrealism",
+      "url": "https://www.tate.org.uk/art/art-terms/s/surrealism",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S33",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_exhibition` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "MoMA The New Typography",
+      "url": "https://www.moma.org/calendar/exhibitions/1013",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S34",
+      "image_rights": "not-determined",
+      "import_note": "· `government_published_curator_essay` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Swiss Style: museum curator historical account",
+      "url": "https://www.aboutswitzerland.eda.admin.ch/en/swiss-style-forever-the-story-of-a-graphic-design-tradition",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S35",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Tate Pop Art",
+      "url": "https://www.tate.org.uk/art/art-terms/p/pop-art",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S36",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Tate Op Art",
+      "url": "https://www.tate.org.uk/art/art-terms/o/op-art",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S37",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_term` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Tate Minimalism",
+      "url": "https://www.tate.org.uk/art/art-terms/m/minimalism",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S38",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_collection` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "V&A Postmodernism",
+      "url": "https://www.vam.ac.uk/collections/postmodernism",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S39",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · 2020 · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Cooper Hewitt: A Serious Case of PoMo",
+      "url": "https://www.cooperhewitt.org/2020/01/29/a-serious-case-of-pomo/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "claim_reviews": [
+        {
+          "claim": "Poster communication includes text as image and both focusing and overwhelming attention.",
+          "id": "S40-C1",
+          "limits": "Exhibition account only, not proof that a particular style is universally effective. No artwork images imported.",
+          "locator": "Paragraph listing fourteen exhibition subsections",
+          "outcome": "supported-named-passage",
+          "page_url": "https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/",
+          "reviewed_on": "2026-10-11",
+          "reviewer_role": "Independent host source reviewer, separate from import and design author",
+          "rights": {
+            "commercial_use": "not-determined",
+            "data": "not-determined",
+            "fonts": "not-determined",
+            "images": "not-determined",
+            "text": "not-determined"
+          },
+          "source_id": "S40",
+          "support_excerpt": "focus the eye, overwhelm the eye, use text as image"
+        }
+      ],
+      "id": "S40",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_exhibition` · 2015 · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Cooper Hewitt: How Posters Work",
+      "url": "https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S41",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Met Ukiyo-e woodblock printing",
+      "url": "https://www.metmuseum.org/essays/woodblock-prints-in-the-ukiyo-e-style",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S42",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Met Geometric Patterns in Islamic Art",
+      "url": "https://www.metmuseum.org/essays/geometric-patterns-in-islamic-art",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S43",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Met Calligraphy in Islamic Art",
+      "url": "https://www.metmuseum.org/essays/calligraphy-in-islamic-art",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S44",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_object` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Smithsonian AfriCOBRA / Carolyn Mims Lawrence object",
+      "url": "https://nmaahc.si.edu/object/nmaahc_2014.130.4",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S45",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_exhibition` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Met Harlem Renaissance and Transatlantic Modernism",
+      "url": "https://www.metmuseum.org/exhibitions/the-harlem-renaissance-and-transatlantic-modernism",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S46",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_essay` · Year unspecified · access: `firecrawl_agent_page_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Met Egyptian Modern Art",
+      "url": "https://www.metmuseum.org/essays/egyptian-modern-art",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S47",
+      "image_rights": "not-determined",
+      "import_note": "· `archive_exhibition` · 2015–2016 · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "SALT Painter Sabiha Rüştü Bozcalı",
+      "url": "https://saltonline.org/tr/ressam-sabiha-rustu-bozcali-1256",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S48",
+      "image_rights": "not-determined",
+      "import_note": "· `historical_workshop` · 2015 · access: `search_extract_reviewed`. Historical workshop, not an upcoming event.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "SALT Designing a Cover",
+      "url": "https://saltonline.org/tr/1305/atolye-bir-kapak-tasarlamak",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S49",
+      "image_rights": "not-determined",
+      "import_note": "· `historical_workshop` · 2016 · access: `search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "SALT Drawing Music",
+      "url": "https://saltonline.org/tr/1309/atolye-muzigi-cizmek",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S50",
+      "image_rights": "not-determined",
+      "import_note": "· `repository_readme` · Year unspecified · access: `github_file_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "UI UX Pro Max README",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S51",
+      "image_rights": "not-determined",
+      "import_note": "· `source_code` · Year unspecified · access: `github_file_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "UI UX Pro Max search.py",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/src/ui-ux-pro-max/scripts/search.py",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S52",
+      "image_rights": "not-determined",
+      "import_note": "· `license` · Year unspecified · access: `github_file_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "UI UX Pro Max MIT license",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/LICENSE",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S53",
+      "image_rights": "not-determined",
+      "import_note": "· `official_documentation` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "OpenAI Build skills",
+      "url": "https://learn.chatgpt.com/docs/build-skills",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S54",
+      "image_rights": "not-determined",
+      "import_note": "· `official_documentation` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Adobe Photoshop UXP scripting",
+      "url": "https://developer.adobe.com/photoshop/uxp/scripting/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S55",
+      "image_rights": "not-determined",
+      "import_note": "· `official_documentation` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Adobe InDesign UXP scripts",
+      "url": "https://developer.adobe.com/indesign/uxp/scripts/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S56",
+      "image_rights": "not-determined",
+      "import_note": "· `official_documentation` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Adobe Premiere UXP introduction",
+      "url": "https://developer.adobe.com/premiere-pro/uxp/introduction/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S57",
+      "image_rights": "not-determined",
+      "import_note": "· `official_documentation` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Adobe After Effects scripts",
+      "url": "https://helpx.adobe.com/ca/after-effects/desktop/automate-in-after-effects/automate-animation/scripts.html",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S58",
+      "image_rights": "not-determined",
+      "import_note": "· `official_roadmap` · 2026-09-24 · access: `search_full_extract_reviewed`. Future beta dates are plans, not currently available features.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Adobe Creative Cloud UXP migration timeline",
+      "url": "https://blog.developer.adobe.com/en/publish/2026/09/investing-in-the-future-of-creative-cloud-extensibility-uxp-comes-to-our-flagship-applications",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S59",
+      "image_rights": "not-determined",
+      "import_note": "· `official_documentation` · Year unspecified · access: `page_or_search_extract_reviewed`.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "Adobe Illustrator scripting",
+      "url": "https://helpx.adobe.com/be_en/illustrator/desktop/automate-visualize-data/automate-actions/install-and-run-scripts.html",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "id": "S60",
+      "image_rights": "not-determined",
+      "import_note": "· `museum_terms_index` · Year unspecified · access: `firecrawl_query_partial`. Index mixes movements, schools, materials, techniques and themes. The query returned only an A–C subset, not the whole index.",
+      "imported_on": "2026-10-10",
+      "provenance": "supplied-research-report",
+      "text_rights": "not-determined",
+      "title": "MoMA art terms inventory",
+      "url": "https://www.moma.org/collection/terms/",
+      "verification": "reported-by-document-not-reverified"
+    },
+    {
+      "claim_reviews": [
+        {
+          "claim": "Publisher cover practice includes research, audience/competition, sketches, multiple concepts, collaborative review and production.",
+          "id": "S61-C1",
+          "limits": "Publisher-specific practice, not our decision authority or audience success proof. Retrieved text also describes sketches, several visuals and production; no illustrations reproduced.",
+          "locator": "Receiving the brief and researching; Creating the first visuals; The covers meeting(s); closing Production-team paragraphs",
+          "outcome": "supported-named-passages",
+          "page_url": "https://www.penguin.co.uk/about/company-articles/how-book-covers-are-designed",
+          "reviewed_on": "2026-10-11",
+          "reviewer_role": "Independent host source reviewer, separate from import and design author",
+          "rights": {
+            "commercial_use": "not-determined",
+            "data": "not-determined",
+            "fonts": "not-determined",
+            "images": "not-determined",
+            "text": "not-determined"
+          },
+          "source_id": "S61",
+          "support_excerpt": "Who's our target audience? Who are the target retailers? What's the competition?"
+        }
+      ],
+      "id": "S61",
+      "image_rights": "not-determined",
+      "provenance": "independent-host-research",
+      "text_rights": "not-determined",
+      "title": "Penguin: How book covers are designed",
+      "url": "https://www.penguin.co.uk/about/company-articles/how-book-covers-are-designed",
+      "verification": "claim-level-reviewed"
+    },
+    {
+      "claim_reviews": [
+        {
+          "claim": "Global database coverage is incomplete; national/regional register searches and counsel may be needed.",
+          "id": "S62-C1",
+          "limits": "Coverage warning only. No trademark search, legal advice or clearance performed for this project.",
+          "locator": "Resources: External trademark databases paragraph",
+          "outcome": "supported-named-passage",
+          "page_url": "https://www.wipo.int/en/web/global-brand-database",
+          "reviewed_on": "2026-10-11",
+          "reviewer_role": "Independent host source reviewer, separate from import and design author",
+          "rights": {
+            "commercial_use": "not-determined",
+            "data": "not-determined",
+            "fonts": "not-determined",
+            "images": "not-determined",
+            "text": "not-determined"
+          },
+          "source_id": "S62",
+          "support_excerpt": "it may be prudent to search also the registers of national/regional intellectual property offices"
+        }
+      ],
+      "id": "S62",
+      "image_rights": "not-determined",
+      "provenance": "independent-host-research",
+      "text_rights": "not-determined",
+      "title": "WIPO Global Brand Database: screening limitations",
+      "url": "https://www.wipo.int/en/web/global-brand-database",
+      "verification": "claim-level-reviewed"
+    }
+  ],
+  "studio": {
+    "asset": "reference.svg",
+    "backgrounds": [
+      "#fffdf7",
+      "#20251f",
+      "#234d86",
+      "#a34120",
+      "#e5be42",
+      "#b5b9ac"
+    ],
+    "exercises": [
+      {
+        "id": "composition",
+        "lesson": "01",
+        "teaching": "Weight is a relationship, not an object property. Move the vessel away from the group, then change its scale. Compare the remaining gaps before deciding whether attention moved. Retain three layouts using the same four objects."
+      },
+      {
+        "id": "color",
+        "lesson": "02",
+        "teaching": "The central patch has RGB 128, 128, 128 in every specimen. Predict its appearance before comparing the surrounds. Report a difference or no difference; either is valid evidence. Change one surround, not the patch. Browser display and ambient light are not calibrated print proof."
+      },
+      {
+        "id": "planes",
+        "lesson": "04",
+        "teaching": "This original color-plane reconstruction uses unequal rectangular areas and orthogonal boundaries. The retained object positions connect it to our still life, not to a named historical painting. Read S28 before making a historical claim."
+      }
+    ],
+    "limits": "Color-plane study only. De Stijl publication, architecture and social aims are not modeled. Historical claims retain S28 review limits.",
+    "movement": "de-stijl",
+    "objects": [
+      {
+        "fill": "#a34120",
+        "id": "vessel",
+        "scale": 1,
+        "shape": "vessel",
+        "visible": true,
+        "x": 0.15,
+        "y": 0.52
+      },
+      {
+        "fill": "#234d86",
+        "id": "arch",
+        "scale": 1,
+        "shape": "arch",
+        "visible": true,
+        "x": 0.46,
+        "y": 0.28
+      },
+      {
+        "fill": "#f5f1e8",
+        "id": "sphere",
+        "scale": 1,
+        "shape": "sphere",
+        "visible": true,
+        "x": 0.67,
+        "y": 0.58
+      },
+      {
+        "fill": "#20251f",
+        "id": "fold",
+        "scale": 1,
+        "shape": "fold",
+        "visible": true,
+        "x": 0.76,
+        "y": 0.65
+      }
+    ],
+    "ownership": "Project-authored original; simplified editable reconstruction, not a historical artwork.",
+    "palette": [
+      "#a34120",
+      "#234d86",
+      "#f5f1e8",
+      "#20251f",
+      "#e5be42",
+      "#808080"
+    ],
+    "reference": "original-still-life",
+    "regions": [
+      {
+        "explanation": "The warm vertical mass sits left of the cooler arch. Its width competes with the surrounding blank space; moving it changes that gap, not just its location.",
+        "id": "vessel",
+        "label": "1 / Vessel weight",
+        "rect": [
+          0.12,
+          0.45,
+          0.23,
+          0.38
+        ]
+      },
+      {
+        "explanation": "A vertical blue field gives the composition a tall anchor. In the plane study its cutout is simplified to a rectangular interruption, emphasizing orthogonal edges.",
+        "id": "arch",
+        "label": "2 / Arch boundary",
+        "rect": [
+          0.42,
+          0.24,
+          0.24,
+          0.4
+        ]
+      },
+      {
+        "explanation": "The pale rounded form becomes a small light rectangle in the plane study. The area stays subordinate to the large blue field; shape and hierarchy are separate decisions.",
+        "id": "sphere",
+        "label": "3 / Light plane",
+        "rect": [
+          0.59,
+          0.47,
+          0.2,
+          0.22
+        ]
+      },
+      {
+        "explanation": "A low dark form balances the tall left mass. The rectangular reinterpretation removes the diagonal fold rather than pretending to preserve its material.",
+        "id": "fold",
+        "label": "4 / Dark counterweight",
+        "rect": [
+          0.7,
+          0.58,
+          0.27,
+          0.22
+        ]
+      },
+      {
+        "explanation": "The open interval below the arch separates the foreground group. Compare the two gaps rather than assuming equal spacing is always balanced.",
+        "id": "space",
+        "label": "5 / Unequal intervals",
+        "rect": [
+          0.34,
+          0.68,
+          0.32,
+          0.18
+        ]
+      }
+    ],
+    "sources": [
+      "S28"
+    ],
+    "version": 1
+  }
+}

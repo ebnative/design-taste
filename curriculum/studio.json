@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "reference": "original-still-life",
+  "asset": "reference.svg",
+  "ownership": "Project-authored original; simplified editable reconstruction, not a historical artwork.",
+  "limits": "Color-plane study only. De Stijl publication, architecture and social aims are not modeled. Historical claims retain S28 review limits.",
+  "sources": [
+    "S28"
+  ],
+  "movement": "de-stijl",
+  "exercises": [
+    {
+      "id": "composition",
+      "lesson": "01",
+      "teaching": "Weight is a relationship, not an object property. Move the vessel away from the group, then change its scale. Compare the remaining gaps before deciding whether attention moved. Retain three layouts using the same four objects."
+    },
+    {
+      "id": "color",
+      "lesson": "02",
+      "teaching": "The central patch has RGB 128, 128, 128 in every specimen. Predict its appearance before comparing the surrounds. Report a difference or no difference; either is valid evidence. Change one surround, not the patch. Browser display and ambient light are not calibrated print proof."
+    },
+    {
+      "id": "planes",
+      "lesson": "04",
+      "teaching": "This original color-plane reconstruction uses unequal rectangular areas and orthogonal boundaries. The retained object positions connect it to our still life, not to a named historical painting. Read S28 before making a historical claim."
+    }
+  ],
+  "palette": [
+    "#a34120",
+    "#234d86",
+    "#f5f1e8",
+    "#20251f",
+    "#e5be42",
+    "#808080"
+  ],
+  "backgrounds": [
+    "#fffdf7",
+    "#20251f",
+    "#234d86",
+    "#a34120",
+    "#e5be42",
+    "#b5b9ac"
+  ],
+  "objects": [
+    {
+      "id": "vessel",
+      "shape": "vessel",
+      "x": 0.15,
+      "y": 0.52,
+      "scale": 1,
+      "fill": "#a34120",
+      "visible": true
+    },
+    {
+      "id": "arch",
+      "shape": "arch",
+      "x": 0.46,
+      "y": 0.28,
+      "scale": 1,
+      "fill": "#234d86",
+      "visible": true
+    },
+    {
+      "id": "sphere",
+      "shape": "sphere",
+      "x": 0.67,
+      "y": 0.58,
+      "scale": 1,
+      "fill": "#f5f1e8",
+      "visible": true
+    },
+    {
+      "id": "fold",
+      "shape": "fold",
+      "x": 0.76,
+      "y": 0.65,
+      "scale": 1,
+      "fill": "#20251f",
+      "visible": true
+    }
+  ],
+  "regions": [
+    {
+      "id": "vessel",
+      "label": "1 / Vessel weight",
+      "rect": [
+        0.12,
+        0.45,
+        0.23,
+        0.38
+      ],
+      "explanation": "The warm vertical mass sits left of the cooler arch. Its width competes with the surrounding blank space; moving it changes that gap, not just its location."
+    },
+    {
+      "id": "arch",
+      "label": "2 / Arch boundary",
+      "rect": [
+        0.42,
+        0.24,
+        0.24,
+        0.4
+      ],
+      "explanation": "A vertical blue field gives the composition a tall anchor. In the plane study its cutout is simplified to a rectangular interruption, emphasizing orthogonal edges."
+    },
+    {
+      "id": "sphere",
+      "label": "3 / Light plane",
+      "rect": [
+        0.59,
+        0.47,
+        0.2,
+        0.22
+      ],
+      "explanation": "The pale rounded form becomes a small light rectangle in the plane study. The area stays subordinate to the large blue field; shape and hierarchy are separate decisions."
+    },
+    {
+      "id": "fold",
+      "label": "4 / Dark counterweight",
+      "rect": [
+        0.7,
+        0.58,
+        0.27,
+        0.22
+      ],
+      "explanation": "A low dark form balances the tall left mass. The rectangular reinterpretation removes the diagonal fold rather than pretending to preserve its material."
+    },
+    {
+      "id": "space",
+      "label": "5 / Unequal intervals",
+      "rect": [
+        0.34,
+        0.68,
+        0.32,
+        0.18
+      ],
+      "explanation": "The open interval below the arch separates the foreground group. Compare the two gaps rather than assuming equal spacing is always balanced."
+    }
+  ]
+}
