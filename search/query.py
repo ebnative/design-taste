@@ -11,6 +11,12 @@ import unicodedata
 ROOT = Path(__file__).resolve().parents[1]
 TYPES = ('foundation', 'movement', 'school', 'collective', 'design_tradition', 'art_tradition', 'technique', 'case_study')
 
+def task_terms(record):
+    values = record.get('task_terms', [])
+    if not isinstance(values, list) or any(not isinstance(v, str) or not v.strip() for v in values):
+        raise ValueError('task_terms must be a list of nonempty strings')
+    return values
+
 def normalize(text):
     text = text.casefold().replace('ı', 'i')
     return ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
@@ -38,7 +44,7 @@ def search(query, record_type=None, asset=None, medium=None, limit=5, root=ROOT)
         raise ValueError('Unknown medium: ' + medium)
     documents = []
     for rec in records:
-        prominent = ' '.join([rec['id'], rec['title_en']] + rec['aliases'])
+        prominent = ' '.join([rec['id'], rec['title_en']] + rec['aliases'] + task_terms(rec))
         content = ' '.join(rec.get(key, '') for key in ('historical_context', 'visual_principles', 'contemporary_application', 'exercise'))
         documents.append(tokens((prominent + ' ') * 3 + content))
     terms = set(tokens(query))
@@ -63,15 +69,22 @@ def search(query, record_type=None, asset=None, medium=None, limit=5, root=ROOT)
         if normalize(query.strip()) in [normalize(a) for a in rec['aliases'] + [rec['id']]]:
             score += 10
         results.append(dict(id=rec['id'], title=rec['title_en'], record_type=rec['record_type'],
-                            score=round(score, 5), matched_terms=matched, path=rec['path'],
+                            score=round(score, 5), matched_terms=matched,
+                            unmatched_terms=sorted(terms.difference(tf)), path=rec['path'],
+                            task_terms=task_terms(rec), claim_review_ids=rec.get('claim_review_ids', []),
                             source_ids=rec['source_ids'], review_status=rec['review_status'],
                             production_test_status=rec['production_test_status'],
                             application=rec['contemporary_application'], limits=rec['limits']))
     results.sort(key=lambda item: (-item['score'], item['id']))
+    selected = results[:limit]
+    matched_terms = {term for row in selected for term in row['matched_terms']}
     return {'query': query, 'filters': {'record_type': record_type, 'asset': requested_asset, 'medium': medium},
-            'status': 'matched' if results else 'no_match', 'count': min(limit, len(results)),
-            'note': 'Text relevance only. Applications are contemporary proposals; source re-review pending.',
-            'results': results[:limit]}
+            'status': 'matched' if selected else 'no_match', 'count': len(selected),
+            'unmatched_terms': sorted(terms.difference(matched_terms)),
+            'constraint_evaluation': 'not_performed',
+            'note': 'Lexical relevance only, not a solved brief. Constraints are not evaluated. '
+                    'Applications and task labels are contemporary proposals; review status is per record.',
+            'results': selected}
 
 def main():
     if hasattr(sys.stdout, 'reconfigure'):
@@ -96,8 +109,10 @@ def main():
         print('No match in the knowledge base; no result or default style was generated.')
     else:
         print(result['note'])
+        print('Unmatched query terms: ' + (', '.join(result['unmatched_terms']) or 'none'))
         for row in result['results']:
             print('\n' + row['title'] + ' [' + row['record_type'] + ']\n' + row['path'])
+            print('Unmatched for this record: ' + (', '.join(row['unmatched_terms']) or 'none'))
             print('Proposal: ' + row['application'])
             print('Limit: ' + row['limits'])
 

@@ -984,5 +984,41 @@
     ],
     "filter_note": "Asset/medium labels describe our suggested applications, not the historical movement.",
     "path": "atlas/foundations/color-in-context.md"
+  },
+  {
+    "id":"typography-hierarchy","title_en":"Typography and hierarchy","record_type":"foundation","status":"authored-source-grounded","review_status":"source-reviewed","production_test_status":"not_run",
+    "aliases":["typography hierarchy","readable cover title","title subtitle spacing"],"task_terms":["readable cover title","typography hierarchy","title subtitle spacing","required reduced size","font glyph coverage"],
+    "source_ids":["S01","S21","S40"],"claim_review_ids":["S01-C1","S21-C1","S40-C1"],
+    "chronology":{"status":"not-applicable-practical-method"},"rights":{"text":"original-authored-summary; source rights separate","images":"none-included"},"assets":["cover","poster","publication","identity"],"medium":["static","study"],
+    "historical_context":"RISD relates typography, image and content to context and audience. Getty teaches analysis of compositional roles. Cooper Hewitt documents varied poster operations, including text as image.",
+    "visual_principles":"Observe size, spacing, line breaks and reading order; distinguish nominal dimensions from actual rendered glyph bounds.",
+    "contemporary_application":"Compare cover title/subtitle hierarchy at actual required sizes. Check glyph coverage, optical margins and fallback; readability is a brief condition to test, not a universal style law.",
+    "exercise":"Create two typography-only covers with fixed copy, render full/reduced views, transcribe copy and revise observed clipping or hierarchy risks.",
+    "limits":"No font pairing guarantees quality. AI pixel inspection is not reader testing; unfamiliar language/script needs qualified review. Source review is not expert review or Adobe competence.",
+    "filter_note":"Task/asset/medium labels are authored contemporary proposals, not source claims or evaluated constraints.","path":"atlas/foundations/typography-hierarchy.md"
+  },
+  {
+    "id":"editorial-cover","title_en":"Editorial cover decisions","record_type":"foundation","status":"authored-source-grounded","review_status":"source-reviewed","production_test_status":"not_run",
+    "aliases":["editorial cover brief","book cover concept","thumbnail cover readability"],"task_terms":["editorial cover brief","book cover concept","thumbnail cover readability","three distinct concepts","cover rejection rationale"],
+    "source_ids":["S61","S01"],"claim_review_ids":["S61-C1","S01-C1"],
+    "chronology":{"status":"not-applicable-practical-method"},"rights":{"text":"original-authored-summary; source rights separate","images":"none-included"},"assets":["cover","publication"],"medium":["static","study"],
+    "historical_context":"Penguin describes brief/content research, audience/retailers/competition, sketches, multiple directions, review meetings and physical production. RISD relates design choices to context and audience.",
+    "visual_principles":"Separate content fidelity, metaphor, type-image relationship, hierarchy and final-medium behavior.",
+    "contemporary_application":"Propose distinct cover concepts, retain provisional choice/rejection reasons and test actual 300px readability when the brief requires it.",
+    "exercise":"Produce three original concepts, one selected editable SVG, full/reduced flat exports and a criterion-specific revision log.",
+    "limits":"Publisher practice is a reference, not our decision authority. No universal thumbnail rule, human approval or native Adobe proof follows from this record.",
+    "filter_note":"Task/asset/medium labels are authored contemporary proposals, not source claims or evaluated constraints.","path":"atlas/foundations/editorial-cover.md"
+  },
+  {
+    "id":"identity-use-conditions","title_en":"Visual identity use conditions","record_type":"foundation","status":"authored-source-grounded","review_status":"source-reviewed","production_test_status":"not_run",
+    "aliases":["small size logo","one color logo","identity use conditions"],"task_terms":["small size logo","one color logo","identity use conditions","reverse background","optical spacing"],
+    "source_ids":["S01","S62"],"claim_review_ids":["S01-C1","S62-C1"],
+    "chronology":{"status":"not-applicable-practical-method"},"rights":{"text":"original-authored-summary; source rights separate","images":"none-included"},"assets":["identity"],"medium":["static","study"],
+    "historical_context":"RISD describes visual systems across media and context/audience-shaped typography and imagery. WIPO notes global database coverage limits and possible register searches and counsel.",
+    "visual_principles":"Assess identification, typography, spacing, background/scale variants and rights separately; no aesthetic average cancels a failed required use.",
+    "contemporary_application":"Define actual small-size and one-color uses before evaluating marks. Compare optical spacing and reverse specimens; these are authored workflow proposals, not universal logo rules.",
+    "exercise":"Create distinct concepts, refine one optically and retain required size/background/one-color specimens, editable source and separate rights-screening state.",
+    "limits":"A symbol or monochrome variant is not mandatory for every brief. Screening is not legal clearance. No identity pilot, expert approval or Adobe production has been performed by this record.",
+    "filter_note":"Task/asset/medium labels are authored contemporary proposals, not source claims or evaluated constraints.","path":"atlas/foundations/identity-use-conditions.md"
   }
 ]

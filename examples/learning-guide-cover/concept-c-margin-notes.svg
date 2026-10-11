@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="cover-title cover-desc">
+  <title id="cover-title">Design Taste</title>
+  <desc id="cover-desc">A field guide to seeing, making and revising. Learning edition 01. Original margin-notes cover: large centered typography is enclosed by an interrupted frame with a geometric revision tab.</desc>
+  <rect id="background" width="1200" height="1600" fill="#E4EABE"/>
+  <g id="margin-system" fill="none" stroke="#34342A" stroke-width="10">
+    <path id="left-bracket" d="M 252,152 H 104 V 1354 H 252"/>
+    <path id="right-bracket" d="M 948,152 H 1096 V 1354 H 948"/>
+  </g>
+  <g id="title" fill="#34342A" font-family="Helvetica, Arial, sans-serif" font-size="168" font-weight="700" letter-spacing="-6" text-anchor="middle">
+    <text id="title-design" x="600" y="614">Design</text>
+    <text id="title-taste" x="600" y="788">Taste</text>
+  </g>
+  <g id="subtitle" fill="#34342A" font-family="Helvetica, Arial, sans-serif" font-size="44" text-anchor="middle">
+    <text id="subtitle-line-1" x="600" y="904">A field guide to seeing,</text>
+    <text id="subtitle-line-2" x="600" y="962">making and revising</text>
+  </g>
+  <g id="revision-tab">
+    <rect id="note-underlay" x="862" y="1104" width="188" height="188" fill="#34342A"/>
+    <rect id="note-face" x="824" y="1066" width="188" height="188" fill="#F4F0E6"/>
+    <path id="note-fold" d="M 956,1066 H 1012 V 1122 Z" fill="#C44320"/>
+    <path id="note-lines" d="M 858,1150 H 978 M 858,1190 H 944" stroke="#34342A" stroke-width="8"/>
+  </g>
+  <text id="edition" x="600" y="1510" fill="#34342A" font-family="Helvetica, Arial, sans-serif" font-size="40" text-anchor="middle">Learning edition 01</text>
+</svg>

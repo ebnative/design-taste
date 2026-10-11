@@ -18,6 +18,8 @@ Work in Photoshop on the user's computer. This original project skill does not i
 
 ## Access and target
 
+Current local development wave: live Photoshop verification is blocked by explicit user decision after desktop-control setup failed. Installed Photoshop 27.11.0 is not connection proof. Do not launch/control the application, handle permissions or substitute terminal/AppleScript/ExtendScript. The preserved Windows route and capability adapter remain unchanged. Original SVG/PNG examples are not native PSD or verified recipes; a future live test requires separate authorization.
+
 - Before Windows control, read the available `computer-use:computer-use` skill and its required guidance, API and confirmation documents. Use its documented `node_repl` and `@oai/sky` route for local operations. If local control is unavailable, state the limit and prepare a concrete production plan.
 - Select Photoshop from the returned application/window inventory; do not hard-code versions, window IDs or coordinates from earlier sessions. Bring the target forward and verify the actual Photoshop screen.
 - After each observation, perform one input operation and refresh state. Accessibility labels may point to incorrect menu positions: check the visible heading and use coordinates from a fresh screenshot when necessary. Move off-screen windows into view first.
@@ -27,6 +29,7 @@ Work in Photoshop on the user's computer. This original project skill does not i
 
 - Preserve `<user-source-assets>`. Create working copies in the workspace; use `work/` for experiments and `outputs/` for deliverables.
 - If the user refers to an open document, inspect its name and unsaved changes. Do not close or overwrite user work. Identify an uncertain target before editing.
+- For any future authorized probe, use only a new task-owned document and unique output paths. Never dismiss an unsaved-document dialog or overwrite a user source. Keep working copies and recoverable failures; stop on uncertain targets or lost access.
 - Inspect the document, active layer, selection, dimensions and visible composition first. Report only observations; do not infer layer content from filenames.
 - Correct text in live type layers; do not repaint logos or lettering as imitations. Use adjustment layers, masks and smart objects for editability. Do not silently substitute missing fonts.
 - Place the actual design in mockups and check perspective, proportion and cropping. Do not infer permission to alter the design itself with AI.
@@ -35,6 +38,7 @@ Work in Photoshop on the user's computer. This original project skill does not i
 ## Verification and reporting
 
 After significant edits, inspect the canvas, intended layer and text. After saving, verify the real output file and, where possible, its reopened appearance.
+Do not claim persistence while saving is pending or after a failed save. Preserve the working document and expose the recoverable error. Native completion requires actual save, reopen and export readback; a preview or installed version is insufficient.
 Report changes, delivery paths and the limits of tested access. Window-control success does not verify every Photoshop feature or batch automation.
 If access is lost, follow the base skill's bounded recovery procedure; never invent success.
 

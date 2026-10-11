@@ -1,5 +1,9 @@
 {
   "seed_record_count": 27,
+  "authored_practical_record_count": 3,
+  "total_record_count": 30,
+  "claim_review_count": 7,
+  "source_reviewed_practical_count": 3,
   "deep_reviewed_count": 0,
   "production_tested_count": 0,
   "global_coverage_percent": null,
@@ -32,6 +36,9 @@
     "calligraphic-school": "needs-source-review",
     "sabiha-rustu-bozcali": "needs-source-review",
     "formal-analysis": "needs-source-review",
-    "color-in-context": "needs-source-review"
+    "color-in-context": "needs-source-review",
+    "typography-hierarchy": "source-reviewed",
+    "editorial-cover": "source-reviewed",
+    "identity-use-conditions": "source-reviewed"
   }
 }

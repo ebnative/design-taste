@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="cover-title cover-desc">
+  <title id="cover-title">Design Taste</title>
+  <desc id="cover-desc">A field guide to seeing, making and revising. Learning edition 01. Original workbench cover: three linked workstations show a circle, a square and opposing triangles.</desc>
+  <rect id="background" width="1200" height="1600" fill="#152D32"/>
+  <g id="title" font-family="Times, 'Times New Roman', serif" font-size="176" fill="#F6F1DF">
+    <text id="title-design" x="92" y="242">Design</text>
+    <text id="title-taste" x="92" y="410">Taste</text>
+  </g>
+  <g id="subtitle" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#F6F1DF">
+    <text id="subtitle-line-1" x="98" y="526">A field guide to seeing,</text>
+    <text id="subtitle-line-2" x="98" y="584">making and revising</text>
+  </g>
+  <g id="workbench">
+    <path id="connection" d="M 254,980 H 946" fill="none" stroke="#F6F1DF" stroke-width="8"/>
+    <circle id="station-seeing" cx="254" cy="980" r="138" fill="#152D32" stroke="#F6F1DF" stroke-width="12"/>
+    <circle id="seeing-focus" cx="254" cy="980" r="22" fill="#F6F1DF"/>
+    <rect id="station-making" x="470" y="850" width="260" height="260" fill="#E8B64D"/>
+    <path id="station-critique-left" d="M 792,850 L 922,980 L 792,1110 Z" fill="#F6F1DF"/>
+    <path id="station-critique-right" d="M 1100,850 L 970,980 L 1100,1110 Z" fill="#E8B64D"/>
+    <g id="station-numbers" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#F6F1DF">
+      <text x="228" y="1222">01</text><text x="574" y="1222">02</text><text x="920" y="1222">03</text>
+    </g>
+  </g>
+  <g id="footer" fill="#F6F1DF">
+    <rect id="footer-rule" x="98" y="1440" width="1000" height="4"/>
+    <text id="edition" x="98" y="1510" font-family="Helvetica, Arial, sans-serif" font-size="40">Learning edition 01</text>
+  </g>
+</svg>

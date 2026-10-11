@@ -1,0 +1,30 @@
+{
+  "project": "Design Taste learning-guide cover",
+  "concepts": ["concept-a-revision-field.svg", "concept-b-workbench.svg", "concept-c-margin-notes.svg"],
+  "selected": "selected.svg",
+  "selected_from": "concept-a-revision-field.svg",
+  "selection_status": "provisional",
+  "comparison": "comparison-educational-weak.svg",
+  "comparison_status": "original educational control; multiple variables changed; not a completed revision",
+  "previews": {
+    "concept-a-revision-field-1200.png": [1200, 1600],
+    "concept-a-revision-field-300.png": [300, 400],
+    "concept-b-workbench-1200.png": [1200, 1600],
+    "concept-b-workbench-300.png": [300, 400],
+    "concept-c-margin-notes-1200.png": [1200, 1600],
+    "concept-c-margin-notes-300.png": [300, 400],
+    "comparison-educational-weak-1200.png": [1200, 1600],
+    "comparison-educational-weak-300.png": [300, 400]
+  },
+  "rendering": "Host Chrome headless, corrected explicit pixel image dimensions",
+  "pixel_inspected": ["concept-a-revision-field-1200.png", "concept-a-revision-field-300.png", "concept-b-workbench-300.png", "concept-c-margin-notes-300.png", "comparison-educational-weak-300.png"],
+  "inspection": "Host AI-assisted pixel review; not independent expert or reader test",
+  "fonts": {"requested": ["Helvetica", "Helvetica Bold", "Times"], "fallbacks": ["Arial", "sans-serif", "Times New Roman", "serif"], "files_bundled": false, "exact_face_activation_verified": false},
+  "rights": {"geometry": "original-task-authored", "third_party_images": "none", "font_redistribution": "unknown", "license_selected": false},
+  "native_operation": "blocked-by-user-decision",
+  "native_editability": "not-verified; SVG sources only",
+  "expert_review": "not-performed",
+  "audience_response": "not-tested",
+  "human_acceptance": "pending",
+  "independent_reproduction": "pending"
+}

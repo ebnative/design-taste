@@ -19,7 +19,7 @@ def hashes(folder):
 
 def build(name, destination):
     shutil.copytree(ROOT / 'skills' / name, destination)
-    for directory in ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters'):
+    for directory in ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters', 'examples'):
         shutil.copytree(ROOT / directory, destination / 'bundle' / directory,
                         ignore=shutil.ignore_patterns('__pycache__', '*.pyc'))
     # Resolve all source links into this package, including links in nested references.
@@ -36,7 +36,7 @@ def build(name, destination):
                 relative = canonical.relative_to(ROOT)
             except ValueError:
                 return match.group(0)
-            if relative.parts[0] in ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters'):
+            if relative.parts[0] in ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters', 'examples'):
                 import os
                 new_target = os.path.relpath(destination / 'bundle' / relative, path.parent).replace('\\', '/')
                 return '[' + label + '](' + new_target + ')'
