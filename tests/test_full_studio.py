@@ -33,8 +33,8 @@ class FullStudioTests(unittest.TestCase):
             self.assertIn('reference.svg', section)
             self.assertIn(f'movement={identifier}', section)
         self.assertIn('id="full-practice"', pages['lab.html'])
-        self.assertEqual(data['records'], json.loads((ROOT / 'knowledge/records.json').read_text()))
-        self.assertEqual(data['sources'], json.loads((ROOT / 'knowledge/sources.json').read_text()))
+        self.assertEqual(data['records'], json.loads((ROOT / 'knowledge/records.json').read_text(encoding='utf-8')))
+        self.assertEqual(data['sources'], json.loads((ROOT / 'knowledge/sources.json').read_text(encoding='utf-8')))
 
     def test_practice_metadata_preflight(self):
         builder = self.builder()

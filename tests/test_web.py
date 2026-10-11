@@ -19,12 +19,12 @@ class WebTests(unittest.TestCase):
     def test_projection_preserves_canonical_content(self):
         data = self.builder().project(ROOT)
         for key in ('records', 'sources'):
-            self.assertEqual(data[key], json.loads((ROOT / 'knowledge' / (key + '.json')).read_text()))
+            self.assertEqual(data[key], json.loads((ROOT / 'knowledge' / (key + '.json')).read_text(encoding='utf-8')))
         exercises = sorted((ROOT / 'curriculum/exercises').glob('*.md'))
         self.assertEqual(len(data['lessons']), len(exercises))
         self.assertEqual({x['level'] for x in data['lessons']}, {'Foundations', 'Applied Practice', 'Synthesis'})
         for lesson, source in zip(data['lessons'], exercises):
-            self.assertEqual(lesson['markdown'], source.read_text())
+            self.assertEqual(lesson['markdown'], source.read_text(encoding='utf-8'))
             self.assertTrue(lesson['source_ids'])
             for section in ['Prerequisites', 'Objective', 'Deliverable', 'Observable criteria', 'Critique and revision', 'Retained evidence']:
                 self.assertIn(section, lesson['markdown'])
