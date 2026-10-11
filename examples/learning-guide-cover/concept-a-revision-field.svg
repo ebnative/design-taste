@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="cover-title cover-desc">
+  <title id="cover-title">Design Taste</title>
+  <desc id="cover-desc">A field guide to seeing, making and revising. Learning edition 01. Original revision-field cover: an open square, a solid blue square and a shifted orange square outline share one working field.</desc>
+  <g id="background"><rect id="paper" width="1200" height="1600" fill="#F4F0E6"/></g>
+  <g id="title" fill="#182723" font-family="Helvetica, Arial, sans-serif" font-size="168" font-weight="700" letter-spacing="-6">
+    <text id="title-design" x="92" y="242">Design</text>
+    <text id="title-taste" x="92" y="406">Taste</text>
+  </g>
+  <g id="subtitle" fill="#182723" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="400">
+    <text id="subtitle-line-1" x="98" y="524">A field guide to seeing,</text>
+    <text id="subtitle-line-2" x="98" y="582">making and revising</text>
+  </g>
+  <g id="revision-field">
+    <rect id="seeing-window" x="98" y="742" width="500" height="500" fill="none" stroke="#182723" stroke-width="12"/>
+    <rect id="making-block" x="328" y="858" width="500" height="500" fill="#234CDA"/>
+    <rect id="revising-window" x="592" y="978" width="500" height="380" fill="none" stroke="#C44320" stroke-width="12"/>
+    <rect id="revision-cut" x="592" y="978" width="116" height="116" fill="#F4F0E6"/>
+    <rect id="revision-top-edge" x="586" y="972" width="512" height="12" fill="#C44320"/>
+    <rect id="revision-left-edge" x="586" y="972" width="12" height="392" fill="#C44320"/>
+  </g>
+  <g id="footer" fill="#182723">
+    <rect id="footer-rule" x="98" y="1440" width="1000" height="4"/>
+    <text id="edition" x="98" y="1510" font-family="Helvetica, Arial, sans-serif" font-size="40">Learning edition 01</text>
+  </g>
+</svg>

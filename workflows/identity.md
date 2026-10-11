@@ -1,0 +1,22 @@
+# Visual identity
+
+An authored operating method, not evidence of an executed identity pilot or legal clearance.
+Use the [practical identity record](../atlas/foundations/identity-use-conditions.md).
+
+## Stages: inputs, outputs and exit criteria
+
+1. Brief. Input: purpose, audience, name, languages/scripts, media, ownership and approver. Output: BRIEF.md with exact copy, required uses/sizes/backgrounds and known rights risks. Exit: required conditions are explicit; unresolved required text or restricted-symbol use blocks correctness claims. Do not infer private identity or universal cultural meaning.
+2. Source/context screening. Input: relevant records and candidate assets/fonts. Output: claim/page/locator/date/limits ledger and separate text/image/font/data rights inventory. Exit: each factual claim supported or qualified; unknown reuse permission means replace/exclude affected assets, not automatic license. Trademark/database screening is risk screening, never legal clearance; WIPO coverage is incomplete.
+3. Concepts. Input: frozen brief. Output: materially distinct mark/wordmark concepts in editable sources and flat views with central idea, rationale and risk. Exit: concepts differ in construction/metaphor, not just color. Preserve rejected routes and reasons in PROCESS.md; no invented client rejection.
+4. Provisional choice. Input: same-size comparisons. Output: DESIGN.md with selected direction, tradeoffs and authority. Exit: distinguish author recommendation from designated human selection. Lack of human choice stays pending rather than silently approved.
+5. Optical refinement. Input: selected source. Output: before/after specimens plus observed ink bounds, counters, joins, kerning, spacing and alignment issue. Exit: compare at actual required sizes; test geometric versus optical alignment without declaring one universal aesthetic. Keep exact text and glyph coverage; fallback/substitution must be documented. No measured claim from unseen pixels.
+6. System/use conditions. Input: refined mark and brief. Output: BRAND.md typography/color roles, constants/variants and exact-size flat specimens: smallest required use, one-color if required, reverse/background and varying-content cases. Exit: every declared mandatory use checked for clipping, lost detail, contrast and identification. If a symbol/monochrome use is not required, document why; mockups alone are insufficient.
+7. Rights and contextual review. Input: final assets and use inventory. Output: separate screening/unknown/permission states, attribution and script/community review limitations. Exit: no commercial clearance or cultural authority claimed without actual competent evidence. Name tradition/place/period only with support; do not reduce cultures to motifs or a European-modernist ranking. Unfamiliar required scripts need qualified review before correctness claims.
+8. Native handoff. Input: accepted-for-production direction and authorized live route. Output: editable source plus native file where required, export manifest, reopen/layer/profile checks and failure receipt. Exit: reopen exact saved task-owned file, verify editability and compare export. SVG delivery is not Adobe-native proof. Preserve existing Windows adapters. This wave's Photoshop live check is blocked by user decision: no launch/control/installation/JSX workaround; native gate remains blocked.
+9. Acceptance. Input: criterion-separated critique and delivery files. Output: explicit approver decision or pending state; amendments and unresolved gates. Exit: human acceptance requires an attributable actual response. No aesthetic average cancels safety/rights/production failure. Save approved rules only after that approval; do not infer personal preference from one task.
+
+## Abstention and recovery
+
+Absent image: assess brief only and request actual views. Absent source: visible critique possible, editability unverified. Failed save/reopen or uncertain document target: stop, retain task-owned partial files and failure logs, never overwrite/close user work or restart the app. Create fresh revision paths; verify ownership before every edit/save/export/close. Never use Close All, discard unrelated changes or silently substitute fonts. Re-render and recheck corrected files under the same conditions; distinguish proposed revision from executed outcome.
+
+Related: [criterion-separated critique](../curriculum/assessment/critique.md). Cover examples are not identity-production competence.
