@@ -1,5 +1,8 @@
 {
   "record_aliases": {
+    "typography-hierarchy": ["typography hierarchy", "readable cover title", "title subtitle spacing"],
+    "editorial-cover": ["editorial cover brief", "book cover concept", "thumbnail cover readability"],
+    "identity-use-conditions": ["small size logo", "one color logo", "identity use conditions"],
     "arts-and-crafts": [
       "Arts and Crafts"
     ],

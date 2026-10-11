@@ -1,6 +1,11 @@
 # From foundations to portfolio
 This is an original research-derived study plan, not a copied syllabus or degree equivalent. Module numbers do not prescribe weeks or durations; adapt depth to the learner’s current level.
 
+## Competency advancement
+Authored curriculum only; no learner outcomes assessed. Complete the linked module's concrete artifacts, observable criteria and actual before/after critique/recheck before advancing. Prerequisites are evidence dependencies, not time served. A blocked tool/native output remains blocked, not passed by reading. Rights, safety, production and human acceptance are separate from aesthetic judgment. See [assessment](../assessment/critique.md).
+
+Canonical exercise contracts: [01 form](../exercises/01.md), [02 color](../exercises/02.md), [03 typography](../exercises/03.md), [04 context](../exercises/04.md), [05 image-making](../exercises/05.md), [06 identity](../exercises/06.md), [07 series](../exercises/07.md), [08 editorial](../exercises/08.md), [09 preproduction](../exercises/09.md), [10 motion identity](../exercises/10.md), [11 editing](../exercises/11.md), [12 case study](../exercises/12.md). Each specifies prerequisites, objectives, deliverables, observable criteria, critique/revision and retained evidence. The summaries below are orientation, not completion receipts. Source references retain their individual imported/reviewed status; no university affiliation or copied syllabus implied.
+
 ## 01. Visual perception and form
 Negative space, value, emphasis, rhythm and balance; separate observation from interpretation.
 

@@ -1,4 +1,4 @@
-# Photoshop command reference — Windows
+# Photoshop command reference: Windows
 
 Research date: October 10, 2026. This selection covers commands often needed in portfolio and graphic-design work;
 it is not an Adobe-published frequency ranking. Menu names assume an English interface. Links are in the [Adobe source record](adobe-sources.md).

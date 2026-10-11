@@ -1,4 +1,4 @@
-# 0001 — Adopt the common project standard
+# 0001: Adopt the common project standard
 
 Date: 2026-10-10\
 Status: accepted by the user's explicit request in this conversation\
