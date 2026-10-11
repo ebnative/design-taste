@@ -56,8 +56,8 @@ class DeliveryTests(unittest.TestCase):
             result = json.loads(self.cli('cover typography', '--type', kind, '-n', '2').stdout)
             self.assertEqual(result['count'], len(result['results']))
             self.assertTrue(all(r['record_type'] == kind for r in result['results']))
-        records = {r['id']: r for r in json.loads((ROOT / 'knowledge/records.json').read_text())}
-        aliases = json.loads((ROOT / 'knowledge/aliases.json').read_text())['asset_aliases']
+        records = {r['id']: r for r in json.loads((ROOT / 'knowledge/records.json').read_text(encoding='utf-8'))}
+        aliases = json.loads((ROOT / 'knowledge/aliases.json').read_text(encoding='utf-8'))['asset_aliases']
         for asset, names in aliases.items():
             for name in [asset] + names:
                 for medium in ('static', 'temporal', 'study'):
@@ -75,9 +75,9 @@ class DeliveryTests(unittest.TestCase):
             self.assertNotIn('Traceback', process.stderr)
 
     def test_source_and_import_status_preserved(self):
-        baseline = json.loads((ROOT / 'tests/fixtures/import-status.json').read_text())
-        records = {r['id']: r for r in json.loads((ROOT / 'knowledge/records.json').read_text())}
-        sources = {s['id']: s for s in json.loads((ROOT / 'knowledge/sources.json').read_text())}
+        baseline = json.loads((ROOT / 'tests/fixtures/import-status.json').read_text(encoding='utf-8'))
+        records = {r['id']: r for r in json.loads((ROOT / 'knowledge/records.json').read_text(encoding='utf-8'))}
+        sources = {s['id']: s for s in json.loads((ROOT / 'knowledge/sources.json').read_text(encoding='utf-8'))}
         for ident, status in baseline['records'].items():
             self.assertEqual({k: records[ident][k] for k in status}, status)
         for ident, status in baseline['sources'].items():
@@ -92,7 +92,7 @@ class DeliveryTests(unittest.TestCase):
             for ident in record.get('claim_review_ids', []):
                 self.assertIn(ident, reviews)
                 self.assertIn(reviews[ident]['source_id'], record['source_ids'])
-                self.assertIn(ident, (ROOT / record['path']).read_text())
+                self.assertIn(ident, (ROOT / record['path']).read_text(encoding='utf-8'))
 
     def test_relocated_actual_cli_and_example_links(self):
         with tempfile.TemporaryDirectory(dir=SCRATCH) as temporary:
@@ -108,7 +108,7 @@ class DeliveryTests(unittest.TestCase):
                     self.assertEqual(json.loads(actual.stdout), query.search(phrase))
                 self.assertTrue((moved / 'bundle/examples/learning-guide-cover/selected.svg').is_file())
                 for path in moved.rglob('*.md'):
-                    for target in re.findall(r'\[[^\]]+\]\(([^)]+)\)', path.read_text()):
+                    for target in re.findall(r'\[[^\]]+\]\(([^)]+)\)', path.read_text(encoding='utf-8')):
                         if not target.startswith(('http:', 'https:', '#')):
                             self.assertTrue((path.parent / target.split('#')[0]).exists(), (path, target))
 
@@ -117,7 +117,7 @@ class DeliveryTests(unittest.TestCase):
             root = Path(temporary)
             shutil.copytree(ROOT / 'knowledge', root / 'knowledge')
             shutil.copytree(ROOT / 'atlas', root / 'atlas')
-            original = json.loads((root / 'knowledge/records.json').read_text())
+            original = json.loads((root / 'knowledge/records.json').read_text(encoding='utf-8'))
             for value in (None, True, 7, 'logo', {}, [None], [['logo']]):
                 with self.subTest(value=value):
                     records = copy.deepcopy(original)
@@ -127,7 +127,7 @@ class DeliveryTests(unittest.TestCase):
                         query.search('logo', root=root)
                     self.assertTrue(any('task_terms' in e for e in validator.validate(root)))
             (root / 'knowledge/records.json').write_text(json.dumps(original))
-            sources = json.loads((root / 'knowledge/sources.json').read_text())
+            sources = json.loads((root / 'knowledge/sources.json').read_text(encoding='utf-8'))
             for value in (None, True, 7, 'claim', {}, [None], [{'id': []}]):
                 modified = copy.deepcopy(sources)
                 modified[0]['claim_reviews'] = value
@@ -147,7 +147,7 @@ class DeliveryTests(unittest.TestCase):
         import struct
         import xml.etree.ElementTree as ET
         example = ROOT / 'examples/learning-guide-cover'
-        manifest = json.loads((example / 'manifest.json').read_text())
+        manifest = json.loads((example / 'manifest.json').read_text(encoding='utf-8'))
         self.assertEqual(manifest['native_operation'], 'blocked-by-user-decision')
         self.assertEqual(manifest['human_acceptance'], 'pending')
         self.assertEqual(len(manifest['concepts']), 3)
@@ -161,7 +161,7 @@ class DeliveryTests(unittest.TestCase):
             self.assertEqual(data[:8], b'\x89PNG\r\n\x1a\n')
             self.assertEqual(list(struct.unpack('>II', data[16:24])), dimensions)
         for number in range(1, 13):
-            content = (ROOT / 'curriculum/exercises' / f'{number:02}.md').read_text()
+            content = (ROOT / 'curriculum/exercises' / f'{number:02}.md').read_text(encoding='utf-8')
             for heading in ('Prerequisites', 'Objective', 'Deliverable', 'Observable criteria',
                             'Critique and revision', 'Retained evidence'):
                 self.assertIn(heading, content)
