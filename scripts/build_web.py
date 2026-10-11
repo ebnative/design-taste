@@ -10,23 +10,23 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 
 def project(root):
-    records = json.loads((root / 'knowledge/records.json').read_text())
-    sources = json.loads((root / 'knowledge/sources.json').read_text())
+    records = json.loads((root / 'knowledge/records.json').read_text(encoding='utf-8'))
+    sources = json.loads((root / 'knowledge/sources.json').read_text(encoding='utf-8'))
     lessons = []
     for path in sorted((root / 'curriculum/exercises').glob('*.md')):
-        text = path.read_text()
+        text = path.read_text(encoding='utf-8')
         n = int(path.stem)
         lessons.append({'id': path.stem, 'title': text.splitlines()[0].removeprefix('## '), 'level': ['Foundations','Applied Practice','Synthesis'][(n-1)//4], 'markdown': text, 'source_ids': sorted(set(re.findall(r'\[(S\d+):', text)))})
-    studio = json.loads((root / 'curriculum/studio.json').read_text())
+    studio = json.loads((root / 'curriculum/studio.json').read_text(encoding='utf-8'))
     validate_studio(studio, records, sources, lessons)
-    practice = json.loads((root / 'curriculum/practice.json').read_text())
+    practice = json.loads((root / 'curriculum/practice.json').read_text(encoding='utf-8'))
     validate_practice(practice, records, sources, lessons)
     canonical = [*sorted((root / 'knowledge').glob('*.json')), *sorted((root / 'curriculum').rglob('*.md')), root / 'curriculum/studio.json', root / 'curriculum/practice.json']
     digest = hashlib.sha256()
     for path in canonical:
         digest.update(path.relative_to(root).as_posix().encode())
         digest.update(path.read_bytes())
-    return {'studio': studio, 'practice': practice, 'records': records, 'sources': sources, 'lessons': lessons, 'assessment': (root/'curriculum/assessment/critique.md').read_text(), 'learning_path': (root/'curriculum/learning-paths/foundations-to-portfolio.md').read_text(), 'canonical_sha256': digest.hexdigest()}
+    return {'studio': studio, 'practice': practice, 'records': records, 'sources': sources, 'lessons': lessons, 'assessment': (root/'curriculum/assessment/critique.md').read_text(encoding='utf-8'), 'learning_path': (root/'curriculum/learning-paths/foundations-to-portfolio.md').read_text(encoding='utf-8'), 'canonical_sha256': digest.hexdigest()}
 
 def validate_studio(s, records, sources, lessons):
     def require(condition):
@@ -188,7 +188,7 @@ def outputs(root):
         atlas+='<p>Chronology: '+html.escape(json.dumps(r['chronology']))+'</p><p>Rights: '+html.escape(json.dumps(r['rights']))+'</p><h3>Actual source entries</h3>'+''.join(f'<a class="source-link" href="#{sid}">{sid} · {html.escape(next(s["title"] for s in S if s["id"]==sid))}</a>' for sid in r['source_ids'])+f'<p>{html.escape(r["filter_note"])}</p>'
         atlas+=(f'<a href="lab.html?study={r["id"]}#movement-studies">Compare or read this movement study in Lab →</a>' if r['record_type']=='movement' else '<a href="lab.html">Try a technical comparison in Lab →</a>')+'</article></details>'
     atlas+='</div><p id="empty" hidden>No matching records. Clear filters or try a broader term.</p><section id="sources"><div class="section-head"><h2>Source ledger</h2><p>All canonical source entries, including curriculum and method references. Links open external sites only when you choose them; availability and rights remain source-specific.</p></div>'+''.join(source_html(s) for s in S)+'</section>'
-    lab=(root/'web/lab-body.html').read_text()
+    lab=(root/'web/lab-body.html').read_text(encoding='utf-8')
     home = home.replace('<figure class="hero-art">', '<figure class="hero-art"><img class="press-sheet" src="art/press-sheet.svg" width="800" height="920" alt="Original print-workshop collage of cut-paper fields, displaced blue and rust impressions, and registration crosses."><figcaption class="print-credit">Original studio composition / not historical artwork</figcaption><div class="reference-inset">', 1).replace('<figcaption>01 / The same scene. Many ways to see.</figcaption></figure>', '<figcaption>The Lab reference / the same scene, many ways to see.</figcaption></div></figure>', 1)
     return {'data.json':json.dumps(data,ensure_ascii=False,sort_keys=True,indent=2)+'\n','index.html':shell('Home',home,'index.html'),'academy.html':shell('Academy',academy,'academy.html'),'atlas.html':shell('Atlas',atlas,'atlas.html'),'lab.html':shell('Lab',lab,'lab.html'),'cover.png':(root/'examples/learning-guide-cover/concept-a-revision-field-300.png').read_bytes()}
 
