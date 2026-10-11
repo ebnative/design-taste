@@ -11,6 +11,8 @@
     "review_status": {"enum": ["needs-source-review", "source-reviewed", "expert-reviewed"]},
     "production_test_status": {"enum": ["not_run", "pass", "fail", "blocked"]},
     "rights": {"type": "object", "required": ["text", "images"]},
-    "chronology": {"type": "object"}
+    "chronology": {"type": "object"},
+    "task_terms": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "claim_review_ids": {"type": "array", "items": {"type": "string", "pattern": "^S[0-9]+-C[0-9]+$"}}
   }
 }

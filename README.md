@@ -13,11 +13,13 @@ Profile: Python scripts + skill packages + knowledge base · Project standard: `
 Python 3.10+ and Git. No third-party Python dependencies or pip installation required.
 Run the scripts directly with Python; this repository is not a pip package.
 
-## Initial release
+## Local development status
 
-27 seed atlas records, 60 source entries, 12 learning modules and English search.
-Sources were imported from a supplied research report; source re-review and coverage expansion remain pending.
-This release does not cover all art movements. It includes no artwork images, font files or books.
+30 atlas records (27 imported seeds and three practical records), 62 sources and 12 competency-based learning modules.
+Seven pilot claim reviews are attached to exact passages; imported review statuses remain unchanged. Other claims and reuse rights are not thereby verified.
+This release does not cover all art movements. No third-party artwork images, font files or books are bundled.
+The [original learning-guide cover](examples/learning-guide-cover/README.md) includes three SVG concepts, a selected editable SVG, eight flat PNG previews and a weaker educational comparison. AI pixel review is not expert review or human acceptance; Adobe-native delivery remains unverified.
+Identity operations and curriculum are authored guidance, not an executed logo pilot or assessed learner outcomes.
 
 ## Skills
 
@@ -33,15 +35,17 @@ This release does not cover all art movements. It includes no artwork images, fo
 ```powershell
 python search/query.py 'surrealism' --type movement --asset cover --json
 python search/query.py 'photomontage' --type technique
+python search/query.py 'readable cover title' --type foundation --asset cover --json
 python scripts/check.py
 python scripts/install.py --dest '<skill-directory>' --skill design-taste --skill art-design-atlas --skill design-critic
 ```
 
-The installer derives shared data into each selected skill's `bundle/` directory. The repository is the source of truth.
+Search is lexical: unmatched terms are disclosed and constraints are explicitly not evaluated. Partial matches are not solved briefs.
+The installer derives shared data, workflows, curriculum and original examples into each selected skill's `bundle/` directory. The repository is the source of truth.
 It refuses existing targets by default; `--update` creates a verified backup and preserves private memory.
 It does not automatically retire the legacy Photoshop skill identifier; existing Adobe installations are preserved separately.
 
-## First pilot
+## Original expression brief
 
 “Develop a visual direction for a portfolio cover that expresses who I am.”
 Meaning → metaphor → composition/color/typography → user choice → actual production.
@@ -62,7 +66,8 @@ Live Adobe production tests are separate.
 
 ## Status
 
-Working initial release, hosted in a public GitHub repository. Live Adobe production tests remain incomplete.
+The upstream initial release is public; this development candidate is submitted separately from `main` for review.
+Six authorized developments are delivered and independently checked, not seven proven design competencies. Local verification passed 17 tests; independent QA reproduced repository and relocated-package CLI behavior. Live Photoshop verification is blocked by explicit user decision after desktop-control failure; installed software is not connection proof. No application or script workaround is authorized for this wave. Native production and human acceptance remain unresolved gates.
 An open-source license for code and content has not been selected. See [sources and rights](docs/sources-and-rights.md).
 Repository documentation, instructions, catalog text, examples and search output are in English.
 Original personal names and source URLs retain their spelling; external sources may use other languages.

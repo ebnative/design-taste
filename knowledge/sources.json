@@ -1,6 +1,7 @@
 [
   {
     "id": "S01",
+    "claim_reviews": [{"id":"S01-C1","source_id":"S01","page_url":"https://www.risd.edu/academics/graphic-design/bachelors-program","claim":"Typography, image and content respond to context, audience and communication objectives; visual systems span media.","support_excerpt":"shape typography, image, and content in response to context, audience, and communication objectives.","locator":"Learning outcomes, first and sixth bullets","reviewed_on":"2026-10-11","reviewer_role":"Independent host source reviewer, separate from source-report import and design author","outcome":"supported-named-passage","limits":"Named passage only, not whole-site review or empirical learner/audience outcomes. Sixth bullet describes visual systems across diverse media.","rights":{"text":"not-determined","images":"not-determined","fonts":"not-determined","data":"not-determined","commercial_use":"not-determined"}}],
     "title": "RISD Graphic Design BFA",
     "url": "https://www.risd.edu/academics/graphic-design/bachelors-program",
     "import_note": "· `institutional_webpage` · Year unspecified · access: `page_or_search_extract_reviewed`.",
@@ -221,6 +222,7 @@
   },
   {
     "id": "S21",
+    "claim_reviews": [{"id":"S21-C1","source_id":"S21","page_url":"https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html","claim":"Formal analysis identifies elements/principles and their roles in composition.","support_excerpt":"Students discover how to identify the elements and principles, and evaluate their role in the composition of a work of art.","locator":"Introductory paragraph","reviewed_on":"2026-10-11","reviewer_role":"Independent host source reviewer, separate from import and design author","outcome":"supported-named-passage","limits":"Named passage only, not whole-site verification or a guarantee of design quality.","rights":{"text":"not-determined","images":"not-determined","fonts":"not-determined","data":"not-determined","commercial_use":"not-determined"}}],
     "title": "Getty formal analysis learning resources",
     "url": "https://www.getty.edu/education/teachers/classroom_resources/formal_analysis.html",
     "import_note": "· `teaching_resource` · Year unspecified · access: `page_or_search_extract_reviewed`.",
@@ -232,6 +234,7 @@
   },
   {
     "id": "S22",
+    "claim_reviews": [{"id":"S22-C1","source_id":"S22","page_url":"https://www.albersfoundation.org/alberses/teaching/interaction-of-color","claim":"Albers teaching emphasizes observation and experimental study of color in context.","support_excerpt":"experimental way of studying color and teaching color","locator":"Teaching discussion, paragraph beginning In place of systems","reviewed_on":"2026-10-11","reviewer_role":"Independent host source reviewer, separate from import and design author","outcome":"supported-named-passage","limits":"Named passage only. Rejection of universal emotion prescriptions is our methodological caution, not an empirical claim from this passage.","rights":{"text":"not-determined","images":"not-determined","fonts":"not-determined","data":"not-determined","commercial_use":"not-determined"}}],
     "title": "Albers Foundation Interaction of Color",
     "url": "https://www.albersfoundation.org/alberses/teaching/interaction-of-color",
     "import_note": "· `foundation_teaching_resource` · Year unspecified · access: `page_or_search_extract_reviewed`.",
@@ -243,6 +246,7 @@
   },
   {
     "id": "S23",
+    "claim_reviews": [{"id":"S23-C1","source_id":"S23","page_url":"https://www.albersfoundation.org/learning/workshops/one-color-becomes-two","claim":"The tutorial demonstrates one color appearing as two.","support_excerpt":"This hands on tutorial demonstrates how one color can appear as two","locator":"Opening description","reviewed_on":"2026-10-11","reviewer_role":"Independent host source reviewer, separate from import and design author","outcome":"supported-named-passage","limits":"Description only. Tutorial images not imported or reviewed for reuse rights.","rights":{"text":"not-determined","images":"not-determined","fonts":"not-determined","data":"not-determined","commercial_use":"not-determined"}}],
     "title": "Albers Foundation One Color Becomes Two",
     "url": "https://www.albersfoundation.org/learning/workshops/one-color-becomes-two",
     "import_note": "· `exercise` · Year unspecified · access: `page_or_search_extract_reviewed`.",
@@ -430,6 +434,7 @@
   },
   {
     "id": "S40",
+    "claim_reviews": [{"id":"S40-C1","source_id":"S40","page_url":"https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/","claim":"Poster communication includes text as image and both focusing and overwhelming attention.","support_excerpt":"focus the eye, overwhelm the eye, use text as image","locator":"Paragraph listing fourteen exhibition subsections","reviewed_on":"2026-10-11","reviewer_role":"Independent host source reviewer, separate from import and design author","outcome":"supported-named-passage","limits":"Exhibition account only, not proof that a particular style is universally effective. No artwork images imported.","rights":{"text":"not-determined","images":"not-determined","fonts":"not-determined","data":"not-determined","commercial_use":"not-determined"}}],
     "title": "Cooper Hewitt: How Posters Work",
     "url": "https://www.cooperhewitt.org/2015/02/05/cooper-hewitt-to-present-special-exhibition-how-posters-work/",
     "import_note": "· `museum_exhibition` · 2015 · access: `firecrawl_agent_page_reviewed`.",
@@ -658,5 +663,13 @@
     "imported_on": "2026-10-10",
     "text_rights": "not-determined",
     "image_rights": "not-determined"
+  },
+  {
+    "id":"S61","title":"Penguin: How book covers are designed","url":"https://www.penguin.co.uk/about/company-articles/how-book-covers-are-designed","provenance":"independent-host-research","verification":"claim-level-reviewed","text_rights":"not-determined","image_rights":"not-determined",
+    "claim_reviews":[{"id":"S61-C1","source_id":"S61","page_url":"https://www.penguin.co.uk/about/company-articles/how-book-covers-are-designed","claim":"Publisher cover practice includes research, audience/competition, sketches, multiple concepts, collaborative review and production.","support_excerpt":"Who's our target audience? Who are the target retailers? What's the competition?","locator":"Receiving the brief and researching; Creating the first visuals; The covers meeting(s); closing Production-team paragraphs","reviewed_on":"2026-10-11","reviewer_role":"Independent host source reviewer, separate from import and design author","outcome":"supported-named-passages","limits":"Publisher-specific practice, not our decision authority or audience success proof. Retrieved text also describes sketches, several visuals and production; no illustrations reproduced.","rights":{"text":"not-determined","images":"not-determined","fonts":"not-determined","data":"not-determined","commercial_use":"not-determined"}}]
+  },
+  {
+    "id":"S62","title":"WIPO Global Brand Database: screening limitations","url":"https://www.wipo.int/en/web/global-brand-database","provenance":"independent-host-research","verification":"claim-level-reviewed","text_rights":"not-determined","image_rights":"not-determined",
+    "claim_reviews":[{"id":"S62-C1","source_id":"S62","page_url":"https://www.wipo.int/en/web/global-brand-database","claim":"Global database coverage is incomplete; national/regional register searches and counsel may be needed.","support_excerpt":"it may be prudent to search also the registers of national/regional intellectual property offices","locator":"Resources: External trademark databases paragraph","reviewed_on":"2026-10-11","reviewer_role":"Independent host source reviewer, separate from import and design author","outcome":"supported-named-passage","limits":"Coverage warning only. No trademark search, legal advice or clearance performed for this project.","rights":{"text":"not-determined","images":"not-determined","fonts":"not-determined","data":"not-determined","commercial_use":"not-determined"}}]
   }
 ]

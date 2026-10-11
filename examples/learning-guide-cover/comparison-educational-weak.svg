@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="cover-title cover-desc">
+  <title id="cover-title">Design Taste: educational comparison</title>
+  <desc id="cover-desc">Deliberately weaker original calibration cover. Educational comparison, not real rejected client work. Small title, faint subtitle and oversized imagery demonstrate hierarchy and contrast problems.</desc>
+  <rect id="background" width="1200" height="1600" fill="#F4F0E6"/>
+  <rect id="comparison-label-background" width="1200" height="120" fill="#182723"/>
+  <text id="comparison-label" x="60" y="76" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="40">EDUCATIONAL COMPARISON ONLY</text>
+  <g id="oversized-imagery">
+    <rect id="seeing-window" x="98" y="250" width="500" height="500" fill="none" stroke="#182723" stroke-width="12"/>
+    <rect id="making-block" x="328" y="366" width="500" height="500" fill="#234CDA"/>
+    <rect id="revising-window" x="592" y="486" width="500" height="380" fill="none" stroke="#C44320" stroke-width="12"/>
+  </g>
+  <text id="title" x="98" y="1060" fill="#182723" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700">Design Taste</text>
+  <text id="subtitle" x="98" y="1160" fill="#BAB8AD" font-family="Helvetica, Arial, sans-serif" font-size="30">A field guide to seeing, making and revising</text>
+  <text id="edition" x="98" y="1510" fill="#182723" font-family="Helvetica, Arial, sans-serif" font-size="40">Learning edition 01</text>
+</svg>

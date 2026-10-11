@@ -5,7 +5,7 @@ These tests were reported in an earlier conversation and were not rerun during i
 
 Record only methods executed and checked in Illustrator. No design/style preferences belong here.
 
-## Native vector creation and delivery — 2026-10-10
+## Native vector creation and delivery: 2026-10-10
 
 - Host tested: Illustrator 2026, `app.version` 30.8.1, Windows.
 - Connection: bundled PowerShell 5.1 COM runner, `DoJavaScript`, UTF-8 JSX read inside Illustrator; sandbox escalation was needed for COM activation.
