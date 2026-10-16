@@ -1,6 +1,6 @@
 ---
 name: design-taste
-description: "Direct a digital design studio: own the brief and shared direction, coordinate graphic, web UI and motion disciplines, integrate critique and manage delivery."
+description: "Direct a digital design studio: own the brief and shared direction, coordinate graphic, web UI and motion disciplines, integrate critique and manage delivery; adapt one brand idea into placement-specific social narratives."
 ---
 
 # Design Taste
@@ -31,3 +31,7 @@ Native handoff must preserve Windows adapters and protect unsaved documents. Cur
 
 ## Shared paths in the package
 The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).
+
+## Social campaign narratives
+
+For adapting one brand idea across social and advertising surfaces, read [one idea, six narratives](references/social-campaign-narratives.md). Define meaning and identity invariants, assign each placement a communication job, inspect source artwork, and distinguish research, provisional concepts, human selection and measured results. Keep volatile platform specifications in dated project records.

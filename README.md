@@ -25,6 +25,7 @@ Identity operations and curriculum are authored guidance, not an executed logo p
 
 - Design Taste: studio brain for briefs, shared direction, discipline dispatch and delivery.
 - Graphic Design: v0 discipline; Web UI Design and Motion Design: source-informed v0 disciplines, not job-verified capabilities.
+- Social campaign narratives: [one brand idea, six communication jobs](skills/design-taste/references/social-campaign-narratives.md), with scoped reference analysis and dated placement records.
 - Art & Design Atlas: learning and sourced research.
 - Design Critic: critique grounded in the brief and visible evidence.
 - Photoshop Designer: layered production using the preserved desktop-control method.
