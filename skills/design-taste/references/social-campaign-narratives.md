@@ -81,6 +81,16 @@ If a browser returns an error or challenge, record that observation. Do not infe
 
 ## 8. Produce, inspect and deliver
 
+### Distinct concepts are not cosmetic variants
+
+When the brief requests distinct concepts, define each as a communication proposition plus a visible storytelling mechanism, not a new color or crop. Before generating, make a concept ledger with platform role, exact headline, central mechanism, medium, composition and intended response.
+
+Use a pairwise diversity test: if replacing the headline leaves two concepts interchangeable, revise the weaker one. Change at least the storytelling mechanism and one structural dimension (medium, spatial logic, viewpoint or time structure). A bridge, a missing place setting, a visual puzzle and a journey represent different mechanisms; four hands holding different loaves do not automatically do so.
+
+Preserve the brand promise, factual boundaries and recognizable signature across explorations. Allow controlled art-direction differences when exploring alternatives; do not represent an exploratory set as an approved final identity. Separate platform-native narrative intent from actual live platform acceptance. Static concepts for video placements remain stills until motion is produced and verified.
+
+Generate one asset per concept, inspect every distinct render, and count actual delivered files. Keep revision attempts out of the final numbered set. Save prompts, concept IDs, actual dimensions and QA limitations in the private project record; do not publish client artwork or private paths in this shared skill.
+
 For requested raster examples use the available image generation skill. Lock exact copy and required invariants in each prompt. Keep deterministic typography and editable sources where the deliverable requires them. Raster concept artwork is not a native editable identity.
 Inspect every distinct output for subject accuracy, anatomy, accidental text, hierarchy, visible margins, clipping and reduced-size reading. Apply design-composition-check and the relevant production skill. Record actual pixel dimensions; a requested size or upscaled canvas is not native image detail.
 For accessibility use [WCAG contrast guidance](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) and contextual [text alternatives](https://www.w3.org/WAI/tutorials/images/). Distinguish a graphic review from whole-platform conformance.
