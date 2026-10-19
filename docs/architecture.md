@@ -5,7 +5,7 @@
 - `curriculum/`: learning path, exercises and critique criteria.
 - `skills/`: studio brain, atlas, critic and five production skills; three v0 discipline skeletons.
 - `archive/`: inspiration and original showroom card metadata, plus direction families; private media stays outside the repository.
-- `adapters/`: application access evidence and method limitations; planned `routes.json` maps operations to candidate routes.
+- `adapters/`: application access evidence and method limitations; `routes.json` maps operations to unverified/blocked candidate routes.
 - `search/query.py`: standard-library lexical/BM25 search.
 - `scripts/`: validation and portable skill installation/packaging.
 - `tests/`: retrieval and installation behavior.

@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "operations": [
+    {
+      "id": "image.resize",
+      "routes": [
+        {
+          "id": "adobe-mcp@codex",
+          "kind": "adobe-mcp",
+          "host": "codex",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "adobe-mcp@claude-desktop",
+          "kind": "adobe-mcp",
+          "host": "claude-desktop",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "desktop-control@photoshop",
+          "kind": "desktop-control",
+          "host": "Windows",
+          "target": "Photoshop",
+          "status": "blocked",
+          "evidence": "adapters/photoshop/capability.json",
+          "last_checked": null,
+          "notes": "Blocked by user decision until P0-11; no launch/control or script substitute. Preserved adapter method: preserved-computer-use. Imported or not-run evidence is not current operation verification."
+        },
+        {
+          "id": "code@codex",
+          "kind": "code",
+          "host": "codex",
+          "target": "task-specific image tooling",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only; requires executed operation, inspected output and live tool availability. No production dependencies are installed in this repository."
+        }
+      ]
+    },
+    {
+      "id": "image.social-variations",
+      "routes": [
+        {
+          "id": "adobe-mcp@codex",
+          "kind": "adobe-mcp",
+          "host": "codex",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "adobe-mcp@claude-desktop",
+          "kind": "adobe-mcp",
+          "host": "claude-desktop",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "desktop-control@photoshop",
+          "kind": "desktop-control",
+          "host": "Windows",
+          "target": "Photoshop",
+          "status": "blocked",
+          "evidence": "adapters/photoshop/capability.json",
+          "last_checked": null,
+          "notes": "Blocked by user decision until P0-11; no launch/control or script substitute. Preserved adapter method: preserved-computer-use. Imported or not-run evidence is not current operation verification."
+        },
+        {
+          "id": "desktop-control@premiere-pro",
+          "kind": "desktop-control",
+          "host": "discover-at-task-time",
+          "target": "Premiere Pro",
+          "status": "unverified",
+          "evidence": "adapters/premiere-pro/capability.json",
+          "last_checked": null,
+          "notes": "Preserved adapter method: discover-at-task-time. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "image.batch-adjust",
+      "routes": [
+        {
+          "id": "adobe-mcp@codex",
+          "kind": "adobe-mcp",
+          "host": "codex",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "adobe-mcp@claude-desktop",
+          "kind": "adobe-mcp",
+          "host": "claude-desktop",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "desktop-control@photoshop",
+          "kind": "desktop-control",
+          "host": "Windows",
+          "target": "Photoshop",
+          "status": "blocked",
+          "evidence": "adapters/photoshop/capability.json",
+          "last_checked": null,
+          "notes": "Blocked by user decision until P0-11; no launch/control or script substitute. Preserved adapter method: preserved-computer-use. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "photo.retouch-portrait",
+      "routes": [
+        {
+          "id": "adobe-mcp@codex",
+          "kind": "adobe-mcp",
+          "host": "codex",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "adobe-mcp@claude-desktop",
+          "kind": "adobe-mcp",
+          "host": "claude-desktop",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "desktop-control@photoshop",
+          "kind": "desktop-control",
+          "host": "Windows",
+          "target": "Photoshop",
+          "status": "blocked",
+          "evidence": "adapters/photoshop/capability.json",
+          "last_checked": null,
+          "notes": "Blocked by user decision until P0-11; no launch/control or script substitute. Preserved adapter method: preserved-computer-use. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "layout.layered-psd",
+      "routes": [
+        {
+          "id": "desktop-control@photoshop",
+          "kind": "desktop-control",
+          "host": "Windows",
+          "target": "Photoshop",
+          "status": "blocked",
+          "evidence": "adapters/photoshop/capability.json",
+          "last_checked": null,
+          "notes": "Blocked by user decision until P0-11; no launch/control or script substitute. Preserved adapter method: preserved-computer-use. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "vector.logo",
+      "routes": [
+        {
+          "id": "desktop-control@illustrator",
+          "kind": "desktop-control",
+          "host": "Windows",
+          "target": "Illustrator",
+          "status": "unverified",
+          "evidence": "adapters/illustrator/capability.json",
+          "last_checked": null,
+          "notes": "Preserved adapter method: preserved-COM-ExtendScript. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "layout.data-merge",
+      "routes": [
+        {
+          "id": "adobe-mcp@codex",
+          "kind": "adobe-mcp",
+          "host": "codex",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "adobe-mcp@claude-desktop",
+          "kind": "adobe-mcp",
+          "host": "claude-desktop",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "desktop-control@indesign",
+          "kind": "desktop-control",
+          "host": "discover-at-task-time",
+          "target": "InDesign",
+          "status": "unverified",
+          "evidence": "adapters/indesign/capability.json",
+          "last_checked": null,
+          "notes": "Preserved adapter method: discover-at-task-time. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "video.highlight-reel",
+      "routes": [
+        {
+          "id": "adobe-mcp@codex",
+          "kind": "adobe-mcp",
+          "host": "codex",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "adobe-mcp@claude-desktop",
+          "kind": "adobe-mcp",
+          "host": "claude-desktop",
+          "target": "Adobe for Creativity remote MCP",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only. Codex OAuth and task-owned resize need P0-10 approval; Claude Desktop fallback has not been tested. Cloud output is not a native layered master."
+        },
+        {
+          "id": "desktop-control@premiere-pro",
+          "kind": "desktop-control",
+          "host": "discover-at-task-time",
+          "target": "Premiere Pro",
+          "status": "unverified",
+          "evidence": "adapters/premiere-pro/capability.json",
+          "last_checked": null,
+          "notes": "Preserved adapter method: discover-at-task-time. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "video.code-render",
+      "routes": [
+        {
+          "id": "code@codex",
+          "kind": "code",
+          "host": "codex",
+          "target": "Remotion in a separate production repository",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only; requires executed operation, inspected output and live tool availability. No production dependencies are installed in this repository."
+        }
+      ]
+    },
+    {
+      "id": "video.native-ae",
+      "routes": [
+        {
+          "id": "desktop-control@after-effects",
+          "kind": "desktop-control",
+          "host": "discover-at-task-time",
+          "target": "After Effects",
+          "status": "unverified",
+          "evidence": "adapters/after-effects/capability.json",
+          "last_checked": null,
+          "notes": "Preserved adapter method: discover-at-task-time. Imported or not-run evidence is not current operation verification."
+        }
+      ]
+    },
+    {
+      "id": "web.page-build",
+      "routes": [
+        {
+          "id": "code@codex",
+          "kind": "code",
+          "host": "codex",
+          "target": "frontend implementation in a separate production repository",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only; requires executed operation, inspected output and live tool availability. No production dependencies are installed in this repository."
+        }
+      ]
+    },
+    {
+      "id": "web.interaction-animation",
+      "routes": [
+        {
+          "id": "code@codex",
+          "kind": "code",
+          "host": "codex",
+          "target": "GSAP or Motion in a separate production repository",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only; requires executed operation, inspected output and live tool availability. No production dependencies are installed in this repository."
+        }
+      ]
+    },
+    {
+      "id": "web.screenshot",
+      "routes": [
+        {
+          "id": "code@codex",
+          "kind": "code",
+          "host": "codex",
+          "target": "live browser tooling",
+          "status": "unverified",
+          "evidence": null,
+          "last_checked": null,
+          "notes": "Candidate only; requires executed operation, inspected output and live tool availability. No production dependencies are installed in this repository."
+        }
+      ]
+    }
+  ]
+}
