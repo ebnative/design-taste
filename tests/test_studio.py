@@ -37,6 +37,20 @@ class StudioTests(unittest.TestCase):
             self.assertNotEqual(process.returncode, 0)
             self.assertNotIn('Traceback', process.stderr)
 
+    def test_archive_indexes_content_not_empty_schema_keys(self):
+        self.assertEqual(query.search('tokens', archive=True)['status'], 'no_match')
+        motion_ids = {r['id'] for r in query.search('motion', archive=True, limit=30)['results']}
+        self.assertNotIn('WEB-017', motion_ids)
+        with tempfile.TemporaryDirectory(dir=SCRATCH) as temp:
+            root = Path(temp)
+            cards = self.fixture(root)
+            shutil.copytree(ROOT / 'knowledge', root / 'knowledge')
+            cards[0]['agent_face']['tokens'] = {'surface_style': 'warm amber'}
+            self.write_cards(root, cards)
+            result = query.search('amber', root=root, archive=True)
+            self.assertEqual(result['results'][0]['id'], cards[0]['id'])
+            self.assertEqual(query.search('surface_style', root=root, archive=True)['status'], 'no_match')
+
     def test_bad_showroom_fixture_and_malformed_schema(self):
         with tempfile.TemporaryDirectory(dir=SCRATCH) as temp:
             root = Path(temp)
