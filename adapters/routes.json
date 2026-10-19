@@ -328,11 +328,17 @@
           "id": "code@codex",
           "kind": "code",
           "host": "codex",
-          "target": "live browser tooling",
-          "status": "unverified",
-          "evidence": null,
-          "last_checked": null,
-          "notes": "Candidate only; requires executed operation, inspected output and live tool availability. No production dependencies are installed in this repository."
+          "target": "Codex in-app browser viewport capture via cua_repl",
+          "status": "verified",
+          "evidence": "adapters/browser/capability.json",
+          "last_checked": "2026-10-20",
+          "notes": "Executed public viewport capture and inspected its actual image. Only this operation/scope is verified; re-discover live browser access. No responsive/full-page/interaction or built-site verification.",
+          "execution_evidence": {
+            "operation": "web.screenshot",
+            "record": "adapters/browser/capability.json",
+            "output_ref": "inspiration/2026-10-20/screenshots/WEB-016.jpg",
+            "inspected": true
+          }
         }
       ]
     }

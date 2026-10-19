@@ -27,7 +27,7 @@ class StudioTests(unittest.TestCase):
         self.assertIn('zxqv987655', result['unmatched_terms'])
         self.assertEqual(result['constraint_evaluation'], 'not_performed')
         for row in result['results']:
-            self.assertEqual(row['evidence_status'], 'candidate')
+            self.assertIn(row['evidence_status'], ('candidate', 'source-inspected', 'visually-inspected'))
             self.assertEqual(row['layer'], 'inspiration')
             self.assertFalse(row['presentable'])
             self.assertIn('zxqv987655', row['unmatched_terms'])
@@ -38,17 +38,19 @@ class StudioTests(unittest.TestCase):
             self.assertNotIn('Traceback', process.stderr)
 
     def test_archive_indexes_content_not_empty_schema_keys(self):
-        self.assertEqual(query.search('tokens', archive=True)['status'], 'no_match')
-        motion_ids = {r['id'] for r in query.search('motion', archive=True, limit=30)['results']}
-        self.assertNotIn('WEB-017', motion_ids)
         with tempfile.TemporaryDirectory(dir=SCRATCH) as temp:
             root = Path(temp)
             cards = self.fixture(root)
             shutil.copytree(ROOT / 'knowledge', root / 'knowledge')
-            cards[0]['agent_face']['tokens'] = {'surface_style': 'warm amber'}
-            self.write_cards(root, cards)
+            card = cards[0]
+            card['agent_face'] = dict(tokens={}, patterns=[], motion_params={}, do=[], dont=[], translation_rows=[])
+            self.write_cards(root, [card])
+            self.assertEqual(query.search('tokens', root=root, archive=True)['status'], 'no_match')
+            self.assertEqual(query.search('motion', root=root, archive=True)['status'], 'no_match')
+            card['agent_face']['tokens'] = {'surface_style': 'warm amber'}
+            self.write_cards(root, [card])
             result = query.search('amber', root=root, archive=True)
-            self.assertEqual(result['results'][0]['id'], cards[0]['id'])
+            self.assertEqual(result['results'][0]['id'], card['id'])
             self.assertEqual(query.search('surface_style', root=root, archive=True)['status'], 'no_match')
 
     def test_bad_showroom_fixture_and_malformed_schema(self):
@@ -68,7 +70,7 @@ class StudioTests(unittest.TestCase):
             root = Path(temp)
             cards = self.fixture(root)
             card = copy.deepcopy(cards[0])
-            card.update(layer='showroom', authorship='studio', presentable=False)
+            card.update(layer='showroom', authorship='studio', presentable=False, evidence_status='candidate')
             card['source'] = dict(url=None, creator='studio', terms_url=None, license='original-rights-unconfirmed')
             self.write_cards(root, [card])
             self.assertEqual(validate_archive(root), [])
@@ -113,6 +115,9 @@ class StudioTests(unittest.TestCase):
             photoshop = next(r for op in modified['operations'] for r in op['routes'] if r['id'] == 'desktop-control@photoshop')
             self.assertEqual(photoshop['status'], 'blocked')
             photoshop['status'] = 'unverified'
+            self.assertTrue(any('explicit decision' in e for e in check(modified)))
+            (root / 'docs/decisions').mkdir(parents=True)
+            (root / 'docs/decisions/0004-unrelated.md').write_text('Adobe deferred; Photoshop block remains.')
             self.assertTrue(any('explicit decision' in e for e in check(modified)))
             modified = copy.deepcopy(original)
             modified['operations'].pop()
