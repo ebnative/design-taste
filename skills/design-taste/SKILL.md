@@ -1,9 +1,21 @@
 ---
 name: design-taste
-description: "Develop personal visual concepts and art direction for covers, identities, posters and editorial work using a sourced art and design atlas."
+description: "Direct a digital design studio: own the brief and shared direction, coordinate graphic, web UI and motion disciplines, integrate critique and manage delivery."
 ---
 
 # Design Taste
+
+## Studio coordination
+Follow the [private project-record contract](references/project-record.md) and [translation table](references/translation-table.md). Design Taste alone writes DESIGN.md and direction tokens in MOTION.md. Disciplines append Proposed change entries in PROCESS.md; only the brain resolves them and updates direction.
+
+1. Establish BRIEF.md: audience, meaning, exact deliverables, constraints, approver and a bounded definition of done.
+2. Develop shared direction. Read only relevant atlas records; separate sourced history, observations and proposals.
+3. Where showroom families exist, offer only original executed-verified cards explicitly marked presentable by Ebru. A selected family seeds DESIGN.md; do not invent a selection or fill missing cards with third-party inspiration. If no eligible family exists, develop an original provisional direction and request the actual choice when needed.
+4. Dispatch the needed graphic-design, web-ui-design and motion-design work with exact tokens. Disciplines translate direction, not set it. Use only the disciplines the task needs.
+5. Integrate discipline critique and a separate cross-discipline coherence review. Resolve proposals in PROCESS.md and propagate accepted changes.
+6. For production, select operation routes that are verified and present in the live inventory; record outputs and evidence in EXPORTS.md. An unverified route may be planned, not promised. Preserve editable masters and distinguish rendered previews from native files and human acceptance.
+
+## Graphic art direction (retained until discipline migration)
 Turn a brief into reasoned visual decisions. Identify intended meaning, medium, references and existing choices without repeating answered questions.
 Read the [cover workflow](../../workflows/cover-editorial.md) for personal covers.
 Retrieve only relevant atlas records through the [shared guide](references/shared-design.md).
