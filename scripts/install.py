@@ -10,8 +10,11 @@ import tempfile
 import uuid
 
 ROOT = Path(__file__).resolve().parents[1]
-NAMES = ('design-taste', 'art-design-atlas', 'design-critic', 'photoshop-designer',
+NAMES = ('design-taste', 'graphic-design', 'web-ui-design', 'motion-design', 'art-design-atlas', 'design-critic', 'photoshop-designer',
          'illustrator-designer', 'after-effects-designer', 'indesign-designer', 'premiere-pro-designer')
+
+SHARED = ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters', 'examples', 'archive')
+STUDIO_REFS = ('project-record.md', 'translation-table.md')
 
 def hashes(folder):
     return {p.relative_to(folder).as_posix(): hashlib.sha256(p.read_bytes()).hexdigest()
@@ -19,9 +22,13 @@ def hashes(folder):
 
 def build(name, destination):
     shutil.copytree(ROOT / 'skills' / name, destination)
-    for directory in ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters', 'examples'):
+    for directory in SHARED:
         shutil.copytree(ROOT / directory, destination / 'bundle' / directory,
                         ignore=shutil.ignore_patterns('__pycache__', '*.pyc'))
+    for name_ref in STUDIO_REFS:
+        target = destination / 'bundle/studio' / name_ref
+        target.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(ROOT / 'skills/design-taste/references' / name_ref, target)
     # Resolve all source links into this package, including links in nested references.
     for path in destination.rglob('*.md'):
         if 'bundle' in path.relative_to(destination).parts:
@@ -36,9 +43,10 @@ def build(name, destination):
                 relative = canonical.relative_to(ROOT)
             except ValueError:
                 return match.group(0)
-            if relative.parts[0] in ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters', 'examples'):
+            if relative.parts[0] in SHARED or relative.as_posix() in ('skills/design-taste/references/project-record.md', 'skills/design-taste/references/translation-table.md'):
                 import os
-                new_target = os.path.relpath(destination / 'bundle' / relative, path.parent).replace('\\', '/')
+                bundled = destination / 'bundle' / relative if relative.parts[0] in SHARED else destination / 'bundle/studio' / relative.name
+                new_target = os.path.relpath(bundled, path.parent).replace('\\', '/')
                 return '[' + label + '](' + new_target + ')'
             return match.group(0)
         content = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', replace, content)
