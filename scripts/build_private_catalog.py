@@ -24,6 +24,25 @@ def http_url(value):
         return '#'
 
 
+def playground_config(path, card_ids):
+    """Read optional private loopback links; configuration is not execution proof."""
+    if not path.exists():
+        return '', {}
+    data = json.loads(path.read_text(encoding='utf-8'))
+    if not isinstance(data, dict) or not isinstance(data.get('base_url'), str) or not isinstance(data.get('samples'), dict):
+        raise ValueError('Playground configuration needs base_url and samples')
+    url = urlparse(data['base_url'])
+    if (url.scheme != 'http' or url.hostname not in ('127.0.0.1', 'localhost')
+            or url.username or url.password or not url.port or url.path not in ('', '/')
+            or url.params or url.query or url.fragment):
+        raise ValueError('Playground URL must be an explicit loopback HTTP origin')
+    samples = data['samples']
+    if any(card not in card_ids or not isinstance(sample, str) or not re.fullmatch(r'[a-z][a-z0-9-]{0,63}', sample)
+           for card, sample in samples.items()):
+        raise ValueError('Playground samples need known card IDs and simple slugs')
+    return data['base_url'].rstrip('/'), samples
+
+
 def build(private_root, batch, captures=None, root=ROOT):
     root = Path(root)
     private_root = Path(private_root).expanduser().resolve()
@@ -37,6 +56,8 @@ def build(private_root, batch, captures=None, root=ROOT):
     if any(path.exists() and not path.is_file() for path in outputs.values()):
         raise ValueError('Catalog outputs must be files')
     cards = json.loads((root / 'archive/cards.json').read_text(encoding='utf-8'))
+    playground_url, playground_samples = playground_config(
+        target(private_root, 'inspiration/' + batch + '/playground.json'), {card['id'] for card in cards})
     previous_captures = outputs['capture-receipts.json']
     if not captures and previous_captures.is_file() and json.loads(previous_captures.read_text(encoding='utf-8')):
         raise ValueError('Existing captured batches require --captures to rebuild; previews will not be erased')
@@ -90,15 +111,20 @@ def build(private_root, batch, captures=None, root=ROOT):
                 raise ValueError('Missing private source receipt')
             href = html.escape(relative + '/SOURCE-RECEIPT.json', quote=True)
             code = '<p><a href="' + href + '">Local source receipt</a> · ' + str(len(receipt.get('files', []))) + ' inert source files<br><small>Revision ' + html.escape(receipt['sha'][:12]) + ' · downloaded, not executed</small></p>'
+        sample = playground_samples.get(ident)
+        live_links = {view: playground_url + '/#/' + sample + '/' + view for view in ('preview', 'code', 'files')} if sample else None
+        if live_links:
+            code = '<p class="playground-links">' + ' · '.join('<a href="' + html.escape(live_links[view], quote=True) + '" target="_blank" rel="noreferrer">' + label + '</a>' for view, label in (('preview', 'Live preview ↗'), ('code', 'View / copy code'), ('files', 'Project files'))) + '</p>' + code
         review = card.get('review', {})
         observed = review.get('observed', card['intended_use'])
         limits = review.get('limits', card['notes'])
         search = ' '.join([ident, card['title'], card['discipline'], acquisition.get('kind', ''), observed])
         panels.append('<article data-discipline="' + html.escape(card['discipline'], quote=True) + '" data-search="' + html.escape(search.casefold(), quote=True) + '"><div class="media">' + media + '</div><div class="body"><div class="eyebrow">' + html.escape(ident + ' / ' + card['discipline'] + ' / ' + card['evidence_status']) + '</div><h2>' + html.escape(card['title']) + '</h2><p>' + html.escape(observed) + '</p><p class="limit">' + html.escape(limits) + '</p><a href="' + html.escape(source, quote=True) + '" target="_blank" rel="noreferrer">Original source ↗</a>' + code + '</div></article>')
-        manifest.append({'id': ident, 'source_url': source, 'screenshots': list(unique), 'source_state': receipt['state'] if receipt else 'no-code-copy', 'evidence_status': card['evidence_status']})
+        manifest.append({'id': ident, 'source_url': source, 'screenshots': list(unique), 'source_state': receipt['state'] if receipt else 'no-code-copy', 'evidence_status': card['evidence_status'], 'playground': live_links})
+    playground_header = '<a href="' + html.escape(playground_url, quote=True) + '" target="_blank" rel="noreferrer">Open UI playground ↗</a>' if playground_url else ''
     page = '''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' file:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; base-uri 'none'; form-action 'none'"><title>Design Taste | Private references</title><style>
     *{box-sizing:border-box}body{margin:0;background:#f3f0e9;color:#20241f;font:16px/1.5 system-ui,sans-serif}header{padding:48px 5vw 28px;border-bottom:1px solid #ccc8bd;background:#fffdf7}h1{font-size:clamp(32px,5vw,64px);line-height:1.05;max-width:900px;letter-spacing:-.04em;margin:12px 0 20px}.intro{max-width:900px;color:#54584e}.tag,.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.08em}.tag{color:#526b38}nav{display:flex;gap:14px;flex-wrap:wrap;margin-top:28px}input,select{padding:13px 16px;border:1px solid #b7bcae;border-radius:8px;background:white;font:inherit}input{min-width:min(460px,100%)}main{padding:28px 5vw;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(355px,100%),1fr));gap:24px}article{background:#fffdf8;border:1px solid #d5d6cb;border-radius:12px;overflow:hidden}.media{display:grid;background:#e1e4d9}.media img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-bottom:1px solid #ddd}.media a:not(:first-child) img{max-height:180px;object-fit:cover}.body{padding:22px}h2{margin:8px 0;font-size:24px;letter-spacing:-.02em}.limit{font-size:13px;color:#636457;border-left:3px solid #acb99b;padding-left:12px}a{color:#315530;text-underline-offset:3px}.placeholder{padding:70px 24px;color:#606650;text-align:center}.muted,small{color:#6b6f63;font-size:12px}[hidden]{display:none!important}footer{padding:30px 5vw;color:#616958;font-size:13px}input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #627a49;outline-offset:3px}
-    </style></head><body><header><div class="tag">Design Taste / private research archive</div><h1>References to learn from.<br>Source to build with.</h1><p class="intro">Internal inspiration, not a client showroom. Captures show bounded public viewports, not complete sites or animation playback. Code copies are pinned, license-scoped and inert. Paid templates, prompt libraries and unknown-rights assets are linked, not copied.</p><nav><input id="search" type="search" aria-label="Search sources" placeholder="Search source, component or design task"><select id="discipline" aria-label="Discipline"><option value="">All disciplines</option><option value="web">Web UI</option><option value="motion">Motion</option><option value="graphic">Graphic</option></select><span id="count" aria-live="polite"></span></nav></header><main>''' + ''.join(panels) + '''</main><footer>Original input coverage also records Adobe as deferred and the X article text as unverified. No claim of complete source-catalog coverage, production verification or redistribution rights.</footer><script>const items=[...document.querySelectorAll('article')];function filter(){const q=document.getElementById('search').value.toLowerCase().trim(),d=document.getElementById('discipline').value;let n=0;for(const item of items){item.hidden=!!((d&&item.dataset.discipline!==d)||(q&&!item.dataset.search.includes(q)));if(!item.hidden)n++;}document.getElementById('count').textContent=n+' cards';}document.getElementById('search').addEventListener('input',filter);document.getElementById('discipline').addEventListener('change',filter);filter();</script></body></html>'''
+    </style></head><body><header><div class="tag">Design Taste / private research archive</div><h1>References to learn from.<br>Source to build with.</h1><p class="intro">Internal inspiration, not a client showroom. Captures show bounded public viewports, not complete sites or animation playback. Code copies are pinned, license-scoped and inert. Paid templates, prompt libraries and unknown-rights assets are linked, not copied.</p><nav><input id="search" type="search" aria-label="Search sources" placeholder="Search source, component or design task"><select id="discipline" aria-label="Discipline"><option value="">All disciplines</option><option value="web">Web UI</option><option value="motion">Motion</option><option value="graphic">Graphic</option></select><span id="count" aria-live="polite"></span>''' + playground_header + '''</nav></header><main>''' + ''.join(panels) + '''</main><footer>Original input coverage also records Adobe as deferred and the X article text as unverified. No claim of complete source-catalog coverage, production verification or redistribution rights.</footer><script>const items=[...document.querySelectorAll('article')];function filter(){const q=document.getElementById('search').value.toLowerCase().trim(),d=document.getElementById('discipline').value;let n=0;for(const item of items){item.hidden=!!((d&&item.dataset.discipline!==d)||(q&&!item.dataset.search.includes(q)));if(!item.hidden)n++;}document.getElementById('count').textContent=n+' cards';}document.getElementById('search').addEventListener('input',filter);document.getElementById('discipline').addEventListener('change',filter);filter();</script></body></html>'''
     # Preflight every capture and source receipt before replacing existing output.
     destination.mkdir(parents=True, exist_ok=True)
     for out, data in copies:

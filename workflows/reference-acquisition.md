@@ -32,3 +32,10 @@ python scripts/build_private_catalog.py --private-root '<confirmed-private-root>
 The capture directory contains `captures.json` and actual PNG/JPEG files named by card ID, optionally with a detail suffix. The generator validates paths, copies those existing captures, reads existing private source receipts and writes a searchable offline HTML catalog. It does not browse, download, execute code, change route status or prove a screenshot was visually inspected. Missing captures/code remain explicit. Rebuilding an existing captured batch requires --captures again; omitting it is rejected to preserve previous previews and receipts. Use the browser tool actually available in the host for capture and inspect its real outputs.
 
 A private archive can contain internal third-party references, but it is not a client showroom or a public component redistribution service. For a client direction, produce original work and obtain Ebru's separate presentable approval.
+
+
+## Executable private specimens
+
+When separately authorized, run selected components in a separate private production project. Keep this repository dependency-free. An optional private `inspiration/<batch>/playground.json` contains `base_url` (an explicit loopback HTTP origin, for example `http://127.0.0.1:4317`) and `samples` (archive card ID to simple sample slug). Rebuilding the gallery adds preview, view/copy-code and project-file links for those cards. The service must be running; links do not start a server or establish verified behavior. Preserve the original source receipts as downloaded-not-executed; record executed specimen evidence in the production project's EXPORTS.md instead.
+
+The workbench should expose the actual wrapper, upstream implementation, dependencies and notices, plus a complete project download excluding node_modules, Git and private configuration. Keep license scopes explicit, including any official package whose version/license differs from a repository snapshot. Capture bounded interaction evidence for each specimen rather than claiming that an entire library/site has been verified.
