@@ -141,3 +141,27 @@ class PrivateCatalogTests(unittest.TestCase):
                 build(base / 'private', '2026-10-20', captures, root=repo)
             self.assertEqual((destination / 'screenshots/WEB-001.jpg').read_bytes(), b'\xff\xd8\xfforiginal')
             self.assertEqual((destination / 'capture-receipts.json').read_bytes(), before)
+
+    def test_private_playground_links_and_invalid_configuration(self):
+        with tempfile.TemporaryDirectory() as temp:
+            base = Path(temp)
+            repo = base / 'repo'; repo.mkdir(); self.fixture(repo)
+            destination = base / 'private/inspiration/2026-10-20'
+            destination.mkdir(parents=True)
+            config = destination / 'playground.json'
+            valid = {'base_url': 'http://127.0.0.1:4317', 'samples': {'WEB-001': 'example'}}
+            config.write_text(json.dumps(valid))
+            result = build(base / 'private', '2026-10-20', root=repo)
+            page = Path(result['output']).read_text()
+            self.assertIn('http://127.0.0.1:4317/#/example/preview', page)
+            self.assertIn('View / copy code', page)
+            manifest = json.loads((destination / 'catalog.json').read_text())
+            self.assertEqual(manifest[0]['playground']['files'], 'http://127.0.0.1:4317/#/example/files')
+            for invalid in [None, {'base_url': 'https://example.org', 'samples': {}},
+                            {'base_url': 'http://localhost:4317/path', 'samples': {}},
+                            {'base_url': 'http://localhost:4317', 'samples': {'WEB-001': '../escape'}},
+                            {'base_url': 'http://localhost:4317', 'samples': {'WEB-999': 'example'}}]:
+                config.write_text(json.dumps(invalid))
+                with self.assertRaises(ValueError):
+                    build(base / 'private', '2026-10-20', root=repo)
+                self.assertEqual(Path(result['output']).read_text(), page)
