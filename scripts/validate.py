@@ -67,6 +67,14 @@ def validate(root=ROOT):
             errors.append('Unresolved sources: ' + record['id'])
         if not (root / record['path']).is_file():
             errors.append('Missing record document: ' + record['id'])
+    for name in ('graphic-design', 'web-ui-design', 'motion-design'):
+        path = root / 'skills' / name / 'SKILL.md'
+        if (root / 'skills').exists():
+            content = path.read_text(encoding='utf-8') if path.is_file() else ''
+            expected = ['Reads', 'Translation rules', 'Outputs', 'Discipline critique checklist', 'Production handoff', 'Archive use']
+            actual = re.findall(r'^## (.+)$', content, re.M)
+            if actual != expected:
+                errors.append('Invalid discipline anatomy: ' + name)
     for path in root.rglob('*'):
         if not path.is_file() or any(part in ('.git', '.work', '__pycache__') for part in path.relative_to(root).parts) or path.suffix not in ('.md', '.json', '.yaml', '.ps1', '.jsx', '.py', '.svg'):
             continue

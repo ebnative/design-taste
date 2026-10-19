@@ -112,6 +112,24 @@ class DeliveryTests(unittest.TestCase):
                         if not target.startswith(('http:', 'https:', '#')):
                             self.assertTrue((path.parent / target.split('#')[0]).exists(), (path, target))
 
+    def test_all_eleven_packages_relocate(self):
+        self.assertEqual(len(installer.NAMES), 11)
+        with tempfile.TemporaryDirectory(dir=SCRATCH) as temporary:
+            temporary = Path(temporary)
+            installer.install(temporary / 'install', installer.NAMES)
+            for name in installer.NAMES:
+                moved = temporary / ('moved-' + name)
+                shutil.move(str(temporary / 'install' / name), moved)
+                actual = self.cli('photomontage', script=moved / 'bundle/search/query.py', cwd=temporary)
+                self.assertEqual(actual.returncode, 0, actual.stderr)
+                self.assertEqual(json.loads(actual.stdout), query.search('photomontage'))
+                self.assertTrue((moved / 'bundle/studio/translation-table.md').is_file())
+                self.assertTrue((moved / 'bundle/archive/cards.json').is_file())
+                for path in moved.rglob('*.md'):
+                    for target in re.findall(r'\[[^\]]+\]\(([^)]+)\)', path.read_text(encoding='utf-8')):
+                        if not target.startswith(('http:', 'https:', '#')):
+                            self.assertTrue((path.parent / target.split('#')[0]).exists(), (path, target))
+
     def test_malformed_task_metadata_and_claim_reviews(self):
         with tempfile.TemporaryDirectory(dir=SCRATCH) as temporary:
             root = Path(temporary)

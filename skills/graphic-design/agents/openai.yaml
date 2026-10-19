@@ -1,0 +1,6 @@
+interface:
+  display_name: "Graphic Design"
+  short_description: "Translate studio direction into graphic design"
+  default_prompt: "Use $graphic-design to translate the approved studio direction into deliverables."
+policy:
+  allow_implicit_invocation: true

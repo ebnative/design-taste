@@ -14,7 +14,7 @@ The original expression brief develops meaning, metaphor, composition, color and
 
 ## Current scope
 
-30 records (27 imported seeds plus three practical records), 62 sources, seven passage-level pilot reviews, 12 competency-based modules, English lexical search and eight existing skills. The studio target is eleven: brain, three v0 disciplines, atlas, critic and five production skills. These new disciplines are planned skeletons, not verified production experience. Python's standard library is sufficient.
+30 records (27 imported seeds plus three practical records), 62 sources, seven passage-level pilot reviews, 12 competency-based modules, English lexical search and eleven skills: brain, three v0 disciplines, atlas, critic and five production skills. These new disciplines are v0 skeletons, not verified production experience. Python's standard library is sufficient.
 Existing Windows application adapters and methods are preserved. Photoshop live verification is blocked by explicit user decision, with no terminal or script substitution. Other application guides are not current connection proof.
 Six authorized developments cover source review, original cover artifacts, identity operations, calibrated critique, retrieval and curriculum. Native/human cover acceptance, a real identity pilot and learner outcomes are not established. Independent final review is separate from software verification.
 

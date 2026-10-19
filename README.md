@@ -24,14 +24,14 @@ Identity operations and curriculum are authored guidance, not an executed logo p
 ## Skills
 
 - Design Taste: studio brain for briefs, shared direction, discipline dispatch and delivery.
-- Graphic Design, Web UI Design and Motion Design: planned v0 discipline skeletons, not job-verified capabilities.
+- Graphic Design, Web UI Design and Motion Design: v0 discipline skeletons, not job-verified capabilities.
 - Art & Design Atlas: learning and sourced research.
 - Design Critic: critique grounded in the brief and visible evidence.
 - Photoshop Designer: layered production using the preserved desktop-control method.
 - Illustrator Designer: vector production using the preserved COM/ExtendScript runner.
 - After Effects Designer, InDesign Designer and Premiere Pro Designer: production guides; connections have not been verified live.
 
-Studio structure and synchronization follow [decision 0002](docs/decisions/0002-digital-design-studio.md) and the governing [decision 0003](docs/decisions/0003-studio-sync-archives-adobe-route.md). Eight packages currently exist; the Phase 0 target is eleven. Archive and route infrastructure is planned, not live connection evidence.
+Studio structure and synchronization follow [decision 0002](docs/decisions/0002-digital-design-studio.md) and the governing [decision 0003](docs/decisions/0003-studio-sync-archives-adobe-route.md). Eleven packages are available. Archive metadata is initialized; route infrastructure remains planned. Neither is live connection evidence.
 
 ## Usage
 
