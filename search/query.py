@@ -24,6 +24,15 @@ def normalize(text):
 def tokens(text):
     return re.findall(r'[a-z0-9]+', normalize(text))
 
+def archive_values(value):
+    """Index authored content without making empty schema keys searchable."""
+    if isinstance(value, dict):
+        return [text for child in value.values() for text in archive_values(child)]
+    if isinstance(value, list):
+        return [text for child in value for text in archive_values(child)]
+    return [str(value)] if isinstance(value, (str, int, float)) and not isinstance(value, bool) else []
+
+
 def archive_records(root):
     cards = json.loads((root / 'archive/cards.json').read_text(encoding='utf-8'))
     records = []
@@ -32,7 +41,7 @@ def archive_records(root):
                             task_terms=[card['category'], card['intended_use']],
                             historical_context='', visual_principles='',
                             contemporary_application=card['intended_use'],
-                            exercise=json.dumps(card['agent_face'], ensure_ascii=False),
+                            exercise=' '.join(archive_values(card['agent_face'])),
                             record_type='archive', path='archive/cards.json',
                             source_ids=[], review_status=card['evidence_status'],
                             production_test_status='not_run' if card['evidence_status'] != 'executed-verified' else 'recorded-execution',
