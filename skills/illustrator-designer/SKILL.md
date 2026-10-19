@@ -47,3 +47,6 @@ Learn at two levels: maintain aesthetic preferences in `../../workflows/private-
 
 ## Shared paths in the package
 The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).
+
+## Production operation routing
+Request `vector.logo`, `image.resize` as relevant through the [route registry](../../adapters/routes.json). The brain selects a route only when its operation-specific evidence is verified and the route is present in the live inventory. Preserved methods and existing access blocks still govern; cloud operations do not prove native editability. Do not mark an imported adapter or installed application as verified.

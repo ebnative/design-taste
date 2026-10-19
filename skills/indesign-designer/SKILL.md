@@ -19,3 +19,6 @@ Official entrypoint: https://developer.adobe.com/indesign/uxp/scripts/
 
 ## Shared paths in the package
 The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).
+
+## Production operation routing
+Request `layout.data-merge` as relevant through the [route registry](../../adapters/routes.json). The brain selects a route only when its operation-specific evidence is verified and the route is present in the live inventory. Preserved methods and existing access blocks still govern; cloud operations do not prove native editability. Do not mark an imported adapter or installed application as verified.
