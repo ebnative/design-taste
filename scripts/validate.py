@@ -3,6 +3,11 @@ import json
 from pathlib import Path
 import re
 
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from scripts.studio_contracts import validate_archive
+
 ROOT = Path(__file__).resolve().parents[1]
 
 def string_list(value):
@@ -89,6 +94,7 @@ def validate(root=ROOT):
                     continue
                 if not (path.parent / target.split('#')[0]).exists():
                     errors.append('Broken link in ' + path.relative_to(root).as_posix() + ': ' + target)
+    errors += validate_archive(root)
     return errors
 
 if __name__ == '__main__':

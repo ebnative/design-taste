@@ -31,13 +31,14 @@ Identity operations and curriculum are authored guidance, not an executed logo p
 - Illustrator Designer: vector production using the preserved COM/ExtendScript runner.
 - After Effects Designer, InDesign Designer and Premiere Pro Designer: production guides; connections have not been verified live.
 
-Studio structure and synchronization follow [decision 0002](docs/decisions/0002-digital-design-studio.md) and the governing [decision 0003](docs/decisions/0003-studio-sync-archives-adobe-route.md). Eleven packages are available. Archive metadata is initialized; route infrastructure remains planned. Neither is live connection evidence.
+Studio structure and synchronization follow [decision 0002](docs/decisions/0002-digital-design-studio.md) and the governing [decision 0003](docs/decisions/0003-studio-sync-archives-adobe-route.md). Eleven packages are available. Archive candidates support `--archive` retrieval; route infrastructure remains planned. Neither is live connection evidence.
 
 ## Usage
 
 ```powershell
 python search/query.py 'surrealism' --type movement --asset cover --json
 python search/query.py 'photomontage' --type technique
+python search/query.py 'landing page' --archive --json
 python search/query.py 'readable cover title' --type foundation --asset cover --json
 python scripts/check.py
 python scripts/install.py --dest '<skill-directory>' --skill design-taste --skill art-design-atlas --skill design-critic
