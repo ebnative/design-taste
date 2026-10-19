@@ -126,6 +126,23 @@ def validate_archive(root):
                 date.fromisoformat(card['last_checked'])
             except ValueError:
                 fail('invalid date')
+        review = card.get('review')
+        acquisition = card.get('acquisition')
+        if review:
+            if not repo_record(review['record'], root) or not review['evidence_urls']:
+                fail('review needs a record and source URLs')
+            try:
+                date.fromisoformat(review['checked_on'])
+            except ValueError:
+                fail('invalid review date')
+        if acquisition:
+            media = acquisition['private_media_ref']
+            if media is not None and not private_preview(media, root):
+                fail('acquisition media must remain private-root-relative outside repository')
+            if (acquisition['capture_scope'] == 'viewport-only') != (media is not None):
+                fail('capture scope and private media reference disagree')
+            if acquisition['code_action'] == 'public-licensed-source' and not acquisition['code_url']:
+                fail('licensed source needs a code URL')
         preview = card['client_face']['preview_ref']
         if card['layer'] == 'inspiration':
             if card['source']['url'] is None or urlparse(card['source']['url']).scheme not in ('http', 'https'):
@@ -220,6 +237,8 @@ def validate_routes(root):
                     errors.append(label + ': verified needs matching executed operation and inspected output evidence')
             if route['id'] == 'desktop-control@photoshop' and route['status'] != 'blocked':
                 decision = root / 'docs/decisions'
-                if not any(decision.glob('0004-*.md')):
+                decisions = list(decision.glob('0004-*.md'))
+                authorized = any(re.search(r'^Photoshop control decision: (lift|narrow)$', p.read_text(encoding='utf-8'), re.M) and re.search(r'^Approved by: Ebru$', p.read_text(encoding='utf-8'), re.M) for p in decisions)
+                if not authorized:
                     errors.append(label + ': Photoshop block needs an explicit decision record')
     return errors

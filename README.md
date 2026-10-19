@@ -24,14 +24,14 @@ Identity operations and curriculum are authored guidance, not an executed logo p
 ## Skills
 
 - Design Taste: studio brain for briefs, shared direction, discipline dispatch and delivery.
-- Graphic Design, Web UI Design and Motion Design: v0 discipline skeletons, not job-verified capabilities.
+- Graphic Design: v0 discipline; Web UI Design and Motion Design: source-informed v0 disciplines, not job-verified capabilities.
 - Art & Design Atlas: learning and sourced research.
 - Design Critic: critique grounded in the brief and visible evidence.
 - Photoshop Designer: layered production using the preserved desktop-control method.
 - Illustrator Designer: vector production using the preserved COM/ExtendScript runner.
 - After Effects Designer, InDesign Designer and Premiere Pro Designer: production guides; connections have not been verified live.
 
-Studio structure and synchronization follow [decision 0002](docs/decisions/0002-digital-design-studio.md) and the governing [decision 0003](docs/decisions/0003-studio-sync-archives-adobe-route.md). Eleven packages are available. Archive candidates support `--archive` retrieval; operation-specific routes are registered as unverified or blocked. Neither is live connection evidence.
+Studio structure and synchronization follow [decision 0002](docs/decisions/0002-digital-design-studio.md) and the governing [decision 0003](docs/decisions/0003-studio-sync-archives-adobe-route.md). Eleven packages are available. Archive source reviews support `--archive` retrieval. The browser viewport screenshot route has executed/inspected evidence; remaining production routes are unverified or blocked.
 
 ## Usage
 
@@ -75,3 +75,7 @@ Six authorized developments are delivered and independently checked, not seven p
 An open-source license for code and content has not been selected. See [sources and rights](docs/sources-and-rights.md).
 Repository documentation, instructions, catalog text, examples and search output are in English.
 Original personal names and source URLs retain their spelling; external sources may use other languages.
+
+## Private reference archive
+
+[Source review](archive/source-review.md) and [acquisition workflow](workflows/reference-acquisition.md) explain the reviewed sources, original-input coverage, license scopes and private visual/code collection. The offline catalog generator accepts an explicit private root and existing captures; it never fetches or executes upstream code. Photoshop and Adobe connection work is [deferred by user decision](docs/decisions/0004-defer-adobe-and-photoshop.md).

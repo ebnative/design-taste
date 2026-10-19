@@ -1,0 +1,17 @@
+{
+  "host_app": "Codex in-app browser",
+  "host_version": null,
+  "integration_route": "cua_repl viewport screenshot",
+  "tested_on": "2026-10-20",
+  "test_status": "executed-and-output-inspected",
+  "operation": "web.screenshot",
+  "source_url": "https://feralui.dev/gradients",
+  "output_ref": "inspiration/2026-10-20/screenshots/WEB-016.jpg",
+  "inspected": true,
+  "scope": "Public viewport capture at 1280x720; actual editor image inspected. This does not verify responsive resizing, full-page capture, component interaction, playback or a built site.",
+  "prerequisites": [
+    "live-browser-tool-inventory",
+    "task-authorized-source-and-private-output"
+  ],
+  "rollback": "preserve original page; task-owned output files only"
+}

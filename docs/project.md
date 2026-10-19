@@ -14,7 +14,7 @@ The original expression brief develops meaning, metaphor, composition, color and
 
 ## Current scope
 
-30 records (27 imported seeds plus three practical records), 62 sources, seven passage-level pilot reviews, 12 competency-based modules, English lexical search and eleven skills: brain, three v0 disciplines, atlas, critic and five production skills. These new disciplines are v0 skeletons, not verified production experience. Python's standard library is sufficient.
+30 records (27 imported seeds plus three practical records), 62 sources, seven passage-level pilot reviews, 12 competency-based modules, English lexical search and eleven skills: brain, three v0 disciplines, atlas, critic and five production skills. Web UI and Motion are source-informed v0 disciplines; Graphic Design remains a v0 migration. No job-verified design recipe is claimed. Python's standard library is sufficient.
 Existing Windows application adapters and methods are preserved. Photoshop live verification is blocked by explicit user decision, with no terminal or script substitution. Other application guides are not current connection proof.
 Six authorized developments cover source review, original cover artifacts, identity operations, calibrated critique, retrieval and curriculum. Native/human cover acceptance, a real identity pilot and learner outcomes are not established. Independent final review is separate from software verification.
 
@@ -38,3 +38,5 @@ Tasks are managed through [GitHub Issues](https://github.com/ebnative/design-tas
 ## Studio rollout
 
 The accepted direction is recorded in [0002](decisions/0002-digital-design-studio.md), refined by governing [0003](decisions/0003-studio-sync-archives-adobe-route.md). Foundations precede the portfolio pilot, then a client project with motion, then the permitted client case study in portfolio v2. Execution, dependencies and decision gates live only in [GitHub Issues](https://github.com/ebnative/design-taste/issues). Adobe OAuth and Photoshop control remain gated; no new route or archive card is verified by adopting the plan.
+
+The source review covers 40 archive cards across 39 distinct cataloged sources, plus deferred Adobe and an unverified X article in the original-input ledger. Thirty cards have bounded viewport inspection; ten have source-text inspection. A private archive holds reference captures and eight pinned public UI source copies; no third-party media or code copies are bundled here. Adobe and Photoshop remain explicitly deferred under decision 0004. Only the executed browser viewport screenshot route is verified, within its recorded scope.

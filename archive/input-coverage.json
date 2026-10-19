@@ -1,0 +1,477 @@
+[
+  {
+    "input_urls": [
+      "https://landdding.com/"
+    ],
+    "canonical_url": "https://landdding.com/",
+    "card_ids": [
+      "WEB-001"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://60fps.design/"
+    ],
+    "canonical_url": "https://60fps.design/",
+    "card_ids": [
+      "WEB-002"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://aperios-design.co.uk/"
+    ],
+    "canonical_url": "https://aperios-design.co.uk/",
+    "card_ids": [
+      "WEB-003"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://tailgrids.com/",
+      "https://t.co/86hFc2NsFt"
+    ],
+    "canonical_url": "https://tailgrids.com/",
+    "card_ids": [
+      "WEB-004"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://heroui.com/",
+      "https://t.co/SIWZPhsJvG"
+    ],
+    "canonical_url": "https://heroui.com/",
+    "card_ids": [
+      "WEB-005"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://uiarc.dev/",
+      "https://t.co/l6yZHvM3B3",
+      "https://t.co/Pt7ejz7Lie"
+    ],
+    "canonical_url": "https://uiarc.dev/",
+    "card_ids": [
+      "WEB-006"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://bencho.dev/",
+      "https://t.co/lH2N4uAuDZ"
+    ],
+    "canonical_url": "https://bencho.dev/",
+    "card_ids": [
+      "WEB-007"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://opensourceui.in/",
+      "https://t.co/fEakbX0jEh"
+    ],
+    "canonical_url": "https://opensourceui.in/",
+    "card_ids": [
+      "WEB-008"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://boardui.com/",
+      "https://t.co/KILmsWEXQS"
+    ],
+    "canonical_url": "https://boardui.com/",
+    "card_ids": [
+      "WEB-009"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://reverseui.com/",
+      "https://t.co/4lqCMV2XK6"
+    ],
+    "canonical_url": "https://reverseui.com/",
+    "card_ids": [
+      "WEB-010"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://www.motionin.design/"
+    ],
+    "canonical_url": "https://www.motionin.design/",
+    "card_ids": [
+      "WEB-011"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://transitions.dev/",
+      "https://t.co/1uhAvIzHwH"
+    ],
+    "canonical_url": "https://transitions.dev/",
+    "card_ids": [
+      "WEB-012"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://modulify.ai/templates"
+    ],
+    "canonical_url": "https://modulify.ai/templates",
+    "card_ids": [
+      "WEB-013"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://www.backgrounds.supply/"
+    ],
+    "canonical_url": "https://www.backgrounds.supply/",
+    "card_ids": [
+      "GD-001"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://onepromptdesign.com/"
+    ],
+    "canonical_url": "https://onepromptdesign.com/",
+    "card_ids": [
+      "GD-002"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://pele.run/",
+      "https://t.co/xv2bYqaG4M"
+    ],
+    "canonical_url": "https://pele.run/",
+    "card_ids": [
+      "WEB-014"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://www.theatrejs.com/"
+    ],
+    "canonical_url": "https://www.theatrejs.com/",
+    "card_ids": [
+      "WEB-015",
+      "MOT-007"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://reelfolio.io/"
+    ],
+    "canonical_url": "https://reelfolio.io/",
+    "card_ids": [
+      "MOT-001"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://feralui.dev/gradients"
+    ],
+    "canonical_url": "https://feralui.dev/gradients",
+    "card_ids": [
+      "WEB-016"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://www.inspora.design/"
+    ],
+    "canonical_url": "https://www.inspora.design/",
+    "card_ids": [
+      "WEB-017"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://recent.design/",
+      "https://recent.design/?ref=godly"
+    ],
+    "canonical_url": "https://recent.design/",
+    "card_ids": [
+      "WEB-018"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://squints.app/",
+      "https://t.co/SATntjK9zf"
+    ],
+    "canonical_url": "https://squints.app/",
+    "card_ids": [
+      "WEB-019"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://squig.sh/",
+      "https://t.co/G83qRaycrY"
+    ],
+    "canonical_url": "https://squig.sh/",
+    "card_ids": [
+      "WEB-020"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://encyclopedia.iconography.co/",
+      "https://t.co/MvS0la1rvr"
+    ],
+    "canonical_url": "https://encyclopedia.iconography.co/",
+    "card_ids": [
+      "WEB-021"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://audiocn.dev/",
+      "https://t.co/1ElRK2hV3T"
+    ],
+    "canonical_url": "https://audiocn.dev/",
+    "card_ids": [
+      "WEB-022"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://mdxcn.dev/",
+      "https://t.co/m2IXqQITOE"
+    ],
+    "canonical_url": "https://mdxcn.dev/",
+    "card_ids": [
+      "WEB-023"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://gauge-ui.dev/",
+      "https://t.co/xnTG5LS1e2"
+    ],
+    "canonical_url": "https://gauge-ui.dev/",
+    "card_ids": [
+      "WEB-024"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://github.com/remotion-dev/remotion"
+    ],
+    "canonical_url": "https://github.com/remotion-dev/remotion",
+    "card_ids": [
+      "MOT-002"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://github.com/remotion-dev/skills"
+    ],
+    "canonical_url": "https://github.com/remotion-dev/skills",
+    "card_ids": [
+      "MOT-003"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+  },
+  {
+    "input_urls": [
+      "https://github.com/LottieFiles/motion-design-skill",
+      "https://t.co/4tABAUkQCN"
+    ],
+    "canonical_url": "https://github.com/LottieFiles/motion-design-skill",
+    "card_ids": [
+      "MOT-004"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://github.com/motiondivision/ai-kit",
+      "https://t.co/bmuYcFra0B"
+    ],
+    "canonical_url": "https://github.com/motiondivision/ai-kit",
+    "card_ids": [
+      "MOT-005"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://github.com/greensock/GSAP",
+      "https://t.co/y37Lmw9Fqi"
+    ],
+    "canonical_url": "https://github.com/greensock/GSAP",
+    "card_ids": [
+      "MOT-006"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://hairline.lucasmarkes.com/skills",
+      "https://t.co/JjtFBxPg4w"
+    ],
+    "canonical_url": "https://hairline.lucasmarkes.com/skills",
+    "card_ids": [
+      "MOT-008"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://github.com/annnguyentt/anatomy-reveal-skill",
+      "https://t.co/OVGVFZuzyI"
+    ],
+    "canonical_url": "https://github.com/annnguyentt/anatomy-reveal-skill",
+    "card_ids": [
+      "MOT-009"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://github.com/pmndrs/react-three-rapier",
+      "https://t.co/so54G0H47l"
+    ],
+    "canonical_url": "https://github.com/pmndrs/react-three-rapier",
+    "card_ids": [
+      "MOT-010"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://github.com/pmndrs/react-postprocessing",
+      "https://t.co/jbAp1PhWP4"
+    ],
+    "canonical_url": "https://github.com/pmndrs/react-postprocessing",
+    "card_ids": [
+      "MOT-011"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://api.openverse.org/v1/",
+      "https://t.co/kXyI4E1mKz"
+    ],
+    "canonical_url": "https://api.openverse.org/v1/",
+    "card_ids": [
+      "MOT-012"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://github.com/scenario-labs/blender-plugin",
+      "https://t.co/AiF0conqsC"
+    ],
+    "canonical_url": "https://github.com/scenario-labs/blender-plugin",
+    "card_ids": [
+      "MOT-013"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://skills.wheresryan.sh/anatomy",
+      "https://t.co/XUNUkFAHND"
+    ],
+    "canonical_url": "https://skills.wheresryan.sh/anatomy",
+    "card_ids": [
+      "MOT-014"
+    ],
+    "status": "inspected",
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+  },
+  {
+    "input_urls": [
+      "https://x.com/0xwhrrari/article/2105643919119696297"
+    ],
+    "canonical_url": "https://x.com/0xwhrrari/article/2105643919119696297",
+    "card_ids": [],
+    "status": "article-text-unverified",
+    "notes": "HTTP URL response succeeded; that does not establish article content."
+  },
+  {
+    "input_urls": [
+      "https://github.com/adobe/skills"
+    ],
+    "canonical_url": "https://github.com/adobe/skills",
+    "card_ids": [],
+    "status": "deferred-by-user",
+    "notes": "Adobe connection and adaptation deferred on 2026-10-20; no installation or OAuth."
+  }
+]

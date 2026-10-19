@@ -5,7 +5,7 @@
 - `curriculum/`: learning path, exercises and critique criteria.
 - `skills/`: studio brain, atlas, critic and five production skills; three v0 discipline skeletons.
 - `archive/`: inspiration and original showroom card metadata, plus direction families; private media stays outside the repository.
-- `adapters/`: application access evidence and method limitations; `routes.json` maps operations to unverified/blocked candidate routes.
+- `adapters/`: application access evidence and method limitations; `routes.json` maps operations to evidence-scoped routes; browser viewport capture is verified and remaining candidates are unverified/blocked.
 - `search/query.py`: standard-library lexical/BM25 search.
 - `scripts/`: validation and portable skill installation/packaging.
 - `tests/`: retrieval and installation behavior.
@@ -28,3 +28,5 @@ would break execution and installation paths, so purpose-specific directories ar
 This follows the common standard's technology-appropriate layout principle.
 
 [Decision 0003](decisions/0003-studio-sync-archives-adobe-route.md) governs the synchronization contract, two-layer archives and route selection. Production sites and render projects belong in separate repositories.
+
+Private acquisition artifacts are generated outside the repository by scripts/build_private_catalog.py from existing authorized captures and source receipts. Public archive review/acquisition metadata contains only source links, observations, limitations and private-root-relative references.
