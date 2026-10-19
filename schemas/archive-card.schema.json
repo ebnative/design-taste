@@ -1,0 +1,276 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Design Taste archive card",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(GD|WEB|MOT)-[0-9]{3}$"
+    },
+    "discipline": {
+      "enum": [
+        "graphic",
+        "web",
+        "motion"
+      ]
+    },
+    "layer": {
+      "enum": [
+        "inspiration",
+        "showroom"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "intended_use": {
+      "type": "string",
+      "minLength": 1
+    },
+    "client_face": {
+      "type": "object",
+      "properties": {
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "mood": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "preview_ref": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "summary",
+        "mood",
+        "preview_ref"
+      ],
+      "additionalProperties": false
+    },
+    "agent_face": {
+      "type": "object",
+      "properties": {
+        "tokens": {
+          "type": "object"
+        },
+        "patterns": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "motion_params": {
+          "type": "object"
+        },
+        "do": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "dont": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "translation_rows": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "tokens",
+        "patterns",
+        "motion_params",
+        "do",
+        "dont",
+        "translation_rows"
+      ],
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "creator": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "terms_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "license": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "url",
+        "creator",
+        "terms_url",
+        "license"
+      ],
+      "additionalProperties": false
+    },
+    "evidence_status": {
+      "enum": [
+        "candidate",
+        "source-inspected",
+        "visually-inspected",
+        "executed-verified"
+      ]
+    },
+    "presentable": {
+      "type": "boolean"
+    },
+    "presentable_approval": {
+      "type": "object",
+      "properties": {
+        "by": {
+          "enum": [
+            "Ebru"
+          ]
+        },
+        "on": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "reference": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "by",
+        "on",
+        "reference"
+      ],
+      "additionalProperties": false
+    },
+    "authorship": {
+      "enum": [
+        "studio",
+        "ebru"
+      ]
+    },
+    "media_public": {
+      "type": "boolean"
+    },
+    "media_public_approval": {
+      "type": "object",
+      "properties": {
+        "by": {
+          "enum": [
+            "Ebru"
+          ]
+        },
+        "on": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "reference": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "by",
+        "on",
+        "reference"
+      ],
+      "additionalProperties": false
+    },
+    "execution_evidence": {
+      "type": "object",
+      "properties": {
+        "operation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "record": {
+          "type": "string",
+          "minLength": 1
+        },
+        "output_ref": {
+          "type": "string",
+          "minLength": 1
+        },
+        "inspected": {
+          "enum": [
+            true
+          ]
+        }
+      },
+      "required": [
+        "operation",
+        "record",
+        "output_ref",
+        "inspected"
+      ],
+      "additionalProperties": false
+    },
+    "families": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^FAM-[0-9]{3}$"
+      }
+    },
+    "last_checked": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "discipline",
+    "layer",
+    "title",
+    "category",
+    "intended_use",
+    "client_face",
+    "agent_face",
+    "source",
+    "evidence_status",
+    "families",
+    "last_checked",
+    "notes"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Design Taste direction family",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^FAM-[0-9]{3}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "direction_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "cards": {
+      "type": "object",
+      "properties": {
+        "graphic": {
+          "type": "string",
+          "pattern": "^(GD|WEB|MOT)-[0-9]{3}$"
+        },
+        "web": {
+          "type": "string",
+          "pattern": "^(GD|WEB|MOT)-[0-9]{3}$"
+        },
+        "motion": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^MOT-[0-9]{3}$"
+        }
+      },
+      "required": [
+        "graphic",
+        "web"
+      ],
+      "additionalProperties": false
+    },
+    "translation_rows": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "direction_summary",
+    "cards",
+    "translation_rows"
+  ],
+  "additionalProperties": false
+}

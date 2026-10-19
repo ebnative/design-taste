@@ -24,11 +24,29 @@ def normalize(text):
 def tokens(text):
     return re.findall(r'[a-z0-9]+', normalize(text))
 
-def search(query, record_type=None, asset=None, medium=None, limit=5, root=ROOT):
+def archive_records(root):
+    cards = json.loads((root / 'archive/cards.json').read_text(encoding='utf-8'))
+    records = []
+    for card in cards:
+        records.append(dict(id=card['id'], title_en=card['title'], aliases=[],
+                            task_terms=[card['category'], card['intended_use']],
+                            historical_context='', visual_principles='',
+                            contemporary_application=card['intended_use'],
+                            exercise=json.dumps(card['agent_face'], ensure_ascii=False),
+                            record_type='archive', path='archive/cards.json',
+                            source_ids=[], review_status=card['evidence_status'],
+                            production_test_status='not_run' if card['evidence_status'] != 'executed-verified' else 'recorded-execution',
+                            limits='Inspiration is internal; status does not establish reuse rights or client approval.',
+                            card=card))
+    return records
+
+def search(query, record_type=None, asset=None, medium=None, limit=5, root=ROOT, archive=False):
     if not 1 <= limit <= 30:
         raise ValueError('limit must be 1..30')
     root = Path(root)
-    records = json.loads((root / 'knowledge/records.json').read_text(encoding='utf-8'))
+    if archive and (record_type or asset or medium):
+        raise ValueError('Atlas filters cannot be combined with --archive')
+    records = archive_records(root) if archive else json.loads((root / 'knowledge/records.json').read_text(encoding='utf-8'))
     catalog = json.loads((root / 'knowledge/aliases.json').read_text(encoding='utf-8'))
     requested_asset = None
     if asset:
@@ -75,6 +93,12 @@ def search(query, record_type=None, asset=None, medium=None, limit=5, root=ROOT)
                             source_ids=rec['source_ids'], review_status=rec['review_status'],
                             production_test_status=rec['production_test_status'],
                             application=rec['contemporary_application'], limits=rec['limits']))
+    if archive:
+        for row in results:
+            card = next(rec['card'] for rec in records if rec['id'] == row['id'])
+            row.update(discipline=card['discipline'], layer=card['layer'],
+                       evidence_status=card['evidence_status'], source_url=card['source']['url'],
+                       presentable=card.get('presentable', False))
     results.sort(key=lambda item: (-item['score'], item['id']))
     selected = results[:limit]
     matched_terms = {term for row in selected for term in row['matched_terms']}
@@ -97,10 +121,11 @@ def main():
     parser.add_argument('--asset')
     parser.add_argument('--medium', choices=('static', 'temporal', 'study'))
     parser.add_argument('-n', type=int, choices=range(1, 31), default=5)
+    parser.add_argument('--archive', action='store_true', help='Search discipline archive cards instead of historical atlas records')
     parser.add_argument('--json', action='store_true')
     args = parser.parse_args()
     try:
-        result = search(args.query, args.record_type, args.asset, args.medium, args.n)
+        result = search(args.query, args.record_type, args.asset, args.medium, args.n, archive=args.archive)
     except ValueError as error:
         parser.error(str(error))
     if args.json:
@@ -113,6 +138,8 @@ def main():
         for row in result['results']:
             print('\n' + row['title'] + ' [' + row['record_type'] + ']\n' + row['path'])
             print('Unmatched for this record: ' + (', '.join(row['unmatched_terms']) or 'none'))
+            if args.archive:
+                print('Evidence: ' + row['evidence_status'] + '; layer: ' + row['layer'])
             print('Proposal: ' + row['application'])
             print('Limit: ' + row['limits'])
 
