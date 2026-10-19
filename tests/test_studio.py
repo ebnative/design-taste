@@ -9,7 +9,7 @@ import tempfile
 import unittest
 
 from test_retrieval import ROOT, SCRATCH, installer, query
-from scripts.studio_contracts import validate_archive
+from scripts.studio_contracts import validate_archive, validate_routes
 
 
 class StudioTests(unittest.TestCase):
@@ -76,6 +76,33 @@ class StudioTests(unittest.TestCase):
             card['evidence_status'] = 'executed-verified'
             self.write_cards(root, [card])
             self.assertTrue(validate_archive(root))
+
+    def test_route_registry_requires_operation_evidence(self):
+        self.assertEqual(validate_routes(ROOT), [])
+        with tempfile.TemporaryDirectory(dir=SCRATCH) as temp:
+            root = Path(temp)
+            for directory in ('adapters', 'schemas'):
+                shutil.copytree(ROOT / directory, root / directory)
+            original = json.loads((root / 'adapters/routes.json').read_text(encoding='utf-8'))
+            def check(data):
+                (root / 'adapters/routes.json').write_text(json.dumps(data), encoding='utf-8')
+                return validate_routes(root)
+            modified = copy.deepcopy(original)
+            route = modified['operations'][0]['routes'][0]
+            route['status'] = 'verified'
+            self.assertTrue(any('inspected output' in e for e in check(modified)))
+            route['evidence'] = 'adapters/photoshop/capability.json'
+            route['last_checked'] = '2026-10-20'
+            route['execution_evidence'] = dict(operation='vector.logo', record=route['evidence'], output_ref='job/output.png', inspected=True)
+            self.assertTrue(any('matching executed operation' in e for e in check(modified)))
+            modified = copy.deepcopy(original)
+            photoshop = next(r for op in modified['operations'] for r in op['routes'] if r['id'] == 'desktop-control@photoshop')
+            self.assertEqual(photoshop['status'], 'blocked')
+            photoshop['status'] = 'unverified'
+            self.assertTrue(any('explicit decision' in e for e in check(modified)))
+            modified = copy.deepcopy(original)
+            modified['operations'].pop()
+            self.assertTrue(any('missing required operations' in e for e in check(modified)))
 
     def test_archive_cli_relocates_with_candidate_status(self):
         with tempfile.TemporaryDirectory(dir=SCRATCH) as temp:

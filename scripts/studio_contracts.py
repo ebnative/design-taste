@@ -164,3 +164,62 @@ def validate_archive(root):
             if family and family['cards'].get(card['discipline']) != card['id']:
                 errors.append(card['id'] + ': family does not link back')
     return errors
+
+
+def validate_routes(root):
+    root = Path(root)
+    path = root / 'adapters/routes.json'
+    if not path.exists():
+        return []  # Older atlas-only fixtures have no route registry.
+    try:
+        data = json.loads(path.read_text(encoding='utf-8'))
+        schema = json.loads((root / 'schemas/routes.schema.json').read_text(encoding='utf-8'))
+    except (OSError, ValueError) as error:
+        return ['Route files: ' + str(error)]
+    errors = schema_errors(data, schema, 'routes')
+    if errors:
+        return errors
+    required = {'image.resize', 'image.social-variations', 'image.batch-adjust',
+                'photo.retouch-portrait', 'layout.layered-psd', 'vector.logo',
+                'layout.data-merge', 'video.highlight-reel', 'video.code-render',
+                'video.native-ae', 'web.page-build', 'web.interaction-animation', 'web.screenshot'}
+    operations = data['operations']
+    ids = [op['id'] for op in operations]
+    if len(ids) != len(set(ids)) or required - set(ids):
+        errors.append('Duplicate or missing required operations')
+    for operation in operations:
+        seen = set()
+        if not operation['routes']:
+            errors.append(operation['id'] + ': no candidate routes')
+        for route in operation['routes']:
+            label = operation['id'] + '/' + route['id']
+            if route['id'] in seen:
+                errors.append(label + ': duplicate route')
+            seen.add(route['id'])
+            if route['kind'] == 'desktop-control':
+                targets = {'photoshop': 'Photoshop', 'illustrator': 'Illustrator',
+                           'after-effects': 'After Effects', 'indesign': 'InDesign',
+                           'premiere-pro': 'Premiere Pro'}
+                slug = route['id'].removeprefix('desktop-control@')
+                if targets.get(slug) != route['target'] or not route['id'].startswith('desktop-control@'):
+                    errors.append(label + ': desktop route/target mismatch')
+            elif route['id'] != route['kind'] + '@' + route['host']:
+                errors.append(label + ': route ID/host mismatch')
+            if route['kind'] == 'adobe-mcp' and route['host'] not in ('codex', 'claude-desktop'):
+                errors.append(label + ': unsupported Adobe host')
+            if route['evidence'] is not None and not repo_record(route['evidence'], root):
+                errors.append(label + ': missing evidence record')
+            if route['last_checked'] is not None:
+                try:
+                    date.fromisoformat(route['last_checked'])
+                except ValueError:
+                    errors.append(label + ': invalid date')
+            if route['status'] == 'verified':
+                evidence = route.get('execution_evidence')
+                if route['evidence'] is None or not execution_valid(evidence, root) or evidence.get('record') != route['evidence'] or evidence.get('operation') != operation['id'] or route['last_checked'] is None:
+                    errors.append(label + ': verified needs matching executed operation and inspected output evidence')
+            if route['id'] == 'desktop-control@photoshop' and route['status'] != 'blocked':
+                decision = root / 'docs/decisions'
+                if not any(decision.glob('0004-*.md')):
+                    errors.append(label + ': Photoshop block needs an explicit decision record')
+    return errors

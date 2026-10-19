@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Studio operation route registry",
+  "type": "object",
+  "properties": {
+    "version": {
+      "enum": [
+        1
+      ]
+    },
+    "operations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "routes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "kind": {
+                  "enum": [
+                    "adobe-mcp",
+                    "desktop-control",
+                    "code"
+                  ]
+                },
+                "host": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "target": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "status": {
+                  "enum": [
+                    "unverified",
+                    "verified",
+                    "failed",
+                    "blocked"
+                  ]
+                },
+                "evidence": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "execution_evidence": {
+                  "type": "object",
+                  "properties": {
+                    "operation": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "record": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "output_ref": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "inspected": {
+                      "enum": [
+                        true
+                      ]
+                    }
+                  },
+                  "required": [
+                    "operation",
+                    "record",
+                    "output_ref",
+                    "inspected"
+                  ],
+                  "additionalProperties": false
+                },
+                "last_checked": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+                },
+                "notes": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "id",
+                "kind",
+                "host",
+                "target",
+                "status",
+                "evidence",
+                "last_checked",
+                "notes"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "id",
+          "routes"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "version",
+    "operations"
+  ],
+  "additionalProperties": false
+}
