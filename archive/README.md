@@ -1,6 +1,6 @@
 # Design archives
 
-cards.json is the canonical discipline-card catalog; families.json links coherent graphic/web/motion cards. These records are separate from historical atlas/knowledge records. No third-party media is bundled. Initial records are inspiration candidates imported from decision 0002, not current source reviews, executable recipes or approved client directions.
+cards.json is the canonical discipline-card catalog; families.json links coherent graphic/web/motion cards. These records are separate from historical atlas/knowledge records. No third-party media is bundled. The original candidates from decision 0002 now have a bounded source/viewport review, documented in source-review.md. One resolved original Anatomy source was added. None is an executed production recipe or approved client direction.
 
 Inspiration is internal reference material. Its client_face is metadata for future presentation tooling, not permission to show third-party examples as a client proposal. Clients see only original showroom work with executed-verified evidence and explicit presentable approval by Ebru. Families may omit a motion card until one exists; they must never invent one.
 
@@ -11,3 +11,5 @@ execution_evidence records an executed operation, a shareable repository evidenc
 Search: `python search/query.py 'landing page' --archive --json`. It reports lexical matches, evidence status and unmatched terms; it does not select a family, solve constraints or prove quality. Domain filters for historical atlas records cannot be combined with --archive.
 
 The JSON schemas define structural contracts. Dependency-free Python validation checks the subset of JSON Schema keywords used here, then enforces provenance, evidence, private-media and cross-reference rules. Template skeletons and planning translation rows are not job verification.
+
+Review metadata separates observed capability, proposed application, method, source URLs and limits. Acquisition metadata distinguishes source type, license-scoped code route and private viewport references. Input-coverage.json reconciles all initial sources, including deferred Adobe and unverified X article content. Source-inspected and visually-inspected do not imply rights clearance or executed production.

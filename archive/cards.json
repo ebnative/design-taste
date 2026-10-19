@@ -13,22 +13,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Categorized landing-page gallery links to individual designers and websites."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Compare page hierarchy and project-grid arrangements, then follow the original site."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://landdding.com/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "A gallery listing is not a code or image reuse license.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Categorized landing-page gallery links to individual designers and websites.",
+      "proposed_application": "Compare page hierarchy and project-grid arrangements, then follow the original site.",
+      "limits": "A gallery listing is not a code or image reuse license.",
+      "evidence_urls": [
+        "https://landdding.com/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "reference-gallery",
+      "catalog_url": "https://landdding.com/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-001.jpg"
+    }
   },
   {
     "id": "WEB-002",
@@ -44,22 +70,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Interaction references are organized by application, gesture, pattern and effect."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Describe trigger, transition, end state and interruption behavior from the original example."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://60fps.design/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Viewport inspection did not verify playback or authorize copying clips.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Interaction references are organized by application, gesture, pattern and effect.",
+      "proposed_application": "Describe trigger, transition, end state and interruption behavior from the original example.",
+      "limits": "Viewport inspection did not verify playback or authorize copying clips.",
+      "evidence_urls": [
+        "https://60fps.design/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "reference-gallery",
+      "catalog_url": "https://60fps.design/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-002.jpg"
+    }
   },
   {
     "id": "WEB-003",
@@ -75,22 +127,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Studio homepage connects a large typographic statement, positioning, proof and selected projects."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use message hierarchy and work-first navigation as analysis prompts."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://aperios-design.co.uk/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Studio/client work remains third-party reference material, not reusable assets.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Studio homepage connects a large typographic statement, positioning, proof and selected projects.",
+      "proposed_application": "Use message hierarchy and work-first navigation as analysis prompts.",
+      "limits": "Studio/client work remains third-party reference material, not reusable assets.",
+      "evidence_urls": [
+        "https://aperios-design.co.uk/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "reference-site",
+      "catalog_url": "https://aperios-design.co.uk/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-003.jpg"
+    }
   },
   {
     "id": "WEB-004",
@@ -106,22 +184,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "React/Tailwind catalog separates components, blocks, templates and Figma resources."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Choose the smallest block fitting the current stack and replace its visual tokens."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://tailgrids.com/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://tailgrids.com/license",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "The public MIT repository and separately licensed commercial products must not be conflated.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "React/Tailwind catalog separates components, blocks, templates and Figma resources.",
+      "proposed_application": "Choose the smallest block fitting the current stack and replace its visual tokens.",
+      "limits": "The public MIT repository and separately licensed commercial products must not be conflated.",
+      "evidence_urls": [
+        "https://tailgrids.com/",
+        "https://github.com/TailGrids/tailgrids/blob/b54636bac9fa6ab64cf5eff388c3de07b6adc515/LICENSE.md"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://tailgrids.com/",
+      "code_url": "https://github.com/Tailgrids/tailgrids",
+      "code_action": "public-licensed-source",
+      "code_revision": "b54636bac9fa6ab64cf5eff388c3de07b6adc515",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-004.jpg"
+    }
   },
   {
     "id": "WEB-005",
@@ -137,22 +242,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "React UI source uses React Aria and Tailwind; the site also offers separate Pro templates."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use behavior primitives as a base and recheck focus, labels and keyboard behavior in the target app."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://heroui.com/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/heroui-inc/heroui/blob/ce90ea3ab49d58f6c428f71bfd6fe8ae2a87b960/LICENSE",
+      "license": "Apache-2.0"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Apache-2.0 applies to the inspected public repository, not all site media or Pro templates.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "React UI source uses React Aria and Tailwind; the site also offers separate Pro templates.",
+      "proposed_application": "Use behavior primitives as a base and recheck focus, labels and keyboard behavior in the target app.",
+      "limits": "Apache-2.0 applies to the inspected public repository, not all site media or Pro templates.",
+      "evidence_urls": [
+        "https://heroui.com/",
+        "https://github.com/heroui-inc/heroui/blob/ce90ea3ab49d58f6c428f71bfd6fe8ae2a87b960/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://heroui.com/",
+      "code_url": "https://github.com/heroui-inc/heroui",
+      "code_action": "public-licensed-source",
+      "code_revision": "ce90ea3ab49d58f6c428f71bfd6fe8ae2a87b960",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-005.jpg"
+    }
   },
   {
     "id": "WEB-006",
@@ -168,22 +300,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Arc exposes free and Pro components with per-component source and agent documentation."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use a focused state-transition example such as morph-select without inheriting its brand direction."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://uiarc.dev/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://uiarc.dev/license",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Free public source is MIT; Pro source and redistributed collections have separate restrictions.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Arc exposes free and Pro components with per-component source and agent documentation.",
+      "proposed_application": "Use a focused state-transition example such as morph-select without inheriting its brand direction.",
+      "limits": "Free public source is MIT; Pro source and redistributed collections have separate restrictions.",
+      "evidence_urls": [
+        "https://uiarc.dev/",
+        "https://github.com/kuratlielia/arc-library/blob/6c639a19362aa2d205ecef0ce721817221334b4a/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://uiarc.dev/",
+      "code_url": "https://github.com/kuratlielia/arc-library",
+      "code_action": "public-licensed-source",
+      "code_revision": "6c639a19362aa2d205ecef0ce721817221334b4a",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-006.jpg"
+    }
   },
   {
     "id": "WEB-007",
@@ -199,22 +358,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Bencho groups interactive React examples by gestures including hover, drag, press and loading."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Specify the interaction contract before selecting a visual effect."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://bencho.dev/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Public preview was inspected; account access and code-reuse terms remain unconfirmed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Bencho groups interactive React examples by gestures including hover, drag, press and loading.",
+      "proposed_application": "Specify the interaction contract before selecting a visual effect.",
+      "limits": "Public preview was inspected; account access and code-reuse terms remain unconfirmed.",
+      "evidence_urls": [
+        "https://bencho.dev/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://bencho.dev/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-007.jpg"
+    }
   },
   {
     "id": "WEB-008",
@@ -230,22 +415,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Copy-paste React/Next.js source includes device mockups, forms, widgets and annotations."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use an editable frame to present original work while preserving the actual UI inside it."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://opensourceui.in/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/bidyut10/opensourceui/blob/892f486fdf0d46a44b21ddf3fa32a41a3a71173a/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "MIT public code does not automatically cover photography, logos or all demo assets.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Copy-paste React/Next.js source includes device mockups, forms, widgets and annotations.",
+      "proposed_application": "Use an editable frame to present original work while preserving the actual UI inside it.",
+      "limits": "MIT public code does not automatically cover photography, logos or all demo assets.",
+      "evidence_urls": [
+        "https://opensourceui.in/",
+        "https://github.com/bidyut10/opensourceui/blob/892f486fdf0d46a44b21ddf3fa32a41a3a71173a/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://opensourceui.in/",
+      "code_url": "https://github.com/bidyut10/opensourceui",
+      "code_action": "public-licensed-source",
+      "code_revision": "892f486fdf0d46a44b21ddf3fa32a41a3a71173a",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-008.jpg"
+    }
   },
   {
     "id": "WEB-009",
@@ -261,22 +473,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "BoardUI combines React dashboard primitives, tables, charts, tokens and separate Pro items."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Evaluate data density, hierarchy and states together rather than assembling unrelated widgets."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://boardui.com/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://www.boardui.com/license",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Only the public MIT source was archived; Pro templates require separate access and terms.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "BoardUI combines React dashboard primitives, tables, charts, tokens and separate Pro items.",
+      "proposed_application": "Evaluate data density, hierarchy and states together rather than assembling unrelated widgets.",
+      "limits": "Only the public MIT source was archived; Pro templates require separate access and terms.",
+      "evidence_urls": [
+        "https://boardui.com/",
+        "https://github.com/BoardUI/boardui/blob/ec5c5eb3e29c2441be63b9422cd54f411ef23466/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://boardui.com/",
+      "code_url": "https://github.com/BoardUI/boardui",
+      "code_action": "public-licensed-source",
+      "code_revision": "ec5c5eb3e29c2441be63b9422cd54f411ef23466",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-009.jpg"
+    }
   },
   {
     "id": "WEB-010",
@@ -292,22 +531,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Reverse UI lists animated navigation, loaders, text effects and product-interface components."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Choose effects serving navigation or state feedback before decorative ambient motion."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://reverseui.com/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Lifetime/pricing access is advertised; no paid code or reusable license was acquired.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Reverse UI lists animated navigation, loaders, text effects and product-interface components.",
+      "proposed_application": "Choose effects serving navigation or state feedback before decorative ambient motion.",
+      "limits": "Lifetime/pricing access is advertised; no paid code or reusable license was acquired.",
+      "evidence_urls": [
+        "https://reverseui.com/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://reverseui.com/",
+      "code_url": null,
+      "code_action": "licensed-account-required",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-010.jpg"
+    }
   },
   {
     "id": "WEB-011",
@@ -323,22 +588,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Motion supplies interactive web-section prompts/specifications, not a general open-source code registry."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use its publicly described categories to decide what kind of section a brief needs."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://www.motionin.design/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://www.motionin.design/terms",
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Terms prohibit gallery scraping and sharing prompts/specs, even privately; retain a reference link, no bulk extraction.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Motion supplies interactive web-section prompts/specifications, not a general open-source code registry.",
+      "proposed_application": "Use its publicly described categories to decide what kind of section a brief needs.",
+      "limits": "Terms prohibit gallery scraping and sharing prompts/specs, even privately; retain a reference link, no bulk extraction.",
+      "evidence_urls": [
+        "https://www.motionin.design/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "prompt-spec-service",
+      "catalog_url": "https://www.motionin.design/",
+      "code_url": null,
+      "code_action": "licensed-account-required",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-011.jpg"
+    }
   },
   {
     "id": "WEB-012",
@@ -354,22 +645,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Transitions documents focused UI state changes with CSS/React snippets, plus separate agent tooling."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Map entry, exit and feedback to an explicit state model with reduced-motion behavior."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://transitions.dev/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://transitions.dev/terms.html",
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Use accessible snippets under their terms; do not repackage the transition collection or install agents automatically.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Transitions documents focused UI state changes with CSS/React snippets, plus separate agent tooling.",
+      "proposed_application": "Map entry, exit and feedback to an explicit state model with reduced-motion behavior.",
+      "limits": "Use accessible snippets under their terms; do not repackage the transition collection or install agents automatically.",
+      "evidence_urls": [
+        "https://transitions.dev/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "transition-library",
+      "catalog_url": "https://transitions.dev/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-012.jpg"
+    }
   },
   {
     "id": "WEB-013",
@@ -385,22 +702,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Modulify presents categorized website templates with preview and dashboard-clone actions."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Compare complete page structures; a template clone is different from an exported source project."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://modulify.ai/templates",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://modulify.ai/legal/terms",
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Dashboard cloning may need an account; no login, clone, code export or purchase was performed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Modulify presents categorized website templates with preview and dashboard-clone actions.",
+      "proposed_application": "Compare complete page structures; a template clone is different from an exported source project.",
+      "limits": "Dashboard cloning may need an account; no login, clone, code export or purchase was performed.",
+      "evidence_urls": [
+        "https://modulify.ai/templates"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "template-service",
+      "catalog_url": "https://modulify.ai/templates",
+      "code_url": null,
+      "code_action": "licensed-account-required",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-013.jpg"
+    }
   },
   {
     "id": "GD-001",
@@ -416,22 +759,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Backgrounds Supply offers backgrounds, previews and a separate asset license."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Treat background choice as a support for legibility and message hierarchy."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://www.backgrounds.supply/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://www.backgrounds.supply/license-agreement",
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "No paid backgrounds were downloaded; commercial use permission does not permit standalone library redistribution.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Backgrounds Supply offers backgrounds, previews and a separate asset license.",
+      "proposed_application": "Treat background choice as a support for legibility and message hierarchy.",
+      "limits": "No paid backgrounds were downloaded; commercial use permission does not permit standalone library redistribution.",
+      "evidence_urls": [
+        "https://www.backgrounds.supply/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "asset-service",
+      "catalog_url": "https://www.backgrounds.supply/",
+      "code_url": null,
+      "code_action": "licensed-account-required",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/GD-001.jpg"
+    }
   },
   {
     "id": "GD-002",
@@ -447,22 +816,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "OnePromptDesign groups image/prompt references by posters, mockups, gradients and backdrops."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use a visual-reference category to frame an original direction exploration."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://onepromptdesign.com/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "A published prompt or preview is not an inspected output license.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "OnePromptDesign groups image/prompt references by posters, mockups, gradients and backdrops.",
+      "proposed_application": "Use a visual-reference category to frame an original direction exploration.",
+      "limits": "A published prompt or preview is not an inspected output license.",
+      "evidence_urls": [
+        "https://onepromptdesign.com/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "prompt-reference",
+      "catalog_url": "https://onepromptdesign.com/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/GD-002.jpg"
+    }
   },
   {
     "id": "WEB-014",
@@ -478,22 +873,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Pele renders Mermaid diagrams as SVG and themes them through CSS variables."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use text-defined diagrams when a site needs consistent explanatory figures."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://pele.run/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/obsidianmd/pele/blob/52b5c9cc8020fd157599eb601bcc930134332331/LICENSE",
+      "license": "MIT; ISC notice for reset icon"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "MIT plus an ISC notice for the reset icon were inspected; runtime/performance claims were not tested.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Pele renders Mermaid diagrams as SVG and themes them through CSS variables.",
+      "proposed_application": "Use text-defined diagrams when a site needs consistent explanatory figures.",
+      "limits": "MIT plus an ISC notice for the reset icon were inspected; runtime/performance claims were not tested.",
+      "evidence_urls": [
+        "https://pele.run/",
+        "https://github.com/obsidianmd/pele/blob/52b5c9cc8020fd157599eb601bcc930134332331/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "diagram-engine",
+      "catalog_url": "https://pele.run/",
+      "code_url": "https://github.com/obsidianmd/pele",
+      "code_action": "public-licensed-source",
+      "code_revision": "52b5c9cc8020fd157599eb601bcc930134332331",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-014.jpg"
+    }
   },
   {
     "id": "WEB-015",
@@ -509,22 +931,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Theatre.js combines a browser sequence/graph editor with code-controlled animation properties."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use editable timelines for coordinated scenes when an actual project needs them."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://www.theatrejs.com/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/theatre-js/theatre/blob/6ea82b938ea49609489f6377ded693ccc6ee8f5b/LICENSE",
+      "license": "Apache-2.0"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Public source license is Apache-2.0; no timeline or render was executed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Theatre.js combines a browser sequence/graph editor with code-controlled animation properties.",
+      "proposed_application": "Use editable timelines for coordinated scenes when an actual project needs them.",
+      "limits": "Public source license is Apache-2.0; no timeline or render was executed.",
+      "evidence_urls": [
+        "https://www.theatrejs.com/",
+        "https://github.com/theatre-js/theatre/blob/6ea82b938ea49609489f6377ded693ccc6ee8f5b/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "motion-engine",
+      "catalog_url": "https://www.theatrejs.com/",
+      "code_url": "https://github.com/theatre-js/theatre",
+      "code_action": "public-licensed-source",
+      "code_revision": "6ea82b938ea49609489f6377ded693ccc6ee8f5b",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-015.jpg"
+    }
   },
   {
     "id": "MOT-001",
@@ -540,22 +989,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Reelfolio turns uploaded screenshots/recordings into template-based showreel exports."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Prepare a shot order and holds appropriate to the original portfolio content."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://reelfolio.io/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://reelfolio.io/terms",
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Cloud upload/account use was not attempted; a rendered reel is not an editable AE project.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Reelfolio turns uploaded screenshots/recordings into template-based showreel exports.",
+      "proposed_application": "Prepare a shot order and holds appropriate to the original portfolio content.",
+      "limits": "Cloud upload/account use was not attempted; a rendered reel is not an editable AE project.",
+      "evidence_urls": [
+        "https://reelfolio.io/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "showreel-service",
+      "catalog_url": "https://reelfolio.io/",
+      "code_url": null,
+      "code_action": "licensed-account-required",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/MOT-001.jpg"
+    }
   },
   {
     "id": "WEB-016",
@@ -571,22 +1046,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Feral UI gradient editor exposes palette spots, presets and documented SVG/PNG/MP4 export options."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Explore a background within brain-owned colors, then check actual text contrast."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://feralui.dev/gradients",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Editor was viewed; export execution and output-specific license remain unverified.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Feral UI gradient editor exposes palette spots, presets and documented SVG/PNG/MP4 export options.",
+      "proposed_application": "Explore a background within brain-owned colors, then check actual text contrast.",
+      "limits": "Editor was viewed; export execution and output-specific license remain unverified.",
+      "evidence_urls": [
+        "https://feralui.dev/gradients"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "gradient-generator",
+      "catalog_url": "https://feralui.dev/gradients",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-016.jpg"
+    }
   },
   {
     "id": "WEB-017",
@@ -602,22 +1103,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Inspora displays visual work across web, branding, product, motion, illustration, 3D and print."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use categories to narrow internal reference selection and follow individual authors."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://www.inspora.design/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Rendered viewport is visible but text/rights metadata is thin; no gallery-wide reuse is assumed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Inspora displays visual work across web, branding, product, motion, illustration, 3D and print.",
+      "proposed_application": "Use categories to narrow internal reference selection and follow individual authors.",
+      "limits": "Rendered viewport is visible but text/rights metadata is thin; no gallery-wide reuse is assumed.",
+      "evidence_urls": [
+        "https://www.inspora.design/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "reference-gallery",
+      "catalog_url": "https://www.inspora.design/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-017.jpg"
+    }
   },
   {
     "id": "WEB-018",
@@ -633,22 +1160,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Recent separates design, websites, launch videos, social previews and app imagery."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Keep full-page, launch-film and app-screen references distinct during research."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://recent.design/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Internal visual reference only; no underlying project or reuse license was obtained.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Recent separates design, websites, launch videos, social previews and app imagery.",
+      "proposed_application": "Keep full-page, launch-film and app-screen references distinct during research.",
+      "limits": "Internal visual reference only; no underlying project or reuse license was obtained.",
+      "evidence_urls": [
+        "https://recent.design/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "reference-gallery",
+      "catalog_url": "https://recent.design/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-018.jpg"
+    }
   },
   {
     "id": "WEB-019",
@@ -664,22 +1217,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Squints is a browser extension for measuring live-page layout, color, type and motion."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use measured page evidence when a later authorized workflow needs precise tokens."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://squints.app/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Marketing page inspected; extension not installed and measurements not executed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Squints is a browser extension for measuring live-page layout, color, type and motion.",
+      "proposed_application": "Use measured page evidence when a later authorized workflow needs precise tokens.",
+      "limits": "Marketing page inspected; extension not installed and measurements not executed.",
+      "evidence_urls": [
+        "https://squints.app/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "inspection-tool",
+      "catalog_url": "https://squints.app/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-019.jpg"
+    }
   },
   {
     "id": "WEB-020",
@@ -695,22 +1274,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Squig renders a sketch-style canvas with drawing tools and page controls."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use low-fidelity structure to discuss hierarchy before visual finishing."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://squig.sh/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Rendered UI inspected; source license, agent connection and export behavior are unverified.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Squig renders a sketch-style canvas with drawing tools and page controls.",
+      "proposed_application": "Use low-fidelity structure to discuss hierarchy before visual finishing.",
+      "limits": "Rendered UI inspected; source license, agent connection and export behavior are unverified.",
+      "evidence_urls": [
+        "https://squig.sh/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "wireframe-tool",
+      "catalog_url": "https://squig.sh/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-020.jpg"
+    }
   },
   {
     "id": "WEB-021",
@@ -726,22 +1331,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Iconography Encyclopedia explains icon construction, alignment, clarity and set consistency."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use an icon-system checklist rather than mixing unrelated glyph treatments."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://encyclopedia.iconography.co/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Reference text and examples are not a bundled icon pack or blanket asset license.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Iconography Encyclopedia explains icon construction, alignment, clarity and set consistency.",
+      "proposed_application": "Use an icon-system checklist rather than mixing unrelated glyph treatments.",
+      "limits": "Reference text and examples are not a bundled icon pack or blanket asset license.",
+      "evidence_urls": [
+        "https://encyclopedia.iconography.co/"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "design-knowledge",
+      "catalog_url": "https://encyclopedia.iconography.co/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-021.jpg"
+    }
   },
   {
     "id": "WEB-022",
@@ -757,22 +1388,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "AudioCN provides React/shadcn meters, faders, knobs, waveforms and mixer components."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Separate visual audio controls from actual audio processing and user-triggered playback."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://audiocn.dev/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/audiocn/ui/blob/521c03f636a4e2cf14a25b79c5838223a3fd6ae8/license.md",
+      "license": "MIT code; Warcraft recording excluded"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "MIT code excludes the Warcraft sound recording explicitly; no audio asset was copied.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "AudioCN provides React/shadcn meters, faders, knobs, waveforms and mixer components.",
+      "proposed_application": "Separate visual audio controls from actual audio processing and user-triggered playback.",
+      "limits": "MIT code excludes the Warcraft sound recording explicitly; no audio asset was copied.",
+      "evidence_urls": [
+        "https://audiocn.dev/",
+        "https://github.com/audiocn/ui/blob/521c03f636a4e2cf14a25b79c5838223a3fd6ae8/license.md"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://audiocn.dev/",
+      "code_url": "https://github.com/audiocn/ui",
+      "code_action": "public-licensed-source",
+      "code_revision": "521c03f636a4e2cf14a25b79c5838223a3fd6ae8",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-022.jpg"
+    }
   },
   {
     "id": "WEB-023",
@@ -788,22 +1446,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "MDXCN provides text-drawn React charts/diagrams for MDX and documented agent-oriented usage."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Place an editable explanation next to prose using the actual data and accessible text."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://mdxcn.dev/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/shadcn-labs/mdxcn/blob/ebd8c5456ae439903930bb3b97bd5a66fdc45d02/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Public code is MIT; installation commands and agent skills were not executed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "MDXCN provides text-drawn React charts/diagrams for MDX and documented agent-oriented usage.",
+      "proposed_application": "Place an editable explanation next to prose using the actual data and accessible text.",
+      "limits": "Public code is MIT; installation commands and agent skills were not executed.",
+      "evidence_urls": [
+        "https://mdxcn.dev/",
+        "https://github.com/shadcn-labs/mdxcn/blob/ebd8c5456ae439903930bb3b97bd5a66fdc45d02/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://mdxcn.dev/",
+      "code_url": "https://github.com/shadcn-labs/mdxcn",
+      "code_action": "public-licensed-source",
+      "code_revision": "ebd8c5456ae439903930bb3b97bd5a66fdc45d02",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-023.jpg"
+    }
   },
   {
     "id": "WEB-024",
@@ -819,22 +1504,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Gauge UI offers composable SVG React gauges, a studio and registry installation."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Define domain, units and meaningful thresholds before styling the gauge."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://gauge-ui.dev/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/thordursk/gauge-ui/blob/bace7dc5ae5513850e2e960ed543abe7548b79c3/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "text retrieval insufficient at intake"
+    "last_checked": "2026-10-20",
+    "notes": "Public code is MIT; gauge accuracy, accessibility and runtime behavior need project testing.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Gauge UI offers composable SVG React gauges, a studio and registry installation.",
+      "proposed_application": "Define domain, units and meaningful thresholds before styling the gauge.",
+      "limits": "Public code is MIT; gauge accuracy, accessibility and runtime behavior need project testing.",
+      "evidence_urls": [
+        "https://gauge-ui.dev/",
+        "https://github.com/thordursk/gauge-ui/blob/bace7dc5ae5513850e2e960ed543abe7548b79c3/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "component-library",
+      "catalog_url": "https://gauge-ui.dev/",
+      "code_url": "https://github.com/thordursk/gauge-ui",
+      "code_action": "public-licensed-source",
+      "code_revision": "bace7dc5ae5513850e2e960ed543abe7548b79c3",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-024.jpg"
+    }
   },
   {
     "id": "MOT-002",
@@ -850,22 +1562,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Remotion uses React source for compositions, previews and code-based video rendering."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Define fps, frames, dimensions, reading holds and audio before selecting a render route."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/remotion-dev/remotion",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/remotion-dev/remotion/blob/051aeb2d5fd02a1870932195ac357a26e03d1c5d/LICENSE.md",
+      "license": "Remotion custom license; eligibility must be checked"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Remotion has a custom eligibility-based license; no engine was installed or render executed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "Remotion uses React source for compositions, previews and code-based video rendering.",
+      "proposed_application": "Define fps, frames, dimensions, reading holds and audio before selecting a render route.",
+      "limits": "Remotion has a custom eligibility-based license; no engine was installed or render executed.",
+      "evidence_urls": [
+        "https://github.com/remotion-dev/remotion",
+        "https://github.com/remotion-dev/remotion/blob/051aeb2d5fd02a1870932195ac357a26e03d1c5d/LICENSE.md"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "video-engine",
+      "catalog_url": "https://github.com/remotion-dev/remotion",
+      "code_url": "https://github.com/remotion-dev/remotion",
+      "code_action": "verify-license",
+      "code_revision": "051aeb2d5fd02a1870932195ac357a26e03d1c5d",
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-003",
@@ -881,22 +1620,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Official Remotion guidance separates creation, markup, studio preview and rendering tasks."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Read the task-specific upstream guidance in the separate production project."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/remotion-dev/skills",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "README inspected; a repository-wide license was not found through the license endpoint, so guidance is linked rather than vendored.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "Official Remotion guidance separates creation, markup, studio preview and rendering tasks.",
+      "proposed_application": "Read the task-specific upstream guidance in the separate production project.",
+      "limits": "README inspected; a repository-wide license was not found through the license endpoint, so guidance is linked rather than vendored.",
+      "evidence_urls": [
+        "https://github.com/remotion-dev/skills"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "agent-guidance",
+      "catalog_url": "https://github.com/remotion-dev/skills",
+      "code_url": "https://github.com/remotion-dev/skills",
+      "code_action": "verify-license",
+      "code_revision": null,
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-004",
@@ -912,22 +1677,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "LottieFiles guidance starts from motion intent, narrative and choreography across engines."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use a purposeful motion specification and accessible alternatives without adopting arbitrary style defaults."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/LottieFiles/motion-design-skill",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/LottieFiles/motion-design-skill/blob/f9a8a041b85185ee4881b3471d3415e939aac772/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "MIT guidance may inform the local skill; do not overwrite the local motion-design skill with a same-named upstream skill.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "LottieFiles guidance starts from motion intent, narrative and choreography across engines.",
+      "proposed_application": "Use a purposeful motion specification and accessible alternatives without adopting arbitrary style defaults.",
+      "limits": "MIT guidance may inform the local skill; do not overwrite the local motion-design skill with a same-named upstream skill.",
+      "evidence_urls": [
+        "https://github.com/LottieFiles/motion-design-skill",
+        "https://github.com/LottieFiles/motion-design-skill/blob/f9a8a041b85185ee4881b3471d3415e939aac772/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "motion-knowledge",
+      "catalog_url": "https://github.com/LottieFiles/motion-design-skill",
+      "code_url": "https://github.com/LottieFiles/motion-design-skill",
+      "code_action": "public-licensed-source",
+      "code_revision": "f9a8a041b85185ee4881b3471d3415e939aac772",
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-005",
@@ -943,22 +1735,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Motion AI Kit now documents Codex installation as well as Cursor, with free docs tooling and paid Motion+ capabilities."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Consult current Motion documentation for engine-specific implementation and keep paid tooling separate."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/motiondivision/ai-kit",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Current README corrects the earlier Cursor-only assumption; no setup, MCP configuration or subscription was performed.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "Motion AI Kit now documents Codex installation as well as Cursor, with free docs tooling and paid Motion+ capabilities.",
+      "proposed_application": "Consult current Motion documentation for engine-specific implementation and keep paid tooling separate.",
+      "limits": "Current README corrects the earlier Cursor-only assumption; no setup, MCP configuration or subscription was performed.",
+      "evidence_urls": [
+        "https://github.com/motiondivision/ai-kit"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "agent-tooling",
+      "catalog_url": "https://github.com/motiondivision/ai-kit",
+      "code_url": "https://github.com/motiondivision/ai-kit",
+      "code_action": "verify-license",
+      "code_revision": null,
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-006",
@@ -974,22 +1792,48 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "GSAP provides framework-independent timelines, scrolling tools and responsive animation APIs."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use a timeline for coordinated states and clean it up with the target component lifecycle."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/greensock/GSAP",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://gsap.com/standard-license",
+      "license": "GSAP standard no-charge license; scope-specific"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "No-charge standard license is not MIT or unrestricted redistribution; retain official terms and do not assume every use is covered.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "GSAP provides framework-independent timelines, scrolling tools and responsive animation APIs.",
+      "proposed_application": "Use a timeline for coordinated states and clean it up with the target component lifecycle.",
+      "limits": "No-charge standard license is not MIT or unrestricted redistribution; retain official terms and do not assume every use is covered.",
+      "evidence_urls": [
+        "https://github.com/greensock/GSAP"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "motion-engine",
+      "catalog_url": "https://github.com/greensock/GSAP",
+      "code_url": "https://github.com/greensock/GSAP",
+      "code_action": "verify-license",
+      "code_revision": null,
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-007",
@@ -1005,22 +1849,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Theatre.js exposes sequence and graph editing for code-controlled scenes."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Share a single timeline specification across interface and scene work where appropriate."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://www.theatrejs.com/",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/theatre-js/theatre/blob/6ea82b938ea49609489f6377ded693ccc6ee8f5b/LICENSE",
+      "license": "Apache-2.0"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Same source as WEB-015, not an additional independent tool; no execution verified.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Theatre.js exposes sequence and graph editing for code-controlled scenes.",
+      "proposed_application": "Share a single timeline specification across interface and scene work where appropriate.",
+      "limits": "Same source as WEB-015, not an additional independent tool; no execution verified.",
+      "evidence_urls": [
+        "https://www.theatrejs.com/",
+        "https://github.com/theatre-js/theatre/blob/6ea82b938ea49609489f6377ded693ccc6ee8f5b/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "motion-engine",
+      "catalog_url": "https://www.theatrejs.com/",
+      "code_url": "https://github.com/theatre-js/theatre",
+      "code_action": "public-licensed-source",
+      "code_revision": "6ea82b938ea49609489f6377ded693ccc6ee8f5b",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/WEB-015.jpg"
+    }
   },
   {
     "id": "MOT-008",
@@ -1036,22 +1907,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Hairline currently documents hairline-create and hairline-adopt for interactive explanatory figures."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use an object metaphor that explains the process and preserves recognizable meaning."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://hairline.lucasmarkes.com/skills",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/lucasmarkes/hairline/blob/37d2e78dcb333ab30c3338e28ed4a690364ea014/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "visually-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "SVG adoption rebuilds a figure; it is not evidence that the original SVG is directly animated.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Hairline currently documents hairline-create and hairline-adopt for interactive explanatory figures.",
+      "proposed_application": "Use an object metaphor that explains the process and preserves recognizable meaning.",
+      "limits": "SVG adoption rebuilds a figure; it is not evidence that the original SVG is directly animated.",
+      "evidence_urls": [
+        "https://hairline.lucasmarkes.com/skills",
+        "https://github.com/lucasmarkes/hairline/blob/37d2e78dcb333ab30c3338e28ed4a690364ea014/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "interactive-figure-guidance",
+      "catalog_url": "https://hairline.lucasmarkes.com/skills",
+      "code_url": "https://github.com/lucasmarkes/hairline",
+      "code_action": "public-licensed-source",
+      "code_revision": "37d2e78dcb333ab30c3338e28ed4a690364ea014",
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/MOT-008.jpg"
+    }
   },
   {
     "id": "MOT-009",
@@ -1067,22 +1965,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Anatomy Reveal provides an interactive dissection page and a distinct MP4 product-reveal pipeline."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Specify parts, meaningful feature motion, framing and shot order before rendering."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/annnguyentt/anatomy-reveal-skill",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/annnguyentt/anatomy-reveal-skill/blob/dd01e1c04559d79002da07862e26f8a5c2a07644/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "Public source is MIT; no scaffold, browser capture, MP4 or geometry check was run.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "Anatomy Reveal provides an interactive dissection page and a distinct MP4 product-reveal pipeline.",
+      "proposed_application": "Specify parts, meaningful feature motion, framing and shot order before rendering.",
+      "limits": "Public source is MIT; no scaffold, browser capture, MP4 or geometry check was run.",
+      "evidence_urls": [
+        "https://github.com/annnguyentt/anatomy-reveal-skill",
+        "https://github.com/annnguyentt/anatomy-reveal-skill/blob/dd01e1c04559d79002da07862e26f8a5c2a07644/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "product-reveal-guidance",
+      "catalog_url": "https://github.com/annnguyentt/anatomy-reveal-skill",
+      "code_url": "https://github.com/annnguyentt/anatomy-reveal-skill",
+      "code_action": "public-licensed-source",
+      "code_revision": "dd01e1c04559d79002da07862e26f8a5c2a07644",
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-010",
@@ -1098,22 +2023,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "React Three Rapier wraps a physics engine for React Three Fiber, including bodies and colliders."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Use simulation only when physical behavior communicates the brief, and control timestep for recorded output."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/pmndrs/react-three-rapier",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/pmndrs/react-three-rapier/blob/ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "MIT public source; a library is not an agent skill or a verified scene.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "React Three Rapier wraps a physics engine for React Three Fiber, including bodies and colliders.",
+      "proposed_application": "Use simulation only when physical behavior communicates the brief, and control timestep for recorded output.",
+      "limits": "MIT public source; a library is not an agent skill or a verified scene.",
+      "evidence_urls": [
+        "https://github.com/pmndrs/react-three-rapier",
+        "https://github.com/pmndrs/react-three-rapier/blob/ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "physics-engine",
+      "catalog_url": "https://github.com/pmndrs/react-three-rapier",
+      "code_url": "https://github.com/pmndrs/react-three-rapier",
+      "code_action": "public-licensed-source",
+      "code_revision": "ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98",
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-011",
@@ -1129,22 +2081,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "React Postprocessing composes effects such as bloom, depth of field and noise in React Three Fiber."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Apply effects after hierarchy and focus are established; inspect clipping, legibility and GPU cost."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/pmndrs/react-postprocessing",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/pmndrs/react-postprocessing/blob/2e0ef1ba36c637a5b49b44926241590ce81a3e0f/LICENSE",
+      "license": "MIT"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "MIT public source; a single still cannot validate an effect chain in playback.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "React Postprocessing composes effects such as bloom, depth of field and noise in React Three Fiber.",
+      "proposed_application": "Apply effects after hierarchy and focus are established; inspect clipping, legibility and GPU cost.",
+      "limits": "MIT public source; a single still cannot validate an effect chain in playback.",
+      "evidence_urls": [
+        "https://github.com/pmndrs/react-postprocessing",
+        "https://github.com/pmndrs/react-postprocessing/blob/2e0ef1ba36c637a5b49b44926241590ce81a3e0f/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "render-effects",
+      "catalog_url": "https://github.com/pmndrs/react-postprocessing",
+      "code_url": "https://github.com/pmndrs/react-postprocessing",
+      "code_action": "public-licensed-source",
+      "code_revision": "2e0ef1ba36c637a5b49b44926241590ce81a3e0f",
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-012",
@@ -1160,22 +2139,49 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Openverse documentation exposes media metadata including creators, source URLs and license fields."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Keep an attribution manifest for each selected sound and verify its original source."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://api.openverse.org/v1/",
       "creator": null,
       "terms_url": null,
-      "license": "unknown"
+      "license": "unknown; inspect exact item terms"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+    "last_checked": "2026-10-20",
+    "notes": "API root alone is not a useful audio test; no audio was downloaded and aggregate free-asset counts were not adopted.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "Openverse documentation exposes media metadata including creators, source URLs and license fields.",
+      "proposed_application": "Keep an attribution manifest for each selected sound and verify its original source.",
+      "limits": "API root alone is not a useful audio test; no audio was downloaded and aggregate free-asset counts were not adopted.",
+      "evidence_urls": [
+        "https://api.openverse.org/v1/",
+        "https://docs.openverse.org/api/reference/made_with_ov.html"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "audio-discovery",
+      "catalog_url": "https://api.openverse.org/v1/",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
   },
   {
     "id": "MOT-013",
@@ -1191,21 +2197,105 @@
     },
     "agent_face": {
       "tokens": {},
-      "patterns": [],
+      "patterns": [
+        "Scenario Blender plugin documents local MCP integration and account-dependent generation."
+      ],
       "motion_params": {},
-      "do": [],
-      "dont": [],
+      "do": [
+        "Keep scene editing, generation costs and arbitrary Python permissions separate."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
       "translation_rows": []
     },
     "source": {
       "url": "https://github.com/scenario-labs/blender-plugin",
       "creator": null,
-      "terms_url": null,
-      "license": "unknown"
+      "terms_url": "https://github.com/scenario-labs/blender-plugin/blob/d2a03dedd2e541c123487b24a91d01621f262f8f/LICENSE",
+      "license": "GPL-3.0"
     },
-    "evidence_status": "candidate",
+    "evidence_status": "source-inspected",
     "families": [],
-    "last_checked": null,
-    "notes": "Related candidate only; not confirmed as the supplied blender-agents skill."
+    "last_checked": "2026-10-20",
+    "notes": "The original shortlink now resolves to this repository; GPL source is not proof of a live Blender connection.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text",
+      "observed": "Scenario Blender plugin documents local MCP integration and account-dependent generation.",
+      "proposed_application": "Keep scene editing, generation costs and arbitrary Python permissions separate.",
+      "limits": "The original shortlink now resolves to this repository; GPL source is not proof of a live Blender connection.",
+      "evidence_urls": [
+        "https://github.com/scenario-labs/blender-plugin",
+        "https://github.com/scenario-labs/blender-plugin/blob/d2a03dedd2e541c123487b24a91d01621f262f8f/LICENSE"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "3d-integration",
+      "catalog_url": "https://github.com/scenario-labs/blender-plugin",
+      "code_url": "https://github.com/scenario-labs/blender-plugin",
+      "code_action": "verify-license",
+      "code_revision": "d2a03dedd2e541c123487b24a91d01621f262f8f",
+      "capture_scope": "not-captured",
+      "private_media_ref": null
+    }
+  },
+  {
+    "id": "MOT-014",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Anatomy",
+    "category": "Interactive explanatory figures",
+    "intended_use": "Evaluate object-based interactive explanations.",
+    "client_face": {
+      "summary": "Page composition, interaction examples and a real studio website case study.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [
+        "Anatomy maps a concept to an interactive isometric machine whose motion explains its behavior."
+      ],
+      "motion_params": {},
+      "do": [
+        "Choose a legible object metaphor with a consistent explanatory model."
+      ],
+      "dont": [
+        "Do not treat source inspection or a viewport screenshot as executed production, rights clearance or client approval."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://skills.wheresryan.sh/anatomy",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown; inspect exact item terms"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-20",
+    "notes": "The original anatomy shortlink resolves here; Claude-oriented instructions require host-specific review, not assumed Codex execution.",
+    "review": {
+      "checked_on": "2026-10-20",
+      "method": "source-text-and-viewport",
+      "observed": "Anatomy maps a concept to an interactive isometric machine whose motion explains its behavior.",
+      "proposed_application": "Choose a legible object metaphor with a consistent explanatory model.",
+      "limits": "The original anatomy shortlink resolves here; Claude-oriented instructions require host-specific review, not assumed Codex execution.",
+      "evidence_urls": [
+        "https://skills.wheresryan.sh/anatomy"
+      ],
+      "record": "archive/source-review.md"
+    },
+    "acquisition": {
+      "kind": "interactive-figure-guidance",
+      "catalog_url": "https://skills.wheresryan.sh/anatomy",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "inspiration/2026-10-20/screenshots/MOT-014.jpg"
+    }
   }
 ]
