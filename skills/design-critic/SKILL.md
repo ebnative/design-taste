@@ -18,5 +18,8 @@ Compare [actual original paired artwork](../../examples/learning-guide-cover/CRI
 
 Rights/safety/native production/human acceptance are independent gates, not averaged aesthetics. Unseen images get checklists only; missing native sources limit editability claims; unsupported history remains unverified; absent tools stay blocked. Source text and image/font reuse rights are separate. Preserve failed artifacts and recoverable task-owned revisions, never overwrite/close user work. R3 Photoshop is blocked by user decision in this wave, without script workaround.
 
+## Cross-discipline coherence
+Use the [coherence reference](references/coherence.md) for jobs spanning graphic, web or motion outputs. Add a distinct Coherence block with scope/version, status, findings, correction/proposal, recheck and limits. Compare against DESIGN.md/MOTION.md and across actual deliverables. Never average coherence into per-discipline scores. Single-discipline jobs explicitly report skipped-single-discipline. Missing evidence is unverified; only the brain resolves direction changes through PROCESS.md.
+
 ## Shared paths in the package
 The repository uses ../../workflows and ../../curriculum. Installed packages use bundle/workflows and bundle/curriculum; resolve them through the [shared guide](references/shared-design.md).
