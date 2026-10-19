@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 NAMES = ('design-taste', 'graphic-design', 'web-ui-design', 'motion-design', 'art-design-atlas', 'design-critic', 'photoshop-designer',
          'illustrator-designer', 'after-effects-designer', 'indesign-designer', 'premiere-pro-designer')
 
-SHARED = ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters', 'examples', 'archive')
+SHARED = ('atlas', 'knowledge', 'curriculum', 'workflows', 'search', 'adapters', 'examples', 'archive', 'schemas')
 STUDIO_REFS = ('project-record.md', 'translation-table.md')
 
 def hashes(folder):

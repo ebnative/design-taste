@@ -1,0 +1,33 @@
+{
+  "id": "WEB-999",
+  "discipline": "web",
+  "layer": "showroom",
+  "title": "Landdding",
+  "category": "Website and interaction references",
+  "intended_use": "Page composition, interaction examples and a real studio website case study.",
+  "client_face": {
+    "summary": "Page composition, interaction examples and a real studio website case study.",
+    "mood": [],
+    "preview_ref": null
+  },
+  "agent_face": {
+    "tokens": {},
+    "patterns": [],
+    "motion_params": {},
+    "do": [],
+    "dont": [],
+    "translation_rows": []
+  },
+  "source": {
+    "url": "https://landdding.com/",
+    "creator": null,
+    "terms_url": null,
+    "license": "unknown"
+  },
+  "evidence_status": "candidate",
+  "families": [],
+  "last_checked": null,
+  "notes": "Intake from decision 0002; source contents, rights and execution are not verified.",
+  "authorship": "studio",
+  "presentable": false
+}
