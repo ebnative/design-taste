@@ -14,3 +14,7 @@ English translation does not change the imported source-verification or rights s
 The current corpus has 30 records and 62 sources. Seven exact claim reviews (S01-C1, S21-C1, S22-C1, S23-C1, S40-C1, S61-C1 and S62-C1) record reviewed passages, locators, dates, excerpts and limits in `knowledge/sources.json`. Imported provenance/status remains intact; no bulk verification or expert endorsement is implied.
 S62-C1 supports only the global database coverage limitation and guidance to consult national/regional registers and counsel. Search functions or comprehensive screening capabilities were not verified. Screening is not trademark clearance or legal advice.
 The learning-guide SVG/PNG exercises are original project-owned graphics; no third-party imagery or font binaries were imported. AI pixel critique does not establish reuse rights, expert acceptance or native production competence. Text, image, font, data and commercial-use rights remain separately unknown where recorded. No license was selected.
+
+## Studio archives
+
+Archive metadata has its own evidence status; inspiration candidates from decision 0002 are not additional reviewed atlas sources. No third-party media is stored here. Showroom media stays in the private root unless Ebru approves the specific original card for public media. Presentability requires separate explicit Ebru approval; rights, execution and aesthetic acceptance remain distinct. Client material never enters this repository. See [archive guidance](../archive/README.md).

@@ -1,1 +1,1211 @@
-[]
+[
+  {
+    "id": "WEB-001",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Landdding",
+    "category": "Website and interaction references",
+    "intended_use": "Evaluate landing page composition and website design references.",
+    "client_face": {
+      "summary": "Page composition, interaction examples and a real studio website case study.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://landdding.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-002",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "60fps",
+    "category": "Website and interaction references",
+    "intended_use": "Page composition, interaction examples and a real studio website case study.",
+    "client_face": {
+      "summary": "Page composition, interaction examples and a real studio website case study.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://60fps.design/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-003",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Aperios",
+    "category": "Website and interaction references",
+    "intended_use": "Page composition, interaction examples and a real studio website case study.",
+    "client_face": {
+      "summary": "Page composition, interaction examples and a real studio website case study.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://aperios-design.co.uk/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-004",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Tailgrids",
+    "category": "Component libraries",
+    "intended_use": "Evaluate relevant components against the target stack and brief.",
+    "client_face": {
+      "summary": "Evaluate relevant components against the target stack and brief.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://tailgrids.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-005",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "HeroUI",
+    "category": "Component libraries",
+    "intended_use": "Evaluate relevant components against the target stack and brief.",
+    "client_face": {
+      "summary": "Evaluate relevant components against the target stack and brief.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://heroui.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-006",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Arc UI",
+    "category": "Component libraries",
+    "intended_use": "Evaluate relevant components against the target stack and brief.",
+    "client_face": {
+      "summary": "Evaluate relevant components against the target stack and brief.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://uiarc.dev/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-007",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Bencho",
+    "category": "Component libraries",
+    "intended_use": "Evaluate relevant components against the target stack and brief.",
+    "client_face": {
+      "summary": "Evaluate relevant components against the target stack and brief.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://bencho.dev/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-008",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "OpenSource UI",
+    "category": "Component libraries",
+    "intended_use": "Evaluate relevant components against the target stack and brief.",
+    "client_face": {
+      "summary": "Evaluate relevant components against the target stack and brief.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://opensourceui.in/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-009",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "BoardUI",
+    "category": "Component libraries",
+    "intended_use": "Evaluate relevant components against the target stack and brief.",
+    "client_face": {
+      "summary": "Evaluate relevant components against the target stack and brief.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://boardui.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-010",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Reverse UI",
+    "category": "Component libraries",
+    "intended_use": "Evaluate relevant components against the target stack and brief.",
+    "client_face": {
+      "summary": "Evaluate relevant components against the target stack and brief.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://reverseui.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-011",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Motion",
+    "category": "Sections, transitions and templates",
+    "intended_use": "Reusable page patterns and motion references; inspect each item's conditions.",
+    "client_face": {
+      "summary": "Reusable page patterns and motion references; inspect each item's conditions.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://www.motionin.design/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-012",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Transitions",
+    "category": "Sections, transitions and templates",
+    "intended_use": "Reusable page patterns and motion references; inspect each item's conditions.",
+    "client_face": {
+      "summary": "Reusable page patterns and motion references; inspect each item's conditions.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://transitions.dev/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-013",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Modulify",
+    "category": "Sections, transitions and templates",
+    "intended_use": "Reusable page patterns and motion references; inspect each item's conditions.",
+    "client_face": {
+      "summary": "Reusable page patterns and motion references; inspect each item's conditions.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://modulify.ai/templates",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "GD-001",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Backgrounds Supply",
+    "category": "Visual and prompt resources",
+    "intended_use": "Backgrounds and visual direction references.",
+    "client_face": {
+      "summary": "Backgrounds and visual direction references.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://www.backgrounds.supply/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "GD-002",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "OnePromptDesign",
+    "category": "Visual and prompt resources",
+    "intended_use": "Backgrounds and visual direction references.",
+    "client_face": {
+      "summary": "Backgrounds and visual direction references.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://onepromptdesign.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-014",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Pele",
+    "category": "Specialized tools",
+    "intended_use": "Diagram rendering, browser animation and portfolio showreel workflows respectively.",
+    "client_face": {
+      "summary": "Diagram rendering, browser animation and portfolio showreel workflows respectively.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://pele.run/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-015",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Theatre.js",
+    "category": "Specialized tools",
+    "intended_use": "Diagram rendering, browser animation and portfolio showreel workflows respectively.",
+    "client_face": {
+      "summary": "Diagram rendering, browser animation and portfolio showreel workflows respectively.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://www.theatrejs.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-001",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Reelfolio",
+    "category": "Specialized tools",
+    "intended_use": "Diagram rendering, browser animation and portfolio showreel workflows respectively.",
+    "client_face": {
+      "summary": "Diagram rendering, browser animation and portfolio showreel workflows respectively.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://reelfolio.io/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "WEB-016",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Feral UI",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://feralui.dev/gradients",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-017",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Inspora",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://www.inspora.design/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-018",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Recent",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://recent.design/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-019",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Squints",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://squints.app/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-020",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Squig",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://squig.sh/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-021",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Iconography Encyclopedia",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://encyclopedia.iconography.co/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-022",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "AudioCN",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://audiocn.dev/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-023",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "MDXCN",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://mdxcn.dev/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "WEB-024",
+    "discipline": "web",
+    "layer": "inspiration",
+    "title": "Gauge UI",
+    "category": "intake-pending",
+    "intended_use": "Evaluate relevance to web UI design.",
+    "client_face": {
+      "summary": "Evaluate relevance to web UI design.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://gauge-ui.dev/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "text retrieval insufficient at intake"
+  },
+  {
+    "id": "MOT-002",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Remotion",
+    "category": "Code-based video",
+    "intended_use": "Product explainers, data animation and social video. The official skill README names Codex support; render and playback still require verification.",
+    "client_face": {
+      "summary": "Product explainers, data animation and social video. The official skill README names Codex support; render and playback still require verification.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/remotion-dev/remotion",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-003",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "official skills",
+    "category": "Code-based video",
+    "intended_use": "Product explainers, data animation and social video. The official skill README names Codex support; render and playback still require verification.",
+    "client_face": {
+      "summary": "Product explainers, data animation and social video. The official skill README names Codex support; render and playback still require verification.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/remotion-dev/skills",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-004",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "LottieFiles motion-design-skill",
+    "category": "Motion principles",
+    "intended_use": "Timing, easing, intent and choreography across engines. Review relevant instructions before adapting them.",
+    "client_face": {
+      "summary": "Timing, easing, intent and choreography across engines. Review relevant instructions before adapting them.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/LottieFiles/motion-design-skill",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-005",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Motion AI Kit",
+    "category": "Web animation",
+    "intended_use": "Motion implementation and timelines. AI Kit is presented as a Cursor plugin; assess Codex portability separately.",
+    "client_face": {
+      "summary": "Motion implementation and timelines. AI Kit is presented as a Cursor plugin; assess Codex portability separately.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/motiondivision/ai-kit",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-006",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "GSAP",
+    "category": "Web animation",
+    "intended_use": "Motion implementation and timelines. AI Kit is presented as a Cursor plugin; assess Codex portability separately.",
+    "client_face": {
+      "summary": "Motion implementation and timelines. AI Kit is presented as a Cursor plugin; assess Codex portability separately.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/greensock/GSAP",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-007",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Theatre.js",
+    "category": "Web animation",
+    "intended_use": "Motion implementation and timelines. AI Kit is presented as a Cursor plugin; assess Codex portability separately.",
+    "client_face": {
+      "summary": "Motion implementation and timelines. AI Kit is presented as a Cursor plugin; assess Codex portability separately.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://www.theatrejs.com/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-008",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Hairline",
+    "category": "Explanatory figures and reveals",
+    "intended_use": "Interactive explanation and product dissection/reveal. Hairline currently documents `hairline-create` and `hairline-adopt`; do not assume the social-post command names are current.",
+    "client_face": {
+      "summary": "Interactive explanation and product dissection/reveal. Hairline currently documents `hairline-create` and `hairline-adopt`; do not assume the social-post command names are current.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://hairline.lucasmarkes.com/skills",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-009",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Anatomy Reveal",
+    "category": "Explanatory figures and reveals",
+    "intended_use": "Interactive explanation and product dissection/reveal. Hairline currently documents `hairline-create` and `hairline-adopt`; do not assume the social-post command names are current.",
+    "client_face": {
+      "summary": "Interactive explanation and product dissection/reveal. Hairline currently documents `hairline-create` and `hairline-adopt`; do not assume the social-post command names are current.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/annnguyentt/anatomy-reveal-skill",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-010",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "React Three Rapier",
+    "category": "3D and physics",
+    "intended_use": "Scene production, physics and image effects. Libraries are not automatically agent skills.",
+    "client_face": {
+      "summary": "Scene production, physics and image effects. Libraries are not automatically agent skills.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/pmndrs/react-three-rapier",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-011",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "React Postprocessing",
+    "category": "3D and physics",
+    "intended_use": "Scene production, physics and image effects. Libraries are not automatically agent skills.",
+    "client_face": {
+      "summary": "Scene production, physics and image effects. Libraries are not automatically agent skills.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/pmndrs/react-postprocessing",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-012",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Openverse API",
+    "category": "Audio discovery",
+    "intended_use": "Find sound assets and retain item-level source, creator, license and attribution data.",
+    "client_face": {
+      "summary": "Find sound assets and retain item-level source, creator, license and attribution data.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://api.openverse.org/v1/",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Intake from decision 0002; source contents, rights and execution are not verified."
+  },
+  {
+    "id": "MOT-013",
+    "discipline": "motion",
+    "layer": "inspiration",
+    "title": "Scenario Blender plugin",
+    "category": "3D integration candidate",
+    "intended_use": "Inspect possible Blender integration.",
+    "client_face": {
+      "summary": "Inspect possible Blender integration.",
+      "mood": [],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {},
+      "patterns": [],
+      "motion_params": {},
+      "do": [],
+      "dont": [],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://github.com/scenario-labs/blender-plugin",
+      "creator": null,
+      "terms_url": null,
+      "license": "unknown"
+    },
+    "evidence_status": "candidate",
+    "families": [],
+    "last_checked": null,
+    "notes": "Related candidate only; not confirmed as the supplied blender-agents skill."
+  }
+]
