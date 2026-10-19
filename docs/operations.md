@@ -14,7 +14,7 @@ GitHub credentials belong in Git Credential Manager, never in repository files o
 
 ## Packaging
 
-`python scripts/install.py --dest '<new-package-directory>'` produces eight portable packages.
+`python scripts/install.py --dest '<new-package-directory>'` produces eleven portable packages.
 Use `--update` with the intended destination/skill to update an existing installation;
 the installer creates a hash-verified backup and preserves style/memory.
 Packaging tests verify file and retrieval behavior, not live Adobe production.

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Web Ui Design"
+  short_description: "Translate studio direction into web ui design"
+  default_prompt: "Use $web-ui-design to translate the approved studio direction into deliverables."
+policy:
+  allow_implicit_invocation: true

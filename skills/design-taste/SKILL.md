@@ -15,14 +15,8 @@ Follow the [private project-record contract](references/project-record.md) and [
 5. Integrate discipline critique and a separate cross-discipline coherence review. Resolve proposals in PROCESS.md and propagate accepted changes.
 6. For production, select operation routes that are verified and present in the live inventory; record outputs and evidence in EXPORTS.md. An unverified route may be planned, not promised. Preserve editable masters and distinguish rendered previews from native files and human acceptance.
 
-## Graphic art direction (retained until discipline migration)
-Turn a brief into reasoned visual decisions. Identify intended meaning, medium, references and existing choices without repeating answered questions.
-Read the [cover workflow](../../workflows/cover-editorial.md) for personal covers.
-Retrieve only relevant atlas records through the [shared guide](references/shared-design.md).
-Present historical sources, observable principles and contemporary proposals separately.
-Do not automatically assign a movement label to a person's identity; explain why a proposal fits this task.
-Preserve the chosen visual direction in DESIGN.md. Use the appropriate Designer skill for actual Adobe production.
-This skill provides no application connection. Use Art & Design Atlas for learning and Design Critic for existing-work critique.
+## Graphic direction handoff
+Use graphic-design for the migrated graphic guidance, covers, identity, posters and editorial translation. It retains the original workflows and evidence limits. The brain continues to own DESIGN.md and the decisions; disciplines do not become independent art directors. Use Art & Design Atlas for learning and Design Critic for review. This skill provides no application connection.
 
 ## Operational and evidence boundaries
 Use the [identity workflow](../../workflows/identity.md) for identity systems and the [original example](../../examples/learning-guide-cover/README.md) for project-owned cover learning. Freeze exact copy, languages/scripts, dimensions, required uses, assets/fonts and approver. Preserve distinct concepts/rejections, optical refinement and actual full/reduced flat views. Label provisional choice versus actual human acceptance; never infer private preferences or profile memory from a pilot.
