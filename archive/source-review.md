@@ -45,7 +45,7 @@ Private captures and licensed-source copies remain outside the repository. Publi
 | MOT-011 | [React Postprocessing](https://github.com/pmndrs/react-postprocessing) | React Postprocessing composes effects such as bloom, depth of field and noise in React Three Fiber. Apply effects after hierarchy and focus are established; inspect clipping, legibility and GPU cost. | MIT public source; a single still cannot validate an effect chain in playback. |
 | MOT-012 | [Openverse API](https://api.openverse.org/v1/) | Openverse documentation exposes media metadata including creators, source URLs and license fields. Keep an attribution manifest for each selected sound and verify its original source. | API root alone is not a useful audio test; no audio was downloaded and aggregate free-asset counts were not adopted. |
 | MOT-013 | [Scenario Blender plugin](https://github.com/scenario-labs/blender-plugin) | Scenario Blender plugin documents local MCP integration and account-dependent generation. Keep scene editing, generation costs and arbitrary Python permissions separate. | The original shortlink now resolves to this repository; GPL source is not proof of a live Blender connection. |
-| MOT-014 | [Anatomy](https://skills.wheresryan.sh/anatomy) | Anatomy maps a concept to an interactive isometric machine whose motion explains its behavior. Choose a legible object metaphor with a consistent explanatory model. | The original anatomy shortlink resolves here; Claude-oriented instructions require host-specific review, not assumed Codex execution. |
+| MOT-014 | [Anatomy](https://skills.wheresryan.sh/anatomy) | Anatomy maps a concept to an interactive isometric machine whose motion explains its behavior. Choose a legible object metaphor with a consistent explanatory model. | Current upstream README explicitly declares Codex support; installation and execution remain unverified. |
 
 ## Acquisition boundaries
 
@@ -53,5 +53,20 @@ Private captures and licensed-source copies remain outside the repository. Publi
 - AudioCN code is MIT, but its Warcraft sound recording is explicitly excluded. Code-only acquisition excludes media.
 - Arc and BoardUI free public repositories are MIT; their Pro collections are separate. Tailgrids website terms likewise differ from its public MIT repository. HeroUI public source at the inspected revision is Apache-2.0.
 - GSAP uses its standard no-charge license; Remotion uses a custom eligibility-based license. Do not relabel either as MIT. Motion AI Kit and the Remotion skill repository had no repository-wide license returned by the inspected license endpoint; no license is inferred.
-- The initial X article returned a successful URL response, but its article text was not verified. Adobe Skills is explicitly deferred by the user. See the input coverage ledger.
+- The original X article body was subsequently read in a bounded source recheck; its model-performance claims were not adopted and media/prompts were not copied. Adobe Skills README/license were inspected read-only; operational integration remains explicitly deferred. See the input coverage ledger.
 - Source text reads and viewport screenshots do not measure exact CSS tokens, animation timings, accessibility, native editability or performance. A relevant job must execute and inspect those properties before promoting a recipe or route.
+
+
+## Original-input recheck and resource-directory handoff
+
+A second bounded pass reconciled all 41 original source URLs: 39 unique archive sources (40 cards because Theatre.js appears in two disciplines), the original X article and Adobe Skills. Existing shortlink resolutions were retained. The separate resource site now has an author-written, searchable source directory with source-category and acquisition-route filters, exact first-party evidence links, at most two candidate item links per source and links to the eight existing component packs. This is a source scan, not a full import of the catalogs or new execution evidence.
+
+Important terms findings:
+
+- [60fps terms](https://60fps.design/terms) prohibit standalone reference-library use and substantial/bulk rehosting. Keep links only.
+- [Motionin terms](https://www.motionin.design/terms) prohibit gallery scraping, prompt/spec sharing including privately and seeding a competing collection. Only its source/terms links are retained.
+- [Backgrounds Supply license](https://www.backgrounds.supply/license-agreement) excludes downloadable asset libraries and template inclusion; [freebies](https://www.backgrounds.supply/freebies) describe personal-use limits.
+- [Transitions terms](https://transitions.dev/terms.html) distinguish permitted use in a project from redistribution as a competing snippet library; tooling MIT does not clear the transition collection.
+- [Reelfolio terms](https://reelfolio.io/terms) restrict copying templates/code and disclose public storage URLs. [Modulify terms](https://modulify.ai/legal/terms) do not make untouched catalog templates exportable simply because a clone action exists.
+
+No new media, source-code packs, paid items, accounts, extensions or skills were acquired during this pass. No Adobe/Photoshop connection or installation occurred. The Openverse check returned one public audio metadata result with attribution/license/source fields; no sound was downloaded or played. The resource site's existing 14 shareable packs and ten private references are unchanged. Newly discovered item links are candidates only. Feral UI retrieval was blocked in this recheck; prior captured evidence is retained without calling the current fetch successful. Other JS-heavy pages provide only limited text evidence. Firecrawl was unavailable due to exhausted account credits; direct official HTTPS and web-reader retrieval were used instead.

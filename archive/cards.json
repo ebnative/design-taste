@@ -85,21 +85,22 @@
     "source": {
       "url": "https://60fps.design/",
       "creator": null,
-      "terms_url": null,
+      "terms_url": "https://60fps.design/terms",
       "license": "unknown; inspect exact item terms"
     },
     "evidence_status": "visually-inspected",
     "families": [],
     "last_checked": "2026-10-20",
-    "notes": "Viewport inspection did not verify playback or authorize copying clips.",
+    "notes": "Terms prohibit use of its content in a standalone reference library, substantial rehosting and bulk copying. Retain outbound links only; no new media/snippet intake for this library.",
     "review": {
       "checked_on": "2026-10-20",
       "method": "source-text-and-viewport",
       "observed": "Interaction references are organized by application, gesture, pattern and effect.",
       "proposed_application": "Describe trigger, transition, end state and interruption behavior from the original example.",
-      "limits": "Viewport inspection did not verify playback or authorize copying clips.",
+      "limits": "Terms prohibit use of its content in a standalone reference library, substantial rehosting and bulk copying. Retain outbound links only; no new media/snippet intake for this library.",
       "evidence_urls": [
-        "https://60fps.design/"
+        "https://60fps.design/",
+        "https://60fps.design/terms"
       ],
       "record": "archive/source-review.md"
     },
@@ -661,20 +662,22 @@
       "url": "https://transitions.dev/",
       "creator": null,
       "terms_url": "https://transitions.dev/terms.html",
-      "license": "unknown; inspect exact item terms"
+      "license": "Custom transition-use license; tooling MIT has separate scope"
     },
     "evidence_status": "visually-inspected",
     "families": [],
     "last_checked": "2026-10-20",
-    "notes": "Use accessible snippets under their terms; do not repackage the transition collection or install agents automatically.",
+    "notes": "Transition examples have custom reuse restrictions: do not repackage them into a competing snippet collection. MIT tooling has a different scope from the transition library.",
     "review": {
       "checked_on": "2026-10-20",
       "method": "source-text-and-viewport",
       "observed": "Transitions documents focused UI state changes with CSS/React snippets, plus separate agent tooling.",
       "proposed_application": "Map entry, exit and feedback to an explicit state model with reduced-motion behavior.",
-      "limits": "Use accessible snippets under their terms; do not repackage the transition collection or install agents automatically.",
+      "limits": "Transition examples have custom reuse restrictions: do not repackage them into a competing snippet collection. MIT tooling has a different scope from the transition library.",
       "evidence_urls": [
-        "https://transitions.dev/"
+        "https://transitions.dev/",
+        "https://transitions.dev/terms.html",
+        "https://github.com/Jakubantalik/transitions.dev/blob/main/LICENSE"
       ],
       "record": "archive/source-review.md"
     },
@@ -723,15 +726,16 @@
     "evidence_status": "visually-inspected",
     "families": [],
     "last_checked": "2026-10-20",
-    "notes": "Dashboard cloning may need an account; no login, clone, code export or purchase was performed.",
+    "notes": "Platform scraping is restricted. Catalog clone actions do not establish export or redistribution permission; no account operation was performed.",
     "review": {
       "checked_on": "2026-10-20",
       "method": "source-text-and-viewport",
       "observed": "Modulify presents categorized website templates with preview and dashboard-clone actions.",
       "proposed_application": "Compare complete page structures; a template clone is different from an exported source project.",
-      "limits": "Dashboard cloning may need an account; no login, clone, code export or purchase was performed.",
+      "limits": "Platform scraping is restricted. Catalog clone actions do not establish export or redistribution permission; no account operation was performed.",
       "evidence_urls": [
-        "https://modulify.ai/templates"
+        "https://modulify.ai/templates",
+        "https://modulify.ai/legal/terms"
       ],
       "record": "archive/source-review.md"
     },
@@ -780,15 +784,16 @@
     "evidence_status": "visually-inspected",
     "families": [],
     "last_checked": "2026-10-20",
-    "notes": "No paid backgrounds were downloaded; commercial use permission does not permit standalone library redistribution.",
+    "notes": "Free previews are personal-use-only; the asset license excludes asset libraries, downloadable collections and template inclusion. Do not package these backgrounds in this resource site.",
     "review": {
       "checked_on": "2026-10-20",
       "method": "source-text-and-viewport",
       "observed": "Backgrounds Supply offers backgrounds, previews and a separate asset license.",
       "proposed_application": "Treat background choice as a support for legibility and message hierarchy.",
-      "limits": "No paid backgrounds were downloaded; commercial use permission does not permit standalone library redistribution.",
+      "limits": "Free previews are personal-use-only; the asset license excludes asset libraries, downloadable collections and template inclusion. Do not package these backgrounds in this resource site.",
       "evidence_urls": [
-        "https://www.backgrounds.supply/"
+        "https://www.backgrounds.supply/",
+        "https://www.backgrounds.supply/license-agreement"
       ],
       "record": "archive/source-review.md"
     },
@@ -1010,15 +1015,16 @@
     "evidence_status": "visually-inspected",
     "families": [],
     "last_checked": "2026-10-20",
-    "notes": "Cloud upload/account use was not attempted; a rendered reel is not an editable AE project.",
+    "notes": "Terms prohibit copying templates/code and scraping. Upload/render URLs may be public; no upload or render was attempted.",
     "review": {
       "checked_on": "2026-10-20",
       "method": "source-text-and-viewport",
       "observed": "Reelfolio turns uploaded screenshots/recordings into template-based showreel exports.",
       "proposed_application": "Prepare a shot order and holds appropriate to the original portfolio content.",
-      "limits": "Cloud upload/account use was not attempted; a rendered reel is not an editable AE project.",
+      "limits": "Terms prohibit copying templates/code and scraping. Upload/render URLs may be public; no upload or render was attempted.",
       "evidence_urls": [
-        "https://reelfolio.io/"
+        "https://reelfolio.io/",
+        "https://reelfolio.io/terms"
       ],
       "record": "archive/source-review.md"
     },
@@ -2276,15 +2282,17 @@
     "evidence_status": "visually-inspected",
     "families": [],
     "last_checked": "2026-10-20",
-    "notes": "The original anatomy shortlink resolves here; Claude-oriented instructions require host-specific review, not assumed Codex execution.",
+    "notes": "Current upstream README explicitly declares Codex support. This is a source claim, not an installed skill or verified Codex execution.",
     "review": {
       "checked_on": "2026-10-20",
       "method": "source-text-and-viewport",
       "observed": "Anatomy maps a concept to an interactive isometric machine whose motion explains its behavior.",
       "proposed_application": "Choose a legible object metaphor with a consistent explanatory model.",
-      "limits": "The original anatomy shortlink resolves here; Claude-oriented instructions require host-specific review, not assumed Codex execution.",
+      "limits": "Current upstream README explicitly declares Codex support. This is a source claim, not an installed skill or verified Codex execution.",
       "evidence_urls": [
-        "https://skills.wheresryan.sh/anatomy"
+        "https://skills.wheresryan.sh/anatomy",
+        "https://raw.githubusercontent.com/wheresryan22/anatomy/1482e8469b0a9e0d8cc18ea2740a01423d29ae80/README.md",
+        "https://raw.githubusercontent.com/wheresryan22/anatomy/1482e8469b0a9e0d8cc18ea2740a01423d29ae80/LICENSE"
       ],
       "record": "archive/source-review.md"
     },
