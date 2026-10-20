@@ -8,7 +8,17 @@
       "WEB-001"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected ; bounded public page/terms inspection.",
+      "acquisition_route": "reference",
+      "evidence_urls": [
+        "https://landdding.com/",
+        "https://landdding.com/terms"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -19,7 +29,17 @@
       "WEB-002"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "link-only-restricted ; bounded public page/terms inspection.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://60fps.design/",
+        "https://60fps.design/terms"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -30,7 +50,16 @@
       "WEB-003"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected ; bounded public page/terms inspection.",
+      "acquisition_route": "reference",
+      "evidence_urls": [
+        "https://aperios-design.co.uk/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -42,7 +71,17 @@
       "WEB-004"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://tailgrids.com/",
+        "https://tailgrids.com/license"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -54,7 +93,17 @@
       "WEB-005"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://heroui.com/",
+        "https://github.com/heroui-inc/heroui/blob/v3/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -67,7 +116,17 @@
       "WEB-006"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://uiarc.dev/",
+        "https://uiarc.dev/license"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -79,7 +138,16 @@
       "WEB-007"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://bencho.dev/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -91,7 +159,18 @@
       "WEB-008"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://opensourceui.in/",
+        "https://opensourceui.in/terms",
+        "https://github.com/bidyut10/opensourceui/blob/main/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -103,7 +182,17 @@
       "WEB-009"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://boardui.com/",
+        "https://boardui.com/license"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -115,7 +204,16 @@
       "WEB-010"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://reverseui.com/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -126,7 +224,17 @@
       "WEB-011"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS 200; terms page only.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://www.motionin.design/",
+        "https://www.motionin.design/terms"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -138,7 +246,18 @@
       "WEB-012"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://transitions.dev/",
+        "https://transitions.dev/terms.html",
+        "https://github.com/Jakubantalik/transitions.dev/blob/main/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -149,7 +268,17 @@
       "WEB-013"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "link-only-account-route ; bounded public page/terms inspection.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://modulify.ai/templates",
+        "https://modulify.ai/legal/terms"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -160,7 +289,17 @@
       "GD-001"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "link-only-restricted ; bounded public page/terms inspection.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://www.backgrounds.supply/",
+        "https://www.backgrounds.supply/license-agreement"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -171,7 +310,16 @@
       "GD-002"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected-limited ; bounded public page/terms inspection.",
+      "acquisition_route": "reference",
+      "evidence_urls": [
+        "https://onepromptdesign.com/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -183,7 +331,17 @@
       "WEB-014"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://pele.run/",
+        "https://github.com/obsidianmd/pele/blob/main/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -195,7 +353,18 @@
       "MOT-007"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 3 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://www.theatrejs.com/",
+        "https://raw.githubusercontent.com/theatre-js/theatre/6ea82b938ea49609489f6377ded693ccc6ee8f5b/README.md",
+        "https://raw.githubusercontent.com/theatre-js/theatre/6ea82b938ea49609489f6377ded693ccc6ee8f5b/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -206,7 +375,17 @@
       "MOT-001"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "link-only-restricted ; bounded public page/terms inspection.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://reelfolio.io/",
+        "https://reelfolio.io/terms"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -217,7 +396,16 @@
       "WEB-016"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "retrieval-blocked ; bounded public page/terms inspection.",
+      "acquisition_route": "reference",
+      "evidence_urls": [
+        "https://feralui.dev/gradients"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -228,7 +416,16 @@
       "WEB-017"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected-limited ; bounded public page/terms inspection.",
+      "acquisition_route": "reference",
+      "evidence_urls": [
+        "https://www.inspora.design/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -240,7 +437,16 @@
       "WEB-018"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected-limited ; bounded public page/terms inspection.",
+      "acquisition_route": "reference",
+      "evidence_urls": [
+        "https://recent.design/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -252,7 +458,16 @@
       "WEB-019"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS 200; bounded top-level HTML inspection.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://squints.app/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -264,7 +479,16 @@
       "WEB-020"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS 200; bounded top-level HTML inspection.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://squig.sh/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -276,7 +500,16 @@
       "WEB-021"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS 200; bounded top-level HTML inspection.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://encyclopedia.iconography.co/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -288,7 +521,17 @@
       "WEB-022"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://audiocn.dev/",
+        "https://github.com/audiocn/ui/blob/main/license.md"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -300,7 +543,17 @@
       "WEB-023"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://mdxcn.dev/",
+        "https://github.com/shadcn-labs/mdxcn/blob/main/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -312,7 +565,17 @@
       "WEB-024"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "Live official HTTPS page returned 200; source inspection only.",
+      "acquisition_route": "code-pack",
+      "evidence_urls": [
+        "https://gauge-ui.dev/",
+        "https://github.com/thordursk/gauge-ui/blob/main/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -323,7 +586,18 @@
       "MOT-002"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://github.com/remotion-dev/remotion",
+        "https://raw.githubusercontent.com/remotion-dev/remotion/5085ac68e89e51482142b51f564464019a20cc11/README.md",
+        "https://raw.githubusercontent.com/remotion-dev/remotion/5085ac68e89e51482142b51f564464019a20cc11/LICENSE.md"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -334,7 +608,18 @@
       "MOT-003"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://github.com/remotion-dev/skills",
+        "https://raw.githubusercontent.com/remotion-dev/skills/039e8a2fc78b67efc228d5645367838b85818a1c/README.md",
+        "https://api.github.com/repos/remotion-dev/skills/contents"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -346,7 +631,18 @@
       "MOT-004"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://github.com/LottieFiles/motion-design-skill",
+        "https://raw.githubusercontent.com/LottieFiles/motion-design-skill/f9a8a041b85185ee4881b3471d3415e939aac772/README.md",
+        "https://raw.githubusercontent.com/LottieFiles/motion-design-skill/f9a8a041b85185ee4881b3471d3415e939aac772/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -358,7 +654,18 @@
       "MOT-005"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://github.com/motiondivision/ai-kit",
+        "https://raw.githubusercontent.com/motiondivision/ai-kit/8dc4f7a375f7f5cc32df1aa679b5d19c463651b4/README.md",
+        "https://api.github.com/repos/motiondivision/ai-kit/contents"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -370,7 +677,18 @@
       "MOT-006"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://github.com/greensock/GSAP",
+        "https://raw.githubusercontent.com/greensock/GSAP/13e2b790546426a1a2e0e9b409f3f8dc6d6611f2/README.md",
+        "https://gsap.com/community/standard-license/"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -382,7 +700,18 @@
       "MOT-008"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 3 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://hairline.lucasmarkes.com/skills",
+        "https://raw.githubusercontent.com/lucasmarkes/hairline/37d2e78dcb333ab30c3338e28ed4a690364ea014/README.md",
+        "https://raw.githubusercontent.com/lucasmarkes/hairline/37d2e78dcb333ab30c3338e28ed4a690364ea014/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -394,7 +723,18 @@
       "MOT-009"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://github.com/annnguyentt/anatomy-reveal-skill",
+        "https://raw.githubusercontent.com/annnguyentt/anatomy-reveal-skill/dd01e1c04559d79002da07862e26f8a5c2a07644/README.md",
+        "https://raw.githubusercontent.com/annnguyentt/anatomy-reveal-skill/dd01e1c04559d79002da07862e26f8a5c2a07644/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -406,7 +746,19 @@
       "MOT-010"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 3 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://github.com/pmndrs/react-three-rapier",
+        "https://raw.githubusercontent.com/pmndrs/react-three-rapier/ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98/readme.md",
+        "https://raw.githubusercontent.com/pmndrs/react-three-rapier/ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98/LICENSE",
+        "https://raw.githubusercontent.com/pmndrs/react-three-rapier/ae5c3fede5ca489fd7eaa8271e9d9c5eabc88e98/packages/react-three-rapier/readme.md"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -418,7 +770,18 @@
       "MOT-011"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://github.com/pmndrs/react-postprocessing",
+        "https://raw.githubusercontent.com/pmndrs/react-postprocessing/2e0ef1ba36c637a5b49b44926241590ce81a3e0f/README.md",
+        "https://raw.githubusercontent.com/pmndrs/react-postprocessing/2e0ef1ba36c637a5b49b44926241590ce81a3e0f/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -430,7 +793,18 @@
       "MOT-012"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "metadata-operation-inspected; 3 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://api.openverse.org/v1/",
+        "https://docs.openverse.org/api/reference/",
+        "https://api.openverse.org/v1/audio/?q=rain&page_size=1"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -442,7 +816,18 @@
       "MOT-013"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 2 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://github.com/scenario-labs/blender-plugin",
+        "https://raw.githubusercontent.com/scenario-labs/blender-plugin/d2a03dedd2e541c123487b24a91d01621f262f8f/README.md",
+        "https://raw.githubusercontent.com/scenario-labs/blender-plugin/d2a03dedd2e541c123487b24a91d01621f262f8f/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -454,7 +839,18 @@
       "MOT-014"
     ],
     "status": "inspected",
-    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20."
+    "notes": "Bounded source inspection; not an exhaustive import of the source catalog. Original shortened link resolved on 2026-10-20.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected; 3 first-party evidence retrievals.",
+      "acquisition_route": "tool",
+      "evidence_urls": [
+        "https://skills.wheresryan.sh/anatomy",
+        "https://raw.githubusercontent.com/wheresryan22/anatomy/1482e8469b0a9e0d8cc18ea2740a01423d29ae80/README.md",
+        "https://raw.githubusercontent.com/wheresryan22/anatomy/1482e8469b0a9e0d8cc18ea2740a01423d29ae80/LICENSE"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -462,8 +858,17 @@
     ],
     "canonical_url": "https://x.com/0xwhrrari/article/2105643919119696297",
     "card_ids": [],
-    "status": "article-text-unverified",
-    "notes": "HTTP URL response succeeded; that does not establish article content."
+    "status": "article-text-inspected",
+    "notes": "Article body was read in a bounded public source inspection; no media/prompt mirroring or adoption of model-performance claims.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "article-text-inspected; 1 first-party evidence retrievals.",
+      "acquisition_route": "restricted",
+      "evidence_urls": [
+        "https://x.com/0xwhrrari/article/2105643919119696297"
+      ]
+    }
   },
   {
     "input_urls": [
@@ -472,6 +877,17 @@
     "canonical_url": "https://github.com/adobe/skills",
     "card_ids": [],
     "status": "deferred-by-user",
-    "notes": "Adobe connection and adaptation deferred on 2026-10-20; no installation or OAuth."
+    "notes": "README and license inspected read-only. Connection, adaptation, OAuth and app operations remain deferred by user.",
+    "latest_scan": {
+      "checked_on": "2026-10-20",
+      "scope": "bounded-source-and-terms-recheck",
+      "retrieval": "source-inspected-operationally-deferred; 2 first-party evidence retrievals.",
+      "acquisition_route": "deferred",
+      "evidence_urls": [
+        "https://github.com/adobe/skills",
+        "https://raw.githubusercontent.com/adobe/skills/b6c81fb5ab355c6153c9abaff13c7f6a422007ed/README.md",
+        "https://raw.githubusercontent.com/adobe/skills/b6c81fb5ab355c6153c9abaff13c7f6a422007ed/LICENSE"
+      ]
+    }
   }
 ]
