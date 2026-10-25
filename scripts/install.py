@@ -25,6 +25,10 @@ def build(name, destination):
     for directory in SHARED:
         shutil.copytree(ROOT / directory, destination / 'bundle' / directory,
                         ignore=shutil.ignore_patterns('__pycache__', '*.pyc'))
+    tools = destination / 'bundle/tools'
+    tools.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(ROOT / 'scripts/build_graphic_archive.py', tools / 'build_graphic_archive.py')
+    shutil.copytree(ROOT / 'scripts/graphic_library', tools / 'graphic_library')
     for name_ref in STUDIO_REFS:
         target = destination / 'bundle/studio' / name_ref
         target.parent.mkdir(parents=True, exist_ok=True)

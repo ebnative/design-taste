@@ -4,7 +4,7 @@ description: "Translate shared studio direction into identities, covers, posters
 ---
 
 # Graphic Design
-v0 discipline; job-verified recipes remain pending.
+v0 discipline with source-inspected reference recipes; execution and visual acceptance remain per job.
 
 ## Reads
 Read the private BRIEF.md, DESIGN.md, relevant BRAND.md, MOTION.md direction tokens and PROCESS.md. Follow the [project-record contract](../design-taste/references/project-record.md) and [translation table](../design-taste/references/translation-table.md). Only the brain edits direction. Append a Proposed change in PROCESS.md when translation requires a direction change; wait for its resolution. Retrieve only relevant atlas records through the [shared guide](references/shared-design.md).
@@ -44,4 +44,6 @@ Check copy/glyphs, hierarchy, optical spacing, color consistency, composition, s
 Request vector.logo, layout.layered-psd or image.resize by operation ID through adapters/routes.json. The brain selects a route with executed evidence and current live availability. An absent or unverified route is a planning limit, never a promise of execution. Preserve the Windows adapters and the Photoshop block.
 
 ## Archive use
-Search relevant inspiration cards for internal reasoning and cite card IDs and sources. Third-party references are not client proposals. Show clients only original showroom cards with evidence_status=executed-verified and explicit Ebru presentable approval. Use selected FAM-### cards as the starting direction only after the brain records the choice. Propose additions with honest evidence status and rights; keep media in the private root. No verified recipes are claimed by this v0 skeleton.
+Use the [graphic reference production workflow](../../workflows/graphic-reference-production.md) for selected styles. Retrieve a study by card ID, inspect its actual image/frame, translate the brain's direction into an editable trial and retain comparative revisions. Do not mix a montage's unrelated styles. Read the recipe's material and comparison conditions before production; video posters cannot verify motion, and vector approximations cannot verify photo quality. Preserve separate source, trial, critique and user-acceptance evidence.
+
+Search relevant inspiration cards for internal reasoning and cite card IDs and sources. Third-party references are not client proposals. Show clients only original showroom cards with evidence_status=executed-verified and explicit Ebru presentable approval. Use selected FAM-### cards as the starting direction only after the brain records the choice. Propose additions with honest evidence status and rights; keep media in the private root. Authored reference recipes are not job-verified recipes.

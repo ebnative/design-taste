@@ -12,6 +12,8 @@ Distinguish historical/cultural claims through sources. Do not claim editability
 The relevant Illustrator/Photoshop/other skill performs production checks; this skill is not a live application connection.
 
 ## Calibrated operations
+For selected-reference jobs use the [paired graphic comparison workflow](../../workflows/graphic-reference-production.md). Read the actual source and trial at comparable artwork scale; record per-criterion better/comparable/weaker/unverified findings and the highest-impact next correction. Reinspect actual revised exports before changing a verdict. Distinguish flat artwork from mockup polish, material quality from composition, and a demonstrated plateau from completion. Human acceptance is never inferred from a model comparison.
+
 For each finding name artifact/version, exact inspected view/size/region, observation, relevant criterion, likely effect, severity, correction, comparison/recheck and uncertainty. Separate demonstrated failure, risk, interpretation and preference. Inspect flat final/smallest-required views; do not infer readability from nominal type size or editability from filenames. Verify copy, glyphs, optical spacing, leading, contrast and actual font substitutions. Unfamiliar scripts or restricted cultural symbols need appropriate qualified review, not a universal European-modernist ranking.
 
 Compare [actual original paired artwork](../../examples/learning-guide-cover/CRITIQUE.md) under the same brief. Record changed variables; multiple-variable controls are not causal proof. Require actual revised sources/exports and same-condition rechecks before claiming improvement. Never fabricate reader testing, expert endorsement, human acceptance or assessed learner outcomes.

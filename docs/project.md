@@ -14,6 +14,8 @@ The original expression brief develops meaning, metaphor, composition, color and
 
 ## Current scope
 
+The graphic reference extension adds ten post-level studies across nine project groups to the inspiration layer: 50 cards in total, including 12 graphic cards. The authored recipes and iterative production workflow are documented separately from executed private trials, historical atlas coverage and human acceptance. The dependency-free private graphic catalog builder consumes existing captures; it does not fetch content or operate a design application.
+
 30 records (27 imported seeds plus three practical records), 62 sources, seven passage-level pilot reviews, 12 competency-based modules, English lexical search and eleven skills: brain, three v0 disciplines, atlas, critic and five production skills. Web UI and Motion are source-informed v0 disciplines; Graphic Design remains a v0 migration. No job-verified design recipe is claimed. Python's standard library is sufficient.
 Existing Windows application adapters and methods are preserved. Photoshop live verification is blocked by explicit user decision, with no terminal or script substitution. Other application guides are not current connection proof.
 Six authorized developments cover source review, original cover artifacts, identity operations, calibrated critique, retrieval and curriculum. Native/human cover acceptance, a real identity pilot and learner outcomes are not established. Independent final review is separate from software verification.

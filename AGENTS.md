@@ -10,6 +10,8 @@ Do not claim complete art coverage; maintain atlas/coverage.json and the researc
 For new records and search changes, run `python scripts/check.py`.
 Keep repository prose, instructions, examples, metadata and CLI output in English. Preserve original proper names and source URLs.
 
+When the user selects an archive style for a graphic, read workflows/graphic-reference-production.md, the matching archive/graphic-studies.json entry and actual private reference media. Produce authorized editable trials, compare actual source/local views and retain revisions; a three-revision checkpoint is not automatic completion. Keep criterion-level model judgments, demonstrated plateaus and explicit human acceptance separate. Authored recipes and reference acquisition do not establish executed production.
+
 ## Project standard 1.0.0
 
 This repository applies the user-approved project standard; docs/project-standard.json records its source.
