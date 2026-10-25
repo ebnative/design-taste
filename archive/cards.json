@@ -2305,5 +2305,808 @@
       "capture_scope": "viewport-only",
       "private_media_ref": "inspiration/2026-10-20/screenshots/MOT-014.jpg"
     }
+  },
+  {
+    "id": "GD-003",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Drapz - multi-brand identity systems",
+    "category": "Graphic reference / identity / brand-system / metallic",
+    "intended_use": "Use one motif to connect the portfolio cover, section divider and project title cards.",
+    "client_face": {
+      "summary": "A rotating portfolio of distinct identities, not a single dark-metal style. Inspected frames include Monolith, Momentum, Involve, Quovo and Lumora; each keeps its own mark, palette and material language.",
+      "mood": [
+        "identity",
+        "brand-system",
+        "metallic",
+        "gradient"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "canvas": "1080 × 1350 px study",
+        "grid": "6 columns; 64 px outer margins",
+        "material": "one dominant material plus one restrained accent"
+      },
+      "patterns": [
+        "A rotating portfolio of distinct identities, not a single dark-metal style. Inspected frames include Monolith, Momentum, Involve, Quovo and Lumora; each keeps its own mark, palette and material language.",
+        "Repeated six-panel presentation structure alternates a hero visual, identity details, posters, diagrams and contextual mockups. Large image blocks establish the mood while small applications show system range.",
+        "One mark or short headline anchors each panel; supporting information stays compact. Presentation polish also comes from coordinated panel boundaries and deliberate variation in scale.",
+        "Compact sans-serif systems dominate several frames; Lumora also uses editorial serif headlines. Exact families and optical settings are not established.",
+        "Monolith uses dark blue/cyan light, Momentum silver-blue, Involve black/silver/violet, Quovo orange/pale blue, and Lumora orange/pink/blue grain. These are observed color roles, not sampled tokens.",
+        "Specular ribbons, metallic coils, grainy gradients and repeated vector marks are different subdirections. A chrome finish cannot be replaced by arbitrary blur without losing its controlled highlight structure.",
+        "Downloaded 4.5-second montage; nine evenly sampled frames retained. Frame cuts present different identities. This does not establish the original creation software or the motion of each showcased application.",
+        "The transferable principle is one identity grammar carried across large image, type, mark and applications. Do not combine all showcased palettes into one brief."
+      ],
+      "motion_params": {},
+      "do": [
+        "Choose one named subdirection before production: light ribbon, chrome/violet, or warm grain. Record the choice and source frame.",
+        "Draw three original symbolic/metaphorical candidates from the project story; test one-color legibility before adding material.",
+        "Construct a new hero motif. For a ribbon, define silhouette, light direction, highlight rolloff and dark countershape separately. For grain, vary density without damaging small text.",
+        "Build a poster, hero composition and three informational cards using the same motif and scale rules. Keep source brand names out of the output.",
+        "Present flat pieces before placing them in optional mockups; compare consistency across the set rather than judging the mockup lighting."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/drapzdesigns/status/2112846370822402384",
+      "creator": "Drapz",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Only the montage and bounded flat frames were inspected; native brand systems and individual application interactions are unavailable.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "Repeated six-panel presentation structure alternates a hero visual, identity details, posters, diagrams and contextual mockups. Large image blocks establish the mood while small applications show system range.",
+      "proposed_application": "Use one motif to connect the portfolio cover, section divider and project title cards.",
+      "limits": "Only the montage and bounded flat frames were inspected; native brand systems and individual application interactions are unavailable.",
+      "evidence_urls": [
+        "https://x.com/drapzdesigns/status/2112846370822402384"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/drapzdesigns/status/2112846370822402384",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-003.jpg"
+    }
+  },
+  {
+    "id": "GD-004",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Physalia - blue line-screen identity",
+    "category": "Graphic reference / identity / duotone / line-screen",
+    "intended_use": "Apply a stroke-screen treatment to an owned project image and combine it with a quiet title panel.",
+    "client_face": {
+      "summary": "An AI infrastructure identity pairs biological imagery with a technical grid. The same project is explained in GD-010; these two posts are not independent identities.",
+      "mood": [
+        "identity",
+        "duotone",
+        "line-screen",
+        "halftone"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "blue": "#2342F5",
+        "paper": "#F6F5F1",
+        "ink": "#151526",
+        "screen": "45-degree line study; test 3/5/8 px pitch"
+      },
+      "patterns": [
+        "An AI infrastructure identity pairs biological imagery with a technical grid. The same project is explained in GD-010; these two posts are not independent identities.",
+        "One portrait panel lets a large cropped organism fill the blue field. Another divides a white editorial heading area from a pale gray diagram field. A third uses horizontally repeated cards.",
+        "A large serif message is followed by compact sans-serif explanation; tiny technical labels form a third level. Large white areas make this hierarchy calm despite the detailed texture.",
+        "High-contrast editorial serif headlines contrast with neutral sans-serif body text and small diagnostic labels. Exact font identities are unknown.",
+        "Electric blue carries identity, white provides open space, pale gray supports diagrams and deep navy supplies an inverse surface. Values in recipes are proposals.",
+        "Parallel diagonal strokes produce a tonal image. Tiny units merge at distance into an organic subject; this is more specific than adding generic noise.",
+        "The supplied post contains three still images. No motion timing is established by them.",
+        "Grid mark, stroke-screen image, orbital line field and cards use related repetition while taking different roles."
+      ],
+      "motion_params": {},
+      "do": [
+        "Choose a project-specific collective/system metaphor; sketch a different topology from the Physalia mark.",
+        "Prepare an owned photograph or authored organic silhouette with clear light/dark masses. Separate tonal preparation from the line-screen rendering.",
+        "Test diagonal stroke spacing and weight in three values. At reduced size preserve the overall silhouette rather than a sea of identical marks.",
+        "Create an editorial title panel, one image panel and a simple explanatory diagram using common blue/white roles.",
+        "Keep the body text and important labels outside the densest stroke zones; export full and reduced views to check moire and lost hairlines."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/keilethh/status/2111948447754735794",
+      "creator": "Keileth",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Three downloaded rendered stills inspected; source fonts, CSS, native construction and rights remain unknown.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "One portrait panel lets a large cropped organism fill the blue field. Another divides a white editorial heading area from a pale gray diagram field. A third uses horizontally repeated cards.",
+      "proposed_application": "Apply a stroke-screen treatment to an owned project image and combine it with a quiet title panel.",
+      "limits": "Three downloaded rendered stills inspected; source fonts, CSS, native construction and rights remain unknown.",
+      "evidence_urls": [
+        "https://x.com/keilethh/status/2111948447754735794"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/keilethh/status/2111948447754735794",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-004.jpg"
+    }
+  },
+  {
+    "id": "GD-005",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "stacked - ASCII shark interface atmosphere",
+    "category": "Graphic reference / ascii / character-grid / motion",
+    "intended_use": "Use an original character-field divider or small interactive study instead of an always-moving whole-page background.",
+    "client_face": {
+      "summary": "Recognizable marine silhouettes built from characters surround a quiet central prompt. The text interface and animated imagery have different attention roles.",
+      "mood": [
+        "ascii",
+        "character-grid",
+        "motion",
+        "dark"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "canvas": "1440 × 900 px initial browser study",
+        "quiet_zone": "central 50% width reserved for copy",
+        "motion": "authored 18–28 s path proposal; not source timing"
+      },
+      "patterns": [
+        "Recognizable marine silhouettes built from characters surround a quiet central prompt. The text interface and animated imagery have different attention roles.",
+        "The center is kept comparatively empty. Sharks enter the margins and pass through the larger dark field; a fine grid reinforces the computational character.",
+        "A short thin white heading and a low-contrast input box occupy the center. Character density and large peripheral silhouettes provide a secondary layer.",
+        "The character imagery uses a monospace-like grid; the UI headline is a light sans-serif. These must not be flattened into one illegible texture.",
+        "Near-black ground, gray-to-cream character values and restrained contrast. Exact values are not measured.",
+        "Tone is represented by character choice and density rather than a conventional filled silhouette. Character aspect ratio influences the apparent proportions.",
+        "Different browser frames showed changed shark positions during playback. The streamed video download failed; no offline movie, measured easing, loop seam or performance result is claimed.",
+        "Transfer the character-field method to a meaningful project subject; keep interaction and accessible text in a separate semantic layer."
+      ],
+      "motion_params": {},
+      "do": [
+        "Draw an original silhouette relevant to the project; choose a small character ramp from light to dense.",
+        "Build a static grid study first. Correct cell aspect ratio and sample luminance so the subject remains recognizable.",
+        "Mask out a quiet center zone for the actual heading/action. Keep pointer events on the interface and decorative visuals separate.",
+        "Animate paths only after the static study works. Proposed prototype: slow paths around the perimeter, a pause control and reduced-motion static fallback.",
+        "Inspect entry, crossing, exit and loop states; compare the smallest viewport and test whether the input remains readable and usable."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/stackedlol/status/2112296933939355686",
+      "creator": "stacked",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Video poster and bounded browser playback frames inspected. Offline video unavailable; source code, full sequence, accessibility and performance untested.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "The center is kept comparatively empty. Sharks enter the margins and pass through the larger dark field; a fine grid reinforces the computational character.",
+      "proposed_application": "Use an original character-field divider or small interactive study instead of an always-moving whole-page background.",
+      "limits": "Video poster and bounded browser playback frames inspected. Offline video unavailable; source code, full sequence, accessibility and performance untested.",
+      "evidence_urls": [
+        "https://x.com/stackedlol/status/2112296933939355686"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/stackedlol/status/2112296933939355686",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-005.jpg"
+    }
+  },
+  {
+    "id": "GD-006",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Steve Lauda - tactile poster canvas",
+    "category": "Graphic reference / poster / collage / paper",
+    "intended_use": "Make a process/exploration cover from an owned work image, retaining a clean alternate.",
+    "client_face": {
+      "summary": "A design application canvas shows a family of tactile poster experiments. The surrounding app is context; the graphics themselves use paper damage, photography and seals.",
+      "mood": [
+        "poster",
+        "collage",
+        "paper",
+        "torn-edge"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "paper": "#EDE9E1",
+        "ink": "#252525",
+        "wear": "start with one fold and three edge breaks",
+        "canvas": "1080 × 1350 px portrait study"
+      },
+      "patterns": [
+        "A design application canvas shows a family of tactile poster experiments. The surrounding app is context; the graphics themselves use paper damage, photography and seals.",
+        "Portrait sheets form a loose board. Inside the posters, cropped figures, large headline fragments, diagonal folds and torn edges interrupt otherwise strict rectangular geometry.",
+        "Bold words sit over grayscale imagery; compact credits and seals supply tertiary details. Some text is intentionally interrupted, which requires a clear primary message elsewhere.",
+        "Large condensed or tightly set sans-serif headlines, smaller neutral information and occasional handwritten accents appear. Native font names are unverified.",
+        "Mostly black, gray and warm off-white; one wax-seal sheet introduces muted orange, red, blue and green. The damage treatment is structural rather than a color preset.",
+        "Torn paper edges, creases, lifted corners, rough ink and seals create depth cues. A crease needs highlight on one side and shadow on the other, not a random line overlay.",
+        "The supplied asset is one screenshot. It proves no app editing behavior, export capability or live simulation.",
+        "Photographic content, type, edge mask, crease shading, print wear and cast shadow should remain separable layers."
+      ],
+      "motion_params": {},
+      "do": [
+        "Start with an owned grayscale photograph and an exact headline. Establish the clean poster before distressing it.",
+        "Create an original irregular edge mask, with small high-frequency fibers and a few larger breaks; avoid uniform sawtooth borders.",
+        "Add one dominant fold that reacts to the image and type. Pair the highlight/shadow and keep direction consistent with the lifted edge.",
+        "Add restrained wear to ink and paper separately. Leave key message areas readable; use one seal only if it communicates a real purpose.",
+        "Compare clean and tactile versions side by side. Remove effects that hide the message without adding material credibility."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/stevelauda_/status/2112292792907309277",
+      "creator": "Steve Lauda",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "One downloaded screenshot inspected, including the poster board. No application name, native source access or operation is established.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "Portrait sheets form a loose board. Inside the posters, cropped figures, large headline fragments, diagonal folds and torn edges interrupt otherwise strict rectangular geometry.",
+      "proposed_application": "Make a process/exploration cover from an owned work image, retaining a clean alternate.",
+      "limits": "One downloaded screenshot inspected, including the poster board. No application name, native source access or operation is established.",
+      "evidence_urls": [
+        "https://x.com/stevelauda_/status/2112292792907309277"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/stevelauda_/status/2112292792907309277",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-006.jpg"
+    }
+  },
+  {
+    "id": "GD-007",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "ICONIC - monumental botanical campaign",
+    "category": "Graphic reference / photography / botanical / campaign",
+    "intended_use": "Use owned photographic work as the dominant cover subject; keep project title in a narrow secondary zone.",
+    "client_face": {
+      "summary": "The author describes the 2027 PHS Philadelphia Flower Show campaign as monumental flowers. Scale and high-detail photography make that idea visible.",
+      "mood": [
+        "photography",
+        "botanical",
+        "campaign",
+        "crop"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "canvas": "1080 × 1350 px concept study",
+        "strip": "10–14% of width; authored starting range",
+        "image": "dominant subject; compare three crops"
+      },
+      "patterns": [
+        "The author describes the 2027 PHS Philadelphia Flower Show campaign as monumental flowers. Scale and high-detail photography make that idea visible.",
+        "An isolated tulip crosses a narrow vertical information strip on a blue field. Other stills pair a large flower with restrained palette labels and show three stages of a bloom.",
+        "The flower is the first read. A strong title/date strip and small supporting information occupy a deliberately narrow area rather than competing with the subject.",
+        "A heavy ICONIC title contrasts with slimmer display/date forms and small information text. Exact production settings are not inferred.",
+        "Flower colors are supported by cyan, pale yellow-green and darker blue gradients; the palette proof contains many small sampled-looking dots, but their numerical values were not transcribed.",
+        "Photographic petal detail, translucent leaves and natural stem curves supply the richness. A generic vector flower would be a different medium and must be labeled as such.",
+        "Three source stills downloaded and inspected. The first carousel item is video; no full offline copy or complete motion analysis is claimed.",
+        "Subject selection, crop, information strip and backgrounds vary within one campaign grammar."
+      ],
+      "motion_params": {},
+      "do": [
+        "Select an owned high-resolution flower or object photograph with clean edge detail. Record its provenance and retain the original.",
+        "Prepare three radically different crops: subject beyond top edge, diagonal stem across information, and a detail crop. Preserve believable translucency.",
+        "Derive a limited supporting palette from the actual image and design a new information strip. Do not copy the source title or campaign identity.",
+        "Place the subject in front of selected strip areas using a reversible mask while keeping date/title readable.",
+        "Build a three-piece series, inspect full/reduced views and check the final physical output requirements before print conversion."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/mikesmith187/status/2112544525751144913",
+      "creator": "Mike Smith; photography credited to Bre Furlong",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Three downloaded stills and the post text inspected; photography license, print files and complete video are not available.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "An isolated tulip crosses a narrow vertical information strip on a blue field. Other stills pair a large flower with restrained palette labels and show three stages of a bloom.",
+      "proposed_application": "Use owned photographic work as the dominant cover subject; keep project title in a narrow secondary zone.",
+      "limits": "Three downloaded stills and the post text inspected; photography license, print files and complete video are not available.",
+      "evidence_urls": [
+        "https://x.com/mikesmith187/status/2112544525751144913"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/mikesmith187/status/2112544525751144913",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-007.jpg"
+    }
+  },
+  {
+    "id": "GD-008",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Dance Victoria - photo, dot and type system",
+    "category": "Graphic reference / identity / dance / dot-grid",
+    "intended_use": "Use owned making/process photos and a custom dot motif to connect cover and case-study dividers.",
+    "client_face": {
+      "summary": "A performance identity combines dancers, a dot-based graphic field and concise typography. The post attributes the rebrand to Becoming.",
+      "mood": [
+        "identity",
+        "dance",
+        "dot-grid",
+        "photography"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "dot_pitch": "test 6/10/14 px at 1080 px width",
+        "palette": "one dark, one light, one warm, one cool",
+        "grid": "shared 6-column rhythm"
+      },
+      "patterns": [
+        "A performance identity combines dancers, a dot-based graphic field and concise typography. The post attributes the rebrand to Becoming.",
+        "A presentation board shows a poster, a large dancer crop, palette swatches, mark applications and vertical mobile-like layouts. Each piece has a bounded role rather than the same layout repeated.",
+        "Short stacked messages and large movement photography form the first two levels. Dates and institution labels are subordinate.",
+        "Neutral sans-serif headlines contrast weight and line breaks; source font and exact sizes are unknown.",
+        "Warm coral, ochre, clay-like neutrals and cool blue-green/dark fields appear together. Image-derived warm/cool relationships connect the photography with the flat palette.",
+        "Small repeated dots create silhouettes or large numerals, while photographs preserve physical body movement. Texture is meaningfully tied to the subject.",
+        "The streamed board was observed in multiple browser states. Its poster is retained; stream download failed. A changing board is not evidence of every advertised animated application.",
+        "The same palette and modular dot vocabulary connect posters, mobile layouts and identity applications."
+      ],
+      "motion_params": {},
+      "do": [
+        "Choose owned movement photographs or authored motion silhouettes; define the event/message and avoid borrowing the institution mark.",
+        "Derive a small palette from the selected photos and assign foreground/background/accent roles before layouts.",
+        "Create a custom dot field whose density follows a meaningful silhouette or number. Test two dot pitches at reduced size.",
+        "Design a poster, vertical announcement and website title composition with varied crop/scale but common type and palette.",
+        "If motion is required, author a storyboard in which dots reveal or disperse in relation to the subject. Render and inspect the actual sequence before recording timing quality."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/rebrandgallery/status/2112559666966184028",
+      "creator": "Becoming; shared by Rebrand",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Video poster and bounded browser states inspected. Full sequence, original brand guidelines and exact type/assets remain unverified.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "A presentation board shows a poster, a large dancer crop, palette swatches, mark applications and vertical mobile-like layouts. Each piece has a bounded role rather than the same layout repeated.",
+      "proposed_application": "Use owned making/process photos and a custom dot motif to connect cover and case-study dividers.",
+      "limits": "Video poster and bounded browser states inspected. Full sequence, original brand guidelines and exact type/assets remain unverified.",
+      "evidence_urls": [
+        "https://x.com/rebrandgallery/status/2112559666966184028"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/rebrandgallery/status/2112559666966184028",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-008.jpg"
+    }
+  },
+  {
+    "id": "GD-009",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Replay - postage-stamp editorial collage",
+    "category": "Graphic reference / stamp / paper / duotone",
+    "intended_use": "Make a numbered project-cover series using one stamp frame and project-specific symbols.",
+    "client_face": {
+      "summary": "A contemporary digital product is presented through physical correspondence: stamps, paper fragments and document-like details.",
+      "mood": [
+        "stamp",
+        "paper",
+        "duotone",
+        "collage"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "canvas": "1080 × 1350 px study",
+        "stamp": "3:4 interior; 24 px safe inset at 600 px width",
+        "rotation": "authored ±4 degrees maximum initial study"
+      },
+      "patterns": [
+        "A contemporary digital product is presented through physical correspondence: stamps, paper fragments and document-like details.",
+        "One frame isolates a blue stamp; the retained poster shows three overlapping stamps amid sparse cropped documents. Rotation and overlap supply depth without filling the entire canvas.",
+        "The blue stamp and its large abstract motif are focal. Small issue labels, serif name and document scraps support the correspondence theme.",
+        "Editorial serif lettering within the stamp is contrasted with small administrative text and a compact issue label.",
+        "Blue duotone and cream paper dominate, with black/gray variants. Tiny document fragments add restrained secondary color.",
+        "Perforated edges, fine printed texture, cast shadows and gentle rotation make a digital composition read as a handled printed object.",
+        "The montage changed between an isolated stamp and a collage during browser playback. The stream download failed; no loop timing or complete source video is retained.",
+        "The container can support several original symbols, issue numbers or project chapters without importing the source logo."
+      ],
+      "motion_params": {},
+      "do": [
+        "Choose a project chapter or story and an original abstract symbol; write a new issue label and caption.",
+        "Construct a vector stamp edge with consistent perforation radius/pitch and clean corners. Keep a larger inner safe area.",
+        "Create the motif in two tones, then add mild print texture with adjustable strength; preserve the clean vector master.",
+        "Design a single-stamp composition first, then a three-stamp overlap with consistent shadow direction and limited rotation.",
+        "Use authored placeholder document fragments with no private data. If animated, test an intentional opening/hold/closing sequence with reduced-motion alternate."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/mightbe_dg/status/2112551917545205793",
+      "creator": "Dhruv Gupta with Pixelup Labs",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Retained poster and multiple browser states; no offline full video, font license or source composition files.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "One frame isolates a blue stamp; the retained poster shows three overlapping stamps amid sparse cropped documents. Rotation and overlap supply depth without filling the entire canvas.",
+      "proposed_application": "Make a numbered project-cover series using one stamp frame and project-specific symbols.",
+      "limits": "Retained poster and multiple browser states; no offline full video, font license or source composition files.",
+      "evidence_urls": [
+        "https://x.com/mightbe_dg/status/2112551917545205793"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/mightbe_dg/status/2112551917545205793",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-009.jpg"
+    }
+  },
+  {
+    "id": "GD-010",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Physalia - concept-to-system explanation",
+    "category": "Graphic reference / concept / metaphor / network",
+    "intended_use": "Explain the personal design process using a truthful metaphor and a corresponding image system.",
+    "client_face": {
+      "summary": "The designer explains a colony metaphor for distributed agents. This is the author's account of the design reasoning, not independent proof of product architecture or biology.",
+      "mood": [
+        "concept",
+        "metaphor",
+        "network",
+        "identity"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "topology": "new project-specific structure",
+        "diagram": "solid = selected, dashed = available; authored convention",
+        "copy": "one headline, one explanatory paragraph"
+      },
+      "patterns": [
+        "The designer explains a colony metaphor for distributed agents. This is the author's account of the design reasoning, not independent proof of product architecture or biology.",
+        "A compact multi-application board places the grid mark between organic screened imagery, an orbital field and technical labels. Another image gives a diagram a generous white field and an editorial explanation.",
+        "A large serif explanation anchors the diagram while tiny labels annotate path nodes. Graphic complexity is contained in the top/right area to preserve text space.",
+        "Serif narrative and compact diagnostic labels express human explanation alongside technical structure.",
+        "Blue marks active nodes and labels against pale fields; deep navy appears as an inverse card. Color indicates roles as well as mood.",
+        "Repeated small units act at several scales: mark grid, image strokes and line diagrams. The formal relationship reinforces the concept.",
+        "These are still images. Dashed and solid routes show a proposed/illustrated state distinction, not observed animated rerouting.",
+        "The key lesson is meaning → formal unit → image treatment → diagram → application, with all stages explainable."
+      ],
+      "motion_params": {},
+      "do": [
+        "Write one truthful sentence about the project and one metaphor that explains it. Reject metaphors that contradict the real product.",
+        "List three visual consequences of that metaphor: a repeat unit, a relationship rule and an image treatment.",
+        "Sketch a new symbol and a simple real process diagram. Do not copy the source grid mark or imply unsupported distributed behavior.",
+        "Design a cover, explanation panel and small process card using the same formal unit.",
+        "Compare the set without verbal explanation first, then test whether the written rationale matches what the graphics actually communicate."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/keilethh/status/2112648921877037222",
+      "creator": "Keileth",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Two downloaded stills and author explanation inspected. Related to GD-004; count as the same project. Biology/product claims are attributed, not independently verified.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "A compact multi-application board places the grid mark between organic screened imagery, an orbital field and technical labels. Another image gives a diagram a generous white field and an editorial explanation.",
+      "proposed_application": "Explain the personal design process using a truthful metaphor and a corresponding image system.",
+      "limits": "Two downloaded stills and author explanation inspected. Related to GD-004; count as the same project. Biology/product claims are attributed, not independently verified.",
+      "evidence_urls": [
+        "https://x.com/keilethh/status/2112648921877037222"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/keilethh/status/2112648921877037222",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-010.jpg"
+    }
+  },
+  {
+    "id": "GD-011",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Alex Socoloff - conceptual poster sequence",
+    "category": "Graphic reference / poster / concept / typography",
+    "intended_use": "Use an original concept-led poster as a cover for one project, with the real project title.",
+    "client_face": {
+      "summary": "The sequence contains multiple poster ideas, not just an abstract gradient. Inspected states include botanical collage, an ornate color field, an abstract ribbon and repeated dark origami with one red form.",
+      "mood": [
+        "poster",
+        "concept",
+        "typography",
+        "gradient"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "canvas": "1080 × 1350 px study",
+        "black": "#111111",
+        "type": "one thin/heavy contrast; verify local glyphs"
+      },
+      "patterns": [
+        "The sequence contains multiple poster ideas, not just an abstract gradient. Inspected states include botanical collage, an ornate color field, an abstract ribbon and repeated dark origami with one red form.",
+        "The posters use a strong large visual mass on black, offset text blocks and substantial negative space. In the botanical example, rectangular image fragments and horizontal words cut across the organic subject.",
+        "Short contrasting words act as image partners. Some states pair thin and heavy typography; one colored subject establishes emphasis in the origami field.",
+        "Large expressive display lettering, a restrained Latin sans-serif hierarchy and non-Latin characters occur. Meaning and glyph correctness require qualified review before adaptation.",
+        "The sequence changes palettes by concept: warm botanical red/cream, multi-color ornament, pastel luminous ribbon, and black/red origami. Treat these as alternatives.",
+        "Different states depend on different source quality: botanical print texture, intricate ornament, luminous fine strands and folded-paper light/shadow.",
+        "Multiple poster states observed during playback, plus retained poster. Stream download failed. Do not infer the software from the caption or recreate culturally specific imagery without context.",
+        "Transfer the relationship between concept, dominant image and typographic emphasis; select one poster mode per trial."
+      ],
+      "motion_params": {},
+      "do": [
+        "Select one concept mode and write the intended message in the actual output language. Avoid decorative unknown-script text.",
+        "Draw three value thumbnails before selecting imagery. Preserve a quiet text zone and a dominant visual gesture.",
+        "Create or clear the needed artwork. For a ribbon study, build a distinct silhouette and light progression; for botanical collage, use an owned source image.",
+        "Integrate type with the visual mass through alignment, overlap and scale. Retain at least one high-contrast reading path.",
+        "Compare the reference mode and the flat trial at equal height, then reduced size. Inspect material detail and optical spacing separately from image spectacle."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/socoloffalex/status/2112822842538463249",
+      "creator": "Alex Socoloff",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "Poster plus bounded states inspected; full offline sequence unavailable. Unknown scripts and ornamental origins are not interpreted as verified cultural meanings.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "The posters use a strong large visual mass on black, offset text blocks and substantial negative space. In the botanical example, rectangular image fragments and horizontal words cut across the organic subject.",
+      "proposed_application": "Use an original concept-led poster as a cover for one project, with the real project title.",
+      "limits": "Poster plus bounded states inspected; full offline sequence unavailable. Unknown scripts and ornamental origins are not interpreted as verified cultural meanings.",
+      "evidence_urls": [
+        "https://x.com/socoloffalex/status/2112822842538463249"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/socoloffalex/status/2112822842538463249",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-011.jpg"
+    }
+  },
+  {
+    "id": "GD-012",
+    "discipline": "graphic",
+    "layer": "inspiration",
+    "title": "Posterlad - contour and organic poster grammars",
+    "category": "Graphic reference / poster / contour / op-art",
+    "intended_use": "Create an original geometric cover and matching project divider set.",
+    "client_face": {
+      "summary": "A four-poster board demonstrates several distinct grammars: nested metallic contours, layered colorful letterforms, large soft WOW letterforms, and balanced abstract spots.",
+      "mood": [
+        "poster",
+        "contour",
+        "op-art",
+        "organic"
+      ],
+      "preview_ref": null
+    },
+    "agent_face": {
+      "tokens": {
+        "provenance": "Authored starting proposals; see archive/graphic-studies.json",
+        "canvas": "1080 × 1350 px study",
+        "paper": "#F1EDE4",
+        "palette": "ink + 2 or 3 accent colors",
+        "contours": "test 12/18/24 px pitch; authored starting range"
+      },
+      "patterns": [
+        "A four-poster board demonstrates several distinct grammars: nested metallic contours, layered colorful letterforms, large soft WOW letterforms, and balanced abstract spots.",
+        "Each portrait field is mostly occupied by a small number of large masses. Contour work maintains a continuous maze-like path; the spots balance three or four irregular shapes with small counterweights.",
+        "The form or word is the first read. Tiny footer credits remain subordinate. A small exclamation mark becomes a deliberate counterweight in the WOW piece.",
+        "Some large forms are the headline itself; other pieces use abstract shapes and small neutral supporting type. Font identification is not established.",
+        "One piece uses gold-like lines on near-black; others use paper, saturated blue/orange/yellow/green, pink and black. Choose one grammar and one palette per study.",
+        "The contour piece depends on even spacing and controlled light-dark variation. The flat-color pieces depend on clean edges, precise curves and shape tension, not added texture.",
+        "The source is a single static four-up image. No animation is established.",
+        "Several examples share confidence in scale, controlled negative space and a disciplined repeat/shape rule, without being one interchangeable preset."
+      ],
+      "motion_params": {},
+      "do": [
+        "Choose contour, organic lettering or abstract spots before drawing; do not merge all four examples.",
+        "Draw an original broad path or three custom masses on a portrait grid. Establish the silhouette in monochrome.",
+        "For contours, generate nested offsets and correct tight turns manually so spacing survives. For organic lettering, preserve counters and a clear word read.",
+        "Choose a limited new palette, then tune edge distance and counterweights at thumbnail size. Avoid copying the source word/form silhouette.",
+        "Produce three distinct concepts, select the strongest provisional direction and refine it through retained comparison rounds. Export clean editable vectors and actual reduced views."
+      ],
+      "dont": [
+        "Do not reuse the source logo, distinctive artwork, copy or uncleared photography.",
+        "Do not turn estimated colors, font classes or proposed effect recipes into source facts.",
+        "Do not claim equal quality, executed motion, native editability or human acceptance from metadata."
+      ],
+      "translation_rows": []
+    },
+    "source": {
+      "url": "https://x.com/posterlad/status/2112895041425584263",
+      "creator": "Posterlad",
+      "terms_url": null,
+      "license": "unknown; private reference study only"
+    },
+    "evidence_status": "visually-inspected",
+    "families": [],
+    "last_checked": "2026-10-21",
+    "notes": "One downloaded four-up image inspected. Exact outlines, font identities, printing process and source files are unknown.",
+    "review": {
+      "checked_on": "2026-10-21",
+      "method": "source-text-and-viewport",
+      "observed": "Each portrait field is mostly occupied by a small number of large masses. Contour work maintains a continuous maze-like path; the spots balance three or four irregular shapes with small counterweights.",
+      "proposed_application": "Create an original geometric cover and matching project divider set.",
+      "limits": "One downloaded four-up image inspected. Exact outlines, font identities, printing process and source files are unknown.",
+      "evidence_urls": [
+        "https://x.com/posterlad/status/2112895041425584263"
+      ],
+      "record": "archive/graphic-studies.json"
+    },
+    "acquisition": {
+      "kind": "graphic-reference-study",
+      "catalog_url": "https://x.com/posterlad/status/2112895041425584263",
+      "code_url": null,
+      "code_action": "reference-only",
+      "code_revision": null,
+      "capture_scope": "viewport-only",
+      "private_media_ref": "graphic-archive/captures/GD-012.jpg"
+    }
   }
 ]

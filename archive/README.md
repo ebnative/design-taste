@@ -1,5 +1,7 @@
 # Design archives
 
+For the graphic reference collection, read graphic-studies.json and the [reference production workflow](../workflows/graphic-reference-production.md). Ten source-post studies link to GD-003 through GD-012; GD-004/GD-010 are the same project. Recipes are authored hypotheses with explicit material requirements and paired comparison criteria. Existing reference statuses and historical atlas coverage are not promoted by these additions. Private galleries, media, editable trials and comparisons stay outside this repository.
+
 cards.json is the canonical discipline-card catalog; families.json links coherent graphic/web/motion cards. These records are separate from historical atlas/knowledge records. No third-party media is bundled. The original candidates from decision 0002 now have a bounded source/viewport review, documented in source-review.md. One resolved original Anatomy source was added. None is an executed production recipe or approved client direction.
 
 Inspiration is internal reference material. Its client_face is metadata for future presentation tooling, not permission to show third-party examples as a client proposal. Clients see only original showroom work with executed-verified evidence and explicit presentable approval by Ebru. Families may omit a motion card until one exists; they must never invent one.

@@ -78,4 +78,9 @@ Original personal names and source URLs retain their spelling; external sources 
 
 ## Private reference archive
 
+The graphic library adds ten supplied-post studies (nine project groups), bringing the reference catalog to 50 cards: 24 web, 14 motion and 12 graphic. [Graphic studies](archive/graphic-studies.json) separate observed composition/type/color/material from authored production recipes, project adaptations, starting-token provenance and comparison criteria. Source media stays private. These are not ten executed recipes or approved showroom designs.
+
+Use the [reference production workflow](workflows/graphic-reference-production.md) when selecting a style. It carries an actual editable trial through same-condition comparison and retained revisions; aesthetic comparability, demonstrated plateaus and human acceptance remain distinct. Generate the private preview library with `python scripts/build_graphic_archive.py --dest '<private-graphic-directory>' --captures '<capture-directory>' --media-manifest '<media-json>'`. The offline interface provides combined search/style/use filters, local saves, per-study analysis/recipe downloads and an agent handoff prompt; selecting a style does not itself call a generation service. Production trials and their comparison pages remain private job artifacts.
+
+
 [Source review](archive/source-review.md) and [acquisition workflow](workflows/reference-acquisition.md) explain the reviewed sources, original-input coverage, license scopes and private visual/code collection. The offline catalog generator accepts an explicit private root and existing captures; it never fetches or executes upstream code. Photoshop and Adobe connection work is [deferred by user decision](docs/decisions/0004-defer-adobe-and-photoshop.md).

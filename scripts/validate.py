@@ -7,6 +7,7 @@ import sys
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from scripts.studio_contracts import validate_archive, validate_routes
+from scripts.build_graphic_archive import validate as validate_graphic_studies
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -96,6 +97,13 @@ def validate(root=ROOT):
                     errors.append('Broken link in ' + path.relative_to(root).as_posix() + ': ' + target)
     errors += validate_archive(root)
     errors += validate_routes(root)
+    study_path = root / 'archive/graphic-studies.json'
+    if study_path.is_file():
+        try:
+            validate_graphic_studies(json.loads(study_path.read_text(encoding='utf-8'))['studies'],
+                                     json.loads((root / 'archive/cards.json').read_text(encoding='utf-8')))
+        except (ValueError, KeyError, TypeError) as error:
+            errors.append('Invalid graphic study catalog: ' + str(error))
     return errors
 
 if __name__ == '__main__':

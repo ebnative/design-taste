@@ -16,6 +16,8 @@ Follow the [private project-record contract](references/project-record.md) and [
 6. For production, select operation routes that are verified and present in the live inventory; record outputs and evidence in EXPORTS.md. An unverified route may be planned, not promised. Preserve editable masters and distinguish rendered previews from native files and human acceptance.
 
 ## Graphic direction handoff
+When a user selects a visual reference or says “use this style”, follow the [graphic reference production workflow](../../workflows/graphic-reference-production.md). Read the selected archive/graphic-studies.json entry and actual private media, resolve the exact subdirection, and carry out authorized editable trials, paired critique and revisions. A three-revision checkpoint is not a completion gate. Preserve the best result and disclose a demonstrated plateau or unavailable route; do not promise aesthetic parity or treat model judgment as user acceptance.
+
 Use graphic-design for the migrated graphic guidance, covers, identity, posters and editorial translation. It retains the original workflows and evidence limits. The brain continues to own DESIGN.md and the decisions; disciplines do not become independent art directors. Use Art & Design Atlas for learning and Design Critic for review. This skill provides no application connection.
 
 ## Operational and evidence boundaries
